@@ -1,0 +1,17 @@
+2025-03-26 13:28:30,649 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-26 13:28:31,844 - INFO - HTTP Request: POST https://api.telegram.org/bot7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg/getMe "HTTP/1.1 200 OK"
+2025-03-26 13:28:32,147 - INFO - HTTP Request: POST https://api.telegram.org/bot7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-26 13:28:32,153 - INFO - Added job "cleanup_inactive_users" to job store "default"
+2025-03-26 13:28:32,153 - INFO - Scheduler started
+2025-03-26 13:28:32,153 - INFO - Application started
+2025-03-26 13:28:43,042 - INFO - HTTP Request: POST https://api.telegram.org/bot7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg/getUpdates "HTTP/1.1 200 OK"
+2025-03-26 13:28:53,065 - INFO - HTTP Request: POST https://api.telegram.org/bot7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg/getUpdates "HTTP/1.1 200 OK"
+2025-03-26 13:28:54,160 - INFO - HTTP Request: POST https://api.telegram.org/bot7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg/sendMessage "HTTP/1.1 200 OK"
+2025-03-26 13:29:00,660 - INFO - Running job "cleanup_inactive_users (trigger: interval[0:00:30], next run at: 2025-03-26 07:59:30 UTC)" (scheduled at 2025-03-26 07:59:00.649520+00:00)
+2025-03-26 13:29:00,660 - INFO - Job "cleanup_inactive_users (trigger: interval[0:00:30], next run at: 2025-03-26 07:59:30 UTC)" executed successfully
+2025-03-26 13:29:02,023 - INFO - HTTP Request: POST https://api.telegram.org/bot7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg/getUpdates "HTTP/1.1 200 OK"
+2025-03-26 13:29:02,023 - INFO - Application is stopping. This might take a moment.
+2025-03-26 13:29:02,023 - INFO - Scheduler has been shut down
+2025-03-26 13:29:02,023 - INFO - Application.stop() complete
+2025-03-26 13:29:02,121 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<poll_worker() running at D:\revisely\bot.py:775> wait_for=<Future pending cb=[Task.task_wakeup()]>>

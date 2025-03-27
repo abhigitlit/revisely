@@ -1,0 +1,563 @@
+[
+  {
+    "question": "Which Indian institute developed a self-actuating drug delivery system for rheumatoid arthritis treatment?",
+    "options": [
+      "AIIMS Delhi",
+      "INST Mohali",
+      "IIT Bombay",
+      "CSIR-CCMB",
+      "IIM Ahmedabad"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Who is the lead researcher heading the 40-day global expedition in the Ross Sea, a marine protected zone in Antarctica, to assess marine biodiversity, study environmental DNA, and analyze the region's impact on global ocean currents and climate change?",
+    "options": [
+      "Madhavan Rajeevan",
+      "M. Ravichandran",
+      "Sherine Sonia Cubelio",
+      "Anil Bhardwaj",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which institution launched India's first Cancer Genome Atlas (BCGA) for early breast cancer detection?",
+    "options": [
+      "AIIMS Delhi",
+      "Tata Memorial Hospital",
+      "NIMHANS",
+      "IIT Madras",
+      "None of the above"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which team did Uttar Pradesh Men's Kabaddi Team defeat 57-43 to win the gold medal?",
+    "options": [
+      "Haryana",
+      "Chandigarh",
+      "Maharashtra",
+      "Punjab",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which team won the inaugural World Pickleball League (WPL) championship, defeating Pune United 3-1 in the final?",
+    "options": [
+      "Bengaluru Jawans",
+      "Pune United",
+      "Mumbai Mavericks",
+      "Delhi Warriors",
+      "None of the above"
+    ],
+    "answer": "Bengaluru Jawans"
+  },
+  {
+    "question": "Which architect was recognized as the Best Architect for Luxury Project at the Global Architect Builder Awards 2025?",
+    "options": [
+      "Dishna Thilanka",
+      "Arun Kumar",
+      "Hiten Patel",
+      "Vivek Singh Rao",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which country topped the Global Digital Well-Being Index with the highest score in online safety and parental support?",
+    "options": [
+      "United States",
+      "India",
+      "Australia",
+      "United Kingdom",
+      "Japan"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which organization released the redefined and augmented Research Verticals & Thrust Areas to enhance research focus in defense technology?",
+    "options": [
+      "Council of Scientific and Industrial Research (CSIR)",
+      "Defence Research and Development Organisation (DRDO)",
+      "National Aeronautics and Space Administration (NASA)",
+      "Indian Space Research Organisation (ISRO)",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which veteran British actor, known for his role as George Roper in Man About the House and George & Mildred, passed away at the age of 92?",
+    "options": [
+      "John Cleese",
+      "Brian Murphy",
+      "David Jason",
+      "Ronnie Barker",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is the name of the recently launched scheme designed to enhance agricultural productivity, promote crop diversification, and strengthen post-harvest storage at panchayat and block levels?",
+    "options": [
+      "PM Kisan Samman Nidhi Yojana",
+      "PM Krishi Vikas Yojana",
+      "PM Fasal Bima Yojana",
+      "PM Dhan Dhanya Krishi Yojana",
+      "PM SVANIDHI"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which region has been projected by the WHO to witness an 85% increase in cancer cases and deaths by 2050?",
+    "options": [
+      "Africa",
+      "Europe",
+      "North America",
+      "South-East Asia",
+      "None of the above"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Where will India open a new Consulate during PM Modi's visit to France in February 2025?",
+    "options": [
+      "Nice",
+      "Marseille",
+      "Lyon",
+      "Toulouse",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which university's researchers discovered the new phytopathogenic fungus Epicoccum indicum, associated with an emerging leaf spot disease in Chrysopogon zizanioides (vetiver)?",
+    "options": [
+      "Punjab University",
+      "Banaras Hindu University",
+      "Jawaharlal Nehru University",
+      "University of Hyderabad",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which payment system remains the major driver of digital payments in India as per the recent report February 2025?",
+    "options": [
+      "IMPS",
+      "NEFT",
+      "UPI",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": "UPI"
+  },
+  {
+    "question": "Who from Rajasthan has been shortlisted for the USD 1 million GEMS Education Global Teacher Prize 2025?",
+    "options": [
+      "Mohammad Imran Khan Mewati",
+      "Dr. Ramesh Kumar",
+      "Shalini Gupta",
+      "Rajesh Kumar",
+      "None of the above"
+    ],
+    "answer": "Mohammad Imran Khan Mewati"
+  },
+  {
+    "question": "Who won the Tata Steel Masters Chess Tournament 2025 by defeating D Gukesh in the tiebreaker?",
+    "options": [
+      "Vincent Keymer",
+      "R Praggnanandhaa",
+      "Arjun Erigaisi",
+      "Wei Yi",
+      "Magnus Carlsen"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Who became the first Black woman to win the Mrs World title in the competition's 40-year history?",
+    "options": [
+      "Tshego Gaelae",
+      "Relebogile Mabotja",
+      "Zozibini Tunzi",
+      "Shudu Musida",
+      "Rabia Fateh"
+    ],
+    "answer": "Tshego Gaelae"
+  },
+  {
+    "question": "By what percentage has India's fruit and vegetable exports increased in the last five years, as per the Ministry of Commerce and Industry?",
+    "options": [
+      "35.8%",
+      "50.1%",
+      "47.3%",
+      "41.5%",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which is the world's largest iceberg that is set to strike South Georgia Island?",
+    "options": [
+      "Iceberg B15",
+      "Iceberg A23a",
+      "Iceberg C19",
+      "Iceberg D16",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which state has been allocated ₹23,778 crore for railway projects in the Budget 2025-26?",
+    "options": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Lucknow",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the full form of VSHORAD in the context of DRDO's missile system?",
+    "options": [
+      "Very Small High-Output Radar Air Defence",
+      "Very Short-Range Air Defence",
+      "Variable Spectrum High-Range Air Defence",
+      "Vertical Strike Hypersonic Operational Radar Air Defence",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Recently, Marcus Stoinis has announced his retirement from ODIs, ending a 74-match career. Which country does he hail from?",
+    "options": [
+      "South Africa",
+      "England",
+      "Australia",
+      "New Zealand",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which Indian research institute developed the novel high-entropy alloy (HEA) catalyst for green hydrogen production?",
+    "options": [
+      "Indian Institute of Technology (IIT) Madras",
+      "Indian Institute of Science (IISc)",
+      "Bhabha Atomic Research Centre (BARC)",
+      "Centre for Nano and Soft Matter Sciences (CeNS)",
+      "None of the above"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Where in West Asia is the Medlab Middle East 2025 exhibition being held?",
+    "options": [
+      "Riyadh, Saudi Arabia",
+      "Dubai, UAE",
+      "Doha, Qatar",
+      "Khartoum, Sudan",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Who is the Indian-origin artist who won the Grammy Award for Best New Age, Ambient, or Chant Album in 2025?",
+    "options": [
+      "Ricky Kej",
+      "Anoushka Shankar",
+      "Chandrika Tandon",
+      "Radhika Vekaria",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the name of the new radio series launched by Akashvani on Basant Panchami to promote Indian classical music?",
+    "options": [
+      "Swar Bharat",
+      "Raag Sarita",
+      "Sangeet Mala",
+      "Har Kanthh Mein Bharat",
+      "None of the above"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Recently SCO Secretary General holds talks with MEA Secretary, Who is the current Secretary-General of the Shanghai Cooperation Organization (SCO)?",
+    "options": [
+      "Zhang Ming",
+      "Nurlan Yermekbayev",
+      "Sergey Lavrov",
+      "Wang Yi",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Who is organizing WAVES 2025, which will introduce AI solutions for live misinformation detection?",
+    "options": [
+      "NITI Aayog and MeitY",
+      "IT Ministry and ICEA",
+      "RBI and Digital India Corporation",
+      "Ministry of Home Affairs and NIC",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following states has contributed significantly to India's total utility-scale solar installations as per the recent achievement of 100 GW solar power capacity?",
+    "options": [
+      "Rajasthan, Gujarat, Tamil Nadu, Maharashtra, and Madhya Pradesh",
+      "Andhra Pradesh, Telangana, Chhattisgarh, Odisha, and Assam",
+      "Kerala, Karnataka, Punjab, Haryana, and West Bengal",
+      "Bihar, Jharkhand, Uttar Pradesh, Uttarakhand, and Himachal Pradesh",
+      "None of the above"
+    ],
+    "answer": "Rajasthan, Gujarat, Tamil Nadu, Maharashtra, and Madhya Pradesh"
+  },
+  {
+    "question": "Where was the National Institute of Electronics and Information Technology (NIELIT) Centre of Excellence in Chip Design inaugurated which is aimed to bolster India's VLSI & semiconductor capabilities?",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Noida",
+      "Chennai",
+      "Mumbai"
+    ],
+    "answer": "Noida"
+  },
+  {
+    "question": "Which country has decided to end aid programs for Bangladesh, Albania, and Zambia due to a reduced foreign aid budget?",
+    "options": [
+      "Germany",
+      "Switzerland",
+      "France",
+      "Sweden",
+      "Japan"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which South-East Asian country declared a food security emergency to curb soaring rice prices in 2025?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "Indonesia",
+      "Philippines",
+      "None of the above"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What was the theme of World Wetlands Day 2025 celebrated at Parvati Arga Ramsar Site in Gonda, Uttar Pradesh?",
+    "options": [
+      "Wetlands and Water",
+      "Protecting Wetlands for our Common Future",
+      "Wetlands and Biodiversity",
+      "Sustainable Wetlands for a Better Tomorrow",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is the venue for the 9th Asian Winter Games 2025?",
+    "options": [
+      "Seoul, South Korea",
+      "Quezon City, Philippines",
+      "Harbin, China",
+      "New Delhi, India",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Recently government has said 864 km of India-Bangladesh border yet to be fenced in loksabha, Which force is responsible for guarding the India-Bangladesh border?",
+    "options": [
+      "Assam Rifles",
+      "Border Security Force (BSF)",
+      "Indo-Tibetan Border Police (ITBP)",
+      "National Security Guard (NSG)",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "How much did India contribute to the United Nations Regular Budget for the year 2025?",
+    "options": [
+      "$25.34 million",
+      "$37.64 million",
+      "$40.12 million",
+      "$50.91 million",
+      "$66.91 million"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which country became the first in Africa to eliminate onchocerciasis (river blindness) as a public health problem?",
+    "options": [
+      "Niger",
+      "Kenya",
+      "South Africa",
+      "Democratic Republic of Congo",
+      "Eritrea"
+    ],
+    "answer": "Niger"
+  },
+  {
+    "question": "Former world number one and two-time Grand Slam winner Simona Halep announced her retirement from professional tennis in February 2025. Which country does she hail from?",
+    "options": [
+      "Albania",
+      "Croatia",
+      "Romania",
+      "Germany",
+      "None of the above"
+    ],
+    "answer": "Romania"
+  },
+  {
+    "question": "Which project led to the creation of a new map of the Arctic Ocean, revealing an area twice the size of France and six times the size of England?",
+    "options": [
+      "Ocean Discovery 2050",
+      "Seabed 2030",
+      "Arctic Exploration Initiative",
+      "Deep Sea Mapping Project",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which country announced a 25% retaliatory tariff on American imports in response to U.S. trade policies?",
+    "options": [
+      "China",
+      "Canada",
+      "Mexico",
+      "Germany",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Recently, Digi Yatra app user base has crossed 10 million+ with 30,000 daily downloads. The app was launched in which year?",
+    "options": [
+      "2014",
+      "2022",
+      "2021",
+      "2023",
+      "None of the above"
+    ],
+    "answer": "2022"
+  },
+  {
+    "question": "On which date was the PM Internship Scheme launched?",
+    "options": [
+      "September 15, 2024",
+      "October 3, 2024",
+      "November 10, 2024",
+      "January 9, 2025",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which country's mission successfully demonstrated artificial photosynthesis in space?",
+    "options": [
+      "United States - Artemis",
+      "Russia - Soyuz MS",
+      "China - Shenzhou-19",
+      "India - Gaganyaan",
+      "None of the above"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "How much funding has been allocated for the Samudrayaan Mission in the Union Budget?",
+    "options": [
+      "400 crore",
+      "500 crore",
+      "600 crore",
+      "750 crore",
+      "None of the above"
+    ],
+    "answer": "600 crore"
+  },
+  {
+    "question": "Which country will host the BRICS Youth Council Entrepreneurship Working Group Meeting in March 2025?",
+    "options": [
+      "China",
+      "Brazil",
+      "India",
+      "South Africa",
+      "Russia"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "Who has been appointed as the Additional Director General, Directorate General of Foreign Trade (DGFT), as of February 2025?",
+    "options": [
+      "Anant Swarup",
+      "Samar Nanda",
+      "Santosh Kumar Verma",
+      "Abhinav Gupta",
+      "None of the above"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Marcus Stoinis, who recently announced his retirement from ODIs ahead of the Champions Trophy, represents which country in international cricket?",
+    "options": [
+      "England",
+      "Australia",
+      "South Africa",
+      "New Zealand",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Who has been awarded the Sahitya Akademi Award 2024 in Dogri literature?",
+    "options": [
+      "Jitendra Udhampuri",
+      "Chaman Arora",
+      "Veena Gupta",
+      "Sushma Rani",
+      "None of the above"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following groups of sites were newly added as Ramsar sites in India, bringing the total to 89?",
+    "options": [
+      "Sakkarakottai and Therthangal Bird Sanctuaries (Tamil Nadu), Khecheopalri Wetland (Sikkim), and Udhwa Lake (Jharkhand)",
+      "Harike Wetland (Punjab), Chilika Lake (Odisha), and Udhwa Lake (Jharkhand)",
+      "Chilika Lake (Odisha), Loktak Lake (Manipur), and Sambhar Salt Lake (Rajasthan)",
+      "Only Khecheopalri Wetland (Sikkim) and Udhwa Lake (Jharkhand)",
+      "None of the above"
+    ],
+    "answer": "Sakkarakottai and Therthangal Bird Sanctuaries (Tamil Nadu), Khecheopalri Wetland (Sikkim), and Udhwa Lake (Jharkhand)"
+  },
+  {
+    "question": "What is the name of NASA's new space telescope set to launch in February 2025, which aims to survey the entire sky in 102 infrared colors?",
+    "options": [
+      "SPHEREx",
+      "James Webb Space Telescope 2.0",
+      "Hubble Space Telescope 2.0",
+      "Chandra-CRISP X-ray Observatory",
+      "None of the above"
+    ],
+    "answer": "SPHEREx"
+  },
+  {
+    "question": "Which country recently passed strict hate crime laws, imposing a minimum 12-month jail term for public Nazi salutes and up to six years for terror-related hate crimes?",
+    "options": [
+      "Canada",
+      "Australia",
+      "Germany",
+      "United Kingdom",
+      "Japan"
+    ],
+    "answer": "2"
+  }
+]

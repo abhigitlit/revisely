@@ -1,0 +1,352 @@
+[
+    {
+        "question": "Where will the Maha Kumbh Mela 2025 be held?",
+        "options": [
+            "Varanasi, Uttar Pradesh",
+            "Haridwar, Uttarakhand",
+            "Prayagraj, Uttar Pradesh",
+            "Nashik, Maharashtra"
+        ],
+        "answer": "Prayagraj, Uttar Pradesh"
+    },
+    {
+        "question": "What percentage decline in domestic migration was reported in 2023 compared to 2011 levels?",
+        "options": [
+            "5.9%",
+            "11.8%",
+            "15.2%",
+            "8.7%"
+        ],
+        "answer": "11.8%"
+    },
+    {
+        "question": "Who amended the Foreign Trade Policy 2023 to mandate stakeholder consultations?",
+        "options": [
+            "Ministry of Commerce",
+            "RBI",
+            "DGFT",
+            "NITI Aayog"
+        ],
+        "answer": "DGFT"
+    },
+    {
+        "question": "Which corridor was inaugurated by PM Modi to reduce travel time between Delhi and Meerut to 40 minutes?",
+        "options": [
+            "Delhi-Mumbai Expressway",
+            "Namo Bharat RRTS corridor",
+            "Golden Quadrilateral",
+            "North-South Corridor"
+        ],
+        "answer": "Namo Bharat RRTS corridor"
+    },
+    {
+        "question": "Where will Aero India 2025 be held, and what is its theme?",
+        "options": [
+            "Hyderabad; 'Wings of Fire'",
+            "Bengaluru; 'The Runway to a Billion Opportunities'",
+            "Chennai; 'Aviation for All'",
+            "Lucknow; 'Fly High, Fly Safe'"
+        ],
+        "answer": "Bengaluru; \"The Runway to a Billion Opportunities\""
+    },
+    {
+        "question": "What is the name of the CBI's portal launched for real-time INTERPOL coordination?",
+        "options": [
+            "INTERPOL Connect",
+            "CBI Global Link",
+            "BHARATPOL",
+            "Crime Coordination Portal"
+        ],
+        "answer": "BHARATPOL"
+    },
+    {
+        "question": "Which city became the 69th Railway Division in India?",
+        "options": [
+            "Srinagar",
+            "Jammu",
+            "Leh",
+            "Pathankot"
+        ],
+        "answer": "Jammu"
+    },
+    {
+        "question": "India has surpassed how many kilometers of metro rail network?",
+        "options": [
+            "500 km",
+            "800 km",
+            "1,000 km",
+            "1,200 km"
+        ],
+        "answer": "1,000 km"
+    },
+    {
+        "question": "Where was the first photographic evidence of Pallas's cat found in India?",
+        "options": [
+            "Spiti Valley, Himachal Pradesh",
+            "Kinnaur, Himachal Pradesh",
+            "Ladakh, Jammu and Kashmir",
+            "Gangtok, Sikkim"
+        ],
+        "answer": "Kinnaur, Himachal Pradesh"
+    },
+    {
+        "question": "Which state launched India's first organic fisheries cluster?",
+        "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Sikkim",
+            "West Bengal"
+        ],
+        "answer": "Sikkim"
+    },
+    {
+        "question": "How much cashless treatment will be provided for road accident survivors under the new scheme?",
+        "options": [
+            "₹50,000 for three days",
+            "₹1 lakh for five days",
+            "₹1.5 lakh for seven days",
+            "₹2 lakh for ten days"
+        ],
+        "answer": "₹1.5 lakh for seven days"
+    },
+    {
+        "question": "Where will the memorial for Pranab Mukherjee be set up?",
+        "options": [
+            "India Gate, Delhi",
+            "Jantar Mantar, Delhi",
+            "Rajghat Complex, Delhi",
+            "Teen Murti Bhavan, Delhi"
+        ],
+        "answer": "Rajghat Complex, Delhi"
+    },
+    {
+        "question": "Who will be the Chief Guest at India's 2025 Republic Day parade?",
+        "options": [
+            "Joe Biden",
+            "Emmanuel Macron",
+            "Prabowo Subianto",
+            "Yoon Suk Yeol"
+        ],
+        "answer": "Prabowo Subianto"
+    },
+    {
+        "question": "When will the Indusfood 2025 exhibition be held?",
+        "options": [
+            "January 1-3, 2025",
+            "January 8-10, 2025",
+            "January 15-17, 2025",
+            "January 22-24, 2025"
+        ],
+        "answer": "January 8-10, 2025"
+    },
+    {
+        "question": "When was NITI Aayog established, replacing the Planning Commission?",
+        "options": [
+            "January 1, 2015",
+            "August 15, 2014",
+            "January 26, 2016",
+            "October 2, 2015"
+        ],
+        "answer": "January 1, 2015"
+    },
+    {
+        "question": "Which train was flagged off by PM Modi under the Pravasi Teerth Darshan Yojana?",
+        "options": [
+            "Bharat Darshan Express",
+            "Pravasi Bharatiya Express",
+            "Unity Express",
+            "Vande Bharat Express"
+        ],
+        "answer": "Pravasi Bharatiya Express"
+    },
+    {
+        "question": "How much investment has the government announced for inland water transport development?",
+        "options": [
+            "₹25,000 crore over five years",
+            "₹40,000 crore over five years",
+            "₹50,000 crore over five years",
+            "₹60,000 crore over five years"
+        ],
+        "answer": "₹50,000 crore over five years"
+    },
+    {
+        "question": "Which tunnel will boost connectivity between Kashmir and Ladakh?",
+        "options": [
+            "Atal Tunnel",
+            "Zoji-la Tunnel",
+            "Z-Morh Tunnel",
+            "Banihal-Qazigund Tunnel"
+        ],
+        "answer": "Z-Morh Tunnel"
+    },
+    {
+        "question": "What system was launched in Assam to enhance inland waterway safety?",
+        "options": [
+            "Inland Waterways Safety System (IWSS)",
+            "National Waterways Protection System (NWPS)",
+            "National River Traffic & Navigation System (NRT&NS)",
+            "Assam Inland Navigation Enhancement System (AINES)"
+        ],
+        "answer": "National River Traffic & Navigation System (NRT&NS)"
+    },
+    {
+        "question": "Which city was declared the world's most polluted in 2024?",
+        "options": [
+            "Delhi, India",
+            "Beijing, China",
+            "Lahore, Pakistan",
+            "Hanoi, Vietnam"
+        ],
+        "answer": "Hanoi"
+    },
+    {
+        "question": "Which Canadian Prime Minister recently resigned after nearly a decade in power?",
+        "options": [
+            "Stephen Harper",
+            "Brian Mulroney",
+            "Justin Trudeau",
+            "Paul Martin"
+        ],
+        "answer": "Justin Trudeau"
+    },
+    {
+        "question": "Who was Shigemi Fukahori?",
+        "options": [
+            "Japanese Prime Minister",
+            "Famous Chef",
+            "Nagasaki atomic bomb survivor and peace advocate",
+            "Olympic Gold Medalist"
+        ],
+        "answer": "Nagasaki atomic bomb survivor and peace advocate"
+    },
+    {
+        "question": "Who was elected as Lebanon's president in 2025?",
+        "options": [
+            "Michel Aoun",
+            "Nabih Berri",
+            "Hassan Nasrallah",
+            "General Joseph Aoun"
+        ],
+        "answer": "General Joseph Aoun"
+    },
+    {
+        "question": "What milestone did the world cross for the first time in 2024 regarding climate change?",
+        "options": [
+            "Earth exceeded 1.5°C above pre-industrial levels",
+            "Global population reached 10 billion",
+            "Arctic ice reached its lowest extent",
+            "Renewable energy sources supplied 50% of global energy"
+        ],
+        "answer": "Earth exceeded 1.5°C above pre-industrial levels"
+    },
+    {
+        "question": "What is the theme of the 38th National Games torch rally in Uttarakhand?",
+        "options": [
+            "Unity and Sportsmanship",
+            "Golden Jubilee of Indian Sports",
+            "Tejaswini",
+            "Fit India, Healthy India"
+        ],
+        "answer": "Tejaswini"
+    },
+    {
+        "question": "Where was India's first coastal bird census conducted?",
+        "options": [
+            "Kochi, Kerala",
+            "Chennai, Tamil Nadu",
+            "Jamnagar, Gujarat",
+            "Visakhapatnam, Andhra Pradesh"
+        ],
+        "answer": "Jamnagar, Gujarat"
+    },
+    {
+        "question": "How much sponsorship was announced for the Indian national kho kho team by Odisha?",
+        "options": [
+            "₹5 crore",
+            "₹10 crore",
+            "₹15 crore",
+            "₹20 crore"
+        ],
+        "answer": "₹15 crore"
+    },
+    {
+        "question": "Who was appointed as CEO of the Delhi Waqf Board in 2025?",
+        "options": [
+            "Zafarul Islam Khan",
+            "Sirajuddin Qureshi",
+            "Azimul Haque",
+            "Shoaib Jamai"
+        ],
+        "answer": "Azimul Haque"
+    },
+    {
+        "question": "What position will Dr. V. Narayanan hold in ISRO from January 2025?",
+        "options": [
+            "Director of Space Applications Centre",
+            "Chairman of ISRO and Space Secretary",
+            "Director of Vikram Sarabhai Space Centre",
+            "Director of National Remote Sensing Centre"
+        ],
+        "answer": "ISRO Chief and Space Secretary"
+    },
+    {
+        "question": "What is the new name for the RRTS corridor connecting Delhi and Meerut?",
+        "options": [
+            "Bharat Rapid Rail",
+            "Namo Bharat",
+            "National Capital Region Transport Corridor",
+            "Vande Metro"
+        ],
+        "answer": "Namo Bharat"
+    },
+    {
+        "question": "Who unveiled trophies for the inaugural Kho Kho World Cup 2025?",
+        "options": [
+            "IOA",
+            "ICC",
+            "FIFA",
+            "KKFI"
+        ],
+        "answer": "KKFI"
+    },
+    {
+        "question": "Which country's cricket player, Martin Guptill, announced his retirement in 2025?",
+        "options": [
+            "Australia",
+            "England",
+            "New Zealand",
+            "South Africa"
+        ],
+        "answer": "New Zealand"
+    },
+    {
+        "question": "When is National Bird Day observed annually?",
+        "options": [
+            "January 2",
+            "January 5",
+            "January 10",
+            "January 12"
+        ],
+        "answer": "January 5"
+    },
+    {
+        "question": "What theme was announced for Pravasi Bharatiya Divas 2025?",
+        "options": [
+            "Connecting Diaspora, Empowering India",
+            "Diaspora's Contribution to a Viksit Bharat",
+            "Role of Diaspora in Nation Building",
+            "Reaching out to the Diaspora"
+        ],
+        "answer": "\"Diaspora's Contribution to a Viksit Bharat\""
+    },
+    {
+        "question": "Who is the oldest person confirmed by LongeviQuest in 2025?",
+        "options": [
+            "Maria Branyas Morera",
+            "Kane Tanaka",
+            "Lucile Randon",
+            "Sister Inah Lucas"
+        ],
+        "answer": "Sister Inah Lucas"
+    }
+]

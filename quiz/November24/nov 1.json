@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Who may be invited as the chief guest for India's Republic Day 2025?",
+        "options": [
+            "Ferdinand Marcos Jr.",
+            "Prabowo Subianto",
+            "Sheikh Hasina",
+            "Anthony Albanese"
+        ],
+        "answer": "Prabowo Subianto"
+    },
+    {
+        "question": "What new feature has the National Stock Exchange (NSE) launched to promote financial inclusivity?",
+        "options": [
+            "A new trading platform",
+            "A multilingual mobile app and website",
+            "A new index fund",
+            "A new investor awareness program"
+        ],
+        "answer": "A multilingual mobile app and website"
+    },
+    {
+        "question": "What is India's commitment under the Kunming-Montreal Global Biodiversity Framework (KM GBF) by 2030?",
+        "options": [
+            "Protecting 10% of its terrestrial and marine areas",
+            "Protecting 20% of its terrestrial and marine areas",
+            "Protecting 30% of its terrestrial and marine areas",
+            "Protecting 40% of its terrestrial and marine areas"
+        ],
+        "answer": "India has committed to protecting 30% of its terrestrial and marine areas."
+    },
+    {
+        "question": "Where did External Affairs Minister S. Jaishankar inaugurate India's new consulate?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Perth",
+            "Brisbane"
+        ],
+        "answer": "Brisbane"
+    },
+    {
+        "question": "Who launched the 'Shilp Samagam Mela 2024' at Dilli Haat, New Delhi?",
+        "options": [
+            "Piyush Goyal",
+            "Narendra Modi",
+            "Dr. Virendra Kumar",
+            "Smriti Irani"
+        ],
+        "answer": "Dr. Virendra Kumar"
+    },
+    {
+        "question": "What platform was unveiled to promote artisan empowerment in India?",
+        "options": [
+            "e-NAM",
+            "TULIP",
+            "GeM",
+            "PM-KISAN"
+        ],
+        "answer": "TULIP"
+    },
+    {
+        "question": "On which ship did President Droupadi Murmu witness advanced naval operations?",
+        "options": [
+            "INS Vikramaditya",
+            "INS Vikrant",
+            "INS Arihant",
+            "INS Chakra"
+        ],
+        "answer": "INS Vikrant"
+    },
+    {
+        "question": "When was Bengaluru's first digital population clock inaugurated?",
+        "options": [
+            "October 8, 2024",
+            "November 8, 2024",
+            "December 8, 2024",
+            "January 8, 2025"
+        ],
+        "answer": "November 8, 2024"
+    },
+    {
+        "question": "What was the new penalty for stubble burning doubled to, according to the Union Environment Ministry?",
+        "options": [
+            "Under the Air (Prevention and Control of Pollution) Act",
+            "Under the Water (Prevention and Control of Pollution) Act",
+            "Under the Environment Protection Act (EPA)",
+            "Under the National Green Tribunal Act"
+        ],
+        "answer": "Penalties for stubble burning were doubled under the Environmental Protection Act (EPA)."
+    },
+    {
+        "question": "Where is the ATMOS 2024 tech fest taking place?",
+        "options": [
+            "IIT Delhi",
+            "IIT Bombay",
+            "BITS Pilani, Hyderabad",
+            "IIT Kanpur"
+        ],
+        "answer": "BITS Pilani, Hyderabad"
+    },
+    {
+        "question": "What milestone did NTPC celebrate recently?",
+        "options": [
+            "25th Anniversary",
+            "50th Raising Day",
+            "75th Independence Day",
+            "100th Anniversary"
+        ],
+        "answer": "50th Raising Day"
+    },
+    {
+        "question": "What initiative did the government call for in relation to green hydrogen?",
+        "options": [
+            "To ban green hydrogen production",
+            "To establish Centers of Excellence for green hydrogen research",
+            "To impose a tax on green hydrogen",
+            "To limit green hydrogen exports"
+        ],
+        "answer": "The government called for proposals to establish Centers of Excellence for green hydrogen research."
+    },
+    {
+        "question": "Who became the first Black woman to lead the UK Conservative Party?",
+        "options": [
+            "Diane Abbott",
+            "Kemi Badenoch",
+            "Priti Patel",
+            "Sayeeda Warsi"
+        ],
+        "answer": "Kemi Badenoch"
+    },
+    {
+        "question": "Who were the main contenders in the US Election 2024?",
+        "options": [
+            "Joe Biden and Donald Trump",
+            "Kamala Harris and Mike Pence",
+            "Kamala Harris and Donald Trump",
+            "Joe Biden and Mike Pence"
+        ],
+        "answer": "Kamala Harris and Donald Trump"
+    },
+    {
+        "question": "Which country re-elected Maia Sandu as President amid Russian interference claims?",
+        "options": [
+            "Ukraine",
+            "Georgia",
+            "Moldova",
+            "Belarus"
+        ],
+        "answer": "Moldova"
+    },
+    {
+        "question": "When will Switzerland’s burqa ban law take effect?",
+        "options": [
+            "In 2024",
+            "In 2025",
+            "In 2026",
+            "In 2027"
+        ],
+        "answer": "In 2025"
+    },
+    {
+        "question": "What was Zimbabwe's latest achievement in space exploration?",
+        "options": [
+            "Launching a human to space",
+            "The launch of ZIMSAT-2",
+            "Landing a rover on Mars",
+            "Building a new space station"
+        ],
+        "answer": "The launch of ZIMSAT-2"
+    },
+    {
+        "question": "Which country did India oppose regarding the UN Arms proposal?",
+        "options": [
+            "China",
+            "Pakistan",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "answer": "Pakistan"
+    },
+    {
+        "question": "What festival does Karnataka celebrate to mark the return of Asura king Bali?",
+        "options": [
+            "Ugadi",
+            "Hampi Utsav",
+            "Bali Padyami Festival",
+            "Mysuru Dasara"
+        ],
+        "answer": "Bali Padyami Festival"
+    },
+    {
+        "question": "What new policy did Uttar Pradesh introduce to improve animal husbandry?",
+        "options": [
+            "A new agriculture policy",
+            "A new education policy",
+            "A new veterinary policy",
+            "A new industrial policy"
+        ],
+        "answer": "A new veterinary policy"
+    },
+    {
+        "question": "Which community in Manipur celebrates the Ningol Chakkouba festival?",
+        "options": [
+            "Naga",
+            "Kuki",
+            "Meitei",
+            "Zomi"
+        ],
+        "answer": "Meitei"
+    },
+    {
+        "question": "What major semiconductor project was approved by the Uttar Pradesh Cabinet?",
+        "options": [
+            "A ₹1,000 crore Tata semiconductor project",
+            "A ₹2,500 crore Vedanta semiconductor project",
+            "A ₹3,706 crore HCL-Foxconn semiconductor project",
+            "A ₹5,000 crore Intel semiconductor project"
+        ],
+        "answer": "A ₹3,706 crore HCL-Foxconn semiconductor project"
+    },
+    {
+        "question": "What new survey did Telangana begin statewide?",
+        "options": [
+            "A land survey",
+            "A health survey",
+            "A door-to-door caste and socio-economic data survey",
+            "An education survey"
+        ],
+        "answer": "A door-to-door caste and socio-economic data survey"
+    },
+    {
+        "question": "Which two states formed a joint committee for cheetah conservation?",
+        "options": [
+            "Gujarat and Maharashtra",
+            "Madhya Pradesh and Rajasthan",
+            "Karnataka and Tamil Nadu",
+            "Andhra Pradesh and Odisha"
+        ],
+        "answer": "Madhya Pradesh and Rajasthan"
+    },
+    {
+        "question": "Which Bihar station is being renamed as Ajgaibinath Dham?",
+        "options": [
+            "Patna Junction",
+            "Bhagalpur Railway Station",
+            "Sultanganj Station",
+            "Gaya Junction"
+        ],
+        "answer": "Sultanganj Station"
+    },
+    {
+        "question": "How much loan did Uttarakhand receive from the ADB for urban infrastructure and green mobility?",
+        "options": [
+            "$100 million",
+            "$150 million",
+            "$200 million",
+            "$250 million"
+        ],
+        "answer": "$200 million"
+    },
+    {
+        "question": "What percentage of job reservation for women was approved in Madhya Pradesh state government services?",
+        "options": [
+            "25%",
+            "30%",
+            "35%",
+            "40%"
+        ],
+        "answer": "35%"
+    },
+    {
+        "question": "What target did the Supreme Court set for eliminating child marriages in Rajasthan?",
+        "options": [
+            "By 2025",
+            "By 2030",
+            "By 2035",
+            "By 2040"
+        ],
+        "answer": "By 2030"
+    },
+    {
+        "question": "Who was appointed as the Chairman of India Yamaha Motor?",
+        "options": [
+            "Hiroyuki Suzuki",
+            "Eishin Chihana",
+            "Itaru Otani",
+            "Yoshihide Suga"
+        ],
+        "answer": "Itaru Otani"
+    },
+    {
+        "question": "Who is the new Defence Secretary of India?",
+        "options": [
+            "Ajay Kumar",
+            "G Mohan Kumar",
+            "Arun Kumar",
+            "Rajesh Kumar Singh"
+        ],
+        "answer": "Rajesh Kumar Singh"
+    },
+    {
+        "question": "Who is appointed as Secretary General of the World Agriculture Forum (WAF)?",
+        "options": [
+            "Qu Dongyu",
+            "Máximo Torero Cullen",
+            "Dr. Jacqueline d’Arros Hughes",
+            "David Nabarro"
+        ],
+        "answer": "Dr. Jacqueline d’Arros Hughes"
+    },
+    {
+        "question": "Who assumed the role of CEO and MD of MCX?",
+        "options": [
+            "Arun Raste",
+            "P.S. Reddy",
+            "Mrugank Paranjape",
+            "Praveena Rai"
+        ],
+        "answer": "Praveena Rai"
+    },
+    {
+        "question": "Who announced his retirement from all forms of cricket?",
+        "options": [
+            "Dinesh Karthik",
+            "Murali Vijay",
+            "Wriddhiman Saha",
+            "Robin Uthappa"
+        ],
+        "answer": "Wriddhiman Saha"
+    }
+]

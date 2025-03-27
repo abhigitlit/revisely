@@ -1,0 +1,362 @@
+[
+    {
+        "question": "What agricultural market linkage mission was launched in Arunachal Pradesh?",
+        "options": [
+            "Mission Arun Himveer",
+            "Arunachal Krishi Vikas",
+            "Himveer Krishi Mission",
+            "Arunachal Farm Connect"
+        ],
+        "answer": "Mission Arun Himveer"
+    },
+    {
+        "question": "What is the CRR rate after RBI's monetary policy meeting?",
+        "options": [
+            "4%",
+            "4.5%",
+            "5%",
+            "3.75%"
+        ],
+        "answer": "4%"
+    },
+    {
+        "question": "What is the name of the Aravalli conservation project presented at UNCCD COP16?",
+        "options": [
+            "Aravalli Green Wall Project",
+            "Aravalli Conservation Mission",
+            "Green Aravalli Initiative",
+            "Aravalli Biodiversity Project"
+        ],
+        "answer": "Aravalli Green Wall Project"
+    },
+    {
+        "question": "Where was the 22nd Divya Kala Mela 2024 held?",
+        "options": [
+            "India Gate, New Delhi",
+            "Gateway of India, Mumbai",
+            "Victoria Memorial, Kolkata",
+            "Marina Beach, Chennai"
+        ],
+        "answer": "India Gate, New Delhi"
+    },
+    {
+        "question": "Which wildlife sanctuary was declared as India's 57th tiger reserve?",
+        "options": [
+            "Ratapani Wildlife Sanctuary",
+            "Sariska Tiger Reserve",
+            "Panna National Park",
+            "Ranthambore National Park"
+        ],
+        "answer": "Ratapani Wildlife Sanctuary"
+    },
+    {
+        "question": "What is the amount of loan granted by the Asian Development Bank (ADB) to India for green infrastructure and solar rooftop development?",
+        "options": [
+            "$500 million",
+            "$400 million",
+            "$600 million",
+            "$450 million"
+        ],
+        "answer": "$500 million"
+    },
+    {
+        "question": "What is the focus of the Nyaya Sanhita legislative reform?",
+        "options": [
+            "Quicker justice delivery, focusing on marginalized groups",
+            "Stricter punishment for crimes",
+            "Digitization of court records",
+            "Increasing the number of judges"
+        ],
+        "answer": "Quicker justice delivery, focusing on marginalized groups"
+    },
+    {
+        "question": "Where was the India Maritime Heritage Conclave 2024 held?",
+        "options": [
+            "New Delhi",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+        ],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "Who did the Supreme Court Collegium recommend for the post of permanent judges in three High Courts?",
+        "options": [
+            "Seven additional judges",
+            "Five additional judges",
+            "Six additional judges",
+            "Eight additional judges"
+        ],
+        "answer": "Seven additional judges"
+    },
+    {
+        "question": "Which state in the US declared December 6 as Mahatma Gandhi Remembrance Day?",
+        "options": [
+            "Nebraska",
+            "California",
+            "New York",
+            "Texas"
+        ],
+        "answer": "Nebraska"
+    },
+    {
+        "question": "Who is the new prime minister of Burkina Faso?",
+        "options": [
+            "Rimtalba Jean Emmanuel Ouedraogo",
+            "Christophe Joseph Marie Dabiré",
+            "Paul Kaba Thieba",
+            "Yacouba Isaac Zida"
+        ],
+        "answer": "Rimtalba Jean Emmanuel Ouedraogo"
+    },
+    {
+        "question": "Who won the presidency of Ghana in 2024?",
+        "options": [
+            "John Mahama",
+            "Nana Akufo-Addo",
+            "John Kufuor",
+            "Jerry Rawlings"
+        ],
+        "answer": "John Mahama"
+    },
+    {
+        "question": "How much did India's billionaire count rise by in 2024?",
+        "options": [
+            "20%",
+            "15%",
+            "25%",
+            "10%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "Which family ended their 50-year rule in Syria?",
+        "options": [
+            "Assad family",
+            "Al-Khalifa family",
+            "Al-Nahyan family",
+            "Al-Maktoum family"
+        ],
+        "answer": "Assad family"
+    },
+    {
+        "question": "What is Merriam-Webster's Word of the Year 2024?",
+        "options": [
+            "Polarization",
+            "Authentic",
+            "Candid",
+            "Rizz"
+        ],
+        "answer": "Polarization"
+    },
+    {
+        "question": "Where was the world's largest gold bar unveiled?",
+        "options": [
+            "Dubai",
+            "New York",
+            "London",
+            "Zurich"
+        ],
+        "answer": "Dubai"
+    },
+    {
+        "question": "Who was nominated by Trump as Assistant Attorney General for Civil Rights?",
+        "options": [
+            "Harmeet Kaur Dhillon",
+            "Vanita Gupta",
+            "Kristen Clarke",
+            "Debo Adegbile"
+        ],
+        "answer": "Harmeet Kaur Dhillon"
+    },
+    {
+        "question": "When is International Mountain Day celebrated?",
+        "options": [
+            "December 11",
+            "December 10",
+            "December 12",
+            "December 13"
+        ],
+        "answer": "December 11"
+    },
+    {
+        "question": "Which country's army chief was conferred with an honorary rank of 'General of the Indian Army'?",
+        "options": [
+            "Nepal",
+            "Bhutan",
+            "Bangladesh",
+            "Sri Lanka"
+        ],
+        "answer": "Nepal"
+    },
+    {
+        "question": "Who was named Time's Person of the Year 2024?",
+        "options": [
+            "Donald Trump",
+            "Joe Biden",
+            "Volodymyr Zelenskyy",
+            "Taylor Swift"
+        ],
+        "answer": "Donald Trump"
+    },
+    {
+        "question": "Who became the first person to surpass $400 billion in net worth?",
+        "options": [
+            "Elon Musk",
+            "Jeff Bezos",
+            "Bernard Arnault",
+            "Bill Gates"
+        ],
+        "answer": "Elon Musk"
+    },
+    {
+        "question": "What is the name of the Indian film that won at the 13th tve Global Sustainability Film Awards?",
+        "options": [
+            "The Kumbaya Story",
+            "Jal Jeevan",
+            "Prakriti",
+            "Green Champion"
+        ],
+        "answer": "The Kumbaya Story"
+    },
+    {
+        "question": "Who retired from international cricket in December 2024?",
+        "options": [
+            "Imad Wasim",
+            "Shoaib Malik",
+            "Mohammad Hafeez",
+            "Shahid Afridi"
+        ],
+        "answer": "Imad Wasim"
+    },
+    {
+        "question": "Which country is co-hosting the FIFA World Cup 2030 alongside Spain and Portugal?",
+        "options": [
+            "Morocco",
+            "Algeria",
+            "Tunisia",
+            "Egypt"
+        ],
+        "answer": "Morocco"
+    },
+    {
+        "question": "Where was the Sardar Patel Statue unveiled in December 2024?",
+        "options": [
+            "Jodhpur",
+            "Ahmedabad",
+            "Surat",
+            "Vadodara"
+        ],
+        "answer": "Jodhpur"
+    },
+    {
+        "question": "What is the new sex ratio at birth in Bihar as per the latest report?",
+        "options": [
+            "882 females per 1,000 males",
+            "900 females per 1,000 males",
+            "890 females per 1,000 males",
+            "870 females per 1,000 males"
+        ],
+        "answer": "882 females per 1,000 males"
+    },
+    {
+        "question": "What was the Guinness World Record set in Bhopal during Gita Jayanti celebrations?",
+        "options": [
+            "5,000 Acharyas",
+            "10,000 devotees",
+            "Largest Gita recitation",
+            "Biggest diya lighting"
+        ],
+        "answer": "5,000 Acharyas"
+    },
+    {
+        "question": "What amount of financial aid was announced for women under Delhi's Mukhya Mantri Mahila Samman Yojana?",
+        "options": [
+            "₹2,100",
+            "₹2,000",
+            "₹2,200",
+            "₹2,500"
+        ],
+        "answer": "₹2,100"
+    },
+    {
+        "question": "Which state leads India in cow milk production?",
+        "options": [
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Gujarat"
+        ],
+        "answer": "Uttar Pradesh"
+    },
+    {
+        "question": "What is the amount of the projects launched by PM Modi in Prayagraj for Maha Kumbh 2025?",
+        "options": [
+            "₹5,500 crore",
+            "₹5,000 crore",
+            "₹6,000 crore",
+            "₹4,500 crore"
+        ],
+        "answer": "₹5,500 crore"
+    },
+    {
+        "question": "Who has been appointed as the new Governor of the Reserve Bank of India (RBI)?",
+        "options": [
+            "Sanjay Malhotra",
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Raghuram Rajan"
+        ],
+        "answer": "Sanjay Malhotra"
+    },
+    {
+        "question": "Who succeeded Rajesh Kumar as the MD & CEO of TransUnion CIBIL?",
+        "options": [
+            "Bhavesh Jain",
+            "Rajeev Kumar",
+            "Satish Pillai",
+            "Anand Kumar"
+        ],
+        "answer": "Bhavesh Jain"
+    },
+    {
+        "question": "What new feature will India's Anti-Drone Unit include?",
+        "options": [
+            "Laser-equipped anti-drone systems",
+            "Missile defense systems",
+            "Jamming technology",
+            "Sonic deterrents"
+        ],
+        "answer": "Laser-equipped anti-drone systems"
+    },
+    {
+        "question": "Which Russian-built frigate has joined the Indian Navy?",
+        "options": [
+            "INS Tushil",
+            "INS Talwar",
+            "INS Teg",
+            "INS Trishul"
+        ],
+        "answer": "INS Tushil"
+    },
+    {
+        "question": "What $4 billion deal is India signing with Russia for air defence?",
+        "options": [
+            "Radar system deal",
+            "Missile system deal",
+            "Aircraft deal",
+            "Helicopter deal"
+        ],
+        "answer": "Radar system deal"
+    },
+    {
+        "question": "What new initiative is RBI launching to enhance public communication and financial literacy?",
+        "options": [
+            "Podcasts",
+            "Television shows",
+            "Interactive websites",
+            "Street plays"
+        ],
+        "answer": "Podcasts"
+    }
+]

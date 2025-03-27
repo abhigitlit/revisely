@@ -1,0 +1,992 @@
+[
+  {
+    "question": "How much money did NaBFID raise through 15-year bonds at a 7.25% cut-off rate?",
+    "options": [
+      "Rs 7,000 crore",
+      "Rs 3,000 crore",
+      "Rs 5,000 crore",
+      "Rs 15,000 crore",
+      "Rs 10,000 crore"
+    ],
+    "answer": "Rs 5,000 crore"
+  },
+  {
+    "question": "Which company did Elon Musk’s X partner with to begin its financial services push?",
+    "options": [
+      "Paytm",
+      "Apple Pay",
+      "Visa",
+      "Mastercard",
+      "Google Pay"
+    ],
+    "answer": "Visa"
+  },
+  {
+    "question": "Which ship, under the \"Navika Sagar Parikrama II\" mission, crossed Point Nemo?",
+    "options": [
+      "INS Rajput",
+      "INS Vikramaditya",
+      "INS Arihant",
+      "INS Tarini",
+      "INS Kolkata"
+    ],
+    "answer": "INS Tarini"
+  },
+  {
+    "question": "What is the name of the SuperApp launched by Indian Railways for seamless travel?",
+    "options": [
+      "RailServe",
+      "SwaRail",
+      "RailBuddy",
+      "RailConnect",
+      "TravelEasy"
+    ],
+    "answer": "SwaRail"
+  },
+  {
+    "question": "What is the name of the international alliance launched by India for conserving 7 big cats?",
+    "options": [
+      "Panthera Alliance",
+      "Big Cats Global",
+      "Global Tiger Trust",
+      "WildCat Conservation",
+      "Big Cat Alliance"
+    ],
+    "answer": "Big Cat Alliance"
+  },
+  {
+    "question": "Which state in India launched the 'Chocolate War' campaign to tackle opium cultivation?",
+    "options": [
+      "Bihar",
+      "Madhya Pradesh",
+      "Jharkhand",
+      "Uttar Pradesh",
+      "Rajasthan"
+    ],
+    "answer": "Jharkhand"
+  },
+  {
+    "question": "Where has India’s first White Tiger Breeding Centre been approved?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Uttar Pradesh"
+    ],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "question": "Who was awarded the Sahitya Akademi Award 2024 in Dogri for the book 'Ik Hor Ashwthama'?",
+    "options": [
+      "Shashi Tharoor",
+      "Gajanan Madhav Muktibodh",
+      "Uday Prakash",
+      "Chaman Arora",
+      "Nand Kishore"
+    ],
+    "answer": "Chaman Arora"
+  },
+  {
+    "question": "Which team won the Men’s Hockey India League 2024-25 title?",
+    "options": [
+      "Punjab Warriors",
+      "Delhi Tigers",
+      "Shrachi Rarh Bengal Tigers",
+      "Mumbai Rockets",
+      "Bangalore Blizzards"
+    ],
+    "answer": "Shrachi Rarh Bengal Tigers"
+  },
+  {
+    "question": "What was the cut-off rate at which NaBFID raised funds via 15-year bonds?",
+    "options": [
+      "8.00%",
+      "7.25%",
+      "6.50%",
+      "9.00%",
+      "7.50%"
+    ],
+    "answer": "7.25%"
+  },
+  {
+    "question": "What is the main proposal of RBI regarding Indian banks' websites?",
+    "options": [
+      "To improve website speed",
+      "To make internet banking safer",
+      "To allow online loans",
+      "To integrate new payment methods",
+      "To increase website traffic"
+    ],
+    "answer": "To allow online loans"
+  },
+  {
+    "question": "What milestone has India achieved in solar energy capacity?",
+    "options": [
+      "100 MW",
+      "50 GW",
+      "100 GW",
+      "20 GW",
+      "150 GW"
+    ],
+    "answer": "100 GW"
+  },
+  {
+    "question": "How many claims did EPFO settle in FY25?",
+    "options": [
+      "5 crore",
+      "20 crore",
+      "10 crore",
+      "50 lakh",
+      "2 crore"
+    ],
+    "answer": "5 crore"
+  },
+  {
+    "question": "Which country has banned multiple entry visas for 14 nations, including India?",
+    "options": [
+      "USA",
+      "Saudi Arabia",
+      "Russia",
+      "China",
+      "United Kingdom"
+    ],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "question": "Which company has collaborated with Yes Bank to provide financial services?",
+    "options": [
+      "Beacon",
+      "Infosys",
+      "TCS",
+      "Paytm",
+      "HDFC"
+    ],
+    "answer": "Beacon"
+  },
+  {
+    "question": "Which app became the world's second most downloaded food & drink app?",
+    "options": [
+      "Swiggy",
+      "Zomato",
+      "Zepto",
+      "Uber Eats",
+      "Domino's"
+    ],
+    "answer": "Zepto"
+  },
+  {
+    "question": "Which mysterious exoplanet was confirmed to be 12 times bigger than Jupiter?",
+    "options": [
+      "Gaia-4b",
+      "Kepler-452b",
+      "Proxima b",
+      "TRAPPIST-1d",
+      "HD 209458b"
+    ],
+    "answer": "Gaia-4b"
+  },
+  {
+    "question": "Which mission is ISRO planning to launch in 2027?",
+    "options": [
+      "Chandrayaan-4",
+      "Mars Orbiter Mission",
+      "Gaganyaan",
+      "Aditya-L1",
+      "Chandrayaan-3"
+    ],
+    "answer": "Chandrayaan-4"
+  },
+  {
+    "question": "NPCI has proposed a hike in ATM interchange fees. What does NPCI stand for?",
+    "options": [
+      "National Payment Corporation of India",
+      "National Public Commission of India",
+      "National Partnership Corporation of India",
+      "National Planning Council of India",
+      "New Payment Corporation of India"
+    ],
+    "answer": "National Payment Corporation of India"
+  },
+  {
+    "question": "IOB has joined a global partnership for carbon accounting. What does IOB stand for?",
+    "options": [
+      "Indian Overseas Bank",
+      "International Organization Bank",
+      "Indian Oil Bank",
+      "Indian Online Banking",
+      "International Oil Bank"
+    ],
+    "answer": "Indian Overseas Bank"
+  },
+  {
+    "question": "HDFC Bank Parivartan Start-Up Grants will support over how many startups with ₹20 crore?",
+    "options": [
+      "100",
+      "200",
+      "50",
+      "150",
+      "75"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "How many peacekeepers and Nobel Laureates attended Dubai’s Global Justice Summit?",
+    "options": [
+      "5,000",
+      "2,000",
+      "3,000",
+      "2,800",
+      "1,500"
+    ],
+    "answer": "2,800"
+  },
+  {
+    "question": "Which UN organization did Donald Trump withdraw the US from?",
+    "options": [
+      "UNESCO",
+      "UNHRC",
+      "UNFPA",
+      "WHO",
+      "UNDP"
+    ],
+    "answer": "UNHRC"
+  },
+  {
+    "question": "How much is the deal worth that the Ministry of Defence signed to boost the army's firepower?",
+    "options": [
+      "₹5,000 crore",
+      "₹12,000 crore",
+      "₹15,000 crore",
+      "₹10,000 crore",
+      "₹20,000 crore"
+    ],
+    "answer": "₹10,000 crore"
+  },
+  {
+    "question": "India ranks 3rd in which global list for 2024?",
+    "options": [
+      "Green Energy",
+      "Smart Cities",
+      "LEED Green Buildings",
+      "Digital Innovation",
+      "Sustainable Agriculture"
+    ],
+    "answer": "LEED Green Buildings"
+  },
+  {
+    "question": "Where is the 1st BIMSTEC Youth Summit being held?",
+    "options": [
+      "Dhaka",
+      "Gandhinagar",
+      "New Delhi",
+      "Colombo",
+      "Kathmandu"
+    ],
+    "answer": "Gandhinagar"
+  },
+  {
+    "question": "How many times has FIFA suspended Pakistan Football Federation since 2017?",
+    "options": [
+      "Once",
+      "Twice",
+      "Three times",
+      "Four times",
+      "Five times"
+    ],
+    "answer": "Three times"
+  },
+  {
+    "question": "Who won the historic bronze medal in archery at the 38th National Games 2025?",
+    "options": [
+      "Archana Kaur",
+      "Tarundeep Rai",
+      "Deepika Kumari",
+      "Bhagat Singh",
+      "Sunil Kumar"
+    ],
+    "answer": "Tarundeep Rai"
+  },
+  {
+    "question": "What is the new initiative by SEBI aimed at improving market safety?",
+    "options": [
+      "Retail Algo Trading Regulations",
+      "Crypto Trading Regulations",
+      "Market Transparency Rules",
+      "High-Frequency Trading Restrictions",
+      "Risk Assessment Tools"
+    ],
+    "answer": "Retail Algo Trading Regulations"
+  },
+  {
+    "question": "Which Indian bank has expanded its AI-based Amitabh Bachchan avatar?",
+    "options": [
+      "ICICI Bank",
+      "HDFC Bank",
+      "IDFC FIRST Bank",
+      "Axis Bank",
+      "SBI"
+    ],
+    "answer": "IDFC FIRST Bank"
+  },
+  {
+    "question": "What new security feature has RBI introduced for international transactions?",
+    "options": [
+      "One-Time Password (OTP)",
+      "Two-factor authentication (2FA)",
+      "Biometric Authentication",
+      "Additional Factor Authentication (AFA)",
+      "Smart Card Technology"
+    ],
+    "answer": "Additional Factor Authentication (AFA)"
+  },
+  {
+    "question": "What event is being held to celebrate the 75th anniversary of the National Sample Survey (NSS)?",
+    "options": [
+      "NSS Special Lecture",
+      "National Inaugural Event",
+      "NSS Anniversary Ceremony",
+      "75th NSS Conference",
+      "National Economic Forum"
+    ],
+    "answer": "National Inaugural Event"
+  },
+  {
+    "question": "What extension was approved by the Cabinet regarding the National Commission for Safai Karamcharis?",
+    "options": [
+      "One year beyond 31.03.2025",
+      "Three years beyond 31.03.2025",
+      "Two years beyond 31.03.2025",
+      "Five years beyond 31.03.2025",
+      "Extension till 2025"
+    ],
+    "answer": "Three years beyond 31.03.2025"
+  },
+  {
+    "question": "What new weapon system has been introduced by the US Navy?",
+    "options": [
+      "Quantum Torpedoes",
+      "Stealth Drones",
+      "Laser Weapon 'Helios'",
+      "Smart Bombs",
+      "Submarine Missiles"
+    ],
+    "answer": "Laser Weapon 'Helios'"
+  },
+  {
+    "question": "When did the President of the 79th Session of the UN General Assembly, H.E. Mr. Philemon Yang, visit India?",
+    "options": [
+      "1–3 February 2025",
+      "4–7 February 2025",
+      "5–9 February 2025",
+      "10–13 February 2025",
+      "15–17 February 2025"
+    ],
+    "answer": "4–7 February 2025"
+  },
+  {
+    "question": "What exercise was conducted by the Indian Army and IAF in the Eastern Theater?",
+    "options": [
+      "Thunderbolt",
+      "Tornado Strike",
+      "Winged Raider",
+      "Vajra Shakti",
+      "Iron Fist"
+    ],
+    "answer": "Winged Raider"
+  },
+  {
+    "question": "Who became India’s second oldest ODI debutant?",
+    "options": [
+      "Ravi Shastri",
+      "Varun Chakravarthy",
+      "Yuvraj Singh",
+      "MS Dhoni",
+      "Sachin Tendulkar"
+    ],
+    "answer": "Varun Chakravarthy"
+  },
+  {
+    "question": "Which former Sri Lankan captain announced his retirement after playing his 100th Test match?",
+    "options": [
+      "Mahela Jayawardene",
+      "Dimuth Karunaratne",
+      "Tillakaratne Dilshan",
+      "Kumar Sangakkara",
+      "Angelo Mathews"
+    ],
+    "answer": "Dimuth Karunaratne"
+  },
+  {
+    "question": "Which country, along with India, has completed two years of the Economic Cooperation and Trade Agreement (ECTA), aiming to reach AUD 100 billion in trade by 2030?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "Japan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "question": "Who has been appointed as the new CEO of DBS Bank India effective March 1, 2025?",
+    "options": [
+      "Surojit Shome",
+      "Piyush Gupta",
+      "Rajat Verma",
+      "Anand Kumar",
+      "Rajeev Ahuja"
+    ],
+    "answer": "Rajat Verma"
+  },
+  {
+    "question": "Which bank has launched a TAB-based digital onboarding process for NRIs to open NRE and NRO accounts?",
+    "options": [
+      "ICICI Bank",
+      "SBI",
+      "HDFC Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ],
+    "answer": "SBI"
+  },
+  {
+    "question": "Where was the 'Pujari Granthi Samman' scheme launched?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Varanasi"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the primary focus of Grameen Bharat Mahotsav 2025?",
+    "options": [
+      "Urban development",
+      "Rural empowerment",
+      "Industrial growth",
+      "Technological innovation",
+      "Education"
+    ],
+    "answer": "Rural empowerment"
+  },
+  {
+    "question": "Which bank launched the \"Har Ghar Lakhpati\" RD and \"Patrons\" FD schemes?",
+    "options": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "SBI",
+      "Axis Bank",
+      "Yes Bank"
+    ],
+    "answer": "SBI"
+  },
+  {
+    "question": "RBI is injecting Rs 2.5 lakh crore to enhance liquidity in the banking system. What is the primary purpose of this action?",
+    "options": [
+      "To reduce inflation",
+      "To increase foreign investments",
+      "To improve banking liquidity",
+      "To boost government revenues",
+      "To promote international trade"
+    ],
+    "answer": "To improve banking liquidity"
+  },
+  {
+    "question": "Which company announced the receipt of the TPAP license from NPCI for RediffPay?",
+    "options": [
+      "HDFC Bank",
+      "Infibeam Avenues",
+      "Tata Consultancy Services",
+      "Reliance Industries",
+      "ICICI Bank"
+    ],
+    "answer": "Infibeam Avenues"
+  },
+  {
+    "question": "Who co-chaired the Artificial Intelligence (AI) Action Summit held in France?",
+    "options": [
+      "India and UK",
+      "India and USA",
+      "India and France",
+      "India and Germany",
+      "India and China"
+    ],
+    "answer": "India and France"
+  },
+  {
+    "question": "What is the name of the upgraded Hindustan Jet Trainer (HJT) 36 unveiled by HAL at Aero India 2025?",
+    "options": [
+      "Vijay",
+      "Yashas",
+      "Prithvi",
+      "Shakti",
+      "Chakra"
+    ],
+    "answer": "Yashas"
+  },
+  {
+    "question": "Which country launched 'Operation Devil Hunt' after former minister's supporters resisted 'vandalism'?",
+    "options": [
+      "India",
+      "Bangladesh",
+      "Pakistan",
+      "Sri Lanka",
+      "Nepal"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "What rank did India achieve in the Corruption Perceptions Index 2024?",
+    "options": [
+      "50",
+      "96",
+      "120",
+      "80",
+      "60"
+    ],
+    "answer": "96"
+  },
+  {
+    "question": "Who addressed the inaugural session of the India Energy Week 2025?",
+    "options": [
+      "President Ram Nath Kovind",
+      "Finance Minister Nirmala Sitharaman",
+      "Prime Minister Narendra Modi",
+      "Energy Minister Raj Kumar Singh",
+      "Home Minister Amit Shah"
+    ],
+    "answer": "Prime Minister Narendra Modi"
+  },
+  {
+    "question": "When will the 3rd Kashi Tamil Sangamam take place?",
+    "options": [
+      "January 2025",
+      "February 15, 2025",
+      "March 2025",
+      "December 2024",
+      "April 2025"
+    ],
+    "answer": "February 15, 2025"
+  },
+  {
+    "question": "Which film won the NETPAC Award at the International Film Festival of Rotterdam?",
+    "options": [
+      "RRR",
+      "Bad Girl",
+      "Piku",
+      "Lagaan",
+      "The Lunchbox"
+    ],
+    "answer": "Bad Girl"
+  },
+  {
+    "question": "Which country’s students won the Bronze at the Global M-Gov Awards 2025?",
+    "options": [
+      "USA",
+      "India",
+      "Canada",
+      "Japan",
+      "Australia"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "What is the theme of the RBI's Financial Literacy Week (FLW) 2025?",
+    "options": [
+      "Digital Banking: Women’s Growth",
+      "Financial Literacy: Women’s Prosperity",
+      "Saving and Investment Awareness",
+      "Budgeting: Women Empowerment",
+      "Financial Inclusion for All"
+    ],
+    "answer": "Financial Literacy: Women’s Prosperity"
+  },
+  {
+    "question": "What is the name of the new NR Savings account variant launched by Federal Bank?",
+    "options": [
+      "FedSaver",
+      "NR Advantage",
+      "GlobalSaver",
+      "IndiaFirst",
+      "Prospera"
+    ],
+    "answer": "Prospera"
+  },
+  {
+    "question": "What is the name of the new payment mechanism introduced by IRDAI for premium payments?",
+    "options": [
+      "Bima-ASBA",
+      "Pay-Insurance",
+      "Premium-ASBA",
+      "Insure-UPI",
+      "PolicyPay"
+    ],
+    "answer": "Bima-ASBA"
+  },
+  {
+    "question": "Who inaugurated the Inland Waterways Terminal (IWT) at Jogighopa?",
+    "options": [
+      "Narendra Modi",
+      "Sarbananda Sonowal",
+      "Amit Shah",
+      "Piyush Goyal",
+      "Rajnath Singh"
+    ],
+    "answer": "Sarbananda Sonowal"
+  },
+  {
+    "question": "Which two countries are enhancing cooperation in maintaining Sukhoi-30 (Su-30) combat aircraft fleets?",
+    "options": [
+      "India and Russia",
+      "India and China",
+      "India and France",
+      "India and Malaysia",
+      "India and Pakistan"
+    ],
+    "answer": "India and Malaysia"
+  },
+  {
+    "question": "Where was the School of Ultimate Leadership (SOUL) Leadership Conclave 2025 inaugurated?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the revised amount for the fixed deposit under the Dulari Kanya Scheme for institutional births of girl children in Arunachal Pradesh?",
+    "options": [
+      "Rs 10,000",
+      "Rs 20,000",
+      "Rs 25,000",
+      "Rs 30,000",
+      "Rs 50,000"
+    ],
+    "answer": "Rs 30,000"
+  },
+  {
+    "question": "Who has been granted an extension of tenure as the Drug Controller General of India (DCGI)?",
+    "options": [
+      "Rajeev Singh Raghuvanshi",
+      "S. Eswara Reddy",
+      "Ramesh Kumar Gupta",
+      "V. G. Somani",
+      "Harsh Vardhan"
+    ],
+    "answer": "Rajeev Singh Raghuvanshi"
+  },
+  {
+    "question": "Where will the 72nd edition of the Miss World pageant be held?",
+    "options": [
+      "Mumbai",
+      "Hyderabad, Telangana",
+      "New Delhi",
+      "Kolkata",
+      "Bangalore"
+    ],
+    "answer": "Hyderabad, Telangana"
+  },
+  {
+    "question": "What was the previous amount of the fixed deposit for institutional births under the Dulari Kanya Scheme before it was raised?",
+    "options": [
+      "Rs 5,000",
+      "Rs 10,000",
+      "Rs 15,000",
+      "Rs 20,000",
+      "Rs 25,000"
+    ],
+    "answer": "Rs 20,000"
+  },
+  {
+    "question": "What is the main objective of the Bhoo Kanoon (Land Law Amendment Bill) in Uttarakhand?",
+    "options": [
+      "To increase land ownership for non-residents",
+      "To protect the state's cultural heritage and natural resources",
+      "To promote industrial growth in hill districts",
+      "To simplify land transaction processes for non-residents",
+      "To encourage agricultural land purchases by non-residents"
+    ],
+    "answer": "To protect the state's cultural heritage and natural resources"
+  },
+  {
+    "question": "What is the theme of the 9th edition of the Asia Economic Dialogue (AED) 2025?",
+    "options": [
+      "Globalization in the 21st Century",
+      "Economic Resilience and Resurgence in an Era of Fragmentation",
+      "Strengthening Global Trade Agreements",
+      "Overcoming Geopolitical Challenges",
+      "The Rise of Emerging Markets"
+    ],
+    "answer": "Economic Resilience and Resurgence in an Era of Fragmentation"
+  },
+  {
+    "question": "Where is the international art exhibition \"Topographies of Tents, Terracotta, and Time\" being held?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "Hyderabad",
+      "Pune",
+      "Bengaluru"
+    ],
+    "answer": "Hyderabad"
+  },
+  {
+    "question": "Which new bat coronavirus was discovered by researchers in China?",
+    "options": [
+      "SARS-CoV-2",
+      "HKU5-CoV-2",
+      "MERS-CoV",
+      "H1N1",
+      "Zika Virus"
+    ],
+    "answer": "HKU5-CoV-2"
+  },
+  {
+    "question": "What is the revised GDP growth forecast for India in FY25, as per the State Bank of India (SBI)?",
+    "options": [
+      "6.0%",
+      "6.3%",
+      "6.5%",
+      "6.8%",
+      "7.0%"
+    ],
+    "answer": "6.3%"
+  },
+  {
+    "question": "Which country is India enhancing its media ties with ahead of WAVES 2025?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "Saudi Arabia",
+      "Japan",
+      "Russia"
+    ],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "question": "India’s first zoo-based wildlife biobank is established in which zoo?",
+    "options": [
+      "Nandankanan Zoological Park",
+      "Padmaja Naidu Himalayan Zoological Park",
+      "Nehru Zoological Park",
+      "Kanha National Park",
+      "Sikkim Himalayan Zoological Park"
+    ],
+    "answer": "Padmaja Naidu Himalayan Zoological Park"
+  },
+  {
+    "question": "Which ministry co-hosted the 9th edition of the Asia Economic Dialogue (AED) 2025?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of External Affairs",
+      "Ministry of Commerce and Industry",
+      "Ministry of Agriculture",
+      "Ministry of Science and Technology"
+    ],
+    "answer": "Ministry of External Affairs"
+  },
+  {
+    "question": "What significant feature does the Bhoo Kanoon (Land Law Amendment Bill) introduce for land transactions in Uttarakhand?",
+    "options": [
+      "It permits agricultural land purchases by non-residents in all districts.",
+      "It creates a blanket ban on agricultural land purchases by non-residents in 11 hill districts.",
+      "It allows free land transactions in the state for non-residents.",
+      "It grants land ownership rights to foreign entities.",
+      "It focuses solely on urban land management."
+    ],
+    "answer": "It creates a blanket ban on agricultural land purchases by non-residents in 11 hill districts."
+  },
+  {
+    "question": "Which organization launched the new advanced IT incubation centre in Salt Lake, Kolkata?",
+    "options": [
+      "Ministry of Information Technology (MeitY)",
+      "Software Technology Parks of India (STPI)",
+      "Tata Consultancy Services (TCS)",
+      "Indian Institute of Technology (IIT)",
+      "National Association of Software and Service Companies (NASSCOM)"
+    ],
+    "answer": "Software Technology Parks of India (STPI)"
+  },
+  {
+    "question": "What is the main objective of the training program between India’s NCGG and Sri Lanka’s SLIDA?",
+    "options": [
+      "Enhance trade relations",
+      "Train 1,500 civil officers",
+      "Promote tourism",
+      "Train Indian officers",
+      "Develop defense sector"
+    ],
+    "answer": "Train 1,500 civil officers"
+  },
+  {
+    "question": "Who became the first Indian American FBI Director?",
+    "options": [
+      "Kamala Harris",
+      "Kash Patel",
+      "Bobby Jindal",
+      "Sundar Pichai",
+      "Arun Kumar"
+    ],
+    "answer": "Kash Patel"
+  },
+  {
+    "question": "Which ESA astronaut with a prosthetic leg was approved for space missions?",
+    "options": [
+      "John McFall",
+      "Stephen Hawking",
+      "Tim Peake",
+      "Helen Sharman",
+      "Chris Hadfield"
+    ],
+    "answer": "John McFall"
+  },
+  {
+    "question": "Which company introduced the Majorana 1 quantum chip?",
+    "options": [
+      "Google",
+      "IBM",
+      "Microsoft",
+      "Intel",
+      "Apple"
+    ],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "Where is the proposed Aravali Safari Park located?",
+    "options": [
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Haryana",
+      "Tamil Nadu"
+    ],
+    "answer": "Haryana"
+  },
+  {
+    "question": "What is the goal of the Aravali Safari Park project?",
+    "options": [
+      "Urban development",
+      "Eco-tourism and afforestation",
+      "Military base",
+      "Agricultural expansion",
+      "Preserve archaeological sites"
+    ],
+    "answer": "Eco-tourism and afforestation"
+  },
+  {
+    "question": "Which conference was held in Udaipur with the theme \"India@2047 – A Water Secure Nation\"?",
+    "options": [
+      "1st National Water Conference",
+      "2nd State Water Ministers' Conference",
+      "River Rejuvenation Conference",
+      "Climate Change Summit",
+      "Water Security Forum"
+    ],
+    "answer": "2nd State Water Ministers' Conference"
+  },
+  {
+    "question": "Where did the first Conference for Women Peacekeepers, themed \"Women in Peacekeeping: A Global South Perspective,\" take place?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Chennai",
+      "Kolkata",
+      "Bangalore"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What was the penalty imposed on Axis Securities by SEBI for regulatory violations?",
+    "options": [
+      "₹5 lakh",
+      "₹10 lakh",
+      "₹15 lakh",
+      "₹20 lakh",
+      "₹50 lakh"
+    ],
+    "answer": "₹10 lakh"
+  },
+  {
+    "question": "Which state launched a witness protection scheme to ensure the safety of witnesses?",
+    "options": [
+      "Punjab",
+      "Uttar Pradesh",
+      "Haryana",
+      "Rajasthan",
+      "Maharashtra"
+    ],
+    "answer": "Haryana"
+  },
+  {
+    "question": "Who was appointed as the ‘Principal Secretary-2’ to Prime Minister Narendra Modi after serving as RBI Governor?",
+    "options": [
+      "Raghuram Rajan",
+      "Shaktikanta Das",
+      "Urjit Patel",
+      "Nirmala Sitharaman",
+      "Arvind Subramanian"
+    ],
+    "answer": "Shaktikanta Das"
+  },
+  {
+    "question": "What day has Bangladesh officially declared as Military Martyrdom Day?",
+    "options": [
+      "February 26",
+      "February 25",
+      "March 1",
+      "January 15",
+      "December 16"
+    ],
+    "answer": "February 25"
+  },
+  {
+    "question": "Who won the 71st Senior National Men’s Kabaddi Championship?",
+    "options": [
+      "Railways",
+      "Punjab",
+      "Haryana",
+      "Services",
+      "Uttar Pradesh"
+    ],
+    "answer": "Services"
+  },
+  {
+    "question": "Who became the fastest batter to reach 14,000 runs in ODI cricket?",
+    "options": [
+      "Sachin Tendulkar",
+      "Virat Kohli",
+      "Ricky Ponting",
+      "Kumar Sangakkara",
+      "MS Dhoni"
+    ],
+    "answer": "Virat Kohli"
+  },
+  {
+    "question": "Which company introduced the Bima-ASBA facility for premium payments?",
+    "options": [
+      "HDFC Life",
+      "LIC",
+      "Bajaj Allianz Life Insurance",
+      "ICICI Prudential Life",
+      "SBI Life Insurance"
+    ],
+    "answer": "Bajaj Allianz Life Insurance"
+  },
+  {
+    "question": "Which company partnered with ASI to restore and protect historic water bodies in India?",
+    "options": [
+      "Tata Consultancy Services",
+      "Bisleri International",
+      "Coca-Cola",
+      "PepsiCo",
+      "Hindustan Unilever"
+    ],
+    "answer": "Bisleri International"
+  }
+]

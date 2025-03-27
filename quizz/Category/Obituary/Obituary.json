@@ -1,0 +1,79 @@
+[
+    {
+        "question": "Which visionary leader, known for steering Suzuki Motor for over 40 years and expanding its presence in India, passed away at the age of 94?",
+        "options": [
+            "Osamu Suzuki",
+            "Akio Mutayashi",
+            "Soichiro Hamada",
+            "Eiji Toyoda",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "By which name was Tulsi Gowda, the renowned environmentalist who recently passed away, popularly known?",
+        "options": [
+            "The Green Crusader",
+            "Mother of Trees",
+            "Forest Guardian of India",
+            "Encyclopedia of the Forest",
+            "Mother Nature"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "M.D.R Ramachandran, who recently passed away, was the Chief Minister of which State/Union Territory?",
+        "options": [
+            "Tamil Nadu",
+            "Lakshadweep",
+            "Puducherry",
+            "Kerala",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which veteran British actor, known for his role as George Roper in Man About the House and George & Mildred, passed away at the age of 92?",
+        "options": [
+            "John Cleese",
+            "Brian Murphy",
+            "David Jason",
+            "Ronnie Barker",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which renowned botanist, known for translating Hortus Malabaricus into English and Malayalam, passed away at 86?",
+        "options": [
+            "K S Manilal",
+            "Janaki Ammal",
+            "Birbal Sahni",
+            "Ashutosh Pawar",
+            "None of the above"
+        ],
+        "answer": "K S Manilal"
+    },
+    {
+        "question": "Which renowned Sanskrit scholar, honored with Padma Shri and Knight of the Legion of Honour, passed away in December 2024?",
+        "options": [
+            "Sheldon Pollock",
+            "Pierre-Sylvain Filliozat",
+            "Frits Staal",
+            "Vasundhara Kavali Narorji",
+            "None of the above"
+        ],
+        "answer": "Pierre-Sylvain Filliozat"
+    },
+    {
+        "question": "Renowned filmmaker Arun Roy, best known for his critically acclaimed films Bagha Jatin (2023) and Hiralal (2021), passed away at the age of 56. In which language did director Arun Roy primarily make his films?",
+        "options": [
+            "Bengali",
+            "Hindi",
+            "Tamil",
+            "Marathi",
+            "None of the above"
+        ],
+        "answer": "Bengali"
+    }
+]

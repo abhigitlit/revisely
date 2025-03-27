@@ -1,0 +1,374 @@
+[
+    {
+        "question": "Which state government announced providing an additional 5 kg of rice under the Anna Bhagya scheme?",
+        "options": [
+            "Tamil Nadu ",
+            "Andhra Pradesh ",
+            "Maharashtra ",
+            "Karnataka "
+        ],
+        "answer": "Karnataka "
+    },
+    {
+        "question": "SEBI has cancelled the registrations of how many foreign venture capital institutions (FVCI) after investigations found that they had violated capital market regulations?",
+        "options": [
+            "14 ",
+            "15 ",
+            "17 ",
+            "19 "
+        ],
+        "answer": "19 "
+    },
+    {
+        "question": "RBI has introduced a new mobile application, ‘RBIDATA’, offering seamless access to over 11,000 series of economic and financial data related to the Indian economy. Which of the following is NOT a feature of the RBIDATA app?",
+        "options": [
+            "Users can access data related to SAARC countries. ",
+            "It enables users to apply for RBI loans directly. ",
+            "It provides information on macroeconomic statistics. ",
+            "It provides time series data with graphical representations "
+        ],
+        "answer": "It enables users to apply for RBI loans directly. "
+    },
+    {
+        "question": "The Iron Dome air missile defense system, recently seen in the news, is developed by which country?",
+        "options": [
+            "France ",
+            "Russia ",
+            "Israel ",
+            "North Korea "
+        ],
+        "answer": "Israel "
+    },
+    {
+        "question": "Consider the following statements regarding Electronic Personnel License:  1. It will replace traditional physical licenses for pilots.  2. It is implemented by the Directorate General of Civil Aviation (DGC",
+        "options": [
+            ".  ",
+            "1 only ",
+            "2 only ",
+            "Both 1 and 2 ",
+            "Neither 1 nor 2 "
+        ],
+        "answer": "2 only "
+    },
+    {
+        "question": "With reference to Technology Adoption Fund, consider the following:  1. It aims to accelerate the development of indigenous space technology, reducing reliance on imported solutions.  2. It consists of a corpus of Rs 500 crore to support the growth of India’s space startups.  3. It is an initiative of the Indian National Space Promotion and Authorization Centre (IN-SPACe).  Which of the statements given above is/are correct?",
+        "options": [
+            "1 and 2 only ",
+            "2 and 3 only ",
+            "1, 2 and 3 ",
+            "None "
+        ],
+        "answer": "1, 2 and 3 "
+    },
+    {
+        "question": "Which organization has approved the amalgamation of Chaitanya India Fin Credit and Svatantra Holdings into Svatantra Microfin?",
+        "options": [
+            "Reserve Bank of India (RBI) ",
+            "Competition Commission of India (CCI) ",
+            "Securities and Exchange Board of India (SEBI) ",
+            "Ministry of Finance "
+        ],
+        "answer": "Competition Commission of India (CCI) "
+    },
+    {
+        "question": "Which organization launched the 'One Man Office' digital platform?",
+        "options": [
+            "SBI ",
+            "LIC ",
+            "HDFC Bank  ",
+            "ICICI Bank "
+        ],
+        "answer": "LIC "
+    },
+    {
+        "question": "Which state’s Forest Management Project won the SKOCH Award 2024?",
+        "options": [
+            "Assam ",
+            "Nagaland ",
+            "Meghalaya ",
+            "Arunachal Pradesh "
+        ],
+        "answer": "Nagaland "
+    },
+    {
+        "question": "Which company has partnered with AWS to modernize digital infrastructure in India’s energy sector?",
+        "options": [
+            "Reliance industries  ",
+            "Adani Group  ",
+            "Tata Power  ",
+            "Mahindra & Mahindra "
+        ],
+        "answer": "Tata Power  "
+    },
+    {
+        "question": "Who became the fastest Indian bowler to reach 200 ODI wickets?",
+        "options": [
+            "Mohammed Siraj ",
+            "Bhuvneshwar Kumar ",
+            "Jasprit Bumrah ",
+            "Mohammed Shami "
+        ],
+        "answer": "Mohammed Shami "
+    },
+    {
+        "question": "Where was India’s first vertical bi-facial solar plant installed?",
+        "options": [
+            "Rajiv Chowk Metro Station ",
+            "Okhla Vihar Metro Station ",
+            "Kashmere Gate Metro Station ",
+            "Central Secretariat Metro Station "
+        ],
+        "answer": "Okhla Vihar Metro Station "
+    },
+    {
+        "question": "What is the name of the Kerala government’s initiative to collect and dispose of expired and unused medicines?",
+        "options": [
+            "nPROUD ",
+            "Drug Disposal Mission ",
+            "Safe Medicine Initiative ",
+            "MedClean Drive "
+        ],
+        "answer": "nPROUD "
+    },
+    {
+        "question": "Where is the G20 Foreign Ministers’ Meeting being held?",
+        "options": [
+            "Beijing, China ",
+            "Johannesburg, South Africa ",
+            "Washington, USA ",
+            "Tokyo, Japan "
+        ],
+        "answer": "Johannesburg, South Africa "
+    },
+    {
+        "question": "Which Indian defence shipbuilding company has showcased its ships at NAVDEX 2025?",
+        "options": [
+            "Hindustan Shipyard Limited ",
+            "Garden Reach Shipbuilders and Engineers Limited ",
+            "Goa Shipyard Limited ",
+            "Cochin Shipyard Limited "
+        ],
+        "answer": "Goa Shipyard Limited "
+    },
+    {
+        "question": "Where has Eurobank established its new global delivery centre in collaboration with LTIMindtree?",
+        "options": [
+            "Bangalore ",
+            "Mumbai ",
+            "Pune ",
+            "Hyderabad "
+        ],
+        "answer": "Pune "
+    },
+    {
+        "question": "Mount Dukono, recently in news, is located in:",
+        "options": [
+            "France ",
+            "Mexico ",
+            "Kenya ",
+            "Indonesia "
+        ],
+        "answer": "Indonesia "
+    },
+    {
+        "question": "Which country maximum funds were raised by companies through Initial Public Offering (IPO) in 2024?",
+        "options": [
+            "Japan  ",
+            "India ",
+            "Indonesia  ",
+            "Singapore "
+        ],
+        "answer": "India "
+    },
+    {
+        "question": "Which company issued India’s largest and world’s second largest Initial Public Offering (IPO) in 2024?",
+        "options": [
+            "Hyundai Motors ",
+            "Tata Motors ",
+            "Mahindra & Mahindra ",
+            "Maruti Suzuki "
+        ],
+        "answer": "Hyundai Motors "
+    },
+    {
+        "question": "Where was the first first Conference for Women Peacekeepers of the United Nations held?",
+        "options": [
+            "Chennai  ",
+            "New Delhi  ",
+            "Hyderabad  ",
+            "Bengaluru  "
+        ],
+        "answer": "New Delhi  "
+    },
+    {
+        "question": "How many countries participated in the first Conference for Women Peacekeepers of the United Nations?",
+        "options": [
+            "30 ",
+            "35 ",
+            "40 ",
+            "60 "
+        ],
+        "answer": "35 "
+    },
+    {
+        "question": "Which football club has won the 2024-25 season Indian Super League (ISL) Winners Shield?",
+        "options": [
+            "Mumbai City FC ",
+            "FC Goa ",
+            "Mohun Bagan Super Giant ",
+            "Jamshedpur FC "
+        ],
+        "answer": "Mohun Bagan Super Giant "
+    },
+    {
+        "question": "Where was the first International Conference on Carbon Markets-Prakriti was held?",
+        "options": [
+            "New Delhi  ",
+            "Chennai  ",
+            "Hyderabad  ",
+            "Bengaluru "
+        ],
+        "answer": "New Delhi  "
+    },
+    {
+        "question": "International Finance Corporation (IFC) has decided against investing in a proposed $40 million loan for waste-to-energy (WTE) incineration projects in which state?",
+        "options": [
+            "has decided against investing in a proposed $40 million loan ",
+            "Andhra Pradesh  ",
+            "Odisha  ",
+            "Uttar Pradesh  ",
+            "Gujarat "
+        ],
+        "answer": "Uttar Pradesh  "
+    },
+    {
+        "question": "SWAYATT Initiative, recently in news, is a:",
+        "options": [
+            "e- learning platform launched by the Ministry of Education ",
+            "platform launched by the RBI for Rural Regional Banks ",
+            "an initiative for rural households to learn basic computer skills online ",
+            "an initiative which invigorate participation of women-led enterprises and youth in public "
+        ],
+        "answer": "an initiative which invigorate participation of women-led enterprises and youth in public "
+    },
+    {
+        "question": "Consider the following statements regarding HKU5-CoV-2, recently seen in the news:  1. It is a newly discovered bat coronavirus.  2. It has a lower binding affinity to human ACE2 than SARS-CoV-2, the virus behind COVID-19 pandemic.  Which of the statements given above is/are correct?",
+        "options": [
+            "1 only ",
+            "2 only ",
+            "Both 1 and 2 ",
+            "Neither 1 nor 2 "
+        ],
+        "answer": "1 only "
+    },
+    {
+        "question": "Why was Qualified Institutional Placement (QIP) introduced in India?",
+        "options": [
+            "To encourage foreign investment ",
+            "To reduce companies’ reliance on overseas fundraising methods ",
+            "To allow only government-owned companies to raise capital ",
+            "To eliminate the need for company audits "
+        ],
+        "answer": "To reduce companies’ reliance on overseas fundraising methods "
+    },
+    {
+        "question": "Which company has partnered with the Archaeological Survey of India (ASI) to restore heritage water bodies?",
+        "options": [
+            "Coca-Cola ",
+            "PepsiCo ",
+            "Nestle ",
+            "Bisleri "
+        ],
+        "answer": "Bisleri "
+    },
+    {
+        "question": "Which company introduced the Bima-ASBA facility in India?",
+        "options": [
+            "HDFC Life Insurance ",
+            "ICICI Prudential Life Insurance ",
+            "Bajaj Allianz Life ",
+            "SBI Life Insurance "
+        ],
+        "answer": "Bajaj Allianz Life "
+    },
+    {
+        "question": "Which bank has become the official banking partner of the Professional Golf Tour of India (PGTI)?",
+        "options": [
+            "HDFC Bank ",
+            "IndusInd Bank ",
+            "ICICI Bank ",
+            "Axis Bank "
+        ],
+        "answer": "IndusInd Bank "
+    },
+    {
+        "question": "Which state in India has recently received its 8th airport with approval from DGCA?",
+        "options": [
+            "Uttar Pradesh ",
+            "Madhya Pradesh ",
+            "Rajasthan ",
+            "Gujarat "
+        ],
+        "answer": "Madhya Pradesh "
+    },
+    {
+        "question": "Where has India’s first zoo-based wildlife biobank been established?",
+        "options": [
+            "National Zoological Park ",
+            "Padmaja Naidu Himalayan Zoological Park ",
+            "Nandankanan Zoological Park ",
+            "Nehru Zoological Park "
+        ],
+        "answer": "Padmaja Naidu Himalayan Zoological Park "
+    },
+    {
+        "question": "Which country assumed the Chairmanship of the Bay of Bengal Programme Inter-Governmental Organisation (BOBP-IGO)?",
+        "options": [
+            "India ",
+            "Bangladesh ",
+            "Sri Lanka ",
+            "Maldives "
+        ],
+        "answer": "India "
+    },
+    {
+        "question": "Who is the first astronaut with a disability to be cleared for a mission to the International Space Station (ISS)?",
+        "options": [
+            "Chris Hadfield ",
+            "Tim Peake ",
+            "John McFall ",
+            "Daniel Neuenschwander "
+        ],
+        "answer": "John McFall "
+    },
+    {
+        "question": "Which among the following best describes INS Tamal, recently seen in the news?",
+        "options": [
+            "It is a torpedo launch and recovery vessel. ",
+            "It is a stealth guided missile frigate. ",
+            "It is a diesel-electric submarine. ",
+            "It is a Kiev-class aircraft carrier. "
+        ],
+        "answer": "It is a stealth guided missile frigate. "
+    },
+    {
+        "question": "With reference to PUNCH Mission, consider the following:  1. It consists of constellation of four satellites each sent to the Low Earth Orbit.  2. It is an initiative of the European Space Agency.  3. It is designed to make use of the polarisation of light to measure the corona and solar wind.  Which of the statements given above are correct?",
+        "options": [
+            "1 and 2 only ",
+            "2 and 3 only ",
+            "1 and 3 only ",
+            "1, 2 and 3 "
+        ],
+        "answer": "1 and 3 only "
+    },
+    {
+        "question": "DPIIT has signed an agreement with which organization to boost India’s startup ecosystem?",
+        "options": [
+            "PhonePe ",
+            "Paytm ",
+            "Razorpay ",
+            "MobiKwik "
+        ],
+        "answer": "Paytm "
+    }
+]

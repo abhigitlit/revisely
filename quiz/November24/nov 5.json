@@ -1,0 +1,322 @@
+[
+    {
+        "question": "What stake did Tata acquire in Pegatron's Tamil Nadu iPhone plant?",
+        "options": [
+            "40%",
+            "50%",
+            "60%",
+            "70%"
+        ],
+        "answer": "60%"
+    },
+    {
+        "question": "Who succeeded Girish Chandra Murmu as Comptroller and Auditor General of India?",
+        "options": [
+            "Rajiv Mehrishi",
+            "K K Venugopal",
+            "K Sanjay Murthy",
+            "T N Manoharan"
+        ],
+        "answer": "K Sanjay Murthy"
+    },
+    {
+        "question": "What was the value of the deal signed between Tata Power and Asian Development Bank?",
+        "options": [
+            "$2.25 billion",
+            "$3.25 billion",
+            "$4.25 billion",
+            "$5.25 billion"
+        ],
+        "answer": "$4.25 billion"
+    },
+    {
+        "question": "Which new flowering species was discovered in the Eastern Ghats by the Botanical Survey of India?",
+        "options": [
+            "Impatiens gollumiana",
+            "Crinum andhricum",
+            "Arisaema kannurense",
+            "Sonerila nairii"
+        ],
+        "answer": "Crinum andhricum"
+    },
+    {
+        "question": "Which team did India defeat to claim its third Women's Asian Champions Trophy title?",
+        "options": [
+            "Japan",
+            "South Korea",
+            "China",
+            "Malaysia"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Who won the 'Airport Excellence Awards' at the Saudi Airport Exhibition 2024?",
+        "options": [
+            "Changi Airport",
+            "Doha Hamad International Airport",
+            "GHIAL (Hyderabad Airport)",
+            "Dubai International Airport"
+        ],
+        "answer": "GHIAL (Hyderabad Airport)"
+    },
+    {
+        "question": "What was the theme of International Men's Day 2024?",
+        "options": [
+            "Zero Male Suicide",
+            "Better health for men",
+            "Positive Male Role Models",
+            "Celebrating Men and Boys"
+        ],
+        "answer": "Positive Male Role Models"
+    },
+    {
+        "question": "What was the theme of World Children's Day 2024?",
+        "options": [
+            "For every child, hope",
+            "A Better Future for Every Child",
+            "Invest in our Future",
+            "Listen to the Future"
+        ],
+        "answer": "Listen to the Future"
+    },
+    {
+        "question": "Which former UK Deputy Prime Minister passed away at 86?",
+        "options": [
+            "Michael Heseltine",
+            "John Prescott",
+            "Geoffrey Howe",
+            "Leon Brittan"
+        ],
+        "answer": "John Prescott"
+    },
+    {
+        "question": "Where will India'sfirst Constitution Museum be located?",
+        "options": [
+            "New Delhi",
+            "Kolkata",
+            "O.P. Jindal University, Sonipat, Haryana",
+            "Mumbai"
+        ],
+        "answer": "O.P. Jindal University, Sonipat, Haryana"
+    },
+    {
+        "question": "What was the name of the AI chatbot launched by NASA in partnership with Microsoft?",
+        "options": [
+            "Cosmos AI",
+            "Stellaris",
+            "Earth Copilot",
+            "NovaMind"
+        ],
+        "answer": "Earth Copilot"
+    },
+    {
+        "question": "Which broadcasting company secured ACC Tournament Rights for 2024-2031?",
+        "options": [
+            "Star Sports",
+            "Sony Sports",
+            "Ten Sports",
+            "DD Sports"
+        ],
+        "answer": "Sony Sports"
+    },
+    {
+        "question": "What is the name of the platform introduced by IRDAI to prevent mis-selling of insurance products?",
+        "options": [
+            "INSURE-SAFE",
+            "Bima Sugam",
+            "Policy Bazaar",
+            "E-Insurance"
+        ],
+        "answer": "Bima Sugam"
+    },
+    {
+        "question": "Which city will host the Khelo India Youth and Para Games in April 2025?",
+        "options": [
+            "Patna",
+            "Bhubaneswar",
+            "Ranchi",
+            "Raipur"
+        ],
+        "answer": "Bihar"
+    },
+    {
+        "question": "What is the duration of the ALT EFF 2024 Film Festival in Mumbai?",
+        "options": [
+            "November 15 to November 30",
+            "November 22 to December 8",
+            "December 1 to December 15",
+            "December 8 to December 22"
+        ],
+        "answer": "November 22 to December 8"
+    },
+    {
+        "question": "Which government body recommended adding coking coal to the critical minerals list?",
+        "options": [
+            "Ministry of Coal",
+            "Geological Survey of India",
+            "NITI Aayog",
+            "Ministry of Mines"
+        ],
+        "answer": "NITI Aayog"
+    },
+    {
+        "question": "What was the amount of fine imposed by CCI on Meta over WhatsApp privacy policy updates?",
+        "options": [
+            "₹113.14 crore",
+            "₹213.14 crore",
+            "₹313.14 crore",
+            "₹413.14 crore"
+        ],
+        "answer": "₹213.14 crore"
+    },
+    {
+        "question": "Who were named as sports ambassadors for Dubai Sports Council?",
+        "options": [
+            "Sachin Tendulkar & Virat Kohli",
+            "Sourav Ganguly & Sania Mirza",
+            "Harbhajan Singh & Sania Mirza",
+            "Yuvraj Singh & Mary Kom"
+        ],
+        "answer": "Harbhajan Singh & Sania Mirza"
+    },
+    {
+        "question": "Which space agency did ISRO collaborate with for crew recovery during Gaganyaan mission?",
+        "options": [
+            "CNES (France)",
+            "JAXA (Japan)",
+            "Australian Space Agency (ASA)",
+            "Canadian Space Agency (CSA)"
+        ],
+        "answer": "Australian Space Agency (ASA)"
+    },
+    {
+        "question": "Who succeeded Justice Siddharth Mridul as Chief Justice of Manipur HC?",
+        "options": [
+            "Justice Ramalingam Sudhakar",
+            "Justice Sanjay Kumar Mishra",
+            "Justice D. Krishnakumar",
+            "Justice T.S. Sivagnanam"
+        ],
+        "answer": "Justice D. Krishnakumar"
+    },
+    {
+        "question": "What is the name of the cyclone expected to impact Tamil Nadu?",
+        "options": [
+            "Cyclone Michaung",
+            "Cyclone Mandous",
+            "Cyclone Remal",
+            "Cyclone Fengal"
+        ],
+        "answer": "Cyclone Fengal"
+    },
+    {
+        "question": "Which company did the Hinduja Group acquire for ₹10,000 crore?",
+        "options": [
+            "DHFL",
+            "Reliance Capital",
+            "PNB Housing Finance",
+            "L&T Finance"
+        ],
+        "answer": "Reliance Capital"
+    },
+    {
+        "question": "Which infantry approved women officers in command roles for the first time?",
+        "options": [
+            "Mechanised Infantry",
+            "Parachute Regiment",
+            "Madras Regiment",
+            "Four battalions at MIRC, Ahilyanagar"
+        ],
+        "answer": "Four battalions at MIRC, Ahilyanagar"
+    },
+    {
+        "question": "How many years of Constitution Day was celebrated?",
+        "options": [
+            "70th anniversary",
+            "74th anniversary",
+            "75th anniversary",
+            "80th anniversary"
+        ],
+        "answer": "75th anniversary"
+    },
+    {
+        "question": "What is the date of Guru Tegh Bahadur's Shaheedi Divas?",
+        "options": [
+            "November 20",
+            "November 24",
+            "December 5",
+            "December 10"
+        ],
+        "answer": "November 24"
+    },
+    {
+        "question": "What is the theme of the International Day for the Elimination of Violence Against Women?",
+        "options": [
+            "Orange the World: Fund, Prevent, Collect, Unite!",
+            "Leave No One Behind: End violence against women",
+            "Best practices to combat violence (25th anniversary)",
+            "Generation Equality Stands Against Rape"
+        ],
+        "answer": "Best practices to combat violence (25th anniversary)"
+    },
+    {
+        "question": "Who won the Governor's Gold Cup?",
+        "options": [
+            "Mohun Bagan",
+            "East Bengal",
+            "North-East United FC",
+            "Gokulam Kerala FC"
+        ],
+        "answer": "North-East United FC"
+    },
+    {
+        "question": "How did North-East United FC win the Governor's Gold Cup?",
+        "options": [
+            "2-1 in regular time",
+            "3-2 in extra time",
+            "4-3 penalty shootout against Gangtok Himalayan SC",
+            "5-4 penalty shootout against Sikkim FA"
+        ],
+        "answer": "4-3 penalty shootout against Gangtok Himalayan SC"
+    },
+    {
+        "question": "Which international solar mission will ISRO launch?",
+        "options": [
+            "Aditya-L1 Mission",
+            "Proba-3 Solar Mission (in collaboration with ESA)",
+            "Parker Solar Probe (NASA)",
+            "Solar Orbiter (ESA/NASA)"
+        ],
+        "answer": "Proba-3 Solar Mission (in collaboration with ESA)"
+    },
+    {
+        "question": "Where did S. Jaishankar open the new Indian Embassy's Chancery?",
+        "options": [
+            "Berlin",
+            "Paris",
+            "Rome",
+            "Vienna"
+        ],
+        "answer": "Rome"
+    },
+    {
+        "question": "What is the RBI's current repo rate?",
+        "options": [
+            "6.25%",
+            "6.5% (stable since February 2023)",
+            "6.75%",
+            "7.0%"
+        ],
+        "answer": "6.5% (stable since February 2023)"
+    },
+    {
+        "question": "What percentage of GDP growth did S&P project for FY26?",
+        "options": [
+            "6.5%",
+            "6.7%",
+            "7.0%",
+            "7.2%"
+        ],
+        "answer": "6.7%"
+    }
+]

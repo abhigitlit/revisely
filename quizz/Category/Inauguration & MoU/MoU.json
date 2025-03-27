@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Which Indian company signed an MoU with the Indian Army for constructing a modular steel bridge in Arunachal Pradesh?",
+        "options": [
+            "Larsen & Toubro",
+            "Tata Projects",
+            "Garden Reach Shipbuilders and Engineers (GRSE)",
+            "Bharat Heavy Electricals Limited (BHEL)"
+        ],
+        "answer": "Garden Reach Shipbuilders and Engineers (GRSE)"
+    },
+    {
+        "question": "What is the purpose of the MoU to be signed between the National Minorities Development and Finance Corporation (NMDFC) and the Dalit Indian Chamber of Commerce and Industry (DICCI)?",
+        "options": [
+            "To promote digital literacy among marginalized communities",
+            "To empower marginalized communities through entrepreneurship",
+            "To provide financial aid for education",
+            "To support healthcare initiatives for marginalized groups",
+            "None of the Above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which organization signed an agreement with Silizium Circuits Pvt Ltd for the \"Design and Development of LEO Satellite Components and GNSS RF Front End ASIC\"?",
+        "options": [
+            "Centre for Development of Telematics (C-DOT)",
+            "Defence Research and Development Organisation (DRDO)",
+            "National Informatics Centre (NIC)",
+            "Indian Space Research Organisation (ISRO)",
+            "NPCI"
+        ],
+        "answer": "Centre for Development of Telematics (C-DOT)"
+    },
+    {
+        "question": "What is the capital of Nicaragua, where India and Nicaragua recently signed an MoU for Quick Impact Projects?",
+        "options": [
+            "Managua",
+            "San Salvador",
+            "Tegucigalpa",
+            "Bogot\u00e1",
+            "Harare"
+        ],
+        "answer": "Managua"
+    },
+    {
+        "question": "Which organization signed an MoU with REMC Limited to explore financing options for power projects for Railways?",
+        "options": [
+            "Power Finance Corporation (PFC)",
+            "Rural Electrification Corporation (REC)",
+            "Indian Railway Finance Corporation (IRFC)",
+            "NTPC Limited",
+            "None of the above"
+        ],
+        "answer": "Indian Railway Finance Corporation (IRFC)"
+    },
+    {
+        "question": "Which state signed MoUs worth \u20b938,750 crore at the World Economic Forum in Davos?",
+        "options": [
+            "Gujarat",
+            "Karnataka",
+            "Maharashtra",
+            "Tamil Nadu",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which state government signed an MoU with the Swiss-Indian Chamber of Commerce to foster international business collaboration during the Global Investors 2025?",
+        "options": [
+            "Maharashtra",
+            "Karnataka",
+            "Gujarat",
+            "Tamil Nadu",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which two ministries signed an MoU to enhance geriatric healthcare and tackle substance abuse?",
+        "options": [
+            "Ministry of Health & Ministry of Ayush",
+            "Ministry of Ayush & Department of Social Justice and Empowerment",
+            "Ministry of Women & Child Development & Ministry of Ayush",
+            "Ministry of Home Affairs & Ministry of Ayush",
+            "Ministry of Women & Child Development & Ministry of Health"
+        ],
+        "answer": "Ministry of Ayush & Department of Social Justice and Empowerment"
+    },
+    {
+        "question": "Which defense system is being collaborated on between Swedish defense firm Saab and Hindustan Aeronautics Limited (HAL) as per their recent MoU?",
+        "options": [
+            "Combat Management System",
+            "Laser Warning System (LWS-310)",
+            "Radar Warning System",
+            "Anti-Missile Defense System",
+            "None of the above"
+        ],
+        "answer": "Laser Warning System (LWS-310)"
+    },
+    {
+        "question": "Which state signed a Memorandum of Understanding (MoU) with the State Bank of India (SBI) and Union Bank of India (UBI) to offer insurance benefits to its government employees on January 1, 2025?",
+        "options": [
+            "West Bengal",
+            "Assam",
+            "Odisha",
+            "Bihar",
+            "Jharkhand"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "With which organization did the Financial Intelligence Unit-India (FIU-IND) sign an MoU on January 6, 2025, to enhance cooperation in combating money laundering?",
+        "options": [
+            "Reserve Bank of India (RBI)",
+            "Securities and Exchange Board of India (SEBI)",
+            "Insurance Regulatory and Development Authority of India (IRDAI)",
+            "Ministry of Finance",
+            "National Financial Reporting Authority (NFRA)"
+        ],
+        "answer": "Insurance Regulatory and Development Authority of India (IRDAI)"
+    }
+]

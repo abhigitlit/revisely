@@ -1,0 +1,430 @@
+[
+    {
+        "question": "Which organization collaborated with NASA's ICESat-2 to create the first undersea map of the submerged \u2018Ram Setu\u2019?",
+        "options": [
+            "Geological Survey of India (GSI)",
+            "National Institute of Oceanography (NIO)",
+            "Indian Space Research Organisation (ISRO)",
+            "Archaeological Survey of India (ASI)"
+        ],
+        "answer": "Indian Space Research Organisation (ISRO)"
+    },
+    {
+        "question": "Which drug is being developed to treat multi-resistant HIV and expected to play a preventive role in 'poorest' countries?",
+        "options": [
+            "Tenofovir",
+            "Zidovudine",
+            "Lenacapavir",
+            "Efavirenz",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the name of the portal developed by the Department of Telecommunications to empower citizens against fraud communications and unsolicited commercial communications?",
+        "options": [
+            "Bharat Net Portal",
+            "Sanchar Saathi Portal",
+            "Sanchar Suraksha Portal",
+            "Tele Safeguard Portal",
+            "Sanchar Safeguard Portal"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which Nvidia device is known for revolutionizing AI at the edge with 67 TOPS performance and support for advanced AI models like vision transformers and large language models?",
+        "options": [
+            "Nvidia A100",
+            "Jetson Xavier NX",
+            "Tesla V100 MK14",
+            "Jetson Orin Nano Super",
+            "Boeing 52F"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the name of the AI tool launched by the Reserve Bank of India (RBI) Innovation Hub (RBIH) to detect and flag mule bank accounts involved in illicit financial activities?",
+        "options": [
+            "FraudShield.AI",
+            "MuleTracker.AI",
+            "BankGuard.AI",
+            "MuleHunter.AI",
+            "FinWatch.AI"
+        ],
+        "answer": "MuleHunter.AI"
+    },
+    {
+        "question": "Which organization signed an agreement with Silizium Circuits Pvt Ltd for the \"Design and Development of LEO Satellite Components and GNSS RF Front End ASIC\"?",
+        "options": [
+            "Centre for Development of Telematics (C-DOT)",
+            "Defence Research and Development Organisation (DRDO)",
+            "National Informatics Centre (NIC)",
+            "Indian Space Research Organisation (ISRO)",
+            "NPCI"
+        ],
+        "answer": "Centre for Development of Telematics (C-DOT)"
+    },
+    {
+        "question": "What is the name of India's first indigenous macrolide antibiotic, which aims to address antimicrobial resistance (AMR)?",
+        "options": [
+            "Nafithromycin",
+            "Amoxyclav",
+            "Ciprofloxacin",
+            "Doxycycline",
+            "None of the Above"
+        ],
+        "answer": "Nafithromycin"
+    },
+    {
+        "question": "Which institute developed bacteria to combat soil pollution by consuming toxic pollutants and producing plant-friendly nutrients?",
+        "options": [
+            "IIT Delhi",
+            "IIT Madras",
+            "IIT Bombay",
+            "IIT Kanpur",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which country recently unveiled the CR450 prototype, the world's fastest high-speed train?",
+        "options": [
+            "Japan",
+            "Germany",
+            "China",
+            "South Korea",
+            "Italy"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Which mysterious exoplanet was confirmed to be 12 times bigger than Jupiter?",
+        "options": [
+            "Gaia-4b",
+            "Kepler-452b",
+            "Proxima b",
+            "TRAPPIST-1d",
+            "HD 209458b"
+        ],
+        "answer": "Gaia-4b"
+    },
+    {
+        "question": "Which mission is ISRO planning to launch in 2027?",
+        "options": [
+            "Chandrayaan-4",
+            "Mars Orbiter Mission",
+            "Gaganyaan",
+            "Aditya-L1",
+            "Chandrayaan-3"
+        ],
+        "answer": "Chandrayaan-4"
+    },
+    {
+        "question": "Which organization launched the new advanced IT incubation centre in Salt Lake, Kolkata?",
+        "options": [
+            "Ministry of Information Technology (MeitY)",
+            "Software Technology Parks of India (STPI)",
+            "Tata Consultancy Services (TCS)",
+            "Indian Institute of Technology (IIT)",
+            "National Association of Software and Service Companies (NASSCOM)"
+        ],
+        "answer": "Software Technology Parks of India (STPI)"
+    },
+    {
+        "question": "Which ESA astronaut with a prosthetic leg was approved for space missions?",
+        "options": [
+            "John McFall",
+            "Stephen Hawking",
+            "Tim Peake",
+            "Helen Sharman",
+            "Chris Hadfield"
+        ],
+        "answer": "John McFall"
+    },
+    {
+        "question": "Which company introduced the Majorana 1 quantum chip?",
+        "options": [
+            "Google",
+            "IBM",
+            "Microsoft",
+            "Intel",
+            "Apple"
+        ],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "Which Indian institute developed a self-actuating drug delivery system for rheumatoid arthritis treatment?",
+        "options": [
+            "AIIMS Delhi",
+            "INST Mohali",
+            "IIT Bombay",
+            "CSIR-CCMB",
+            "IIM Ahmedabad"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who is the lead researcher heading the 40-day global expedition in the Ross Sea, a marine protected zone in Antarctica, to assess marine biodiversity, study environmental DNA, and analyze the region's impact on global ocean currents and climate change?",
+        "options": [
+            "Madhavan Rajeevan",
+            "M. Ravichandran",
+            "Sherine Sonia Cubelio",
+            "Anil Bhardwaj",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which institution launched India's first Cancer Genome Atlas (BCGA) for early breast cancer detection?",
+        "options": [
+            "AIIMS Delhi",
+            "Tata Memorial Hospital",
+            "NIMHANS",
+            "IIT Madras",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which university's researchers discovered the new phytopathogenic fungus Epicoccum indicum, associated with an emerging leaf spot disease in Chrysopogon zizanioides (vetiver)?",
+        "options": [
+            "Punjab University",
+            "Banaras Hindu University",
+            "Jawaharlal Nehru University",
+            "University of Hyderabad",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which Indian research institute developed the novel high-entropy alloy (HEA) catalyst for green hydrogen production?",
+        "options": [
+            "Indian Institute of Technology (IIT) Madras",
+            "Indian Institute of Science (IISc)",
+            "Bhabha Atomic Research Centre (BARC)",
+            "Centre for Nano and Soft Matter Sciences (CeNS)",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Where was the National Institute of Electronics and Information Technology (NIELIT) Centre of Excellence in Chip Design inaugurated which is aimed to bolster India's VLSI & semiconductor capabilities?",
+        "options": [
+            "Bengaluru",
+            "Hyderabad",
+            "Noida",
+            "Chennai",
+            "Mumbai"
+        ],
+        "answer": "Noida"
+    },
+    {
+        "question": "Which country's mission successfully demonstrated artificial photosynthesis in space?",
+        "options": [
+            "United States - Artemis",
+            "Russia - Soyuz MS",
+            "China - Shenzhou-19",
+            "India - Gaganyaan",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the name of NASA's new space telescope set to launch in February 2025, which aims to survey the entire sky in 102 infrared colors?",
+        "options": [
+            "SPHEREx",
+            "James Webb Space Telescope 2.0",
+            "Hubble Space Telescope 2.0",
+            "Chandra-CRISP X-ray Observatory",
+            "None of the above"
+        ],
+        "answer": "SPHEREx"
+    },
+    {
+        "question": "What is the name of Zomato's AI-powered, no-code customer support platform designed to help businesses scale their operations?",
+        "options": [
+            "Zassist",
+            "Midget",
+            "Nugget",
+            "Zai",
+            "Pro"
+        ],
+        "answer": "Nugget"
+    },
+    {
+        "question": "What technology collaboration between the Ministry of Telecommunications (DoT) and International Telecommunication Union (ITU) was focused on in their recent agreement in February 2025?",
+        "options": [
+            "5G Connectivity Expansion",
+            "Cybersecurity Frameworks",
+            "AI-driven Digital Twin Technologies",
+            "IoT for Urban Planning",
+            "None of the above"
+        ],
+        "answer": "AI-driven Digital Twin Technologies"
+    },
+    {
+        "question": "What is the objective of ISRO's development of the world's largest 10-tonne vertical planetary propellant mixer, created in collaboration with the Central Manufacturing Technology Institute?",
+        "options": [
+            "To improve satellite communication technology",
+            "To develop reusable launch vehicles",
+            "To manufacture lightweight spacecraft materials",
+            "To enhance the production of solid rocket motors",
+            "None of the above"
+        ],
+        "answer": "To enhance the production of solid rocket motors"
+    },
+    {
+        "question": "What is the name of the indigenous semiconductor chip developed by ISRO and IIT Madras for space-based applications?",
+        "options": [
+            "SHAKTI",
+            "IRIS",
+            "CORE",
+            "VIKRAM",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the name of the newly approved vaccine for Lumpy Skin Disease (LSD) in cattle developed by Biovet (Bharat Biotech group)?",
+        "options": [
+            "LumpiShield",
+            "DivaCure",
+            "Biolumpivaxin",
+            "VetGuard LSD",
+            "Lumpaxim"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which country's space organization developed the world's largest 10-tonne propellant mixer for rocket motors?",
+        "options": [
+            "United States' NASA",
+            "India's ISRO",
+            "Russia's Roscosmos",
+            "China's CNSA",
+            "None of the above"
+        ],
+        "answer": "India's ISRO"
+    },
+    {
+        "question": "What is the name of the first Artificial and Emotional Intelligence-driven fashion forecasting platform, developed under the Ministry of Textiles?",
+        "options": [
+            "TextYle AI",
+            "EnVision",
+            "Parikalpna AI",
+            "VisioNxt",
+            "DeepSeek"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which start-up successfully tested UHF communication technology via SwetchaSat on ISRO's POEM-4 platform?",
+        "options": [
+            "N Space Tech",
+            "SkyTech Innovations",
+            "AstroSpace Pvt. Ltd.",
+            "NovaSat Systems",
+            "None of the above"
+        ],
+        "answer": "N Space Tech"
+    },
+    {
+        "question": "What was the name of the indigenously developed docking system used by ISRO to successfully dock satellites SDX01 and SDX02?",
+        "options": [
+            "Bhartiya Docking System",
+            "PSLV Docking System",
+            "Gaganyaan Docking System",
+            "Chandrayaan Docking System",
+            "None of the above"
+        ],
+        "answer": "Bhartiya Docking System"
+    },
+    {
+        "question": "Which mission by Digantara aims to enhance India's space domain awareness with precise object tracking and imaging in Low Earth Orbit?",
+        "options": [
+            "SAGAR Mission",
+            "Firefly Mission",
+            "Gaganyaan Mission",
+            "SCOT Mission",
+            "None of the above"
+        ],
+        "answer": "SCOT Mission"
+    },
+    {
+        "question": "The Indian Space Research Organisation (ISRO) is preparing to conduct its 100th rocket launch from the Satish Dhawan Space Centre in Sriharikota on January 29. What is the name of the 100th rocket launch satellite by ISRO?",
+        "options": [
+            "NVS-02",
+            "GSAT-19",
+            "Cartosat-3",
+            "IRNSS-1I",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "ISRO has successfully maneuvered the Chaser and Target satellites to a 3-meter range under which programme, aimed at testing the indigenous Bharatiya Docking System?",
+        "options": [
+            "Gaganyaan",
+            "SpaDex",
+            "Chandrayaan 4",
+            "Bhartiya Antriksh Station",
+            "None of the above"
+        ],
+        "answer": "SpaDex"
+    },
+    {
+        "question": "Which automobile manufacturer launched the first locally produced iX1 Long Wheelbase electric SUV?",
+        "options": [
+            "Audi",
+            "Mercedes-Benz",
+            "Tata",
+            "BMW",
+            "Ford"
+        ],
+        "answer": "BMW"
+    },
+    {
+        "question": "What is the name of the joint venture announced by Trump for AI infrastructure development?",
+        "options": [
+            "AI Bridge",
+            "Quantum Nexus",
+            "FutureLink",
+            "Stargate",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which satellite is ISRO set to launch to enable direct smartphone voice calls from space?",
+        "options": [
+            "Voyager Satellite",
+            "Starlink Satellite",
+            "Artemis Satellite",
+            "Bluebird Satellite",
+            "None of the above"
+        ],
+        "answer": "Bluebird Satellite"
+    },
+    {
+        "question": "Which sector in India was the most affected by cyberattacks in 2024, according to CloudSEK's Threat Landscape Report?",
+        "options": [
+            "Healthcare and pharma",
+            "Financial and banking",
+            "Telecommunications",
+            "Education",
+            "None of the above"
+        ],
+        "answer": "Financial and banking"
+    },
+    {
+        "question": "Which space agency successfully germinated black-eyed pea seeds in space under the CROPS-1 mission?",
+        "options": [
+            "NASA",
+            "ESA",
+            "Roscosmos",
+            "ISRO",
+            "JAXA"
+        ],
+        "answer": "4"
+    }
+]

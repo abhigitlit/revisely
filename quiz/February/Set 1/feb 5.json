@@ -1,0 +1,354 @@
+[
+    {
+        "question": "Which country's mission successfully demonstrated artificial photosynthesis in space?",
+        "options": [
+            "United States - Artemis",
+            "Russia - Soyuz MS",
+            "China - Shenzhou-19",
+            "India - Gaganyaan",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "How much funding has been allocated for the Samudrayaan Mission in the Union Budget?",
+        "options": [
+            "400 crore",
+            "500 crore",
+            "600 crore",
+            "750 crore",
+            "None of the above"
+        ],
+        "answer": "600 crore"
+    },
+    {
+        "question": "Which country will host the BRICS Youth Council Entrepreneurship Working Group Meeting in March 2025?",
+        "options": [
+            "China",
+            "Brazil",
+            "India",
+            "South Africa",
+            "Russia"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Who has been appointed as the Additional Director General, Directorate General of Foreign Trade (DGFT), as of February 2025?",
+        "options": [
+            "Anant Swarup",
+            "Samar Nanda",
+            "Santosh Kumar Verma",
+            "Abhinav Gupta",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Marcus Stoinis, who recently announced his retirement from ODIs ahead of the Champions Trophy, represents which country in international cricket?",
+        "options": [
+            "England",
+            "Australia",
+            "South Africa",
+            "New Zealand",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has been awarded the Sahitya Akademi Award 2024 in Dogri literature?",
+        "options": [
+            "Jitendra Udhampuri",
+            "Chaman Arora",
+            "Veena Gupta",
+            "Sushma Rani",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following groups of sites were newly added as Ramsar sites in India, bringing the total to 89?",
+        "options": [
+            "Sakkarakottai and Therthangal Bird Sanctuaries (Tamil Nadu), Khecheopalri Wetland (Sikkim), and Udhwa Lake (Jharkhand)",
+            "Harike Wetland (Punjab), Chilika Lake (Odisha), and Udhwa Lake (Jharkhand)",
+            "Chilika Lake (Odisha), Loktak Lake (Manipur), and Sambhar Salt Lake (Rajasthan)",
+            "Only Khecheopalri Wetland (Sikkim) and Udhwa Lake (Jharkhand)",
+            "None of the above"
+        ],
+        "answer": "Sakkarakottai and Therthangal Bird Sanctuaries (Tamil Nadu), Khecheopalri Wetland (Sikkim), and Udhwa Lake (Jharkhand)"
+    },
+    {
+        "question": "What is the name of NASA's new space telescope set to launch in February 2025, which aims to survey the entire sky in 102 infrared colors?",
+        "options": [
+            "SPHEREx",
+            "James Webb Space Telescope 2.0",
+            "Hubble Space Telescope 2.0",
+            "Chandra-CRISP X-ray Observatory",
+            "None of the above"
+        ],
+        "answer": "SPHEREx"
+    },
+    {
+        "question": "Which country recently passed strict hate crime laws, imposing a minimum 12-month jail term for public Nazi salutes and up to six years for terror-related hate crimes?",
+        "options": [
+            "Canada",
+            "Australia",
+            "Germany",
+            "United Kingdom",
+            "Japan"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the name of Zomato's AI-powered, no-code customer support platform designed to help businesses scale their operations?",
+        "options": [
+            "Zassist",
+            "Midget",
+            "Nugget",
+            "Zai",
+            "Pro"
+        ],
+        "answer": "Nugget"
+    },
+    {
+        "question": "What is India's rank among the top 10 countries most affected by extreme weather events over the last three decades (1993-2023), as per the Climate Risk Index (CRI) published by Greenwatch?",
+        "options": [
+            "4th",
+            "6th",
+            "8th",
+            "10th",
+            "None of the above"
+        ],
+        "answer": "6th"
+    },
+    {
+        "question": "Which company ranked 2nd globally in the FutureBrand Index 2024, ahead of brands like Apple and Nike?",
+        "options": [
+            "Google",
+            "Samsung",
+            "Microsoft",
+            "Reliance",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who is the richest woman in the world in 2025, according to the Forbes Billionaire List?",
+        "options": [
+            "Françoise Bettencourt Meyers",
+            "Julia Koch",
+            "Alice Walton",
+            "Jacqueline Mars",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who has been appointed as the new Chief Election Commissioner (CEC) of India in February 2025?",
+        "options": [
+            "Sukhbir Singh Sandhu",
+            "Vivek Joshi",
+            "Rajiv Kumar",
+            "Gyanesh Kumar",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which organization launched the \"Imagine a world with more women in science\" campaign marking the 10-year anniversary of the International Day of Women and Girls in Science.?",
+        "options": [
+            "UNESCO",
+            "UNHCR",
+            "International Science Council",
+            "International Union of Pure and Applied Physics",
+            "None of the above"
+        ],
+        "answer": "UNESCO"
+    },
+    {
+        "question": "What technology collaboration between the Ministry of Telecommunications (DoT) and International Telecommunication Union (ITU) was focused on in their recent agreement in February 2025?",
+        "options": [
+            "5G Connectivity Expansion",
+            "Cybersecurity Frameworks",
+            "AI-driven Digital Twin Technologies",
+            "IoT for Urban Planning",
+            "None of the above"
+        ],
+        "answer": "AI-driven Digital Twin Technologies"
+    },
+    {
+        "question": "Who is set to take oath as the Chief Minister of Delhi after winning the Shalimar Bagh seat in the recent Assembly election?",
+        "options": [
+            "Rekha Gupta",
+            "Vijender Gupta",
+            "Harsh Vardhan",
+            "Parvesh Verma",
+            "None of the above"
+        ],
+        "answer": "Rekha Gupta"
+    },
+    {
+        "question": "The Government of Tamil Nadu celebrates Thiruvalluvar Day in honor of the poet Thiruvalluvar?",
+        "options": [
+            "13 January",
+            "14 January",
+            "15 January",
+            "16 January",
+            "17 January"
+        ],
+        "answer": "15 January"
+    },
+    {
+        "question": "Which two films led the BAFTA 2025, each winning 4 awards?",
+        "options": [
+            "Conclave and The Brutalist",
+            "Anora and The Brutalist",
+            "Conclave and Anora",
+            "The Brutalist and The Artist",
+            "Conclave and The Artist"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Who has been appointed as the Deputy Secretary in the Department of Expenditure under the Central Staffing Scheme?",
+        "options": [
+            "Sanjay Malhotra",
+            "T.V. Somanathan",
+            "Girish Chandra Murmu",
+            "Mrithinjai Srikanthan",
+            "None of the above"
+        ],
+        "answer": "Mrithinjai Srikanthan"
+    },
+    {
+        "question": "The Reserve Bank of India (RBI) announced that 20 non-banking financial companies have surrendered their certificates of registration. What is the main reason behind the surrender of certificates?",
+        "options": [
+            "Exit from the financial sector and mergers",
+            "Non-compliance with RBI regulations",
+            "Low profitability and high debts",
+            "Shift to banking operations",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Where will the sixth edition of the India-Japan joint military exercise Dharma Guardian 2025 be held?",
+        "options": [
+            "Tokyo",
+            "Sapporo",
+            "Osaka",
+            "Mount Fuji",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which bank became the first in India to implement compliance for the Digital Personal Data Protection Act (DPDP Act) 2023?",
+        "options": [
+            "State Bank of India",
+            "Axis Bank",
+            "HDFC Bank",
+            "ICICI Bank",
+            "PNB"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who was elected as the new Prime Minister of Vanuatu in February 2025?",
+        "options": [
+            "Stephen Felix",
+            "Charlot Salwai",
+            "Jotham Napat",
+            "Ishmael Kalsakau",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who has been appointed as the Chief Executive Officer of Standard Chartered India, effective April 1, 2025?",
+        "options": [
+            "Zarin Daruwala",
+            "Deepak Parekh",
+            "P D Singh",
+            "Aditya Puri",
+            "Mohak Singh"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "The Reserve Bank of India (RBI) has penalized Nainital Bank, Ujjivan Small Finance Bank, and Shriram Finance with fines totaling ₹68.1 lakh for non-compliance with various banking regulations. How much was the Nainital Bank fined by the RBI?",
+        "options": [
+            "₹61.40 lakh",
+            "₹6.70 lakh",
+            "₹5.80 lakh",
+            "₹10.20 lakh",
+            "₹15.40 lakh"
+        ],
+        "answer": "₹61.40 lakh"
+    },
+    {
+        "question": "What is the objective of ISRO's development of the world's largest 10-tonne vertical planetary propellant mixer, created in collaboration with the Central Manufacturing Technology Institute?",
+        "options": [
+            "To improve satellite communication technology",
+            "To develop reusable launch vehicles",
+            "To manufacture lightweight spacecraft materials",
+            "To enhance the production of solid rocket motors",
+            "None of the above"
+        ],
+        "answer": "To enhance the production of solid rocket motors"
+    },
+    {
+        "question": "Which institution has the Supreme Court appointed to prepare a plan for improving Delhi's green cover?",
+        "options": [
+            "Forest Research Institute (FRI)",
+            "Indian Institute of Forest Management",
+            "National Environmental Engineering Research Institute",
+            "Central Pollution Control Board",
+            "NGT"
+        ],
+        "answer": "Forest Research Institute (FRI)"
+    },
+    {
+        "question": "China has approved the construction of a deepwater research facility that will be located at a depth of ____________ below the ocean surface in the South China Sea?",
+        "options": [
+            "2,000 meters",
+            "2,500 meters",
+            "3,000 meters",
+            "3,500 meters",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "What is the name of the indigenous semiconductor chip developed by ISRO and IIT Madras for space-based applications?",
+        "options": [
+            "SHAKTI",
+            "IRIS",
+            "CORE",
+            "VIKRAM",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "At which port did India's Matsya-6000 submersible successfully complete its wet tests, moving closer to the 500m shallow-water trials by 2025 as part of the Samudrayan Project under the Deep Ocean Mission?",
+        "options": [
+            "Chennai Port",
+            "Visakhapatnam Port",
+            "Mumbai Port",
+            "Kattupalli Port",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the theme of the first-ever Regional Dialogue on the Global Coalition for Social Justice, scheduled for February 24-25, 2025, in New Delhi?",
+        "options": [
+            "\"Sustainable Development through Green Business\"",
+            "\"Innovation for Social Justice and Equality\"",
+            "\"Empowering Communities for Global Progress\"",
+            "\"Responsible Businesses for Inclusive & Sustainable Societies\"",
+            "None of the above"
+        ],
+        "answer": "\"Responsible Businesses for Inclusive & Sustainable Societies\""
+    }
+]

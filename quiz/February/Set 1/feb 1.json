@@ -1,0 +1,365 @@
+[
+    {
+        "question": "How much money did NaBFID raise through 15-year bonds at a 7.25% cut-off rate?",
+        "options": [
+            "Rs 7,000 crore",
+            "Rs 3,000 crore",
+            "Rs 5,000 crore",
+            "Rs 15,000 crore",
+            "Rs 10,000 crore"
+        ],
+        "answer": "Rs 5,000 crore"
+    },
+    {
+        "question": "Which company did Elon Musk’s X partner with to begin its financial services push?",
+        "options": [
+            "Paytm",
+            "Apple Pay",
+            "Visa",
+            "Mastercard",
+            "Google Pay"
+        ],
+        "answer": "Visa"
+    },
+    {
+        "question": "Which ship, under the \"Navika Sagar Parikrama II\" mission, crossed Point Nemo?",
+        "options": [
+            "INS Rajput",
+            "INS Vikramaditya",
+            "INS Arihant",
+            "INS Tarini",
+            "INS Kolkata"
+        ],
+        "answer": "INS Tarini"
+    },
+    {
+        "question": "What is the name of the SuperApp launched by Indian Railways for seamless travel?",
+        "options": [
+            "RailServe",
+            "SwaRail",
+            "RailBuddy",
+            "RailConnect",
+            "TravelEasy"
+        ],
+        "answer": "SwaRail"
+    },
+    {
+        "question": "What is the name of the international alliance launched by India for conserving 7 big cats?",
+        "options": [
+            "Panthera Alliance",
+            "Big Cats Global",
+            "Global Tiger Trust",
+            "WildCat Conservation",
+            "Big Cat Alliance"
+        ],
+        "answer": "Big Cat Alliance"
+    },
+    {
+        "question": "Which state in India launched the 'Chocolate War' campaign to tackle opium cultivation?",
+        "options": [
+            "Bihar",
+            "Madhya Pradesh",
+            "Jharkhand",
+            "Uttar Pradesh",
+            "Rajasthan"
+        ],
+        "answer": "Jharkhand"
+    },
+    {
+        "question": "Where has India’s first White Tiger Breeding Centre been approved?",
+        "options": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Uttar Pradesh"
+        ],
+        "answer": "Madhya Pradesh"
+    },
+    {
+        "question": "Who was awarded the Sahitya Akademi Award 2024 in Dogri for the book 'Ik Hor Ashwthama'?",
+        "options": [
+            "Shashi Tharoor",
+            "Gajanan Madhav Muktibodh",
+            "Uday Prakash",
+            "Chaman Arora",
+            "Nand Kishore"
+        ],
+        "answer": "Chaman Arora"
+    },
+    {
+        "question": "Which team won the Men’s Hockey India League 2024-25 title?",
+        "options": [
+            "Punjab Warriors",
+            "Delhi Tigers",
+            "Shrachi Rarh Bengal Tigers",
+            "Mumbai Rockets",
+            "Bangalore Blizzards"
+        ],
+        "answer": "Shrachi Rarh Bengal Tigers"
+    },
+    {
+        "question": "What was the cut-off rate at which NaBFID raised funds via 15-year bonds?",
+        "options": [
+            "8.00%",
+            "7.25%",
+            "6.50%",
+            "9.00%",
+            "7.50%"
+        ],
+        "answer": "7.25%"
+    },
+    {
+        "question": "What is the main proposal of RBI regarding Indian banks' websites?",
+        "options": [
+            "To improve website speed",
+            "To make internet banking safer",
+            "To allow online loans",
+            "To integrate new payment methods",
+            "To increase website traffic"
+        ],
+        "answer": "To allow online loans"
+    },
+    {
+        "question": "What milestone has India achieved in solar energy capacity?",
+        "options": [
+            "100 MW",
+            "50 GW",
+            "100 GW",
+            "20 GW",
+            "150 GW"
+        ],
+        "answer": "100 GW"
+    },
+    {
+        "question": "How many claims did EPFO settle in FY25?",
+        "options": [
+            "5 crore",
+            "20 crore",
+            "10 crore",
+            "50 lakh",
+            "2 crore"
+        ],
+        "answer": "5 crore"
+    },
+    {
+        "question": "Which country has banned multiple entry visas for 14 nations, including India?",
+        "options": [
+            "USA",
+            "Saudi Arabia",
+            "Russia",
+            "China",
+            "United Kingdom"
+        ],
+        "answer": "Saudi Arabia"
+    },
+    {
+        "question": "Which company has collaborated with Yes Bank to provide financial services?",
+        "options": [
+            "Beacon",
+            "Infosys",
+            "TCS",
+            "Paytm",
+            "HDFC"
+        ],
+        "answer": "Beacon"
+    },
+    {
+        "question": "Which app became the world's second most downloaded food & drink app?",
+        "options": [
+            "Swiggy",
+            "Zomato",
+            "Zepto",
+            "Uber Eats",
+            "Domino's"
+        ],
+        "answer": "Zepto"
+    },
+    {
+        "question": "Which mysterious exoplanet was confirmed to be 12 times bigger than Jupiter?",
+        "options": [
+            "Gaia-4b",
+            "Kepler-452b",
+            "Proxima b",
+            "TRAPPIST-1d",
+            "HD 209458b"
+        ],
+        "answer": "Gaia-4b"
+    },
+    {
+        "question": "Which mission is ISRO planning to launch in 2027?",
+        "options": [
+            "Chandrayaan-4",
+            "Mars Orbiter Mission",
+            "Gaganyaan",
+            "Aditya-L1",
+            "Chandrayaan-3"
+        ],
+        "answer": "Chandrayaan-4"
+    },
+    {
+        "question": "NPCI has proposed a hike in ATM interchange fees. What does NPCI stand for?",
+        "options": [
+            "National Payment Corporation of India",
+            "National Public Commission of India",
+            "National Partnership Corporation of India",
+            "National Planning Council of India",
+            "New Payment Corporation of India"
+        ],
+        "answer": "National Payment Corporation of India"
+    },
+    {
+        "question": "IOB has joined a global partnership for carbon accounting. What does IOB stand for?",
+        "options": [
+            "Indian Overseas Bank",
+            "International Organization Bank",
+            "Indian Oil Bank",
+            "Indian Online Banking",
+            "International Oil Bank"
+        ],
+        "answer": "Indian Overseas Bank"
+    },
+    {
+        "question": "HDFC Bank Parivartan Start-Up Grants will support over how many startups with ₹20 crore?",
+        "options": [
+            "100",
+            "200",
+            "50",
+            "150",
+            "75"
+        ],
+        "answer": "50"
+    },
+    {
+        "question": "How many peacekeepers and Nobel Laureates attended Dubai’s Global Justice Summit?",
+        "options": [
+            "5,000",
+            "2,000",
+            "3,000",
+            "2,800",
+            "1,500"
+        ],
+        "answer": "2,800"
+    },
+    {
+        "question": "Which UN organization did Donald Trump withdraw the US from?",
+        "options": [
+            "UNESCO",
+            "UNHRC",
+            "UNFPA",
+            "WHO",
+            "UNDP"
+        ],
+        "answer": "UNHRC"
+    },
+    {
+        "question": "How much is the deal worth that the Ministry of Defence signed to boost the army's firepower?",
+        "options": [
+            "₹5,000 crore",
+            "₹12,000 crore",
+            "₹15,000 crore",
+            "₹10,000 crore",
+            "₹20,000 crore"
+        ],
+        "answer": "₹10,000 crore"
+    },
+    {
+        "question": "India ranks 3rd in which global list for 2024?",
+        "options": [
+            "Green Energy",
+            "Smart Cities",
+            "LEED Green Buildings",
+            "Digital Innovation",
+            "Sustainable Agriculture"
+        ],
+        "answer": "LEED Green Buildings"
+    },
+    {
+        "question": "Where is the 1st BIMSTEC Youth Summit being held?",
+        "options": [
+            "Dhaka",
+            "Gandhinagar",
+            "New Delhi",
+            "Colombo",
+            "Kathmandu"
+        ],
+        "answer": "Gandhinagar"
+    },
+    {
+        "question": "How many times has FIFA suspended Pakistan Football Federation since 2017?",
+        "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Four times",
+            "Five times"
+        ],
+        "answer": "Three times"
+    },
+    {
+        "question": "Who won the historic bronze medal in archery at the 38th National Games 2025?",
+        "options": [
+            "Archana Kaur",
+            "Tarundeep Rai",
+            "Deepika Kumari",
+            "Bhagat Singh",
+            "Sunil Kumar"
+        ],
+        "answer": "Tarundeep Rai"
+    },
+    {
+        "question": "What is the new initiative by SEBI aimed at improving market safety?",
+        "options": [
+            "Retail Algo Trading Regulations",
+            "Crypto Trading Regulations",
+            "Market Transparency Rules",
+            "High-Frequency Trading Restrictions",
+            "Risk Assessment Tools"
+        ],
+        "answer": "Retail Algo Trading Regulations"
+    },
+    {
+        "question": "Which Indian bank has expanded its AI-based Amitabh Bachchan avatar?",
+        "options": [
+            "ICICI Bank",
+            "HDFC Bank",
+            "IDFC FIRST Bank",
+            "Axis Bank",
+            "SBI"
+        ],
+        "answer": "IDFC FIRST Bank"
+    },
+    {
+        "question": "What new security feature has RBI introduced for international transactions?",
+        "options": [
+            "One-Time Password (OTP)",
+            "Two-factor authentication (2FA)",
+            "Biometric Authentication",
+            "Additional Factor Authentication (AFA)",
+            "Smart Card Technology"
+        ],
+        "answer": "Additional Factor Authentication (AFA)"
+    },
+    {
+        "question": "What event is being held to celebrate the 75th anniversary of the National Sample Survey (NSS)?",
+        "options": [
+            "NSS Special Lecture",
+            "National Inaugural Event",
+            "NSS Anniversary Ceremony",
+            "75th NSS Conference",
+            "National Economic Forum"
+        ],
+        "answer": "National Inaugural Event"
+    },
+    {
+        "question": "What extension was approved by the Cabinet regarding the National Commission for Safai Karamcharis?",
+        "options": [
+            "One year beyond 31.03.2025",
+            "Three years beyond 31.03.2025",
+            "Two years beyond 31.03.2025",
+            "Five years beyond 31.03.2025",
+            "Extension till 2025"
+        ],
+        "answer": "Three years beyond 31.03.2025"
+    }
+]

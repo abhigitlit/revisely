@@ -1,0 +1,365 @@
+[
+    {
+        "question": "Where is the international art exhibition \"Topographies of Tents, Terracotta, and Time\" being held?",
+        "options": [
+            "Mumbai",
+            "Kolkata",
+            "Hyderabad",
+            "Pune",
+            "Bengaluru"
+        ],
+        "answer": "Hyderabad"
+    },
+    {
+        "question": "Which new bat coronavirus was discovered by researchers in China?",
+        "options": [
+            "SARS-CoV-2",
+            "HKU5-CoV-2",
+            "MERS-CoV",
+            "H1N1",
+            "Zika Virus"
+        ],
+        "answer": "HKU5-CoV-2"
+    },
+    {
+        "question": "What is the revised GDP growth forecast for India in FY25, as per the State Bank of India (SBI)?",
+        "options": [
+            "6.0%",
+            "6.3%",
+            "6.5%",
+            "6.8%",
+            "7.0%"
+        ],
+        "answer": "6.3%"
+    },
+    {
+        "question": "Which country is India enhancing its media ties with ahead of WAVES 2025?",
+        "options": [
+            "United States",
+            "United Kingdom",
+            "Saudi Arabia",
+            "Japan",
+            "Russia"
+        ],
+        "answer": "Saudi Arabia"
+    },
+    {
+        "question": "India’s first zoo-based wildlife biobank is established in which zoo?",
+        "options": [
+            "Nandankanan Zoological Park",
+            "Padmaja Naidu Himalayan Zoological Park",
+            "Nehru Zoological Park",
+            "Kanha National Park",
+            "Sikkim Himalayan Zoological Park"
+        ],
+        "answer": "Padmaja Naidu Himalayan Zoological Park"
+    },
+    {
+        "question": "Which ministry co-hosted the 9th edition of the Asia Economic Dialogue (AED) 2025?",
+        "options": [
+            "Ministry of Finance",
+            "Ministry of External Affairs",
+            "Ministry of Commerce and Industry",
+            "Ministry of Agriculture",
+            "Ministry of Science and Technology"
+        ],
+        "answer": "Ministry of External Affairs"
+    },
+    {
+        "question": "What significant feature does the Bhoo Kanoon (Land Law Amendment Bill) introduce for land transactions in Uttarakhand?",
+        "options": [
+            "It permits agricultural land purchases by non-residents in all districts.",
+            "It creates a blanket ban on agricultural land purchases by non-residents in 11 hill districts.",
+            "It allows free land transactions in the state for non-residents.",
+            "It grants land ownership rights to foreign entities.",
+            "It focuses solely on urban land management."
+        ],
+        "answer": "It creates a blanket ban on agricultural land purchases by non-residents in 11 hill districts."
+    },
+    {
+        "question": "Which organization launched the new advanced IT incubation centre in Salt Lake, Kolkata?",
+        "options": [
+            "Ministry of Information Technology (MeitY)",
+            "Software Technology Parks of India (STPI)",
+            "Tata Consultancy Services (TCS)",
+            "Indian Institute of Technology (IIT)",
+            "National Association of Software and Service Companies (NASSCOM)"
+        ],
+        "answer": "Software Technology Parks of India (STPI)"
+    },
+    {
+        "question": "What is the main objective of the training program between India’s NCGG and Sri Lanka’s SLIDA?",
+        "options": [
+            "Enhance trade relations",
+            "Train 1,500 civil officers",
+            "Promote tourism",
+            "Train Indian officers",
+            "Develop defense sector"
+        ],
+        "answer": "Train 1,500 civil officers"
+    },
+    {
+        "question": "Who became the first Indian American FBI Director?",
+        "options": [
+            "Kamala Harris",
+            "Kash Patel",
+            "Bobby Jindal",
+            "Sundar Pichai",
+            "Arun Kumar"
+        ],
+        "answer": "Kash Patel"
+    },
+    {
+        "question": "Which ESA astronaut with a prosthetic leg was approved for space missions?",
+        "options": [
+            "John McFall",
+            "Stephen Hawking",
+            "Tim Peake",
+            "Helen Sharman",
+            "Chris Hadfield"
+        ],
+        "answer": "John McFall"
+    },
+    {
+        "question": "Which company introduced the Majorana 1 quantum chip?",
+        "options": [
+            "Google",
+            "IBM",
+            "Microsoft",
+            "Intel",
+            "Apple"
+        ],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "Where is the proposed Aravali Safari Park located?",
+        "options": [
+            "Rajasthan",
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Haryana",
+            "Tamil Nadu"
+        ],
+        "answer": "Haryana"
+    },
+    {
+        "question": "What is the goal of the Aravali Safari Park project?",
+        "options": [
+            "Urban development",
+            "Eco-tourism and afforestation",
+            "Military base",
+            "Agricultural expansion",
+            "Preserve archaeological sites"
+        ],
+        "answer": "Eco-tourism and afforestation"
+    },
+    {
+        "question": "Which conference was held in Udaipur with the theme \"India@2047 – A Water Secure Nation\"?",
+        "options": [
+            "1st National Water Conference",
+            "2nd State Water Ministers' Conference",
+            "River Rejuvenation Conference",
+            "Climate Change Summit",
+            "Water Security Forum"
+        ],
+        "answer": "2nd State Water Ministers' Conference"
+    },
+    {
+        "question": "Where did the first Conference for Women Peacekeepers, themed \"Women in Peacekeeping: A Global South Perspective,\" take place?",
+        "options": [
+            "Mumbai",
+            "New Delhi",
+            "Chennai",
+            "Kolkata",
+            "Bangalore"
+        ],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "What was the penalty imposed on Axis Securities by SEBI for regulatory violations?",
+        "options": [
+            "₹5 lakh",
+            "₹10 lakh",
+            "₹15 lakh",
+            "₹20 lakh",
+            "₹50 lakh"
+        ],
+        "answer": "₹10 lakh"
+    },
+    {
+        "question": "Which state launched a witness protection scheme to ensure the safety of witnesses?",
+        "options": [
+            "Punjab",
+            "Uttar Pradesh",
+            "Haryana",
+            "Rajasthan",
+            "Maharashtra"
+        ],
+        "answer": "Haryana"
+    },
+    {
+        "question": "Who was appointed as the ‘Principal Secretary-2’ to Prime Minister Narendra Modi after serving as RBI Governor?",
+        "options": [
+            "Raghuram Rajan",
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Nirmala Sitharaman",
+            "Arvind Subramanian"
+        ],
+        "answer": "Shaktikanta Das"
+    },
+    {
+        "question": "What day has Bangladesh officially declared as Military Martyrdom Day?",
+        "options": [
+            "February 26",
+            "February 25",
+            "March 1",
+            "January 15",
+            "December 16"
+        ],
+        "answer": "February 25"
+    },
+    {
+        "question": "Who won the 71st Senior National Men’s Kabaddi Championship?",
+        "options": [
+            "Railways",
+            "Punjab",
+            "Haryana",
+            "Services",
+            "Uttar Pradesh"
+        ],
+        "answer": "Services"
+    },
+    {
+        "question": "Who became the fastest batter to reach 14,000 runs in ODI cricket?",
+        "options": [
+            "Sachin Tendulkar",
+            "Virat Kohli",
+            "Ricky Ponting",
+            "Kumar Sangakkara",
+            "MS Dhoni"
+        ],
+        "answer": "Virat Kohli"
+    },
+    {
+        "question": "Which company introduced the Bima-ASBA facility for premium payments?",
+        "options": [
+            "HDFC Life",
+            "LIC",
+            "Bajaj Allianz Life Insurance",
+            "ICICI Prudential Life",
+            "SBI Life Insurance"
+        ],
+        "answer": "Bajaj Allianz Life Insurance"
+    },
+    {
+        "question": "Which company partnered with ASI to restore and protect historic water bodies in India?",
+        "options": [
+            "Tata Consultancy Services",
+            "Bisleri International",
+            "Coca-Cola",
+            "PepsiCo",
+            "Hindustan Unilever"
+        ],
+        "answer": "Bisleri International"
+    },
+    {
+        "question": "Which Indian institute developed a self-actuating drug delivery system for rheumatoid arthritis treatment?",
+        "options": [
+            "AIIMS Delhi",
+            "INST Mohali",
+            "IIT Bombay",
+            "CSIR-CCMB",
+            "IIM Ahmedabad"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who is the lead researcher heading the 40-day global expedition in the Ross Sea, a marine protected zone in Antarctica, to assess marine biodiversity, study environmental DNA, and analyze the region's impact on global ocean currents and climate change?",
+        "options": [
+            "Madhavan Rajeevan",
+            "M. Ravichandran",
+            "Sherine Sonia Cubelio",
+            "Anil Bhardwaj",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which institution launched India's first Cancer Genome Atlas (BCGA) for early breast cancer detection?",
+        "options": [
+            "AIIMS Delhi",
+            "Tata Memorial Hospital",
+            "NIMHANS",
+            "IIT Madras",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which team did Uttar Pradesh Men's Kabaddi Team defeat 57-43 to win the gold medal?",
+        "options": [
+            "Haryana",
+            "Chandigarh",
+            "Maharashtra",
+            "Punjab",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which team won the inaugural World Pickleball League (WPL) championship, defeating Pune United 3-1 in the final?",
+        "options": [
+            "Bengaluru Jawans",
+            "Pune United",
+            "Mumbai Mavericks",
+            "Delhi Warriors",
+            "None of the above"
+        ],
+        "answer": "Bengaluru Jawans"
+    },
+    {
+        "question": "Which architect was recognized as the Best Architect for Luxury Project at the Global Architect Builder Awards 2025?",
+        "options": [
+            "Dishna Thilanka",
+            "Arun Kumar",
+            "Hiten Patel",
+            "Vivek Singh Rao",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which country topped the Global Digital Well-Being Index with the highest score in online safety and parental support?",
+        "options": [
+            "United States",
+            "India",
+            "Australia",
+            "United Kingdom",
+            "Japan"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which organization released the redefined and augmented Research Verticals & Thrust Areas to enhance research focus in defense technology?",
+        "options": [
+            "Council of Scientific and Industrial Research (CSIR)",
+            "Defence Research and Development Organisation (DRDO)",
+            "National Aeronautics and Space Administration (NASA)",
+            "Indian Space Research Organisation (ISRO)",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which veteran British actor, known for his role as George Roper in Man About the House and George & Mildred, passed away at the age of 92?",
+        "options": [
+            "John Cleese",
+            "Brian Murphy",
+            "David Jason",
+            "Ronnie Barker",
+            "None of the above"
+        ],
+        "answer": "2"
+    }
+]

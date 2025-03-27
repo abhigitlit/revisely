@@ -1,0 +1,552 @@
+[
+    {
+        "question": "What is the name of the women-centric savings account launched by Axis Bank?",
+        "options": [
+            "Axis Women's Advantage",
+            "ARISE Women’s Savings Account",
+            "SheSavings Account",
+            "Women Empower Account",
+            "Axis Her Savings Plan"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What are the MSME lending initiatives announced by Bank of Baroda and Canara Bank?",
+        "options": [
+            "‘Baroda Smart OD’ and ‘Canara Smart Credit’",
+            "‘Baroda Mahila Swavalamban’ and ‘Canara Credit Connect’",
+            "‘Baroda Mahila Swavalamban’ and ‘Baroda Smart OD’; Canara Bank's Credit Outreach Programme",
+            "‘Baroda Credit Solutions’ and ‘Canara MSME Drive’",
+            "‘Baroda MSME Connect’ and ‘Canara Growth Programme’"
+        ],
+        "answer": "‘Baroda Mahila Swavalamban’ and ‘Baroda Smart OD’; Canara Bank's Credit Outreach Programme"
+    },
+    {
+        "question": "What is the name of the special savings account introduced by Federal Bank for senior citizens aged 55 and above?",
+        "options": [
+            "Golden Savings Account",
+            "Senior Privilege Account",
+            "Esteem Savings Account",
+            "Platinum Senior Account",
+            "Prime Senior Account"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the name of the feature launched by Paytm to streamline small, frequent transactions for users?",
+        "options": [
+            "UPI Boost",
+            "UPI Lite Auto Top-Up",
+            "Paytm QuickPay",
+            "UPI SmartPay",
+            "UPI Express"
+        ],
+        "answer": "UPI Lite Auto Top-Up"
+    },
+    {
+        "question": "What is the name of the new benchmark interest rate developed by the Reserve Bank of India (RBI) for the interest rate derivatives market?",
+        "options": [
+            "Overnight MIBOR",
+            "Secured Overnight Rupee Rate",
+            "Tri-party Repo Rate",
+            "Market Repo Rate",
+            "Overnight Repo Rate"
+        ],
+        "answer": "Secured Overnight Rupee Rate"
+    },
+    {
+        "question": "What is the name of the AI tool launched by the Reserve Bank of India (RBI) Innovation Hub (RBIH) to detect and flag mule bank accounts involved in illicit financial activities?",
+        "options": [
+            "FraudShield.AI",
+            "MuleTracker.AI",
+            "BankGuard.AI",
+            "MuleHunter.AI",
+            "FinWatch.AI"
+        ],
+        "answer": "MuleHunter.AI"
+    },
+    {
+        "question": "Which type of banks have been permitted by RBI to provide pre-sanctioned credit lines through UPI, as announced by Governor Shaktikanta Das?",
+        "options": [
+            "Public Sector Banks",
+            "Private Sector Banks",
+            "Regional Rural Banks",
+            "Small Finance Banks",
+            "Cooperative Banks"
+        ],
+        "answer": "Small Finance Banks"
+    },
+    {
+        "question": "What is the new limit for collateral-free loans for agricultural farmers, as announced by the Reserve Bank of India (RBI)?",
+        "options": [
+            "₹1.50 lakh",
+            "₹1.66 lakh",
+            "₹2 lakh",
+            "₹2.25 lakh",
+            "₹2.50 lakh"
+        ],
+        "answer": "₹2 lakh"
+    },
+    {
+        "question": "On which occasion will the government launch the Jago Grahak Jago App and Jagriti App to enhance consumer safety?",
+        "options": [
+            "National Consumer Day",
+            "World Consumer Rights Day",
+            "National Safety Day",
+            "Cyber Security Day",
+            "None of the above"
+        ],
+        "answer": "National Consumer Day"
+    },
+    {
+        "question": "Where is the 2024 Asian Youth and Junior Weightlifting Championships being held?",
+        "options": [
+            "Tokyo, Japan",
+            "Doha, Qatar",
+            "New Delhi, India",
+            "Bangkok, Thailand",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which group, known for leading the Syrian rebels, declared Damascus 'liberated' and announced the end of Bashar al-Assad's government...?",
+        "options": [
+            "Free Syrian Army",
+            "Hayat Tahrir al-Sham",
+            "Islamic State",
+            "Al-Qaeda",
+            "Hezbollah"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has taken over as the President of the Asian Cricket Council (ACC)?",
+        "options": [
+            "Jay Shah",
+            "Sourav Ganguly",
+            "Imran Khwaja",
+            "Shammi Silva",
+            "None of the Above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which Nvidia device is known for revolutionizing AI at the edge with 67 TOPS performance and support for advanced AI models like vision transformers and large language models?",
+        "options": [
+            "Nvidia A100",
+            "Jetson Xavier NX",
+            "Tesla V100 MK14",
+            "Jetson Orin Nano Super",
+            "Boeing 52F"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which initiative was launched by Dr. Jitendra Singh on Good Governance Day to strengthen Panchayati Raj Institutions?",
+        "options": [
+            "Prashasan Gaon Ki Aur",
+            "CPGRAMS Annual Samvelan",
+            "Viksit Panchayat Karmayogi",
+            "Single Simplified Pension Plan",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which country declared the end of the Marburg virus outbreak after no new cases were reported in a 42-day observation period?",
+        "options": [
+            "Uganda",
+            "Rwanda",
+            "Kenya",
+            "Tanzania",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What were the key contributions of S. M. Krishna to Indian politics, and which prestigious award was he honored with in 2023?",
+        "options": [
+            "Transforming Bengaluru into India's Silicon Valley; Padma Shri",
+            "Establishing Karnataka as a leading agricultural state; Bharat Ratna",
+            "Advocating for women's empowerment and rural development; Padma Bhushan",
+            "Serving as Chief Minister of Karnataka and Minister of External Affairs; Padma Vibhushan",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which NASA mission recently made a historic close approach to the Sun at a distance of 6.1 million kilometers?",
+        "options": [
+            "Voyager 1",
+            "Parker Solar Probe",
+            "Juno",
+            "Axiom 4",
+            "Plutus 3"
+        ],
+        "answer": "Parker Solar Probe"
+    },
+    {
+        "question": "The Linen Inspection and Sorting Assistant (LISA) system is an initiative of which organization?",
+        "options": [
+            "Ministry of Textile",
+            "Indian Railways",
+            "Ministry of Civil Aviation",
+            "NITI Aayog",
+            "Ministry of Consumer Affairs"
+        ],
+        "answer": "Indian Railways"
+    },
+    {
+        "question": "What is the ranking of the Indian Men's Hockey Team in the FIH World Rankings for December 2024?",
+        "options": [
+            "3rd",
+            "4th",
+            "5th",
+            "6th",
+            "7th"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "The European Free Trade Association (EFTA) comprise of which of the following group of nations?",
+        "options": [
+            "Finland, Norway, Sweden, Denmark",
+            "Germany, Belgium, France, Spain",
+            "Switzerland, Norway, Sweden, Finland",
+            "Iceland, Liechtenstein, Norway and Switzerland",
+            "France, Spain, Germany, Belgium"
+        ],
+        "answer": "Iceland, Liechtenstein, Norway and Switzerland"
+    },
+    {
+        "question": "Which state in India received a $188.28 million loan from the World Bank to boost economic growth in backward districts?",
+        "options": [
+            "Gujarat",
+            "Maharashtra",
+            "Bihar",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which traditional Bosnian love song, dating back to the 16th century and blending South Slavic oral poetry with Ottoman musical influences, was recently added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?",
+        "options": [
+            "Sevdalinka",
+            "Klapa",
+            "Ojkanje",
+            "Ganga",
+            "Akanji"
+        ],
+        "answer": "Sevdalinka"
+    },
+    {
+        "question": "Which initiative was launched to promote Indian Sign Language (ISL) as a language and a subject?",
+        "options": [
+            "Bharat Digital Channel",
+            "PM e-Vidya DTH 24×7 Channel",
+            "ISL Learning Network",
+            "Digital Bharat Education Hub",
+            "None of the Above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "By how many basis points has the Reserve Bank of India (RBI) reduced the Cash Reserve Ratio (CRR) in December 2024?",
+        "options": [
+            "25 basis points",
+            "50 basis points",
+            "75 basis points",
+            "100 basis points",
+            "125 basis points"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which bank has partnered with UNICEF to promote Disaster Resilient Communities and Climate Risk-Informed Administrative Systems?",
+        "options": [
+            "HDFC Bank",
+            "ICICI Bank",
+            "IndusInd Bank",
+            "Axis Bank",
+            "State Bank of India"
+        ],
+        "answer": "IndusInd Bank"
+    },
+    {
+        "question": "Who set a new national record in the women's Skeet event at the 67th National Shooting Championship?",
+        "options": [
+            "Ganemat Sekhon",
+            "Raiza Dhillon",
+            "Fatehbir Singh Shergill",
+            "Mairaj Ahmad Khan",
+            "Brihad Kalpesh"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "In which state is the Adani Krishnapatnam Port, which has been granted permission to import petroleum by sea from August 28, 2024, to March 1, 2026, located?",
+        "options": [
+            "Tamil Nadu",
+            "Odisha",
+            "Gujarat",
+            "Andhra Pradesh",
+            "Maharashtra"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which country unveiled the new stealth fighter jet, the J-36, which has raised alarms globally, particularly in the Indo-Pacific region?",
+        "options": [
+            "Russia",
+            "China",
+            "United States",
+            "India",
+            "Japan"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Under which scheme has the Central Board of Direct Taxes launched the electronic campaign to address mismatches in income and transactions?",
+        "options": [
+            "Digital Tax Compliance Scheme, 2023",
+            "Income Disclosure Initiative, 2024",
+            "e-Verification Scheme, 2021",
+            "Annual Information Monitoring Program",
+            "Both 1 and 2"
+        ],
+        "answer": "e-Verification Scheme, 2021"
+    },
+    {
+        "question": "With which country is India conducting the 4th edition of the joint military exercise HARIMAU SHAKTI in December 2024?",
+        "options": [
+            "Indonesia",
+            "Malaysia",
+            "Thailand",
+            "Vietnam",
+            "Myanmar"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the tenure of the Pension Fund Regulatory and Development Authority (PFRDA) chairman?",
+        "options": [
+            "Three years or till the age of 60 years",
+            "Five years or till the age of 65 years",
+            "Four years or till the age of 62 years",
+            "Six years or till the age of 65 years",
+            "Five years or till the age of 60 years"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has been appointed as India's doubles badminton coach, marking his return to the country in December 2024?",
+        "options": [
+            "Vimal Kumar",
+            "Gopichand Pullela",
+            "Morten Frost",
+            "Tan Kim Her",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which indigenous UAV, delivered by Adani Defence, is equipped with NATO's STANAG 4671 certification and provides 36 hours of endurance?",
+        "options": [
+            "Rustom-III",
+            "Heron TP",
+            "Maha Ghatak II",
+            "Drishti-10 Starliner",
+            "None of the Above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which award will Taika Waititi receive at the 36th Producers Guild of America Awards?",
+        "options": [
+            "Academy Award",
+            "Golden Globe Award",
+            "Grammy Award",
+            "Norman Lear Achievement Award",
+            "Pen Pinter Prize"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which organization developed the Indian Light Tank (ILT) that recently achieved a milestone by firing rounds at a high altitude of over 4200m?",
+        "options": [
+            "Indian Ordnance Factory",
+            "Bharat Electronics Limited and Armament Research & Development Establishment (DRDO)",
+            "High Energy Materials Research Laboratory (DRDO) and Bharat Electronics Limited",
+            "Combat Vehicles Research & Development Establishment (DRDO)",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who was crowned the 'Spell Master of India' in SBI Life Spell Bee Season 14?",
+        "options": [
+            "Medhansh Vaddadi",
+            "Yashwin Pachauri",
+            "Chaya M V",
+            "Mandira Bedi",
+            "Sakshi Sinha"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which position does India hold in the global pharmaceutical market by volume? (December 2024)",
+        "options": [
+            "First",
+            "Third",
+            "Second",
+            "Fourth",
+            "None of the above"
+        ],
+        "answer": "Third"
+    },
+    {
+        "question": "What new feature is the EPFO set to launch for its subscribers in January 2025?",
+        "options": [
+            "Instant loan disbursal through the EPFO portal",
+            "ATM withdrawals for EPFO-linked savings accounts",
+            "Online retirement fund investment tracking",
+            "Automatic fund transfers between PF accounts",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What improvement in the Sex Ratio at Birth (SRB) of the girl child in India has been recorded under the Beti Bachao Beti Padhao scheme between 2014-15 and 2023-24?",
+        "options": [
+            "From 920 to 940",
+            "From 918 to 930",
+            "From 915 to 925",
+            "From 910 to 920",
+            "From 905 to 925"
+        ],
+        "answer": "From 918 to 930"
+    },
+    {
+        "question": "By what percentage did India's FDI inflows increase during April-September 2024 compared to the same period last year?",
+        "options": [
+            "35%",
+            "40%",
+            "45%",
+            "50%",
+            "55%"
+        ],
+        "answer": "45%"
+    },
+    {
+        "question": "Where did the inaugural India-Cambodia Joint Table Top Exercise CINBAX take place in December 2024?",
+        "options": [
+            "Phnom Penh, Cambodia",
+            "Umroi, Meghalaya",
+            "Pune, Maharashtra",
+            "Siem Reap, Cambodia",
+            "New Delhi, India"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which country is the theme country at the 30th Kolkata International Film Festival (KIFF) 2024?",
+        "options": [
+            "Germany",
+            "Japan",
+            "France",
+            "Italy",
+            "Pakistan"
+        ],
+        "answer": "France"
+    },
+    {
+        "question": "What is the name of the portal developed by the Department of Telecommunications to empower citizens against fraud communications and unsolicited commercial communications?",
+        "options": [
+            "Bharat Net Portal",
+            "Sanchar Saathi Portal",
+            "Sanchar Suraksha Portal",
+            "Tele Safeguard Portal",
+            "Sanchar Safeguard Portal"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Where was India's first bio-bitumen highway inaugurated?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Bengaluru",
+            "Nagpur",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the new per-transaction limit for UPI Lite as revised by the RBI in December 2024?",
+        "options": [
+            "₹500",
+            "₹1,000",
+            "₹1,500",
+            "₹2,000",
+            "₹2,500"
+        ],
+        "answer": "₹1,000"
+    },
+    {
+        "question": "Which peak did Kaamya Karthikeyan summit to complete the Seven Summits Challenge, becoming the youngest female to do so?",
+        "options": [
+            "Mt. Denali",
+            "Mt. Everest",
+            "Mt. Aconcagua",
+            "Mt. Vinson Massif",
+            "K2"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What was the total amount processed by UPI in October 2024?",
+        "options": [
+            "₹10.32 lakh crore",
+            "₹15.58 lakh crore",
+            "₹23.49 lakh crore",
+            "₹29.10 lakh crore",
+            "₹34.19 lakh crore"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which drug is being developed to treat multi-resistant HIV and expected to play a preventive role in 'poorest' countries?",
+        "options": [
+            "Tenofovir",
+            "Zidovudine",
+            "Lenacapavir",
+            "Efavirenz",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which department is developing the National Legal Metrology Portal (eMaap) to centralize legal metrology processes and enhance consumer protection?",
+        "options": [
+            "Department of Industrial Policy and Promotion",
+            "Department of Consumer Affairs",
+            "Department of Economic Affairs",
+            "Department of Commerce",
+            "None of the Above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which visionary leader, known for steering Suzuki Motor for over 40 years and expanding its presence in India, passed away at the age of 94?",
+        "options": [
+            "Osamu Suzuki",
+            "Akio Mutayashi",
+            "Soichiro Hamada",
+            "Eiji Toyoda",
+            "None of the above"
+        ],
+        "answer": "1"
+    }
+]
