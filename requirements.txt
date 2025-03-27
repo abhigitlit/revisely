@@ -1,4 +1,3 @@
-sqlite3
 aiohttp
 colorama
 python-telegram-bot
