@@ -1,3 +1,10 @@
+os
+json
+random
+traceback
+sqlite3
 aiohttp
+logging
 colorama
 python-telegram-bot
+python-telegram-bot[job_queue]
