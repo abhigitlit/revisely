@@ -1,0 +1,6 @@
+[build]
+  command = "python bot.py"
+  publish = "."
+
+[[plugins]]
+  package = "@netlify/plugin-no-build"
