@@ -323,7 +323,10 @@ async def show_directory(chat_id, context: ContextTypes.DEFAULT_TYPE, query=None
         display_name = f"📝 {f[:-5]}"  # Remove .json extension
         if f in completed_quizzes:
             display_name += " ✅"  # Mark completed quizzes
-        inline_items.append(InlineKeyboardButton(display_name, callback_data=f"file:{f}"))
+        relative_path = os.path.relpath(os.path.join(current_path, f), QUIZ_DIRECTORY)
+        print(current_path, relative_path)
+        inline_items.append(InlineKeyboardButton(display_name, callback_data=f"file:{relative_path}"))
+
     # Convert inline_items into 2×2 grid
     for i in range(0, len(inline_items), 2):
         buttons.append(inline_items[i:i+2])  # Take two items per row
@@ -391,7 +394,7 @@ async def quiz_selection(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif data.startswith("file:"):
         filename = data.split("file:")[1]
-        file_path = os.path.join(current_path, filename)
+        file_path = os.path.join(QUIZ_DIRECTORY, data[5:])
         try:
             with open(file_path, "r", encoding="utf-8") as f:
                 quiz_data = json.load(f)
