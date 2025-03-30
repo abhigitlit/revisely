@@ -181,14 +181,14 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = user.id
     chat_id = update.message.chat_id
     full_name = user.full_name  # Get full name
-
-    log_user_action(user_id, full_name, "started menu", f"in Chat ID: {update.message.chat_id}")
+    username = user.username if user.username else "NoUsername"
+    log_user_action(user_id, full_name, username, "started menu", f"in Chat ID: {update.message.chat_id}")
     now = datetime.utcnow()
     if user_id not in user_data:
         user_data[user_id] = {}
         user_data[user_id]["active_menu"] = False
     active_users = sum(1 for u in user_data.values() if u.get("active_quiz", False))
-    if active_users >= 4:
+    if active_users >= 5:
         await asyncio.sleep(5)
 
     print("Hello", user_data[user_id]["active_menu"])
@@ -206,7 +206,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 return
         
         if has_reached_quiz_limit(user_id):
-            await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Try at {(now+timedelta(hours=6, minutes=30)).strftime('%H:%M')}")
+            await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Please wait 5 Minutes....")
             return
     user_data[user_id]["active_menu"] = True
 
@@ -231,12 +231,12 @@ def has_reached_quiz_limit(user_id):
             return True  # User is still blocked
 
     one_hour_ago = now - timedelta(hours=1)
-    quiz_limit = 2  # Regular users can take 2 quizzes per hour
+    quiz_limit = 5  # Regular users can take 2 quizzes per hour
 
     attempts = count_recent_attempts(user_id, one_hour_ago.strftime("%Y-%m-%d %H:%M:%S"))
 
     if attempts >= quiz_limit:
-        block_until_time = now + timedelta(hours=1)  # Block for 1 hour
+        block_until_time = now + timedelta(minutes=5)  # Block for 5 Minute
         set_user_block(user_id, block_until_time.strftime("%Y-%m-%d %H:%M:%S"))
         return True
 
@@ -252,7 +252,8 @@ async def quit(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = user.id
     full_name = user.full_name
 
-    log_user_action(user_id, full_name, "quit the quiz")
+    username = user.username if user.username else "NoUsername"
+    log_user_action(user_id, full_name, username, "Quit The Quiz", f"in Chat ID: {update.message.chat_id}")
 
     if user_id in user_data and user_data[user_id].get("active_quiz", False):
         chat_id = user_data[user_id].get("chat_id")
@@ -487,7 +488,8 @@ async def timer_selection(update: Update, context: ContextTypes.DEFAULT_TYPE):
         record_quiz_attempt(user_id, now.strftime("%Y-%m-%d %H:%M:%S"))
 
         full_name = user.full_name
-        log_user_action(user_id, full_name, "Started the Quiz")
+        username = user.username if user.username else "NoUsername"
+        log_user_action(user_id, full_name, username, "Started the Quiz", f"in Chat ID: {update.message.chat_id}")
         await staggered_quiz_start(chat_id, user_id, context)
     elif data == "pre_timer":
         await show_directory(chat_id, context, query)
@@ -621,7 +623,8 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_id = user.id
         full_name = user.full_name
 
-        log_user_action(user_id, full_name, "answered a question")
+        username = user.username if user.username else "NoUsername"
+        log_user_action(user_id, full_name, username, "Answered The Poll", f"in Chat ID: {update.message.chat_id}")
 
         if user_id in user_data:
             user = user_data[user_id]
@@ -684,7 +687,9 @@ async def check_inactivity(context: ContextTypes.DEFAULT_TYPE):
 
     if user_id in user_data and user_data[user_id].get("active_quiz", False):
         full_name = user_data[user_id].get("full_name", "Unknown User")
-        log_user_action(user_id, full_name, "was inactive, quiz canceled")
+        username = user.username if user.username else "NoUsername"
+        
+        log_user_action(user_id, full_name, username, "was inactive, quiz canceled", f"in Chat ID: {update.message.chat_id}")
         await force_quit_quiz(chat_id, user_id, context, message="inactive")
         
 async def force_quit_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE, message):
@@ -706,7 +711,8 @@ async def force_quit_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE, 
             wrong=wrong
         )
         full_name = user_data[user_id].get("full_name", "Unknown User")
-        log_user_action(user_id, full_name, "was inactive, quiz canceled")
+        username = user.username if user.username else "NoUsername"
+        log_user_action(user_id, full_name, username, "was inactive, quiz canceled", f"in Chat ID: {update.message.chat_id}")
         user["active_quiz"] = False
         del user_data[user_id]
         if message=="inactive":
@@ -728,7 +734,7 @@ async def timeout_quiz(context: ContextTypes.DEFAULT_TYPE):
         user["timeout_count"] = user.get("timeout_count", 0) + 1
 
         # 🔴 If 5 polls timed out, quit the quiz
-        if user["timeout_count"] >=3:
+        if user["timeout_count"] >=4:
             await context.bot.send_message(chat_id, "⚠️ Quiz canceled due to inactivity. Select another quiz using /start")
             await force_quit_quiz(chat_id, user_id, context, message="unattempt")
             return
@@ -915,7 +921,7 @@ async def enqueue_poll(chat_id, user_id, context):
 async def cleanup_inactive_users(context: ContextTypes.DEFAULT_TYPE):
     """Removes users who haven't responded for MAX_TIMEOUTS questions, marks quiz as attempted, and updates the database."""
 
-    MAX_TIMEOUTS = 3  # Ensure consistency with timeout_quiz()
+    MAX_TIMEOUTS = 4  # Ensure consistency with timeout_quiz()
 
     for user_id in list(user_data.keys()):
         user = user_data.get(user_id)  # Get user safely
