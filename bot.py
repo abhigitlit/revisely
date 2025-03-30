@@ -25,7 +25,7 @@ logging.basicConfig(
 )
 def log_user_action(user_id, full_name, action, details=""):
     """Logs user actions and prints live with colors."""
-    log_message = f"User: {full_name} ({user_id}) | Action: {action} | Details: {details}"
+    log_message = f"User: {full_name} (@{username}) ({user_id}) | Action: {action} | Details: {details}"
     
     # Log to file
     logging.info(log_message)
