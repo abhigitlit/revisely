@@ -182,7 +182,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.message.chat_id
     full_name = user.full_name  # Get full name
     username = user.username if user.username else "NoUsername"
-    log_user_action(user_id, full_name, username, "started menu", f"in Chat ID: {update.message.chat_id}")
     now = datetime.utcnow()
     if user_id not in user_data:
         user_data[user_id] = {}
@@ -193,7 +192,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     print("Hello", user_data[user_id]["active_menu"])
     if user_id in user_data and user_data[user_id].get("active_menu", False):
-        print("start")
+        log_user_action(user_id, full_name, username, "is trying to restart the menu", f"in Chat ID: {update.message.chat_id}")
         #await update.message.reply_text("⚠️ You already have an active quiz. Finish it first before starting a new one.")
         return
     if user_id != CONFIG["ADMIN_USER_ID"]:
@@ -201,6 +200,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         
         # Check if user is blocked
         if user_stats["block_until"]:
+
+                log_user_action(user_id, full_name, username, "is on waitlist still trying to start menu", f"in Chat ID: {update.message.chat_id}")
             block_until = datetime.strptime(user_stats["block_until"], "%Y-%m-%d %H:%M:%S")
             if now < block_until:
                 return
@@ -209,7 +210,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Please wait 5 Minutes....")
             return
     user_data[user_id]["active_menu"] = True
-
+    log_user_action(user_id, full_name, username, "started menu", f"in Chat ID: {update.message.chat_id}")
     context.user_data["current_path"] = QUIZ_DIRECTORY
 
     if not os.path.exists(QUIZ_DIRECTORY):
@@ -253,7 +254,6 @@ async def quit(update: Update, context: ContextTypes.DEFAULT_TYPE):
     full_name = user.full_name
 
     username = user.username if user.username else "NoUsername"
-    log_user_action(user_id, full_name, username, "Quit The Quiz", f"in Chat ID: {update.message.chat_id}")
 
     if user_id in user_data and user_data[user_id].get("active_quiz", False):
         chat_id = user_data[user_id].get("chat_id")
@@ -281,7 +281,7 @@ async def quit(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 right=stats.get("correct", 0),
                 wrong=attempted - stats.get("correct", 0)
             )
-        
+        log_user_action(user_id, full_name, username, "Quit The Quiz", f"in Chat ID: {update.message.chat_id}")
         user_data[user_id]["active_quiz"] = False
         del user_data[user_id]
         if user_id in user_data:
