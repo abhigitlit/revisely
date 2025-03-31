@@ -1110,27 +1110,31 @@ def get_all_user_ids():
 
 
 async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Allows the admin to broadcast an announcement to all users retrieved from the database."""
+    """Allows the admin to broadcast an announcement to all users or a specific user."""
     user = update.message.from_user
+
     # Check if the sender is the admin.
     if user.id != CONFIG["ADMIN_USER_ID"]:
         await update.message.reply_text("❌ You are not authorized to make announcements.")
         return
 
-    # Ensure an announcement message is provided.
+    # Ensure arguments are provided
     if not context.args:
-        await update.message.reply_text("Please provide an announcement message. Usage: /announce <message>")
+        await update.message.reply_text("Usage: /announce [user_id (optional)] <message>")
         return
 
-    # Construct the announcement text.
-    announcement_text = "📢 Announcement:\n\n" + " ".join(context.args)
-
-    # Retrieve all user IDs from the database.
-    user_ids = get_all_user_ids()
+    # Check if the first argument is a user ID
+    first_arg = context.args[0]
+    if first_arg.isdigit():
+        user_id = int(first_arg)
+        announcement_text = "📢:\n\n" + " ".join(context.args[1:])
+        recipients = [user_id]
+    else:
+        announcement_text = "📢:\n\n" + " ".join(context.args)
+        recipients = get_all_user_ids()  # Fetch all user IDs from the database
 
     unsuccessful = []
-    for uid in user_ids:
-        # In many Telegram bots, the chat_id is the same as the user_id.
+    for uid in recipients:
         try:
             await context.bot.send_message(uid, announcement_text)
         except Exception as e:
@@ -1138,9 +1142,15 @@ async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
             unsuccessful.append(uid)
 
     log_api_request("announce")
-    response = "✅ Announcement broadcasted successfully."
+    
+    if len(recipients) == 1:
+        response = f"✅ Announcement sent to user {recipients[0]}."
+    else:
+        response = "✅ Announcement broadcasted successfully."
+
     if unsuccessful:
         response += f"\nFailed to send to: {unsuccessful}"
+
     await update.message.reply_text(response)
 
 
