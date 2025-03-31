@@ -275,7 +275,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 return
         
         if has_reached_quiz_limit(user_id):
-            await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Please wait 5 Minutes....")
+            await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Please wait 20 Minutes....")
             return
     user_data[user_id]["active_menu"] = True
     log_user_action(user_id, full_name, username, "started menu", f"in Chat ID: {update.message.chat_id}")
@@ -854,6 +854,14 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
         wrong_count = len(wrong_questions)
 
         print(wrong_count)
+        if stats.get("retry_mode", False):
+            reply_markup = InlineKeyboardMarkup(inline)
+                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            except TimedOut:
+                print("Timeout while sending leaderboard. Retrying...")
+                await asyncio.sleep(2)
+                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            return
         if wrong_count > 0:
             message += f"\n\nYou have {wrong_count} wrong question(s). Would you like to reattempt them?"
             inline.append([
@@ -874,14 +882,14 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
                 try:
                     await context.bot.send_message(
                         chat_id,
-                        f"❌ You have reached your quiz limit. Try after 5 minutes...."
+                        f"❌ You have reached your quiz limit. Try after 20 minutes...."
                     )
                 except TimedOut:
                     print("Timeout while sending limit message. Retrying...")
                     await asyncio.sleep(2)
                     await context.bot.send_message(
                         chat_id,
-                        f"❌ You have reached your quiz limit. Try after 5 minutes...."
+                        f"❌ You have reached your quiz limit. Try after 20 minutes...."
                     )
 
                 if user_id in user_data:
@@ -956,14 +964,14 @@ async def retry_choice_callback(update: Update, context: ContextTypes.DEFAULT_TY
             try:
                 await context.bot.send_message(
                     chat_id,
-                    "❌ You have reached your quiz limit. Try after 5 minutes...."
+                    "❌ You have reached your quiz limit. Try after 20 minutes...."
                 )
             except TimedOut:
                 print("Timeout while sending limit message. Retrying...")
                 await asyncio.sleep(2)
                 await context.bot.send_message(
                     chat_id,
-                    "❌ You have reached your quiz limit. Try after 5 minutes...."
+                    "❌ You have reached your quiz limit. Try after 20 minutes...."
                 )
         else:
             await query.edit_message_text("Okay, returning to quiz directory.")
