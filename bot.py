@@ -115,6 +115,13 @@ def init_db():
             quiz_timestamp DATETIME
         )
     ''')
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS users (
+            user_id INTEGER PRIMARY KEY,
+            full_name TEXT,
+            username TEXT
+        )
+    ''')
 
     conn.commit()
     return conn
@@ -211,6 +218,29 @@ def has_reached_quiz_limit(user_id):
 
     return False
 
+
+def store_user_details(user_id, full_name, username):
+    """Stores or updates user details in the database."""
+    conn = sqlite3.connect(DB_PATH, check_same_thread=False)
+    cursor = conn.cursor()
+
+    # Check if the user already exists
+    cursor.execute("SELECT user_id FROM users WHERE user_id = ?", (user_id,))
+    existing_user = cursor.fetchone()
+
+    if existing_user:
+        # Update user details (if needed)
+        cursor.execute("UPDATE users SET full_name = ?, username = ? WHERE user_id = ?",
+                       (full_name, username, user_id))
+    else:
+        # Insert new user data
+        cursor.execute("INSERT INTO users (user_id, full_name, username) VALUES (?, ?, ?)",
+                       (user_id, full_name, username))
+
+    conn.commit()
+    conn.close()
+
+
 # -------------------- TELEGRAM BOT FUNCTIONS --------------------
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.message.from_user
@@ -218,6 +248,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.message.chat_id
     full_name = user.full_name  # Get full name
     username = user.username if user.username else "NoUsername"
+
+    store_user_details(user_id, full_name, username)
     now = datetime.utcnow()
     if user_id not in user_data:
         user_data[user_id] = {}
@@ -679,13 +711,11 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     except TimedOut:
                         print("Timeout while removing jobs. Continuing...")
 
-                    # ✅ Check if the selected option is correct
                     if selected_option != correct_index:
                         if not user.get("retry_mode", False):
                             user.setdefault("wrong_questions", []).append(question)
                     else:
                         user["correct"] += 1  # Increase correct answer count
-
                 # ✅ Move to the next question with error handling
                 if user["index"] + 1 < max_questions:
                     user["index"] += 1
@@ -822,6 +852,8 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
         inline = []
         wrong_questions = stats.get("wrong_questions", [])
         wrong_count = len(wrong_questions)
+
+        print(wrong_count)
         if wrong_count > 0:
             message += f"\n\nYou have {wrong_count} wrong question(s). Would you like to reattempt them?"
             inline.append([
@@ -857,17 +889,17 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
 
                 return
 
-        # ✅ Show updated quiz directory with timeout handling
-        try:
-            await asyncio.sleep(2)
+            # ✅ Show updated quiz directory with timeout handling
+            try:
+                await asyncio.sleep(2)
 
-            await show_directory(chat_id, context)
-        except TimedOut:
-            print("Timeout while showing directory. Retrying...")
-            await asyncio.sleep(2)
-            await show_directory(chat_id, context)  # Retry
+                await show_directory(chat_id, context)
+            except TimedOut:
+                print("Timeout while showing directory. Retrying...")
+                wait asyncio.sleep(2)
+                await show_directory(chat_id, context)  # Retry
         
-        user_data[user_id]["active_menu"] = True
+                user_data[user_id]["active_menu"] = True
 
     except TimedOut:
         print("Timeout occurred in show_leaderboard. Ignoring and continuing...")
@@ -1075,6 +1107,7 @@ def get_all_user_ids():
     results = cursor.fetchall()
     conn.close()
     return [row[0] for row in results]
+
 
 async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Allows the admin to broadcast an announcement to all users retrieved from the database."""
