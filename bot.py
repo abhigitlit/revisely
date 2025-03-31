@@ -237,7 +237,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # Check if user is blocked
         if user_stats["block_until"]:
 
-                log_user_action(user_id, full_name, username, "is on waitlist still trying to start menu", f"in Chat ID: {update.message.chat_id}")
+            log_user_action(user_id, full_name, username, "is on waitlist still trying to start menu", f"in Chat ID: {update.message.chat_id}")
             block_until = datetime.strptime(user_stats["block_until"], "%Y-%m-%d %H:%M:%S")
             if now < block_until:
                 return
@@ -507,7 +507,7 @@ async def timer_selection(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         full_name = user.full_name
         username = user.username if user.username else "NoUsername"
-        log_user_action(user_id, full_name, username, "Started the Quiz", f"in Chat ID: {update.message.chat_id}")
+        log_user_action(user_id, full_name, username, "Started the Quiz", f"in Chat ID: {query.message.chat_id}")
         await staggered_quiz_start(chat_id, user_id, context)
     elif data == "pre_timer":
         await show_directory(chat_id, context, query)
@@ -651,7 +651,7 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
         full_name = user.full_name
 
         username = user.username if user.username else "NoUsername"
-        log_user_action(user_id, full_name, username, "Answered The Poll", f"in Chat ID: {update.message.chat_id}")
+        log_user_action(user_id, full_name, username, "Answered The Poll", f"in Chat ID: {user_id}")
 
         if user_id in user_data:
             user = user_data[user_id]
@@ -681,10 +681,10 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
                     # ✅ Check if the selected option is correct
                     if selected_option != correct_index:
-                        if not session.get("retry_mode", False):
-                            session.setdefault("wrong_questions", []).append(question)
+                        if not user.get("retry_mode", False):
+                            user.setdefault("wrong_questions", []).append(question)
                     else:
-                        session["correct"] += 1  # Increase correct answer count
+                        user["correct"] += 1  # Increase correct answer count
 
                 # ✅ Move to the next question with error handling
                 if user["index"] + 1 < max_questions:
@@ -1116,7 +1116,7 @@ def main():
     app = Application.builder().token(TOKEN).build()
     app.add_handler(CommandHandler(["start", "startx"], start))
     app.add_handler(CommandHandler("cancel", quit))
-    app.add_handler(CommandHandler("announcex", announce)
+    app.add_handler(CommandHandler("announcex", announce))
     app.add_handler(MessageHandler(filters.ALL, combined_message_handler))
     app.add_handler(CallbackQueryHandler(quiz_selection, pattern="^(dir:|file:)"))
     app.add_handler(CallbackQueryHandler(timer_selection, pattern="^(yeah|no|pre_timer|home|next|buy_premium|return_pre)$"))

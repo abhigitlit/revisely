@@ -18336,3 +18336,10 @@ task: <Task pending name='Task-1' coro=<poll_worker() running at D:\revisely\bot
 2025-03-26 21:29:49,684 - INFO - Application.stop() complete
 2025-03-26 21:29:49,775 - ERROR - Task was destroyed but it is pending!
 task: <Task pending name='Task-1' coro=<poll_worker() running at D:\revisely\bot.py:788> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-03-31 08:44:45,799 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-03-31 08:45:21,320 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-03-31 08:49:18,870 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-03-31 08:55:26,123 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-03-31 08:58:55,413 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-03-31 09:42:22,247 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-03-31 10:08:32,317 - INFO - This log message goes to both user_log.txt and api_usage.log
