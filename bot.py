@@ -896,7 +896,7 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
                 await show_directory(chat_id, context)
             except TimedOut:
                 print("Timeout while showing directory. Retrying...")
-                wait asyncio.sleep(2)
+                await asyncio.sleep(2)
                 await show_directory(chat_id, context)  # Retry
         
                 user_data[user_id]["active_menu"] = True
