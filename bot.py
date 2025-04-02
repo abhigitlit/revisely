@@ -1146,7 +1146,7 @@ async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
     unsuccessful = []
     for uid in recipients:
         try:
-            chat = await context.bot.get_chat(user_id)
+            chat = await context.bot.get_chat(uid)
             user_name = f"{chat.first_name} {chat.last_name}".strip() if chat.last_name else chat.first_name
 
             await context.bot.send_message(uid, f"📢: Hello {user_name} {announcement_text}")
