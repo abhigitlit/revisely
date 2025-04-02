@@ -252,11 +252,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.message.chat_id
     full_name = user.full_name  # Get full name
     username = user.username if user.username else "NoUsername"
-<<<<<<< HEAD
-=======
-
     store_user_details(user_id, full_name, username)
->>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
     now = datetime.utcnow()
     if user_id not in user_data:
         user_data[user_id] = {}
