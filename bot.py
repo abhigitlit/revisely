@@ -245,7 +245,6 @@ def store_user_details(user_id, full_name, username):
     conn.close()
 
 
->>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
 # -------------------- TELEGRAM BOT FUNCTIONS --------------------
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.message.from_user
