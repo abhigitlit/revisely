@@ -7,7 +7,8 @@
             "Insurance products",
             "Investment options"
         ],
-        "answer": "Pre-sanctioned credit"
+        "answer": "Pre-sanctioned credit",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has become the second-largest card issuer in India after HDFC Bank?",
@@ -17,7 +18,8 @@
             "Axis Bank",
             "Bank of Baroda"
         ],
-        "answer": "SBI Card"
+        "answer": "SBI Card",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as Executive Director of YES Bank for 2024-2027?",
@@ -27,7 +29,8 @@
             "Nitin Chopra",
             "Anil Sharma"
         ],
-        "answer": "Manish Jain"
+        "answer": "Manish Jain",
+        "source": "Unknown"
     },
     {
         "question": "What is the new initiative launched by the Centre to incubate new smart cities?",
@@ -37,7 +40,8 @@
             "Urban Development Project",
             "Future Cities Initiative"
         ],
-        "answer": "New Cities Scheme with an Rs 8,000 crore allocation"
+        "answer": "New Cities Scheme with an Rs 8,000 crore allocation",
+        "source": "Unknown"
     },
     {
         "question": "Which country leads in mobile malware attacks globally?",
@@ -47,7 +51,8 @@
             "USA",
             "Brazil"
         ],
-        "answer": "India"
+        "answer": "India",
+        "source": "Unknown"
     },
     {
         "question": "What rank did Kerala achieve in the India Skills Report 2025 for employability?",
@@ -57,7 +62,8 @@
             "3rd",
             "10th"
         ],
-        "answer": "5th"
+        "answer": "5th",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian city ranked in the top 5 food cities globally according to Taste Atlas 2024-25?",
@@ -67,7 +73,8 @@
             "Hyderabad",
             "Chennai"
         ],
-        "answer": "Mumbai"
+        "answer": "Mumbai",
+        "source": "Unknown"
     },
     {
         "question": "Which state was awarded at the UNESCO Asia-Pacific Awards 2024 for its temple restoration?",
@@ -77,7 +84,8 @@
             "Kerala",
             "Andhra Pradesh"
         ],
-        "answer": "Tamil Nadu"
+        "answer": "Tamil Nadu",
+        "source": "Unknown"
     },
     {
         "question": "What global award did Hindustan Shipyard Limited (HSL) win in 2024?",
@@ -87,7 +95,8 @@
             "Navratna Award",
             "Industry Excellence Award"
         ],
-        "answer": "PSU Transformation Awards for innovation"
+        "answer": "PSU Transformation Awards for innovation",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian poet was remembered for their impactful literary works on liberation and justice?",
@@ -97,7 +106,8 @@
             "Langston Hughes",
             "Alice Walker"
         ],
-        "answer": "Nikki Giovanni"
+        "answer": "Nikki Giovanni",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of World Human Rights Day 2024?",
@@ -107,7 +117,8 @@
             "\"Let's build a better world\"",
             "\"Equality, Justice and Dignity\""
         ],
-        "answer": "\"Our rights, our future, right now.\""
+        "answer": "\"Our rights, our future, right now.\"",
+        "source": "Unknown"
     },
     {
         "question": "What is the significance of International Day of Neutrality (Dec 12)?",
@@ -117,7 +128,8 @@
             "Celebrates diplomatic relations.",
             "Focuses on conflict resolution."
         ],
-        "answer": "Highlights neutrality's role in global peace."
+        "answer": "Highlights neutrality's role in global peace.",
+        "source": "Unknown"
     },
     {
         "question": "Which day is observed to promote energy efficiency?",
@@ -127,7 +139,8 @@
             "International Energy Efficiency Day",
             "Renewable Energy Day"
         ],
-        "answer": "National Energy Conservation Day"
+        "answer": "National Energy Conservation Day",
+        "source": "Unknown"
     },
     {
         "question": "Who passed away at the age of 92, known as the \"architect of Brand Bengaluru\"?",
@@ -137,7 +150,8 @@
             "NR Narayana Murthy",
             "Azim Premji"
         ],
-        "answer": "SM Krishna"
+        "answer": "SM Krishna",
+        "source": "Unknown"
     },
     {
         "question": "Which legendary Gujarati singer passed away at the age of 90?",
@@ -147,7 +161,8 @@
             "Asha Bhosle",
             "Mahendra Kapoor"
         ],
-        "answer": "Purushottam Upadhyay"
+        "answer": "Purushottam Upadhyay",
+        "source": "Unknown"
     },
     {
         "question": "Which IIT has completed a 410-meter test track for hyperloop technology?",
@@ -157,7 +172,8 @@
             "IIT Bombay",
             "IIT Kanpur"
         ],
-        "answer": "IIT Madras"
+        "answer": "IIT Madras",
+        "source": "Unknown"
     },
     {
         "question": "Which country's court stayed the declaration of \"Joy Bangla\" as the national slogan?",
@@ -167,7 +183,8 @@
             "Pakistan",
             "Myanmar"
         ],
-        "answer": "Bangladesh"
+        "answer": "Bangladesh",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian Navy frigate was inducted as part of India-Russia cooperation?",
@@ -177,7 +194,8 @@
             "INS Arihant",
             "INS Chakra"
         ],
-        "answer": "INS Tushil"
+        "answer": "INS Tushil",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the AI-based quantum chip developed by Google?",
@@ -187,7 +205,8 @@
             "Bristlecone Quantum Chip",
             "Falcon Quantum Chip"
         ],
-        "answer": "Willow Quantum Chip"
+        "answer": "Willow Quantum Chip",
+        "source": "Unknown"
     },
     {
         "question": "Who received the DGA Lifetime Achievement Award in 2024?",
@@ -197,7 +216,8 @@
             "Martin Scorsese",
             "Christopher Nolan"
         ],
-        "answer": "Ang Lee."
+        "answer": "Ang Lee.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state will host the Khelo India Winter Games in 2025?",
@@ -207,7 +227,8 @@
             "Dehradun (Uttarakhand)",
             "Itanagar (Arunachal Pradesh)"
         ],
-        "answer": "Leh (Ladakh) and Gulmarg (J&K)."
+        "answer": "Leh (Ladakh) and Gulmarg (J&K).",
+        "source": "Unknown"
     },
     {
         "question": "Who became the youngest player to reach 100 wickets in all formats in T20I?",
@@ -217,17 +238,19 @@
             "Wanindu Hasaranga",
             "Kagiso Rabada"
         ],
-        "answer": "Shaheen Afridi."
+        "answer": "Shaheen Afridi.",
+        "source": "Unknown"
     },
     {
         "question": "Which country's Prime Minister was appointed amidst political instability in 2024?",
         "options": [
-            "France (François Bayrou)",
+            "France (Fran\u00e7ois Bayrou)",
             "United Kingdom (Boris Johnson)",
             "Italy (Giuseppe Conte)",
             "Germany (Angela Merkel)"
         ],
-        "answer": "France (François Bayrou)"
+        "answer": "France (Fran\u00e7ois Bayrou)",
+        "source": "Unknown"
     },
     {
         "question": "Who was awarded as a Rising Star in Banking at the 2024 ITA Awards?",
@@ -237,7 +260,8 @@
             "Shikha Sharma",
             "Arundhati Bhattacharya"
         ],
-        "answer": "Bharati Kolli"
+        "answer": "Bharati Kolli",
+        "source": "Unknown"
     },
     {
         "question": "Which global financial body revised India's GDP growth forecast for FY25 to 6.5%?",
@@ -247,7 +271,8 @@
             "World Bank",
             "RBI (Reserve Bank of India)"
         ],
-        "answer": "ADB (Asian Development Bank)."
+        "answer": "ADB (Asian Development Bank).",
+        "source": "Unknown"
     },
     {
         "question": "What is the total amount of FDI inflows that India surpassed?",
@@ -257,7 +282,8 @@
             "$750 billion.",
             "$1.2 trillion."
         ],
-        "answer": "$1 trillion."
+        "answer": "$1 trillion.",
+        "source": "Unknown"
     },
     {
         "question": "Which state has seen a decline in sex ratio according to the latest statistics?",
@@ -267,7 +293,8 @@
             "Punjab.",
             "Uttar Pradesh."
         ],
-        "answer": "Bihar."
+        "answer": "Bihar.",
+        "source": "Unknown"
     },
     {
         "question": "Which organization hosted the Champions of the Earth Awards 2024?",
@@ -277,7 +304,8 @@
             "Greenpeace.",
             "WEF (World Economic Forum)."
         ],
-        "answer": "UN (United Nations)."
+        "answer": "UN (United Nations).",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian city became the host for the 10th World Ayurveda Congress 2024?",
@@ -287,7 +315,8 @@
             "Rishikesh.",
             "Haridwar."
         ],
-        "answer": "Dehradun."
+        "answer": "Dehradun.",
+        "source": "Unknown"
     },
     {
         "question": "What was the revised GDP growth forecast for India by Fitch?",
@@ -297,7 +326,8 @@
             "6.2%.",
             "6.5%."
         ],
-        "answer": "6.4%."
+        "answer": "6.4%.",
+        "source": "Unknown"
     },
     {
         "question": "Who launched the Bima Sakhi Yojana for women empowerment?",
@@ -307,7 +337,8 @@
             "Nirmala Sitharaman.",
             "Smriti Irani."
         ],
-        "answer": "PM Modi."
+        "answer": "PM Modi.",
+        "source": "Unknown"
     },
     {
         "question": "What is the main aim of the 'Smile Sub-Scheme'?",
@@ -317,7 +348,8 @@
             "Improving healthcare facilities.",
             "Promoting rural development."
         ],
-        "answer": "Rehabilitation of marginalized communities."
+        "answer": "Rehabilitation of marginalized communities.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian company acquired a stake in Flipkart through an MoU with DPIIT?",
@@ -327,7 +359,8 @@
             "Reliance Industries.",
             "Adani Group."
         ],
-        "answer": "Jubilant Bhartia Group."
+        "answer": "Jubilant Bhartia Group.",
+        "source": "Unknown"
     },
     {
         "question": "What is India's goal for nuclear energy by 2031?",
@@ -337,7 +370,8 @@
             "20,000 MW capacity.",
             "25,000 MW capacity."
         ],
-        "answer": "22,480 MW capacity."
+        "answer": "22,480 MW capacity.",
+        "source": "Unknown"
     },
     {
         "question": "Who won the Asian Women's Handball Championship 2024?",
@@ -347,7 +381,8 @@
             "India.",
             "China."
         ],
-        "answer": "Japan."
+        "answer": "Japan.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian city ranked in the top 5 food cities in the world in 2024?",
@@ -357,6 +392,7 @@
             "Hyderabad.",
             "Chennai."
         ],
-        "answer": "Mumbai."
+        "answer": "Mumbai.",
+        "source": "Unknown"
     }
 ]

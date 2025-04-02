@@ -7,7 +7,8 @@
             "India (New Delhi).",
             "Bangladesh (Dhaka)."
         ],
-        "answer": "Thailand (virtually)."
+        "answer": "Thailand (virtually).",
+        "source": "Unknown"
     },
     {
         "question": "Who became the new president of Georgia in 2024?",
@@ -17,7 +18,8 @@
             "Giorgi Margvelashvili.",
             "Mikheil Saakashvili."
         ],
-        "answer": "Mikheil Kavelashvili."
+        "answer": "Mikheil Kavelashvili.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian naval ship participated in Exercise MILAN 2024?",
@@ -27,7 +29,8 @@
             "INS Delhi.",
             "INS Rajput."
         ],
-        "answer": "INS Sumedha."
+        "answer": "INS Sumedha.",
+        "source": "Unknown"
     },
     {
         "question": "Which country hosted the COP29 Climate Summit in 2024?",
@@ -37,7 +40,8 @@
             "Brazil.",
             "South Africa."
         ],
-        "answer": "United Arab Emirates (UAE)."
+        "answer": "United Arab Emirates (UAE).",
+        "source": "Unknown"
     },
     {
         "question": "Who became the first woman astronaut from Saudi Arabia?",
@@ -47,7 +51,8 @@
             "Nouf Al-Marwaai.",
             "Haifa Al-Mansour."
         ],
-        "answer": "Rayyanah Barnawi."
+        "answer": "Rayyanah Barnawi.",
+        "source": "Unknown"
     },
     {
         "question": "Which state launched the 'Kanya Shiksha Suraksha Scheme'?",
@@ -57,7 +62,8 @@
             "Rajasthan.",
             "Uttar Pradesh."
         ],
-        "answer": "Bihar."
+        "answer": "Bihar.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian city has been selected as the UNESCO World Book Capital for 2025?",
@@ -67,7 +73,8 @@
             "Kolkata.",
             "Mumbai."
         ],
-        "answer": "Hyderabad."
+        "answer": "Hyderabad.",
+        "source": "Unknown"
     },
     {
         "question": "Who was appointed as the new Chief of Defence Staff (CDS) of India in 2024?",
@@ -77,7 +84,8 @@
             "Admiral Karambir Singh.",
             "Air Chief Marshal R.K.S. Bhadauria."
         ],
-        "answer": "Lt. General Anil Chauhan."
+        "answer": "Lt. General Anil Chauhan.",
+        "source": "Unknown"
     },
     {
         "question": "Which state introduced the 'Green War Room' to monitor pollution levels?",
@@ -87,7 +95,8 @@
             "Tamil Nadu.",
             "West Bengal."
         ],
-        "answer": "Delhi."
+        "answer": "Delhi.",
+        "source": "Unknown"
     },
     {
         "question": "Where will the first-ever International Tea Festival be held in India?",
@@ -97,7 +106,8 @@
             "Tamil Nadu.",
             "Kerala."
         ],
-        "answer": "Assam."
+        "answer": "Assam.",
+        "source": "Unknown"
     },
     {
         "question": "What milestone did Jasprit Bumrah achieve in Australia?",
@@ -107,7 +117,8 @@
             "Becoming the fastest Indian bowler to 100 Test wickets.",
             "Taking a hat-trick in a Test match."
         ],
-        "answer": "Surpassing Kapil Dev with 52 Test wickets in Australia."
+        "answer": "Surpassing Kapil Dev with 52 Test wickets in Australia.",
+        "source": "Unknown"
     },
     {
         "question": "What title was won by Mumbai in Syed Mushtaq Ali Trophy 2024?",
@@ -117,7 +128,8 @@
             "Their third title.",
             "Their fourth title."
         ],
-        "answer": "Their second title."
+        "answer": "Their second title.",
+        "source": "Unknown"
     },
     {
         "question": "What is the rank of India in the Global Hunger Index 2024?",
@@ -127,7 +139,8 @@
             "121st.",
             "99th."
         ],
-        "answer": "111th."
+        "answer": "111th.",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the book \"The Grand Challenge of Sustainable Development\"?",
@@ -137,7 +150,8 @@
             "Manmohan Singh.",
             "Arvind Panagariya."
         ],
-        "answer": "Raghuram G. Rajan."
+        "answer": "Raghuram G. Rajan.",
+        "source": "Unknown"
     },
     {
         "question": "Which Padma Shri environmentalist known as the \"Tree Goddess\" passed away at 80?",
@@ -147,7 +161,8 @@
             "Sunita Narain.",
             "Medha Patkar."
         ],
-        "answer": "Tulsi Gowda."
+        "answer": "Tulsi Gowda.",
+        "source": "Unknown"
     },
     {
         "question": "Who inaugurated the 61st SSB Raising Day celebration?",
@@ -157,7 +172,8 @@
             "Defence Minister Rajnath Singh.",
             "Home Minister Rajnath Singh."
         ],
-        "answer": "Union Minister Amit Shah."
+        "answer": "Union Minister Amit Shah.",
+        "source": "Unknown"
     },
     {
         "question": "Which country launched the world's first AI-operated submarine?",
@@ -167,7 +183,8 @@
             "Russia.",
             "Japan."
         ],
-        "answer": "China."
+        "answer": "China.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the program launched by the Ministry of Education for AI-based learning?",
@@ -177,7 +194,8 @@
             "Digital Shiksha Mission.",
             "E-Learning India."
         ],
-        "answer": "Vidya AI 2024."
+        "answer": "Vidya AI 2024.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state hosted the 2024 edition of the Hornbill Festival?",
@@ -187,7 +205,8 @@
             "Meghalaya.",
             "Arunachal Pradesh."
         ],
-        "answer": "Nagaland."
+        "answer": "Nagaland.",
+        "source": "Unknown"
     },
     {
         "question": "Who won the Nobel Prize in Physics 2024?",
@@ -195,9 +214,10 @@
             "Anne L'Huillier, Pierre Agostini, and Ferenc Krausz.",
             "Syukuro Manabe, Klaus Hasselmann, and Giorgio Parisi.",
             "Roger Penrose, Reinhard Genzel, and Andrea Ghez.",
-            "Arthur Ashkin, Gérard Mourou, and Donna Strickland."
+            "Arthur Ashkin, G\u00e9rard Mourou, and Donna Strickland."
         ],
-        "answer": "Anne L'Huillier, Pierre Agostini, and Ferenc Krausz."
+        "answer": "Anne L'Huillier, Pierre Agostini, and Ferenc Krausz.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state became the first to establish a 100% renewable energy-powered airport?",
@@ -207,7 +227,8 @@
             "Karnataka.",
             "Andhra Pradesh."
         ],
-        "answer": "Kerala (Cochin International Airport)."
+        "answer": "Kerala (Cochin International Airport).",
+        "source": "Unknown"
     },
     {
         "question": "Who received the Jnanpith Award 2024?",
@@ -217,7 +238,8 @@
             "Arundhati Roy.",
             "Vikram Seth."
         ],
-        "answer": "Vinod Kumar Shukla."
+        "answer": "Vinod Kumar Shukla.",
+        "source": "Unknown"
     },
     {
         "question": "Which is the first city in India to adopt the 'zero-landfill' concept?",
@@ -227,7 +249,8 @@
             "Navi Mumbai.",
             "Mysuru."
         ],
-        "answer": "Indore."
+        "answer": "Indore.",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of World Tourism Day 2024?",
@@ -237,7 +260,8 @@
             "\"Tourism for Inclusive Growth\"",
             "\"Rethinking Tourism\""
         ],
-        "answer": "\"Tourism and Green Investments.\""
+        "answer": "\"Tourism and Green Investments.\"",
+        "source": "Unknown"
     },
     {
         "question": "Which country recently introduced the Digital Euro pilot project?",
@@ -247,7 +271,8 @@
             "Switzerland.",
             "Sweden."
         ],
-        "answer": "European Union."
+        "answer": "European Union.",
+        "source": "Unknown"
     },
     {
         "question": "Who won the ICC Men's ODI Cricketer of the Year 2024?",
@@ -257,7 +282,8 @@
             "Virat Kohli.",
             "Rohit Sharma."
         ],
-        "answer": "Shubman Gill."
+        "answer": "Shubman Gill.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the joint naval exercise between India and Singapore?",
@@ -267,7 +293,8 @@
             "JIMEX 2024.",
             "VARUNA 2024."
         ],
-        "answer": "SIMBEX 2024."
+        "answer": "SIMBEX 2024.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian city hosted the G20 Youth Summit in 2024?",
@@ -277,7 +304,8 @@
             "Mumbai.",
             "Chennai."
         ],
-        "answer": "Varanasi."
+        "answer": "Varanasi.",
+        "source": "Unknown"
     },
     {
         "question": "Who is the Chairman of the 20th Finance Commission of India?",
@@ -287,7 +315,8 @@
             "Shaktikanta Das.",
             "Vijay Kelkar."
         ],
-        "answer": "NK Singh."
+        "answer": "NK Singh.",
+        "source": "Unknown"
     },
     {
         "question": "Which space agency launched the Psyche Mission to explore an asteroid?",
@@ -297,7 +326,8 @@
             "ESA.",
             "JAXA."
         ],
-        "answer": "NASA."
+        "answer": "NASA.",
+        "source": "Unknown"
     },
     {
         "question": "What is the capital of the new Andhra Pradesh state under its three-capital system?",
@@ -307,7 +337,8 @@
             "Kurnool (Judicial).",
             "Vijayawada."
         ],
-        "answer": "Visakhapatnam (Executive)."
+        "answer": "Visakhapatnam (Executive).",
+        "source": "Unknown"
     },
     {
         "question": "Who became the youngest chess Grandmaster in 2024?",
@@ -317,7 +348,8 @@
             "Magnus Carlsen.",
             "Gukesh D."
         ],
-        "answer": "Abhimanyu Mishra."
+        "answer": "Abhimanyu Mishra.",
+        "source": "Unknown"
     },
     {
         "question": "What is the new retirement age for central government employees in India?",
@@ -327,7 +359,8 @@
             "65 years.",
             "58 years."
         ],
-        "answer": "62 years."
+        "answer": "62 years.",
+        "source": "Unknown"
     },
     {
         "question": "Which state launched the 'Mission Shakti' app to ensure women's safety?",
@@ -337,7 +370,8 @@
             "Maharashtra.",
             "West Bengal."
         ],
-        "answer": "Odisha."
+        "answer": "Odisha.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of India's first indigenous 5G chipset?",
@@ -347,7 +381,8 @@
             "Indra-5G.",
             "Bharat-5G."
         ],
-        "answer": "Agni-5G."
+        "answer": "Agni-5G.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian bank launched the 'Digital Village Ecosystem' initiative?",
@@ -357,6 +392,7 @@
             "ICICI Bank.",
             "Punjab National Bank."
         ],
-        "answer": "State Bank of India (SBI)."
+        "answer": "State Bank of India (SBI).",
+        "source": "Unknown"
     }
 ]

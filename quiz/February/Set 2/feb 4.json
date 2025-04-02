@@ -7,17 +7,19 @@
             "Canara Bank ",
             "Indian Overseas Bank "
         ],
-        "answer": "Indian Overseas Bank "
+        "answer": "Indian Overseas Bank ",
+        "source": "Unknown"
     },
     {
-        "question": "Which state was declared ‘Naxal-free’ after the final surrender of its last active Naxalite?",
+        "question": "Which state was declared \u2018Naxal-free\u2019 after the final surrender of its last active Naxalite?",
         "options": [
             "Chhattisgarh ",
             "Jharkhand ",
             "Karnataka ",
             "Odisha "
         ],
-        "answer": "Karnataka "
+        "answer": "Karnataka ",
+        "source": "Unknown"
     },
     {
         "question": "Which state won the men's kabaddi gold medal at the 38th National Games?",
@@ -27,7 +29,8 @@
             "Himachal Pradesh ",
             "Haryana "
         ],
-        "answer": "Uttar Pradesh "
+        "answer": "Uttar Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "On which date was the International Day of Zero Tolerance for Female Genital Mutilation observed in 2025?",
@@ -37,7 +40,8 @@
             "February 7 ",
             "February 6  "
         ],
-        "answer": "February 6  "
+        "answer": "February 6  ",
+        "source": "Unknown"
     },
     {
         "question": "What is Zomato's new name after its recent rebranding?",
@@ -47,7 +51,8 @@
             "Zenith ",
             "Continuum "
         ],
-        "answer": "Eternal "
+        "answer": "Eternal ",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian quick commerce startup became the world's second most downloaded food and drink app in 2024?",
@@ -57,7 +62,8 @@
             "Zepto ",
             "Zomato "
         ],
-        "answer": "Zepto "
+        "answer": "Zepto ",
+        "source": "Unknown"
     },
     {
         "question": "The central government has extended the term of the National Commission for Safai Karamcharis by how many years in February 2025?",
@@ -67,7 +73,8 @@
             "4 years  ",
             "5 years "
         ],
-        "answer": "3 years  "
+        "answer": "3 years  ",
+        "source": "Unknown"
     },
     {
         "question": "What was the installed solar power capacity in the country as of 31st January 2025?",
@@ -77,7 +84,8 @@
             "201.5 GW ",
             "150.9 GW "
         ],
-        "answer": "100.3 GW "
+        "answer": "100.3 GW ",
+        "source": "Unknown"
     },
     {
         "question": "The government of India has set a target to achieve 100 GW solar module production capacity by which year?",
@@ -87,17 +95,19 @@
             "2030 ",
             "2035 "
         ],
-        "answer": "2030 "
+        "answer": "2030 ",
+        "source": "Unknown"
     },
     {
-        "question": "The government of India has extended the  “ Skill India Programme” till ?",
+        "question": "The government of India has extended the  \u201c Skill India Programme\u201d till ?",
         "options": [
             "2025-26 ",
             "2027-28 ",
             "2028-29 ",
             "2029-30 "
         ],
-        "answer": "2025-26 "
+        "answer": "2025-26 ",
+        "source": "Unknown"
     },
     {
         "question": "What is the total outlay for the central government scheme Skill India Programme?",
@@ -107,7 +117,8 @@
             "Rs 5,250 crore ",
             "Rs 3,210 crore "
         ],
-        "answer": "Rs 8,800 crore "
+        "answer": "Rs 8,800 crore ",
+        "source": "Unknown"
     },
     {
         "question": "Which scheme are NOT a components of the government of India's Skill India Programme?",
@@ -117,7 +128,8 @@
             "Jan Shikshan Sansthan ",
             "Prime Minister Young, Upcoming and Versatile Authors "
         ],
-        "answer": "Prime Minister Young, Upcoming and Versatile Authors "
+        "answer": "Prime Minister Young, Upcoming and Versatile Authors ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Navigation with Indian Constellation (NavIC):  1.It is a satellite-based navigation system developed by the Indian Space Research Organization (ISRO).  2. It provides service to users in India as well as the region extending about 5000 km beyond the Indian landmass.  Which of the statements given above is/are correct?",
@@ -128,7 +140,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": ": "
+        "answer": ": ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the 15th International Meeting of World Pharmacopoeias held?",
@@ -138,7 +151,8 @@
             "Paris  ",
             "Madrid "
         ],
-        "answer": "New Delhi  "
+        "answer": "New Delhi  ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the 38th Surajkund International Crafts Fair inaugurated?",
@@ -148,7 +162,8 @@
             "Faridabad ",
             "Jaipur "
         ],
-        "answer": "Faridabad "
+        "answer": "Faridabad ",
+        "source": "Unknown"
     },
     {
         "question": "Which country recently added its first drone and helicopter-launching ship, Shahid Beheshti, to its Revolutionary Guards' fleet?",
@@ -158,7 +173,8 @@
             "Russia ",
             "Turkey "
         ],
-        "answer": "Iran "
+        "answer": "Iran ",
+        "source": "Unknown"
     },
     {
         "question": "Klub-S Missile System, recently seen in the news, is developed by which country?",
@@ -168,7 +184,8 @@
             "Iran ",
             "Russia "
         ],
-        "answer": "Russia "
+        "answer": "Russia ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Restructured National Bamboo Mission:  1. It is a centrally sponsored scheme which provides assistance to only government sector for the propagation and cultivation of bamboo.  2. Under this mission Bamboo Technology Support Groups (BTSGs) and National Level Agencies gets 100% funding from the central government.  Which of the statements given above is/are correct?",
@@ -178,7 +195,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "2 only "
+        "answer": "2 only ",
+        "source": "Unknown"
     },
     {
         "question": "What was the name of the joint airborne exercise conducted jointly by the Indian Army and the Indian Air Force in February 2025?",
@@ -188,7 +206,8 @@
             "Exercise Able Archer ",
             "Exercise Tarang Shakti "
         ],
-        "answer": "Exercise Winged Raiders "
+        "answer": "Exercise Winged Raiders ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the first BIMSTEC Youth Summit held?",
@@ -198,7 +217,8 @@
             "Bengaluru, Karnataka  ",
             "Chennai, Tamil Nadu "
         ],
-        "answer": "Gandhinagar, Gujarat "
+        "answer": "Gandhinagar, Gujarat ",
+        "source": "Unknown"
     },
     {
         "question": "What was the theme of the first BIMSTEC Youth Summit?",
@@ -208,7 +228,8 @@
             "Towards a Resilient Region ",
             "Prosperous Economies, and Healthy People "
         ],
-        "answer": "Youth as a bridge for intra-BIMSTEC exchange. "
+        "answer": "Youth as a bridge for intra-BIMSTEC exchange. ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Prime Minister of Lebanon?",
@@ -218,7 +239,8 @@
             "Ziad Baroud ",
             "Nawaf Salam "
         ],
-        "answer": "Nawaf Salam "
+        "answer": "Nawaf Salam ",
+        "source": "Unknown"
     },
     {
         "question": "Who won the 2025 WTA Mumbai Open tennis singles title?",
@@ -228,7 +250,8 @@
             "Maaya Rajeshwaran Revathi ",
             "Elena Pridankina "
         ],
-        "answer": "Jil Teichmann "
+        "answer": "Jil Teichmann ",
+        "source": "Unknown"
     },
     {
         "question": "Who recently resigned as the Chief Minister of Manipur?",
@@ -238,7 +261,8 @@
             "K. Balasubramanian ",
             "Bhajanlal Sharma  "
         ],
-        "answer": "N. Biren Singh "
+        "answer": "N. Biren Singh ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the book titled \"Tested : The remarkable power of resolve \"",
@@ -248,7 +272,8 @@
             "Scott Boland ",
             "Aaron Finch "
         ],
-        "answer": "Pat Cummins "
+        "answer": "Pat Cummins ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the book titled \"Source Code: My beginnings\"?",
@@ -258,7 +283,8 @@
             "Steve Jobs ",
             "Steve Wozniak "
         ],
-        "answer": "Bill Gates  "
+        "answer": "Bill Gates  ",
+        "source": "Unknown"
     },
     {
         "question": "Which one among the following is not a Baltic nation?",
@@ -268,7 +294,8 @@
             "Lithuania ",
             "Estonia "
         ],
-        "answer": "Slovakia "
+        "answer": "Slovakia ",
+        "source": "Unknown"
     },
     {
         "question": "Until which year has the Jal Jeevan Mission (JJM) been extended?",
@@ -278,7 +305,8 @@
             "2027 ",
             "2028 "
         ],
-        "answer": "2028 "
+        "answer": "2028 ",
+        "source": "Unknown"
     },
     {
         "question": "Which country is set to launch the EFTA Desk to strengthen trade relations?",
@@ -288,7 +316,8 @@
             "Iceland ",
             "India "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
         "question": "What is India's rank in the Global LEED Green Buildings 2024 rankings?",
@@ -298,7 +327,8 @@
             "4th ",
             "3rd "
         ],
-        "answer": "3rd "
+        "answer": "3rd ",
+        "source": "Unknown"
     },
     {
         "question": "Which country signed an MoU with India for implementing Quick Impact Projects (QIPs)?",
@@ -308,7 +338,8 @@
             "Guatemala ",
             "Honduras "
         ],
-        "answer": "Nicaragua "
+        "answer": "Nicaragua ",
+        "source": "Unknown"
     },
     {
         "question": "What is India's rank in terms of economy-wide digitalisation globally?",
@@ -318,7 +349,8 @@
             "5th ",
             "7th "
         ],
-        "answer": "3rd "
+        "answer": "3rd ",
+        "source": "Unknown"
     },
     {
         "question": "Which ministry issued a circular advising government officials to avoid using AI tools on official devices?",
@@ -327,7 +359,8 @@
             "Ministry of Finance ",
             "Ministry of Information Technology D) Ministry of External Affairs "
         ],
-        "answer": "Unknown"
+        "answer": "Unknown",
+        "source": "Unknown"
     },
     {
         "question": "Where was Prime Minister Narendra Modi when he virtually inaugurated the 3rd edition of the India Energy Week in February 2025?",
@@ -337,7 +370,8 @@
             "Australia  ",
             "Japan "
         ],
-        "answer": "France  "
+        "answer": "France  ",
+        "source": "Unknown"
     },
     {
         "question": "When is World Pulses Day celebrated?",
@@ -347,7 +381,8 @@
             "February 9 ",
             "February 11 "
         ],
-        "answer": "February 10 "
+        "answer": "February 10 ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the R-37M Missile, recently seen in the news:  1. It is an intercontinental ballistic missile (ICBM).  2. It was developed by Russia.  Which of the statements given above is/are correct?",
@@ -357,16 +392,18 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "2 only "
+        "answer": "2 only ",
+        "source": "Unknown"
     },
     {
-        "question": "Which among the following best describes ‘Yashas’, recently seen in the news?",
+        "question": "Which among the following best describes \u2018Yashas\u2019, recently seen in the news?",
         "options": [
             "A transport aircraft used by the Indian Air Force. ",
             "An unmanned aerial vehicle (UAV). ",
             "A reconnaissance satellite launched by ISRO. ",
             "A jet training aircraft "
         ],
-        "answer": "A jet training aircraft "
+        "answer": "A jet training aircraft ",
+        "source": "Unknown"
     }
 ]

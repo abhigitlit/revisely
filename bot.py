@@ -13,37 +13,50 @@ from telegram.ext import (
 )
 from datetime import datetime, timedelta
 from collections import deque
-logging.basicConfig(
-    filename="user_log.txt",
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-logging.basicConfig(
-    filename="api_usage.log",
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-def log_user_action(user_id, full_name, action, details=""):
-    """Logs user actions and prints live with colors."""
-    log_message = f"User: {full_name} ({user_id}) | Action: {action} | Details: {details}"
+logger = logging.getLogger("my_logger")
+logger.setLevel(logging.INFO)
+
+# Create a file handler for user logs
+user_handler = logging.FileHandler("user_log.txt")
+user_handler.setLevel(logging.INFO)
+user_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+user_handler.setFormatter(user_formatter)
+logger.addHandler(user_handler)
+
+# Create a file handler for API usage logs
+api_handler = logging.FileHandler("api_usage.log")
+api_handler.setLevel(logging.INFO)
+api_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+api_handler.setFormatter(api_formatter)
+logger.addHandler(api_handler)
+
+# Now, when you call logger.info() it will log to both files.
+logger.info("This log message goes to both user_log.txt and api_usage.log")
+def log_user_action(user_id, full_name, username, action, details=""):
+    # Full timestamp for logging
+    full_timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+    # HMS timestamp for console output
+    hms_timestamp = datetime.utcnow().strftime("%H:%M:%S")
     
-    # Log to file
+    log_message = f"[{full_timestamp}] User: {full_name} (@{username}) ({user_id}) | Action: {action} | Details: {details}"
+    
+    # Log to file with full timestamp
     logging.info(log_message)
 
     # Define colors for different actions
     action_colors = {
-        "started": Fore.GREEN,  # Green for starting
-        "answered": Fore.CYAN,  # Cyan for answering
-        "quit": Fore.RED,       # Red for quitting
-        "inactive": Fore.YELLOW, # Yellow for inactivity
+        "started": Fore.GREEN,
+        "answered": Fore.CYAN,
+        "quit": Fore.RED,
+        "inactive": Fore.YELLOW,
     }
 
     # Get color based on action keyword
     action_key = action.split()[0].lower()
-    color = action_colors.get(action_key, Fore.WHITE)  # Default White
+    color = action_colors.get(action_key, Fore.WHITE)
 
-    # Print with colors
-    print(f"{color}🔹 {full_name} {action} {details}{Style.RESET_ALL}")
+    # Print with colors using HMS only
+    print(f"{color}[{hms_timestamp}] 🔹 {full_name} (@{username}) {action} {details}{Style.RESET_ALL}")
 # Track API calls per second
 api_requests = deque(maxlen=30)
 
@@ -81,6 +94,8 @@ def init_db():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS user_stats (
             user_id INTEGER PRIMARY KEY,
+            full_name TEXT,
+            username TEXT,
             total_quiz_attempted INTEGER DEFAULT 0,
             total_questions_attempted INTEGER DEFAULT 0,
             total_right INTEGER DEFAULT 0,
@@ -175,50 +190,6 @@ def count_recent_attempts(user_id, since_time):
     count = cursor.fetchone()[0]
     return count
 
-# -------------------- TELEGRAM BOT FUNCTIONS --------------------
-async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user = update.message.from_user
-    user_id = user.id
-    chat_id = update.message.chat_id
-    full_name = user.full_name  # Get full name
-
-    log_user_action(user_id, full_name, "started menu", f"in Chat ID: {update.message.chat_id}")
-    now = datetime.utcnow()
-    if user_id not in user_data:
-        user_data[user_id] = {}
-        user_data[user_id]["active_menu"] = False
-    active_users = sum(1 for u in user_data.values() if u.get("active_quiz", False))
-    if active_users >= 4:
-        await asyncio.sleep(5)
-
-    print("Hello", user_data[user_id]["active_menu"])
-    if user_id in user_data and user_data[user_id].get("active_menu", False):
-        print("start")
-        #await update.message.reply_text("⚠️ You already have an active quiz. Finish it first before starting a new one.")
-        return
-    if user_id != CONFIG["ADMIN_USER_ID"]:
-        user_stats = get_user_stats(user_id)
-        
-        # Check if user is blocked
-        if user_stats["block_until"]:
-            block_until = datetime.strptime(user_stats["block_until"], "%Y-%m-%d %H:%M:%S")
-            if now < block_until:
-                return
-        
-        if has_reached_quiz_limit(user_id):
-            await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Try at {(now+timedelta(hours=6, minutes=30)).strftime('%H:%M')}")
-            return
-    user_data[user_id]["active_menu"] = True
-
-    context.user_data["current_path"] = QUIZ_DIRECTORY
-
-    if not os.path.exists(QUIZ_DIRECTORY):
-        os.makedirs(QUIZ_DIRECTORY)
-
-    await show_directory(chat_id, context)
-
-from datetime import datetime, timedelta
-
 def has_reached_quiz_limit(user_id):
     """Checks if the user has reached their quiz limit in a 1-hour window."""
     now = datetime.utcnow()
@@ -231,17 +202,59 @@ def has_reached_quiz_limit(user_id):
             return True  # User is still blocked
 
     one_hour_ago = now - timedelta(hours=1)
-    quiz_limit = 2  # Regular users can take 2 quizzes per hour
+    quiz_limit = 4  # Regular users can take 4 quizzes per hour
 
     attempts = count_recent_attempts(user_id, one_hour_ago.strftime("%Y-%m-%d %H:%M:%S"))
 
     if attempts >= quiz_limit:
-        block_until_time = now + timedelta(hours=1)  # Block for 1 hour
+        block_until_time = now + timedelta(minutes=20)  # Block for 20 minutes
         set_user_block(user_id, block_until_time.strftime("%Y-%m-%d %H:%M:%S"))
         return True
 
     return False
 
+# -------------------- TELEGRAM BOT FUNCTIONS --------------------
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user = update.message.from_user
+    user_id = user.id
+    chat_id = update.message.chat_id
+    full_name = user.full_name  # Get full name
+    username = user.username if user.username else "NoUsername"
+    now = datetime.utcnow()
+    if user_id not in user_data:
+        user_data[user_id] = {}
+        user_data[user_id]["active_menu"] = False
+    active_users = sum(1 for u in user_data.values() if u.get("active_quiz", False))
+    if active_users >= 5:
+        await asyncio.sleep(5)
+
+    print("Hello", user_data[user_id]["active_menu"])
+    if user_id in user_data and user_data[user_id].get("active_menu", False):
+        log_user_action(user_id, full_name, username, "is trying to restart the menu", f"in Chat ID: {update.message.chat_id}")
+        #await update.message.reply_text("⚠️ You already have an active quiz. Finish it first before starting a new one.")
+        return
+    if user_id != CONFIG["ADMIN_USER_ID"]:
+        user_stats = get_user_stats(user_id)
+        
+        # Check if user is blocked
+        if user_stats["block_until"]:
+
+            log_user_action(user_id, full_name, username, "is on waitlist still trying to start menu", f"in Chat ID: {update.message.chat_id}")
+            block_until = datetime.strptime(user_stats["block_until"], "%Y-%m-%d %H:%M:%S")
+            if now < block_until:
+                return
+        
+        if has_reached_quiz_limit(user_id):
+            await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Please wait 5 Minutes....")
+            return
+    user_data[user_id]["active_menu"] = True
+    log_user_action(user_id, full_name, username, "started menu", f"in Chat ID: {update.message.chat_id}")
+    context.user_data["current_path"] = QUIZ_DIRECTORY
+
+    if not os.path.exists(QUIZ_DIRECTORY):
+        os.makedirs(QUIZ_DIRECTORY)
+
+    await show_directory(chat_id, context)
 async def quit(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """
     /quit cancels the ongoing quiz only if there is an active quiz.
@@ -252,7 +265,7 @@ async def quit(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = user.id
     full_name = user.full_name
 
-    log_user_action(user_id, full_name, "quit the quiz")
+    username = user.username if user.username else "NoUsername"
 
     if user_id in user_data and user_data[user_id].get("active_quiz", False):
         chat_id = user_data[user_id].get("chat_id")
@@ -280,7 +293,7 @@ async def quit(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 right=stats.get("correct", 0),
                 wrong=attempted - stats.get("correct", 0)
             )
-        
+        log_user_action(user_id, full_name, username, "Quit The Quiz", f"in Chat ID: {update.message.chat_id}")
         user_data[user_id]["active_quiz"] = False
         del user_data[user_id]
         if user_id in user_data:
@@ -316,14 +329,22 @@ async def show_directory(chat_id, context: ContextTypes.DEFAULT_TYPE, query=None
     # Add directories (📁 Folder Name)
     for d in dirs:
         dir_path = os.path.join(current_path, d)
-        if contains_json(dir_path):  # Show only directories with JSON files
-            inline_items.append(InlineKeyboardButton(f"📁 {d}", callback_data=f"dir:{d}"))
+        filelist = set()
+        if contains_json(dir_path):
+            for file in os.listdir(dir_path):
+                file_path = os.path.relpath(os.path.join(dir_path, file), QUIZ_DIRECTORY)
+                filelist.add(file_path)
+            if filelist.issubset(set(completed_quizzes)):
+                inline_items.append(InlineKeyboardButton(f"📁 {d} + ✅", callback_data=f"dir:{d}"))
+            else:
+                inline_items.append(InlineKeyboardButton(f"📁 {d}", callback_data=f"dir:{d}"))
+
 
     for f in files:
-        display_name = f"📝 {f[:-5]}"  # Remove .json extension
-        if f in completed_quizzes:
-            display_name += " ✅"  # Mark completed quizzes
         relative_path = os.path.relpath(os.path.join(current_path, f), QUIZ_DIRECTORY)
+        display_name = f"📝 {f[:-5]}"  # Remove .json extension
+        if relative_path in completed_quizzes:
+            display_name += " ✅"  # Mark completed quizzes
         print(current_path, relative_path)
         inline_items.append(InlineKeyboardButton(display_name, callback_data=f"file:{relative_path}"))
 
@@ -487,7 +508,8 @@ async def timer_selection(update: Update, context: ContextTypes.DEFAULT_TYPE):
         record_quiz_attempt(user_id, now.strftime("%Y-%m-%d %H:%M:%S"))
 
         full_name = user.full_name
-        log_user_action(user_id, full_name, "Started the Quiz")
+        username = user.username if user.username else "NoUsername"
+        log_user_action(user_id, full_name, username, "Started the Quiz", f"in Chat ID: {update.message.chat_id}")
         await staggered_quiz_start(chat_id, user_id, context)
     elif data == "pre_timer":
         await show_directory(chat_id, context, query)
@@ -570,6 +592,13 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
             user["quiz"][user["index"]]["answer"]=correct_answer
             correct_option_id = options.index(correct_answer)
 
+            raw_explanation = question.get("source", "").strip()
+            poll_kwargs = {}
+            if raw_explanation not in ("Unknown", "NA", ""):
+                poll_kwargs = {
+                    "explanation": raw_explanation,
+                    "explanation_parse_mode": 'HTML'
+                }
             poll_time = calculate_quiz_timer(question) if user.get("timer", False) else None
             await asyncio.sleep(2)
 
@@ -583,6 +612,7 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
                     correct_option_id=correct_option_id,
                     is_anonymous=False,
                     open_period=poll_time,
+                    **poll_kwargs
                 )
             except TimedOut:
                 print("Timeout occurred while sending poll. Retrying...")
@@ -608,6 +638,7 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     except Exception as e:
         print(f"Error in send_quiz: {traceback.format_exc()}")
 
+
 import traceback
 
 from telegram.error import TimedOut
@@ -621,7 +652,8 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
         user_id = user.id
         full_name = user.full_name
 
-        log_user_action(user_id, full_name, "answered a question")
+        username = user.username if user.username else "NoUsername"
+        log_user_action(user_id, full_name, username, "Answered The Poll", f"in Chat ID: {update.message.chat_id}")
 
         if user_id in user_data:
             user = user_data[user_id]
@@ -650,8 +682,11 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         print("Timeout while removing jobs. Continuing...")
 
                     # ✅ Check if the selected option is correct
-                    if selected_option == correct_index:
-                        user["correct"] += 1  # Increase correct answer count
+                    if selected_option != correct_index:
+                        if not session.get("retry_mode", False):
+                            session.setdefault("wrong_questions", []).append(question)
+                    else:
+                        session["correct"] += 1  # Increase correct answer count
 
                 # ✅ Move to the next question with error handling
                 if user["index"] + 1 < max_questions:
@@ -684,7 +719,9 @@ async def check_inactivity(context: ContextTypes.DEFAULT_TYPE):
 
     if user_id in user_data and user_data[user_id].get("active_quiz", False):
         full_name = user_data[user_id].get("full_name", "Unknown User")
-        log_user_action(user_id, full_name, "was inactive, quiz canceled")
+        username = user.username if user.username else "NoUsername"
+        
+        log_user_action(user_id, full_name, username, "was inactive, quiz canceled", f"in Chat ID: {update.message.chat_id}")
         await force_quit_quiz(chat_id, user_id, context, message="inactive")
         
 async def force_quit_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE, message):
@@ -706,7 +743,8 @@ async def force_quit_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE, 
             wrong=wrong
         )
         full_name = user_data[user_id].get("full_name", "Unknown User")
-        log_user_action(user_id, full_name, "was inactive, quiz canceled")
+        username = user.username if user.username else "NoUsername"
+        log_user_action(user_id, full_name, username, "was inactive, quiz canceled", f"in Chat ID: {update.message.chat_id}")
         user["active_quiz"] = False
         del user_data[user_id]
         if message=="inactive":
@@ -728,7 +766,7 @@ async def timeout_quiz(context: ContextTypes.DEFAULT_TYPE):
         user["timeout_count"] = user.get("timeout_count", 0) + 1
 
         # 🔴 If 5 polls timed out, quit the quiz
-        if user["timeout_count"] >=3:
+        if user["timeout_count"] >=4:
             await context.bot.send_message(chat_id, "⚠️ Quiz canceled due to inactivity. Select another quiz using /start")
             await force_quit_quiz(chat_id, user_id, context, message="unattempt")
             return
@@ -744,6 +782,7 @@ async def timeout_quiz(context: ContextTypes.DEFAULT_TYPE):
 
 from telegram.error import TimedOut
 
+
 async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     """Displays the final quiz results and updates the database."""
     try:
@@ -751,11 +790,16 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
         filename = stats["filename"]
 
         message = (
-            f"🏆 Quiz Completed!\n\n"
-            f"✅ Attempted: {stats['attempted']}\n"
-            f"🎯 Correct: {stats['correct']}\n"
-            f"❌ Wrong: {stats['attempted'] - stats['correct']}"
+            "🏆 Quiz Completed!\n\n"
+            "📊 Your Performance Summary:\n"
+            "────────────────────────────\n"
+            f"📝 Questions Attempted: {stats['attempted']}\n"
+            f"✅ Correct Answers:     {stats['correct']}\n"
+            f"❌ Incorrect Answers:   {stats['attempted'] - stats['correct']}\n"
+            "────────────────────────────\n"
+            "🎉 Thank you for participating!\n"
         )
+
 
         # ✅ Update user stats in the database
         update_user_stats(
@@ -777,46 +821,124 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
 
         mark_quiz_completed(user_id, filename)
 
-        # ✅ Send results message with timeout handling
-        try:
-            await context.bot.send_message(chat_id, message)
-        except TimedOut:
-            print("Timeout while sending leaderboard. Retrying...")
-            await asyncio.sleep(2)
-            await context.bot.send_message(chat_id, message)  # Retry
+        inline = []
+        wrong_questions = stats.get("wrong_questions", [])
+        wrong_count = len(wrong_questions)
+        if wrong_count > 0:
+            message += f"\n\nYou have {wrong_count} wrong question(s). Would you like to reattempt them?"
+            inline.append([
+                InlineKeyboardButton("Yes, Retry", callback_data="retry_choice:yes"),
+                InlineKeyboardButton("No", callback_data="retry_choice:no")
+            ])
+                    # ✅ Send results message with timeout handling
+            try:
+                reply_markup = InlineKeyboardMarkup(inline)
+                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            except TimedOut:
+                print("Timeout while sending leaderboard. Retrying...")
+                await asyncio.sleep(2)
+                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+        else:
+            # ✅ Check quiz limit & handle timeout
+            if has_reached_quiz_limit(user_id) and user_id != CONFIG["ADMIN_USER_ID"]:
+                try:
+                    await context.bot.send_message(
+                        chat_id,
+                        f"❌ You have reached your quiz limit. Try after 5 minutes...."
+                    )
+                except TimedOut:
+                    print("Timeout while sending limit message. Retrying...")
+                    await asyncio.sleep(2)
+                    await context.bot.send_message(
+                        chat_id,
+                        f"❌ You have reached your quiz limit. Try after 5 minutes...."
+                    )
 
-        # ✅ Check quiz limit & handle timeout
+                if user_id in user_data:
+                    user_data[user_id]["active_menu"] = True
+
+                return
+
+        # ✅ Show updated quiz directory with timeout handling
+        try:
+            await asyncio.sleep(2)
+
+            await show_directory(chat_id, context)
+        except TimedOut:
+            print("Timeout while showing directory. Retrying...")
+            await asyncio.sleep(2)
+            await show_directory(chat_id, context)  # Retry
+        
+        user_data[user_id]["active_menu"] = True
+
+    except TimedOut:
+        print("Timeout occurred in show_leaderboard. Ignoring and continuing...")
+    except Exception as e:
+        print(f"Error in show_leaderboard: {traceback.format_exc()}")
+
+
+async def retry_choice_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """
+    Handles the inline callback when a user is asked whether they want to reattempt
+    their wrong questions. Expected callback data is either "retry_choice:yes" or "retry_choice:no".
+    """
+    query = update.callback_query
+    await query.answer()
+    user = query.from_user
+    user_id = user.id
+    chat_id = query.message.chat_id
+
+    # Expecting callback data in the format "retry_choice:yes" or "retry_choice:no"
+    choice = query.data.split(":")[1].strip().lower()
+
+    if choice == "yes":
+        # Check if there are wrong questions available to retry.
+        if user_id not in user_data or not user_data[user_id].get("wrong_questions"):
+            await query.edit_message_text("No wrong questions to retry. Great job!")
+            return
+
+        session = user_data[user_id]
+        wrong_questions = session.get("wrong_questions", [])
+        if not wrong_questions:
+            await query.edit_message_text("No wrong questions to retry. Great job!")
+            return
+
+        # Mark that this session is a retry so that further wrong answers won't be recorded.
+        session["retry_mode"] = True
+
+        # Reset the session with only the wrong questions.
+        session["quiz"] = wrong_questions.copy()
+        session["index"] = 0
+        session["attempted"] = 0
+        session["correct"] = 0
+        session["limit"] = len(wrong_questions)
+        session["active_quiz"] = True
+
+        # Clear wrong_questions to give only one retry chance.
+        session["wrong_questions"] = []
+
+        await query.edit_message_text("Starting a new quiz with your incorrectly answered questions!")
+        await send_quiz(chat_id, user_id, context)
+
+    elif choice == "no":
+        # User chose not to retry. Now, enforce quiz limit before navigating back.
         if has_reached_quiz_limit(user_id) and user_id != CONFIG["ADMIN_USER_ID"]:
             try:
                 await context.bot.send_message(
                     chat_id,
-                    f"❌ You have reached your quiz limit. Try at {(datetime.utcnow()+timedelta(hours=6, minutes=30)).strftime('%H:%M')}"
+                    "❌ You have reached your quiz limit. Try after 5 minutes...."
                 )
             except TimedOut:
                 print("Timeout while sending limit message. Retrying...")
                 await asyncio.sleep(2)
                 await context.bot.send_message(
                     chat_id,
-                    f"❌ You have reached your quiz limit. Try at {(datetime.utcnow()+timedelta(hours=6, minutes=30)).strftime('%H:%M')}"
+                    "❌ You have reached your quiz limit. Try after 5 minutes...."
                 )
+        else:
+            await query.edit_message_text("Okay, returning to quiz directory.")
+            await show_directory(chat_id, context, query=None)
 
-            if user_id in user_data:
-                user_data[user_id]["active_menu"] = True
-
-            return
-
-        # ✅ Show updated quiz directory with timeout handling
-        try:
-            await show_directory(chat_id, context)
-        except TimedOut:
-            print("Timeout while showing directory. Retrying...")
-            await asyncio.sleep(2)
-            await show_directory(chat_id, context)  # Retry
-
-    except TimedOut:
-        print("Timeout occurred in show_leaderboard. Ignoring and continuing...")
-    except Exception as e:
-        print(f"Error in show_leaderboard: {traceback.format_exc()}")
 
 async def combined_message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     try:
@@ -915,7 +1037,7 @@ async def enqueue_poll(chat_id, user_id, context):
 async def cleanup_inactive_users(context: ContextTypes.DEFAULT_TYPE):
     """Removes users who haven't responded for MAX_TIMEOUTS questions, marks quiz as attempted, and updates the database."""
 
-    MAX_TIMEOUTS = 3  # Ensure consistency with timeout_quiz()
+    MAX_TIMEOUTS = 4  # Ensure consistency with timeout_quiz()
 
     for user_id in list(user_data.keys()):
         user = user_data.get(user_id)  # Get user safely
@@ -945,16 +1067,63 @@ async def cleanup_inactive_users(context: ContextTypes.DEFAULT_TYPE):
             if user_id in user_data:
                 del user_data[user_id]
                 print(f"✅ Removed inactive user: {user_id}")
+import sqlite3
+
+def get_all_user_ids():
+    """Fetch all user_ids from the user_stats table in the database."""
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    cursor.execute("SELECT user_id FROM user_stats")
+    results = cursor.fetchall()
+    conn.close()
+    return [row[0] for row in results]
+
+async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Allows the admin to broadcast an announcement to all users retrieved from the database."""
+    user = update.message.from_user
+    # Check if the sender is the admin.
+    if user.id != CONFIG["ADMIN_USER_ID"]:
+        await update.message.reply_text("❌ You are not authorized to make announcements.")
+        return
+
+    # Ensure an announcement message is provided.
+    if not context.args:
+        await update.message.reply_text("Please provide an announcement message. Usage: /announce <message>")
+        return
+
+    # Construct the announcement text.
+    announcement_text = "📢 Announcement:\n\n" + " ".join(context.args)
+
+    # Retrieve all user IDs from the database.
+    user_ids = get_all_user_ids()
+
+    unsuccessful = []
+    for uid in user_ids:
+        # In many Telegram bots, the chat_id is the same as the user_id.
+        try:
+            await context.bot.send_message(uid, announcement_text)
+        except Exception as e:
+            print(f"Failed to send announcement to user {uid}: {e}")
+            unsuccessful.append(uid)
+
+    log_api_request("announce")
+    response = "✅ Announcement broadcasted successfully."
+    if unsuccessful:
+        response += f"\nFailed to send to: {unsuccessful}"
+    await update.message.reply_text(response)
+
 
 def main():
     TOKEN = "7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg"
     app = Application.builder().token(TOKEN).build()
     app.add_handler(CommandHandler(["start", "startx"], start))
     app.add_handler(CommandHandler("cancel", quit))
+    app.add_handler(CommandHandler("announcex", announce)
     app.add_handler(MessageHandler(filters.ALL, combined_message_handler))
     app.add_handler(CallbackQueryHandler(quiz_selection, pattern="^(dir:|file:)"))
     app.add_handler(CallbackQueryHandler(timer_selection, pattern="^(yeah|no|pre_timer|home|next|buy_premium|return_pre)$"))
     app.add_handler(PollAnswerHandler(handle_poll))
+    app.add_handler(CallbackQueryHandler(retry_choice_callback, pattern="^retry_choice:"))
     print("Bot started. Waiting for users...")
     loop = asyncio.get_event_loop()
     loop.create_task(poll_worker())

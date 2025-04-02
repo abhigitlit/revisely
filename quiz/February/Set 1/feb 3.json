@@ -8,7 +8,8 @@
             "Pune",
             "Bengaluru"
         ],
-        "answer": "Hyderabad"
+        "answer": "Hyderabad",
+        "source": "Unknown"
     },
     {
         "question": "Which new bat coronavirus was discovered by researchers in China?",
@@ -19,7 +20,8 @@
             "H1N1",
             "Zika Virus"
         ],
-        "answer": "HKU5-CoV-2"
+        "answer": "HKU5-CoV-2",
+        "source": "Unknown"
     },
     {
         "question": "What is the revised GDP growth forecast for India in FY25, as per the State Bank of India (SBI)?",
@@ -30,7 +32,8 @@
             "6.8%",
             "7.0%"
         ],
-        "answer": "6.3%"
+        "answer": "6.3%",
+        "source": "Unknown"
     },
     {
         "question": "Which country is India enhancing its media ties with ahead of WAVES 2025?",
@@ -41,10 +44,11 @@
             "Japan",
             "Russia"
         ],
-        "answer": "Saudi Arabia"
+        "answer": "Saudi Arabia",
+        "source": "Unknown"
     },
     {
-        "question": "India’s first zoo-based wildlife biobank is established in which zoo?",
+        "question": "India\u2019s first zoo-based wildlife biobank is established in which zoo?",
         "options": [
             "Nandankanan Zoological Park",
             "Padmaja Naidu Himalayan Zoological Park",
@@ -52,7 +56,8 @@
             "Kanha National Park",
             "Sikkim Himalayan Zoological Park"
         ],
-        "answer": "Padmaja Naidu Himalayan Zoological Park"
+        "answer": "Padmaja Naidu Himalayan Zoological Park",
+        "source": "Unknown"
     },
     {
         "question": "Which ministry co-hosted the 9th edition of the Asia Economic Dialogue (AED) 2025?",
@@ -63,7 +68,8 @@
             "Ministry of Agriculture",
             "Ministry of Science and Technology"
         ],
-        "answer": "Ministry of External Affairs"
+        "answer": "Ministry of External Affairs",
+        "source": "Unknown"
     },
     {
         "question": "What significant feature does the Bhoo Kanoon (Land Law Amendment Bill) introduce for land transactions in Uttarakhand?",
@@ -74,7 +80,8 @@
             "It grants land ownership rights to foreign entities.",
             "It focuses solely on urban land management."
         ],
-        "answer": "It creates a blanket ban on agricultural land purchases by non-residents in 11 hill districts."
+        "answer": "It creates a blanket ban on agricultural land purchases by non-residents in 11 hill districts.",
+        "source": "Unknown"
     },
     {
         "question": "Which organization launched the new advanced IT incubation centre in Salt Lake, Kolkata?",
@@ -85,10 +92,11 @@
             "Indian Institute of Technology (IIT)",
             "National Association of Software and Service Companies (NASSCOM)"
         ],
-        "answer": "Software Technology Parks of India (STPI)"
+        "answer": "Software Technology Parks of India (STPI)",
+        "source": "Unknown"
     },
     {
-        "question": "What is the main objective of the training program between India’s NCGG and Sri Lanka’s SLIDA?",
+        "question": "What is the main objective of the training program between India\u2019s NCGG and Sri Lanka\u2019s SLIDA?",
         "options": [
             "Enhance trade relations",
             "Train 1,500 civil officers",
@@ -96,7 +104,8 @@
             "Train Indian officers",
             "Develop defense sector"
         ],
-        "answer": "Train 1,500 civil officers"
+        "answer": "Train 1,500 civil officers",
+        "source": "Unknown"
     },
     {
         "question": "Who became the first Indian American FBI Director?",
@@ -107,7 +116,8 @@
             "Sundar Pichai",
             "Arun Kumar"
         ],
-        "answer": "Kash Patel"
+        "answer": "Kash Patel",
+        "source": "Unknown"
     },
     {
         "question": "Which ESA astronaut with a prosthetic leg was approved for space missions?",
@@ -118,7 +128,8 @@
             "Helen Sharman",
             "Chris Hadfield"
         ],
-        "answer": "John McFall"
+        "answer": "John McFall",
+        "source": "Unknown"
     },
     {
         "question": "Which company introduced the Majorana 1 quantum chip?",
@@ -129,7 +140,8 @@
             "Intel",
             "Apple"
         ],
-        "answer": "Microsoft"
+        "answer": "Microsoft",
+        "source": "Unknown"
     },
     {
         "question": "Where is the proposed Aravali Safari Park located?",
@@ -140,7 +152,8 @@
             "Haryana",
             "Tamil Nadu"
         ],
-        "answer": "Haryana"
+        "answer": "Haryana",
+        "source": "Unknown"
     },
     {
         "question": "What is the goal of the Aravali Safari Park project?",
@@ -151,10 +164,11 @@
             "Agricultural expansion",
             "Preserve archaeological sites"
         ],
-        "answer": "Eco-tourism and afforestation"
+        "answer": "Eco-tourism and afforestation",
+        "source": "Unknown"
     },
     {
-        "question": "Which conference was held in Udaipur with the theme \"India@2047 – A Water Secure Nation\"?",
+        "question": "Which conference was held in Udaipur with the theme \"India@2047 \u2013 A Water Secure Nation\"?",
         "options": [
             "1st National Water Conference",
             "2nd State Water Ministers' Conference",
@@ -162,7 +176,8 @@
             "Climate Change Summit",
             "Water Security Forum"
         ],
-        "answer": "2nd State Water Ministers' Conference"
+        "answer": "2nd State Water Ministers' Conference",
+        "source": "Unknown"
     },
     {
         "question": "Where did the first Conference for Women Peacekeepers, themed \"Women in Peacekeeping: A Global South Perspective,\" take place?",
@@ -173,18 +188,20 @@
             "Kolkata",
             "Bangalore"
         ],
-        "answer": "New Delhi"
+        "answer": "New Delhi",
+        "source": "Unknown"
     },
     {
         "question": "What was the penalty imposed on Axis Securities by SEBI for regulatory violations?",
         "options": [
-            "₹5 lakh",
-            "₹10 lakh",
-            "₹15 lakh",
-            "₹20 lakh",
-            "₹50 lakh"
+            "\u20b95 lakh",
+            "\u20b910 lakh",
+            "\u20b915 lakh",
+            "\u20b920 lakh",
+            "\u20b950 lakh"
         ],
-        "answer": "₹10 lakh"
+        "answer": "\u20b910 lakh",
+        "source": "Unknown"
     },
     {
         "question": "Which state launched a witness protection scheme to ensure the safety of witnesses?",
@@ -195,10 +212,11 @@
             "Rajasthan",
             "Maharashtra"
         ],
-        "answer": "Haryana"
+        "answer": "Haryana",
+        "source": "Unknown"
     },
     {
-        "question": "Who was appointed as the ‘Principal Secretary-2’ to Prime Minister Narendra Modi after serving as RBI Governor?",
+        "question": "Who was appointed as the \u2018Principal Secretary-2\u2019 to Prime Minister Narendra Modi after serving as RBI Governor?",
         "options": [
             "Raghuram Rajan",
             "Shaktikanta Das",
@@ -206,7 +224,8 @@
             "Nirmala Sitharaman",
             "Arvind Subramanian"
         ],
-        "answer": "Shaktikanta Das"
+        "answer": "Shaktikanta Das",
+        "source": "Unknown"
     },
     {
         "question": "What day has Bangladesh officially declared as Military Martyrdom Day?",
@@ -217,10 +236,11 @@
             "January 15",
             "December 16"
         ],
-        "answer": "February 25"
+        "answer": "February 25",
+        "source": "Unknown"
     },
     {
-        "question": "Who won the 71st Senior National Men’s Kabaddi Championship?",
+        "question": "Who won the 71st Senior National Men\u2019s Kabaddi Championship?",
         "options": [
             "Railways",
             "Punjab",
@@ -228,7 +248,8 @@
             "Services",
             "Uttar Pradesh"
         ],
-        "answer": "Services"
+        "answer": "Services",
+        "source": "Unknown"
     },
     {
         "question": "Who became the fastest batter to reach 14,000 runs in ODI cricket?",
@@ -239,7 +260,8 @@
             "Kumar Sangakkara",
             "MS Dhoni"
         ],
-        "answer": "Virat Kohli"
+        "answer": "Virat Kohli",
+        "source": "Unknown"
     },
     {
         "question": "Which company introduced the Bima-ASBA facility for premium payments?",
@@ -250,7 +272,8 @@
             "ICICI Prudential Life",
             "SBI Life Insurance"
         ],
-        "answer": "Bajaj Allianz Life Insurance"
+        "answer": "Bajaj Allianz Life Insurance",
+        "source": "Unknown"
     },
     {
         "question": "Which company partnered with ASI to restore and protect historic water bodies in India?",
@@ -261,7 +284,8 @@
             "PepsiCo",
             "Hindustan Unilever"
         ],
-        "answer": "Bisleri International"
+        "answer": "Bisleri International",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian institute developed a self-actuating drug delivery system for rheumatoid arthritis treatment?",
@@ -272,7 +296,8 @@
             "CSIR-CCMB",
             "IIM Ahmedabad"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Who is the lead researcher heading the 40-day global expedition in the Ross Sea, a marine protected zone in Antarctica, to assess marine biodiversity, study environmental DNA, and analyze the region's impact on global ocean currents and climate change?",
@@ -283,7 +308,8 @@
             "Anil Bhardwaj",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Which institution launched India's first Cancer Genome Atlas (BCGA) for early breast cancer detection?",
@@ -294,7 +320,8 @@
             "IIT Madras",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which team did Uttar Pradesh Men's Kabaddi Team defeat 57-43 to win the gold medal?",
@@ -305,7 +332,8 @@
             "Punjab",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which team won the inaugural World Pickleball League (WPL) championship, defeating Pune United 3-1 in the final?",
@@ -316,7 +344,8 @@
             "Delhi Warriors",
             "None of the above"
         ],
-        "answer": "Bengaluru Jawans"
+        "answer": "Bengaluru Jawans",
+        "source": "Unknown"
     },
     {
         "question": "Which architect was recognized as the Best Architect for Luxury Project at the Global Architect Builder Awards 2025?",
@@ -327,7 +356,8 @@
             "Vivek Singh Rao",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Which country topped the Global Digital Well-Being Index with the highest score in online safety and parental support?",
@@ -338,7 +368,8 @@
             "United Kingdom",
             "Japan"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which organization released the redefined and augmented Research Verticals & Thrust Areas to enhance research focus in defense technology?",
@@ -349,7 +380,8 @@
             "Indian Space Research Organisation (ISRO)",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which veteran British actor, known for his role as George Roper in Man About the House and George & Mildred, passed away at the age of 92?",
@@ -360,6 +392,7 @@
             "Ronnie Barker",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     }
 ]

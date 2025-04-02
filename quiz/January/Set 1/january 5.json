@@ -7,7 +7,8 @@
             "Melie Kerr won the ICC Player of the Year Award.",
             "Devon Conway"
         ],
-        "answer": "Melie Kerr won the ICC Player of the Year Award."
+        "answer": "Melie Kerr won the ICC Player of the Year Award.",
+        "source": "Unknown"
     },
     {
         "question": "Where will the 38th National Games be held?",
@@ -17,7 +18,8 @@
             "PM Modi inaugurated the 38th National Games in Uttarakhand.",
             "Maharashtra"
         ],
-        "answer": "PM Modi inaugurated the 38th National Games in Uttarakhand."
+        "answer": "PM Modi inaugurated the 38th National Games in Uttarakhand.",
+        "source": "Unknown"
     },
     {
         "question": "What is the expected annual growth rate of India's F&B export industry over the next five years?",
@@ -27,7 +29,8 @@
             "14-15%",
             "16-18%"
         ],
-        "answer": "14-15%"
+        "answer": "14-15%",
+        "source": "Unknown"
     },
     {
         "question": "What was the retail inflation rate in India in December 2024?",
@@ -37,7 +40,8 @@
             "5.22%",
             "5.50%"
         ],
-        "answer": "5.22%"
+        "answer": "5.22%",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the cold-weather apparel developed by DRDO?",
@@ -47,7 +51,8 @@
             "Thermal Shield Pro",
             "Arctic Armor"
         ],
-        "answer": "HIMKAVACH"
+        "answer": "HIMKAVACH",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state integrated with Ayushman Bharat PM-JAY in January 2025?",
@@ -57,7 +62,8 @@
             "Telangana",
             "Kerala"
         ],
-        "answer": "Odisha"
+        "answer": "Odisha",
+        "source": "Unknown"
     },
     {
         "question": "What is the record low exchange rate of the rupee against the US dollar in January 2025?",
@@ -67,7 +73,8 @@
             "86/USD",
             "88/USD"
         ],
-        "answer": "86/USD"
+        "answer": "86/USD",
+        "source": "Unknown"
     },
     {
         "question": "Which initiative was launched in Assam for inland waterway safety?",
@@ -77,7 +84,8 @@
             "National River Traffic & Navigation System (NRT&NS)",
             "Brahmaputra Waterway Security Initiative"
         ],
-        "answer": "National River Traffic & Navigation System (NRT&NS)"
+        "answer": "National River Traffic & Navigation System (NRT&NS)",
+        "source": "Unknown"
     },
     {
         "question": "Who was appointed the Chairperson of the AFI Athletes Commission in 2025?",
@@ -87,7 +95,8 @@
             "Milkha Singh",
             "Shiny Wilson"
         ],
-        "answer": "Anju Bobby George"
+        "answer": "Anju Bobby George",
+        "source": "Unknown"
     },
     {
         "question": "Which countries declared 2026 as a 'Dual Year' focusing on culture and AI?",
@@ -97,17 +106,19 @@
             "India and Spain",
             "India and Israel"
         ],
-        "answer": "India and Spain"
+        "answer": "India and Spain",
+        "source": "Unknown"
     },
     {
-        "question": "What is the name of the ₹75,000 crore energy and cement expansion plan announced by Adani?",
+        "question": "What is the name of the \u20b975,000 crore energy and cement expansion plan announced by Adani?",
         "options": [
             "Adani Green Energy Expansion",
             "Adani Infrastructure Project",
             "Adani Investment in Chhattisgarh",
             "Adani Cement Expansion Plan"
         ],
-        "answer": "Adani Investment in Chhattisgarh"
+        "answer": "Adani Investment in Chhattisgarh",
+        "source": "Unknown"
     },
     {
         "question": "What is the new appointment process for Election Commissioners under the revised act?",
@@ -117,7 +128,8 @@
             "CEC and Other ECs Act, 2023",
             "Appointment by a Parliamentary committee"
         ],
-        "answer": "CEC and Other ECs Act, 2023"
+        "answer": "CEC and Other ECs Act, 2023",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian beaches received Blue Flag certification for sustainability?",
@@ -127,7 +139,8 @@
             "Kappad and Chal beaches",
             "Tamil Nadu and Andhra Pradesh beaches"
         ],
-        "answer": "Kappad and Chal beaches"
+        "answer": "Kappad and Chal beaches",
+        "source": "Unknown"
     },
     {
         "question": "Which regional center was announced in J&K for climate resilience in January 2025?",
@@ -137,7 +150,8 @@
             "Leh Climate Research Facility",
             "Kargil Environmental Observatory"
         ],
-        "answer": "Srinagar Meteorology Centre"
+        "answer": "Srinagar Meteorology Centre",
+        "source": "Unknown"
     },
     {
         "question": "What is the projected factory output growth rate for November 2024?",
@@ -147,7 +161,8 @@
             "5.2%",
             "5.5%"
         ],
-        "answer": "5.2%"
+        "answer": "5.2%",
+        "source": "Unknown"
     },
     {
         "question": "Who received the Honorary Citizen Award from Singapore in January 2025?",
@@ -157,17 +172,19 @@
             "Tarun Das",
             "Gautam Adani"
         ],
-        "answer": "Tarun Das"
+        "answer": "Tarun Das",
+        "source": "Unknown"
     },
     {
         "question": "What is the new pension amount for Odisha's Emergency detainees announced in 2025?",
         "options": [
-            "₹15,000 monthly",
-            "₹18,000 monthly",
-            "₹20,000 monthly",
-            "₹22,000 monthly"
+            "\u20b915,000 monthly",
+            "\u20b918,000 monthly",
+            "\u20b920,000 monthly",
+            "\u20b922,000 monthly"
         ],
-        "answer": "₹20,000 monthly"
+        "answer": "\u20b920,000 monthly",
+        "source": "Unknown"
     },
     {
         "question": "What is the inflation rate in December 2024 due to manufacturing and fuel costs?",
@@ -177,7 +194,8 @@
             "5.50%",
             "5.70%"
         ],
-        "answer": "5.50%"
+        "answer": "5.50%",
+        "source": "Unknown"
     },
     {
         "question": "Which state government launched the 'Mo Ghara' scheme for rural housing?",
@@ -187,7 +205,8 @@
             "Bihar Government",
             "Assam Government"
         ],
-        "answer": "Odisha Government"
+        "answer": "Odisha Government",
+        "source": "Unknown"
     },
     {
         "question": "Who was appointed as the part-time chairman of BHEL in January 2025?",
@@ -197,17 +216,19 @@
             "Nalin Shinghal",
             "K.A. Badarinath"
         ],
-        "answer": "Upinder Singh Matharu"
+        "answer": "Upinder Singh Matharu",
+        "source": "Unknown"
     },
     {
         "question": "What is the budget outlay for the second phase of the 'Mo Ghara' scheme?",
         "options": [
-            "₹1,500 crore",
-            "₹1,800 crore",
-            "₹2,000 crore",
-            "₹2,500 crore"
+            "\u20b91,500 crore",
+            "\u20b91,800 crore",
+            "\u20b92,000 crore",
+            "\u20b92,500 crore"
         ],
-        "answer": "₹2,000 crore"
+        "answer": "\u20b92,000 crore",
+        "source": "Unknown"
     },
     {
         "question": "Which company received approval to manufacture nuclear fuel in India?",
@@ -217,7 +238,8 @@
             "Bharat Forge",
             "Larsen & Toubro"
         ],
-        "answer": "Bharat Forge"
+        "answer": "Bharat Forge",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the new species of marine worm discovered in Lakshadweep?",
@@ -227,7 +249,8 @@
             "Arenicola marina",
             "Nereis diversicolor"
         ],
-        "answer": "Peresiophis antakarana"
+        "answer": "Peresiophis antakarana",
+        "source": "Unknown"
     },
     {
         "question": "Which state government launched the 'Subhadra Yojana' for women empowerment?",
@@ -237,7 +260,8 @@
             "Telangana",
             "Karnataka"
         ],
-        "answer": "Odisha"
+        "answer": "Odisha",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the autobiography released by former Vice President Venkaiah Naidu?",
@@ -247,7 +271,8 @@
             "'Dreams of a Nation'",
             "'Reflections of a Leader'"
         ],
-        "answer": "'Why Bharat Matters'"
+        "answer": "'Why Bharat Matters'",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of the 17th Pravasi Bharatiya Divas 2025?",
@@ -257,7 +282,8 @@
             "'Reaching out to the Diaspora'",
             "'Engaging with the Roots'"
         ],
-        "answer": "'Role of Indian diaspora in contributing to a Viksit Bharat'"
+        "answer": "'Role of Indian diaspora in contributing to a Viksit Bharat'",
+        "source": "Unknown"
     },
     {
         "question": "Which organization released the biennial 'Production Gap Report' in 2024?",
@@ -267,7 +293,8 @@
             "United Nations Environment Programme (UNEP)",
             "Intergovernmental Panel on Climate Change (IPCC)"
         ],
-        "answer": "United Nations Environment Programme (UNEP)"
+        "answer": "United Nations Environment Programme (UNEP)",
+        "source": "Unknown"
     },
     {
         "question": "Which state government approved a new elephant reserve in the Eastern Ghats?",
@@ -277,7 +304,8 @@
             "Tamil Nadu",
             "West Bengal"
         ],
-        "answer": "Odisha"
+        "answer": "Odisha",
+        "source": "Unknown"
     },
     {
         "question": "Who was honored with the Lifetime Achievement Award at the 2024 Screen Awards?",
@@ -287,7 +315,8 @@
             "David Dhawan",
             "Salim Khan"
         ],
-        "answer": "David Dhawan"
+        "answer": "David Dhawan",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the new AI model launched by Google in December 2024?",
@@ -297,7 +326,8 @@
             "LaMDA",
             "PaLM 2"
         ],
-        "answer": "Gemini"
+        "answer": "Gemini",
+        "source": "Unknown"
     },
     {
         "question": "Which country recently withdrew from the UN peacekeeping mission in South Sudan?",
@@ -307,7 +337,8 @@
             "Bangladesh",
             "Nepal"
         ],
-        "answer": "Bangladesh"
+        "answer": "Bangladesh",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the annual cultural festival celebrated in Kinnaur, Himachal Pradesh?",
@@ -317,7 +348,8 @@
             "Mandu Festival",
             "Shimla Winter Carnival"
         ],
-        "answer": "Losar Festival"
+        "answer": "Losar Festival",
+        "source": "Unknown"
     },
     {
         "question": "Which state government launched the 'Yuva Nidhi' scheme for unemployed youth?",
@@ -327,7 +359,8 @@
             "Kerala",
             "Telangana"
         ],
-        "answer": "Karnataka"
+        "answer": "Karnataka",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the new species of sea slug discovered in Tamil Nadu?",
@@ -337,6 +370,7 @@
             "Phyllodesmium longicirrum",
             "Cyerce nigricans"
         ],
-        "answer": "Melibe moramangi"
+        "answer": "Melibe moramangi",
+        "source": "Unknown"
     }
 ]

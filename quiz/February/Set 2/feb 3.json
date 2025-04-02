@@ -7,7 +7,8 @@
             "IIT Bombay ",
             "IIT Kanpur "
         ],
-        "answer": "IIT Indore "
+        "answer": "IIT Indore ",
+        "source": "Unknown"
     },
     {
         "question": "Which company has partnered with IPPB to expand life insurance access in India?",
@@ -17,7 +18,8 @@
             "PNB MetLife ",
             "SBI Life "
         ],
-        "answer": "PNB MetLife "
+        "answer": "PNB MetLife ",
+        "source": "Unknown"
     },
     {
         "question": "Which country successfully launched the H-3 rocket carrying the Michibiki No. 6 satellite?",
@@ -27,7 +29,8 @@
             "United States ",
             "Japan "
         ],
-        "answer": "Japan "
+        "answer": "Japan ",
+        "source": "Unknown"
     },
     {
         "question": "Which institution collaborated with DRDO to develop the Large Area Additive Manufacturing (LAAM) system?",
@@ -37,7 +40,8 @@
             "IIT Delhi ",
             "IIT Kanpur "
         ],
-        "answer": "IIT Hyderabad "
+        "answer": "IIT Hyderabad ",
+        "source": "Unknown"
     },
     {
         "question": "What is the new Foreign Direct Investment (FDI) limit for the insurance sector as per the Union Budget 2025-26?",
@@ -47,17 +51,19 @@
             "85% ",
             "100% "
         ],
-        "answer": "100% "
+        "answer": "100% ",
+        "source": "Unknown"
     },
     {
-        "question": "Which company has launched the UPI Switch ‘Blitz’ for scalable payment solutions?",
+        "question": "Which company has launched the UPI Switch \u2018Blitz\u2019 for scalable payment solutions?",
         "options": [
             "Razorpay ",
             "Paytm ",
             "CARD91 ",
             "PhonePe  "
         ],
-        "answer": "CARD91 "
+        "answer": "CARD91 ",
+        "source": "Unknown"
     },
     {
         "question": "What is the target daily sodium intake recommended by WHO for reducing risks of hypertension and cardiovascular diseases?",
@@ -67,7 +73,8 @@
             "5g ",
             "1g  "
         ],
-        "answer": "2g "
+        "answer": "2g ",
+        "source": "Unknown"
     },
     {
         "question": "The Extra-Long Staple (ELS) cotton is mainly grown in which countries?",
@@ -77,7 +84,8 @@
             "Indonesia, Malaysia and Singapore ",
             "Japan, Germany, France and Vietnam "
         ],
-        "answer": "China, Egypt, Australia and Peru "
+        "answer": "China, Egypt, Australia and Peru ",
+        "source": "Unknown"
     },
     {
         "question": "Who became the first Black woman to win the Mrs World title?",
@@ -87,7 +95,8 @@
             "Tshego Gaelae ",
             "Naomi Richards "
         ],
-        "answer": "Tshego Gaelae "
+        "answer": "Tshego Gaelae ",
+        "source": "Unknown"
     },
     {
         "question": "Which company has partnered with Karnataka Bulldozers as a co-sponsor for CCL 2025?",
@@ -97,7 +106,8 @@
             "Airtel Payments ",
             "PhonePe "
         ],
-        "answer": "Airtel Payments "
+        "answer": "Airtel Payments ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the PRASHAD scheme:  1. It is aimed at transforming the cultural preservation and spiritual travelling across identified pilgrimage destinations across India.  2. It was launched by the Union Ministry of Tourism.  Which of the statements given above is/are correct?",
@@ -110,7 +120,8 @@
             "as the official footwear partner ",
             ". "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Iskander-M, recently seen in the news:  1. It is a road-mobile short-range ballistic missile system.  2. It was developed by Russia.  Which of the statements given above is/are correct?",
@@ -120,7 +131,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Fort William, built by the British, is located in which Indian city?",
@@ -130,7 +142,8 @@
             "Kolkata ",
             "Kochi "
         ],
-        "answer": "Kolkata "
+        "answer": "Kolkata ",
+        "source": "Unknown"
     },
     {
         "question": "The President of the 77th session of the United Nations General Assembly (UNG",
@@ -141,7 +154,8 @@
             "3 years  ",
             "4 years "
         ],
-        "answer": ", Philemon Yang "
+        "answer": ", Philemon Yang ",
+        "source": "Unknown"
     },
     {
         "question": "Where did the United States military transport plane carrying 104 illegal Indian migrants landed in India in February 2025?",
@@ -151,27 +165,30 @@
             "Kempegowda International Airport, Bengaluru, Karnataka ",
             "Sardar Vallabhbhai Patel International Airport, Ahmedabad, Gujarat "
         ],
-        "answer": "Sri Guru Ramdas Ji International Airport, Amritsar, Punjab "
+        "answer": "Sri Guru Ramdas Ji International Airport, Amritsar, Punjab ",
+        "source": "Unknown"
     },
     {
-        "question": "In which state illegal migration to the United States of America and Europe is also known as ‘kabootarbazi”?",
+        "question": "In which state illegal migration to the United States of America and Europe is also known as \u2018kabootarbazi\u201d?",
         "options": [
             "Uttar Pradesh  ",
             "Punjab  ",
             "Maharashtra  ",
             "Kerala "
         ],
-        "answer": "Punjab  "
+        "answer": "Punjab  ",
+        "source": "Unknown"
     },
     {
-        "question": "Which ministry of the government of India has launched the Watershed Yatra to encourage people’s participation in watershed development programmes?",
+        "question": "Which ministry of the government of India has launched the Watershed Yatra to encourage people\u2019s participation in watershed development programmes?",
         "options": [
             "Ministry of Cooperation ",
             "Ministry of Corporate Affairs ",
             "Ministry of Rural Development ",
             "Ministry of Commerce and Industry "
         ],
-        "answer": "Ministry of Rural Development "
+        "answer": "Ministry of Rural Development ",
+        "source": "Unknown"
     },
     {
         "question": "Which country has launched the first clinical trial for a vaccine targeting the Sudan species of the Ebola virus?",
@@ -181,7 +198,8 @@
             "Sierra Leone ",
             "Liberia "
         ],
-        "answer": "Uganda "
+        "answer": "Uganda ",
+        "source": "Unknown"
     },
     {
         "question": "Which state has launched initiatives like \"Nirbhaya Kadhi,\" \"Mo Gelha Jiya,\" and \"Veerangana Yojana\" for adolescent girls' welfare?",
@@ -191,7 +209,8 @@
             "West Bengal ",
             "Odisha "
         ],
-        "answer": "Odisha "
+        "answer": "Odisha ",
+        "source": "Unknown"
     },
     {
         "question": "Who won the gold medal in the 50m Rifle 3 Positions (Men) event at the 38th National Games?",
@@ -201,7 +220,8 @@
             "Swapnil Suresh Kusale ",
             "Pramod "
         ],
-        "answer": "Niraj Kumar "
+        "answer": "Niraj Kumar ",
+        "source": "Unknown"
     },
     {
         "question": "In which country will PM Modi co-chair the AI Action Summit and inaugurate a new Indian Consulate?",
@@ -211,7 +231,8 @@
             "Germany ",
             "France "
         ],
-        "answer": "France "
+        "answer": "France ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the new India Subcontinent Sub-Cluster and Banking Head for Citibank?",
@@ -221,7 +242,8 @@
             "Ashu Khullar ",
             "Anthony Diamandakis "
         ],
-        "answer": "K Balasubramanian "
+        "answer": "K Balasubramanian ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Director in the Ministry of Petroleum & Natural Gas?",
@@ -231,7 +253,8 @@
             "Anil Kumar Sharma ",
             "Deepak Mehta "
         ],
-        "answer": "Sagar Singh Kalsi "
+        "answer": "Sagar Singh Kalsi ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank launched specialized startup current accounts to support entrepreneurs?",
@@ -241,27 +264,30 @@
             "ICICI Bank ",
             "Axis Bank  "
         ],
-        "answer": "South Indian Bank "
+        "answer": "South Indian Bank ",
+        "source": "Unknown"
     },
     {
-        "question": "Which state will establish India’s first AI university?",
+        "question": "Which state will establish India\u2019s first AI university?",
         "options": [
             "Karnataka ",
             "Tamil Nadu ",
             "Gujarat ",
             "Maharashtra "
         ],
-        "answer": "Maharashtra "
+        "answer": "Maharashtra ",
+        "source": "Unknown"
     },
     {
-        "question": "Which company has launched the AI-powered home loan advisor ‘KAI’?",
+        "question": "Which company has launched the AI-powered home loan advisor \u2018KAI\u2019?",
         "options": [
             "L&T ",
             "HDFC ",
             "ICICI Bank ",
             "Bajaj Finserv "
         ],
-        "answer": "Bajaj Finserv "
+        "answer": "Bajaj Finserv ",
+        "source": "Unknown"
     },
     {
         "question": "Which country has recently announced its withdrawal from the United Nations Human Rights Council(UNHRC)?",
@@ -272,7 +298,8 @@
             "Argentina  ",
             "Russia "
         ],
-        "answer": "? "
+        "answer": "? ",
+        "source": "Unknown"
     },
     {
         "question": "Which country has recently announced the permanent stopping of funds to the United Nations Relief and Works Agency for Palestinian Refugees in the Near East (UNRW",
@@ -283,7 +310,8 @@
             "China ",
             "United States "
         ],
-        "answer": "China "
+        "answer": "China ",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following best describes Jevons Paradox?",
@@ -293,7 +321,8 @@
             "It explains the relation between employment and consumption. ",
             "It provides deep understanding about neurological process in humans. "
         ],
-        "answer": "It is the idea that technological progress makes a resource cheaper and leads to an increase in "
+        "answer": "It is the idea that technological progress makes a resource cheaper and leads to an increase in ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Pinaka Multiple Rocket Launch Systems (MRLS):  1. It is an indirect area fire artillery weapon system developed by the Defence Research and Development Organisation (DRDO).  2. It was first used during the 1965 Indo-Pak War.  Which of the statements given above is/are correct?",
@@ -303,7 +332,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to the International Criminal Court (ICC), consider the following statements:  1. It is the only permanent international criminal tribunal.  2. It was established by the Rome Statute.  3. India is a member of the ICC  Which of the statements given above is/are correct?",
@@ -314,7 +344,8 @@
             "1, 2 and 3 ",
             "None "
         ],
-        "answer": ", consider the following statements: "
+        "answer": ", consider the following statements: ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Grameen Credit Score:  1. It aims to formalize self help group (SHG) transactions within the central credit system of India.  2. It will help in promoting financial inclusion for self help group (SHGs) women entrepreneurs.  Which of the statements given above is/are correct?",
@@ -324,7 +355,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding GREAT scheme:  1. It was launched with the aim to develop the startup ecosystem in technical textiles in India.   2. It has evolved under the Research, Development, and Innovation Component of National Technical Textiles Mission.  Which of the statements given above is/are correct?",
@@ -334,7 +366,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "M23, or the March 23 Movement, is an armed group, fighting in which one of the following countries?",
@@ -344,7 +377,8 @@
             "Democratic Republic of Congo ",
             "Central African Republic "
         ],
-        "answer": "Democratic Republic of Congo "
+        "answer": "Democratic Republic of Congo ",
+        "source": "Unknown"
     },
     {
         "question": "By what percentage did India's fruit and vegetable exports increase in volume from 2019-20 to 2023-24?",
@@ -354,7 +388,8 @@
             "47.3% ",
             "39.8% "
         ],
-        "answer": "47.3% "
+        "answer": "47.3% ",
+        "source": "Unknown"
     },
     {
         "question": "What is the primary focus of the AI solutions to be unveiled at WAVES 2025?",
@@ -364,7 +399,8 @@
             "Automated Translation ",
             "Audience Analytics "
         ],
-        "answer": "Misinformation Detection "
+        "answer": "Misinformation Detection ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Director of the Department of Justice under the Central Staffing Scheme?",
@@ -374,6 +410,7 @@
             "Ramesh Kumar ",
             "Suresh Patil "
         ],
-        "answer": "Monika Rani "
+        "answer": "Monika Rani ",
+        "source": "Unknown"
     }
 ]

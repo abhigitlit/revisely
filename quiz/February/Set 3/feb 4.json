@@ -7,7 +7,8 @@
             "Maharashtra ",
             "Karnataka "
         ],
-        "answer": "Karnataka "
+        "answer": "Karnataka ",
+        "source": "Unknown"
     },
     {
         "question": "SEBI has cancelled the registrations of how many foreign venture capital institutions (FVCI) after investigations found that they had violated capital market regulations?",
@@ -17,17 +18,19 @@
             "17 ",
             "19 "
         ],
-        "answer": "19 "
+        "answer": "19 ",
+        "source": "Unknown"
     },
     {
-        "question": "RBI has introduced a new mobile application, ‘RBIDATA’, offering seamless access to over 11,000 series of economic and financial data related to the Indian economy. Which of the following is NOT a feature of the RBIDATA app?",
+        "question": "RBI has introduced a new mobile application, \u2018RBIDATA\u2019, offering seamless access to over 11,000 series of economic and financial data related to the Indian economy. Which of the following is NOT a feature of the RBIDATA app?",
         "options": [
             "Users can access data related to SAARC countries. ",
             "It enables users to apply for RBI loans directly. ",
             "It provides information on macroeconomic statistics. ",
             "It provides time series data with graphical representations "
         ],
-        "answer": "It enables users to apply for RBI loans directly. "
+        "answer": "It enables users to apply for RBI loans directly. ",
+        "source": "Unknown"
     },
     {
         "question": "The Iron Dome air missile defense system, recently seen in the news, is developed by which country?",
@@ -37,7 +40,8 @@
             "Israel ",
             "North Korea "
         ],
-        "answer": "Israel "
+        "answer": "Israel ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Electronic Personnel License:  1. It will replace traditional physical licenses for pilots.  2. It is implemented by the Directorate General of Civil Aviation (DGC",
@@ -48,17 +52,19 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "2 only "
+        "answer": "2 only ",
+        "source": "Unknown"
     },
     {
-        "question": "With reference to Technology Adoption Fund, consider the following:  1. It aims to accelerate the development of indigenous space technology, reducing reliance on imported solutions.  2. It consists of a corpus of Rs 500 crore to support the growth of India’s space startups.  3. It is an initiative of the Indian National Space Promotion and Authorization Centre (IN-SPACe).  Which of the statements given above is/are correct?",
+        "question": "With reference to Technology Adoption Fund, consider the following:  1. It aims to accelerate the development of indigenous space technology, reducing reliance on imported solutions.  2. It consists of a corpus of Rs 500 crore to support the growth of India\u2019s space startups.  3. It is an initiative of the Indian National Space Promotion and Authorization Centre (IN-SPACe).  Which of the statements given above is/are correct?",
         "options": [
             "1 and 2 only ",
             "2 and 3 only ",
             "1, 2 and 3 ",
             "None "
         ],
-        "answer": "1, 2 and 3 "
+        "answer": "1, 2 and 3 ",
+        "source": "Unknown"
     },
     {
         "question": "Which organization has approved the amalgamation of Chaitanya India Fin Credit and Svatantra Holdings into Svatantra Microfin?",
@@ -68,7 +74,8 @@
             "Securities and Exchange Board of India (SEBI) ",
             "Ministry of Finance "
         ],
-        "answer": "Competition Commission of India (CCI) "
+        "answer": "Competition Commission of India (CCI) ",
+        "source": "Unknown"
     },
     {
         "question": "Which organization launched the 'One Man Office' digital platform?",
@@ -78,27 +85,30 @@
             "HDFC Bank  ",
             "ICICI Bank "
         ],
-        "answer": "LIC "
+        "answer": "LIC ",
+        "source": "Unknown"
     },
     {
-        "question": "Which state’s Forest Management Project won the SKOCH Award 2024?",
+        "question": "Which state\u2019s Forest Management Project won the SKOCH Award 2024?",
         "options": [
             "Assam ",
             "Nagaland ",
             "Meghalaya ",
             "Arunachal Pradesh "
         ],
-        "answer": "Nagaland "
+        "answer": "Nagaland ",
+        "source": "Unknown"
     },
     {
-        "question": "Which company has partnered with AWS to modernize digital infrastructure in India’s energy sector?",
+        "question": "Which company has partnered with AWS to modernize digital infrastructure in India\u2019s energy sector?",
         "options": [
             "Reliance industries  ",
             "Adani Group  ",
             "Tata Power  ",
             "Mahindra & Mahindra "
         ],
-        "answer": "Tata Power  "
+        "answer": "Tata Power  ",
+        "source": "Unknown"
     },
     {
         "question": "Who became the fastest Indian bowler to reach 200 ODI wickets?",
@@ -108,37 +118,41 @@
             "Jasprit Bumrah ",
             "Mohammed Shami "
         ],
-        "answer": "Mohammed Shami "
+        "answer": "Mohammed Shami ",
+        "source": "Unknown"
     },
     {
-        "question": "Where was India’s first vertical bi-facial solar plant installed?",
+        "question": "Where was India\u2019s first vertical bi-facial solar plant installed?",
         "options": [
             "Rajiv Chowk Metro Station ",
             "Okhla Vihar Metro Station ",
             "Kashmere Gate Metro Station ",
             "Central Secretariat Metro Station "
         ],
-        "answer": "Okhla Vihar Metro Station "
+        "answer": "Okhla Vihar Metro Station ",
+        "source": "Unknown"
     },
     {
-        "question": "What is the name of the Kerala government’s initiative to collect and dispose of expired and unused medicines?",
+        "question": "What is the name of the Kerala government\u2019s initiative to collect and dispose of expired and unused medicines?",
         "options": [
             "nPROUD ",
             "Drug Disposal Mission ",
             "Safe Medicine Initiative ",
             "MedClean Drive "
         ],
-        "answer": "nPROUD "
+        "answer": "nPROUD ",
+        "source": "Unknown"
     },
     {
-        "question": "Where is the G20 Foreign Ministers’ Meeting being held?",
+        "question": "Where is the G20 Foreign Ministers\u2019 Meeting being held?",
         "options": [
             "Beijing, China ",
             "Johannesburg, South Africa ",
             "Washington, USA ",
             "Tokyo, Japan "
         ],
-        "answer": "Johannesburg, South Africa "
+        "answer": "Johannesburg, South Africa ",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian defence shipbuilding company has showcased its ships at NAVDEX 2025?",
@@ -148,7 +162,8 @@
             "Goa Shipyard Limited ",
             "Cochin Shipyard Limited "
         ],
-        "answer": "Goa Shipyard Limited "
+        "answer": "Goa Shipyard Limited ",
+        "source": "Unknown"
     },
     {
         "question": "Where has Eurobank established its new global delivery centre in collaboration with LTIMindtree?",
@@ -158,7 +173,8 @@
             "Pune ",
             "Hyderabad "
         ],
-        "answer": "Pune "
+        "answer": "Pune ",
+        "source": "Unknown"
     },
     {
         "question": "Mount Dukono, recently in news, is located in:",
@@ -168,7 +184,8 @@
             "Kenya ",
             "Indonesia "
         ],
-        "answer": "Indonesia "
+        "answer": "Indonesia ",
+        "source": "Unknown"
     },
     {
         "question": "Which country maximum funds were raised by companies through Initial Public Offering (IPO) in 2024?",
@@ -178,17 +195,19 @@
             "Indonesia  ",
             "Singapore "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
-        "question": "Which company issued India’s largest and world’s second largest Initial Public Offering (IPO) in 2024?",
+        "question": "Which company issued India\u2019s largest and world\u2019s second largest Initial Public Offering (IPO) in 2024?",
         "options": [
             "Hyundai Motors ",
             "Tata Motors ",
             "Mahindra & Mahindra ",
             "Maruti Suzuki "
         ],
-        "answer": "Hyundai Motors "
+        "answer": "Hyundai Motors ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the first first Conference for Women Peacekeepers of the United Nations held?",
@@ -198,7 +217,8 @@
             "Hyderabad  ",
             "Bengaluru  "
         ],
-        "answer": "New Delhi  "
+        "answer": "New Delhi  ",
+        "source": "Unknown"
     },
     {
         "question": "How many countries participated in the first Conference for Women Peacekeepers of the United Nations?",
@@ -208,7 +228,8 @@
             "40 ",
             "60 "
         ],
-        "answer": "35 "
+        "answer": "35 ",
+        "source": "Unknown"
     },
     {
         "question": "Which football club has won the 2024-25 season Indian Super League (ISL) Winners Shield?",
@@ -218,7 +239,8 @@
             "Mohun Bagan Super Giant ",
             "Jamshedpur FC "
         ],
-        "answer": "Mohun Bagan Super Giant "
+        "answer": "Mohun Bagan Super Giant ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the first International Conference on Carbon Markets-Prakriti was held?",
@@ -228,7 +250,8 @@
             "Hyderabad  ",
             "Bengaluru "
         ],
-        "answer": "New Delhi  "
+        "answer": "New Delhi  ",
+        "source": "Unknown"
     },
     {
         "question": "International Finance Corporation (IFC) has decided against investing in a proposed $40 million loan for waste-to-energy (WTE) incineration projects in which state?",
@@ -239,7 +262,8 @@
             "Uttar Pradesh  ",
             "Gujarat "
         ],
-        "answer": "Uttar Pradesh  "
+        "answer": "Uttar Pradesh  ",
+        "source": "Unknown"
     },
     {
         "question": "SWAYATT Initiative, recently in news, is a:",
@@ -249,7 +273,8 @@
             "an initiative for rural households to learn basic computer skills online ",
             "an initiative which invigorate participation of women-led enterprises and youth in public "
         ],
-        "answer": "an initiative which invigorate participation of women-led enterprises and youth in public "
+        "answer": "an initiative which invigorate participation of women-led enterprises and youth in public ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding HKU5-CoV-2, recently seen in the news:  1. It is a newly discovered bat coronavirus.  2. It has a lower binding affinity to human ACE2 than SARS-CoV-2, the virus behind COVID-19 pandemic.  Which of the statements given above is/are correct?",
@@ -259,17 +284,19 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "Why was Qualified Institutional Placement (QIP) introduced in India?",
         "options": [
             "To encourage foreign investment ",
-            "To reduce companies’ reliance on overseas fundraising methods ",
+            "To reduce companies\u2019 reliance on overseas fundraising methods ",
             "To allow only government-owned companies to raise capital ",
             "To eliminate the need for company audits "
         ],
-        "answer": "To reduce companies’ reliance on overseas fundraising methods "
+        "answer": "To reduce companies\u2019 reliance on overseas fundraising methods ",
+        "source": "Unknown"
     },
     {
         "question": "Which company has partnered with the Archaeological Survey of India (ASI) to restore heritage water bodies?",
@@ -279,7 +306,8 @@
             "Nestle ",
             "Bisleri "
         ],
-        "answer": "Bisleri "
+        "answer": "Bisleri ",
+        "source": "Unknown"
     },
     {
         "question": "Which company introduced the Bima-ASBA facility in India?",
@@ -289,7 +317,8 @@
             "Bajaj Allianz Life ",
             "SBI Life Insurance "
         ],
-        "answer": "Bajaj Allianz Life "
+        "answer": "Bajaj Allianz Life ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has become the official banking partner of the Professional Golf Tour of India (PGTI)?",
@@ -299,7 +328,8 @@
             "ICICI Bank ",
             "Axis Bank "
         ],
-        "answer": "IndusInd Bank "
+        "answer": "IndusInd Bank ",
+        "source": "Unknown"
     },
     {
         "question": "Which state in India has recently received its 8th airport with approval from DGCA?",
@@ -309,17 +339,19 @@
             "Rajasthan ",
             "Gujarat "
         ],
-        "answer": "Madhya Pradesh "
+        "answer": "Madhya Pradesh ",
+        "source": "Unknown"
     },
     {
-        "question": "Where has India’s first zoo-based wildlife biobank been established?",
+        "question": "Where has India\u2019s first zoo-based wildlife biobank been established?",
         "options": [
             "National Zoological Park ",
             "Padmaja Naidu Himalayan Zoological Park ",
             "Nandankanan Zoological Park ",
             "Nehru Zoological Park "
         ],
-        "answer": "Padmaja Naidu Himalayan Zoological Park "
+        "answer": "Padmaja Naidu Himalayan Zoological Park ",
+        "source": "Unknown"
     },
     {
         "question": "Which country assumed the Chairmanship of the Bay of Bengal Programme Inter-Governmental Organisation (BOBP-IGO)?",
@@ -329,7 +361,8 @@
             "Sri Lanka ",
             "Maldives "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the first astronaut with a disability to be cleared for a mission to the International Space Station (ISS)?",
@@ -339,7 +372,8 @@
             "John McFall ",
             "Daniel Neuenschwander "
         ],
-        "answer": "John McFall "
+        "answer": "John McFall ",
+        "source": "Unknown"
     },
     {
         "question": "Which among the following best describes INS Tamal, recently seen in the news?",
@@ -349,7 +383,8 @@
             "It is a diesel-electric submarine. ",
             "It is a Kiev-class aircraft carrier. "
         ],
-        "answer": "It is a stealth guided missile frigate. "
+        "answer": "It is a stealth guided missile frigate. ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to PUNCH Mission, consider the following:  1. It consists of constellation of four satellites each sent to the Low Earth Orbit.  2. It is an initiative of the European Space Agency.  3. It is designed to make use of the polarisation of light to measure the corona and solar wind.  Which of the statements given above are correct?",
@@ -359,16 +394,18 @@
             "1 and 3 only ",
             "1, 2 and 3 "
         ],
-        "answer": "1 and 3 only "
+        "answer": "1 and 3 only ",
+        "source": "Unknown"
     },
     {
-        "question": "DPIIT has signed an agreement with which organization to boost India’s startup ecosystem?",
+        "question": "DPIIT has signed an agreement with which organization to boost India\u2019s startup ecosystem?",
         "options": [
             "PhonePe ",
             "Paytm ",
             "Razorpay ",
             "MobiKwik "
         ],
-        "answer": "Paytm "
+        "answer": "Paytm ",
+        "source": "Unknown"
     }
 ]

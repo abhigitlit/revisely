@@ -7,7 +7,8 @@
             "United Nations Development Programme ",
             "World Trade Organization "
         ],
-        "answer": "World Bank "
+        "answer": "World Bank ",
+        "source": "Unknown"
     },
     {
         "question": "The Financial Stability Report (FSR) is released by which organisation?",
@@ -17,7 +18,8 @@
             "SIDBI  ",
             "IRDAI "
         ],
-        "answer": "RBI "
+        "answer": "RBI ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been recently appointed as the Director General of CRPF?",
@@ -27,7 +29,8 @@
             "Vitul Kumar ",
             "Ajay Kumar Agnihotri "
         ],
-        "answer": "Vitul Kumar "
+        "answer": "Vitul Kumar ",
+        "source": "Unknown"
     },
     {
         "question": "What is the new deadline for resolving income tax disputes under the Vivad Se Vishwas Scheme?",
@@ -37,7 +40,8 @@
             "February 28, 2025 ",
             "March 31, 2025 "
         ],
-        "answer": "January 31, 2025 "
+        "answer": "January 31, 2025 ",
+        "source": "Unknown"
     },
     {
         "question": "Which country unveiled the world's fastest high-speed train, the CR450?",
@@ -47,7 +51,8 @@
             "Germany ",
             "France "
         ],
-        "answer": "China "
+        "answer": "China ",
+        "source": "Unknown"
     },
     {
         "question": "Where is the Kagyed Dance Festival, a significant Buddhist celebration, prominently held?",
@@ -57,17 +62,19 @@
             "Arunachal Pradesh ",
             "Sikkim "
         ],
-        "answer": "Sikkim "
+        "answer": "Sikkim ",
+        "source": "Unknown"
     },
     {
-        "question": "Which company acquired Karkinos Healthcare for ₹375 crore?",
+        "question": "Which company acquired Karkinos Healthcare for \u20b9375 crore?",
         "options": [
             "Tata Group ",
             "Adani Group ",
             "Reliance Industries  ",
             "Birla Group "
         ],
-        "answer": "Reliance Industries  "
+        "answer": "Reliance Industries  ",
+        "source": "Unknown"
     },
     {
         "question": "Who won three National titles in the final round of the MMSC FMSCI Indian National Motorcycle Drag Racing Championship, extending their record to 15 titles?",
@@ -77,7 +84,8 @@
             "Jagan Kumar ",
             "Hari Krishnan "
         ],
-        "answer": "Hemanth Muddappa "
+        "answer": "Hemanth Muddappa ",
+        "source": "Unknown"
     },
     {
         "question": "What is the record value of India's defence exports achieved over the past decade?",
@@ -87,7 +95,8 @@
             "Rs 15,000 Crore ",
             "Rs 21,000 Crore "
         ],
-        "answer": "Rs 21,000 Crore "
+        "answer": "Rs 21,000 Crore ",
+        "source": "Unknown"
     },
     {
         "question": "Which country launched the region's first digital platform for implementing CORSIA?",
@@ -97,7 +106,8 @@
             "Bahrain ",
             "UAE "
         ],
-        "answer": "UAE "
+        "answer": "UAE ",
+        "source": "Unknown"
     },
     {
         "question": "By what percentage has Haryana increased the Death-cum-Retirement Gratuity (DCRG) limit for state government employees?",
@@ -107,17 +117,19 @@
             "25% ",
             "30% "
         ],
-        "answer": "25% "
+        "answer": "25% ",
+        "source": "Unknown"
     },
     {
         "question": "Who secured third place at the inaugural King Cup International Badminton Open in Bangkok?",
         "options": [
             "Lakshya Sen ",
             "Alex Lanier ",
-            "Hu Zhe’an ",
+            "Hu Zhe\u2019an ",
             "Kidambi Srikanth "
         ],
-        "answer": "Lakshya Sen "
+        "answer": "Lakshya Sen ",
+        "source": "Unknown"
     },
     {
         "question": "Which state/UT had the highest percentage of women electors in the 2024 Lok Sabha Elections?",
@@ -127,7 +139,8 @@
             "Puducherry ",
             "Andhra Pradesh "
         ],
-        "answer": "Puducherry "
+        "answer": "Puducherry ",
+        "source": "Unknown"
     },
     {
         "question": "In which state was the SWAR platform launched to bridge language barriers?",
@@ -137,27 +150,30 @@
             "Karnataka ",
             "Rajasthan "
         ],
-        "answer": "Gujarat "
+        "answer": "Gujarat ",
+        "source": "Unknown"
     },
     {
-        "question": "Which organization has launched the quantum processor ‘Willow’?",
+        "question": "Which organization has launched the quantum processor \u2018Willow\u2019?",
         "options": [
             "Amazon ",
             "Meta ",
             "Google ",
             "Microsoft "
         ],
-        "answer": "Google "
+        "answer": "Google ",
+        "source": "Unknown"
     },
     {
-        "question": "Which organization has been re-certified as a ‘Great Place to Work’ for January 2025 to January 2026?",
+        "question": "Which organization has been re-certified as a \u2018Great Place to Work\u2019 for January 2025 to January 2026?",
         "options": [
             "Tata Steel ",
             "Hindustan Zinc ",
             "SAIL ",
             "JSW Steel "
         ],
-        "answer": "SAIL "
+        "answer": "SAIL ",
+        "source": "Unknown"
     },
     {
         "question": "By what percentage has e-waste generation increased in India over the past five years?",
@@ -167,7 +183,8 @@
             "57.48% ",
             "82.31% "
         ],
-        "answer": "72.54% "
+        "answer": "72.54% ",
+        "source": "Unknown"
     },
     {
         "question": "Which country shares a 1,643 km largely unfenced border with Arunachal Pradesh, Nagaland, Manipur, and Mizoram?",
@@ -177,7 +194,8 @@
             "China ",
             "Bhutan "
         ],
-        "answer": "Myanmar "
+        "answer": "Myanmar ",
+        "source": "Unknown"
     },
     {
         "question": "Which organization signed two crucial loans with the Government of India to support infrastructure and sustainable growth?",
@@ -187,38 +205,42 @@
             "Asian Development Bank ",
             "New Development Bank "
         ],
-        "answer": "Asian Development Bank "
+        "answer": "Asian Development Bank ",
+        "source": "Unknown"
     },
     {
-        "question": "India’s longest glass bridge on the sea was recently inaugurated in which state?",
+        "question": "India\u2019s longest glass bridge on the sea was recently inaugurated in which state?",
         "options": [
             "Bihar  ",
             "Kerala  ",
             "Karnataka  ",
             "Tamil Nadu "
         ],
-        "answer": "Tamil Nadu "
+        "answer": "Tamil Nadu ",
+        "source": "Unknown"
     },
     {
-        "question": "Which among the following best describes ‘INS Surat’, recently seen in the news?",
+        "question": "Which among the following best describes \u2018INS Surat\u2019, recently seen in the news?",
         "options": [
             "It is a nuclear-powered aircraft carrier. ",
             "It is a Shivalik-class stealth multi-role frigate. ",
             "It is a stealth destroyer. ",
             "It is a Kalvari-class submarine. "
         ],
-        "answer": "It is a stealth destroyer. "
+        "answer": "It is a stealth destroyer. ",
+        "source": "Unknown"
     },
     {
-        "question": "Consider the following statements with reference to the National e-Governance Awards Scheme:  1. Its objective is to recognize and promote excellence in the implementation of e-governance initiatives.  2. It will consist of a Trophy, Certificate and an incentive of Rs 10 lakh for Gold Awardees and Rs 5 Lakhs for Silver Awardees.  3. The Ministry of Personnel, Public Grievances & Pensions serves as its nodal ministry. ➢ Goa Shipyard Limited (GSL) recently launched the first indigenously-built Talwar class frigate, 'Triput'. ➢ The first indigenously built Talwar Class frigate named ‘Triput’ for the Indian Navy, constructed by the Goa Shipyard Limited (GSL). ➢ The Naval Detachment Minicoy will be commissioned as INS Jatayu on March 6th, 2024, in the presence of Admiral R Hari Kumar, Chief of the Naval Staff. ➢ Indian Naval Ship INS Ranvir, of the Eastern Fleet under the aegis of the Eastern Naval Command arrived at Chattogram, Bangladesh as part of an Operational Deployment. ➢ Indian multi-role stealth frigate INS Shivalik, that was deployed on mission in south China Sea and north Pacific Ocean, has reached Pearl Harbour in Hawaii to take part in the Rim of the Pacific (RIMPAC) exercise, world’s largest naval exercise. ➢ Indian Naval Ship Kiltan arrived at Muara, Brunei and was accorded a warm welcome by the Royal Brunei Navy. ➢ INS Talwar of the Indian Navy recently seized 940 kg of drugs in the Arabian Sea as part of an operation led by the Combined Maritime Forces (CMF). ➢ Navy Chief Admiral R Hari Kumar has awarded an ‘On-the-spot Unit Citation’ to INS Sharda for successful conduct of anti-piracy operations at sea. ➢ INS Tir, the lead ship of First Training Squadron (1TS) participated in Exercise Cutlass Express - 24 (CE – 24) held at Port Victoria, Seychelles from 26 Feb – 08 Mar 24. ➢ Indian Navy commissioned its latest survey vessel, Sandhayak, at Naval Dockyard in Vizag in the presence of defence minister.  ➢ It is the first in a series of four Survey Vessel (Large) ships being constructed at Garden Reach Shipbuilders & Engineers (GRSE), Kolkata  Follow us: Official Site, Telegram, Facebook, Instagram, Youtube 27   How many of the statements given above are correct?",
+        "question": "Consider the following statements with reference to the National e-Governance Awards Scheme:  1. Its objective is to recognize and promote excellence in the implementation of e-governance initiatives.  2. It will consist of a Trophy, Certificate and an incentive of Rs 10 lakh for Gold Awardees and Rs 5 Lakhs for Silver Awardees.  3. The Ministry of Personnel, Public Grievances & Pensions serves as its nodal ministry. \u27a2 Goa Shipyard Limited (GSL) recently launched the first indigenously-built Talwar class frigate, 'Triput'. \u27a2 The first indigenously built Talwar Class frigate named \u2018Triput\u2019 for the Indian Navy, constructed by the Goa Shipyard Limited (GSL). \u27a2 The Naval Detachment Minicoy will be commissioned as INS Jatayu on March 6th, 2024, in the presence of Admiral R Hari Kumar, Chief of the Naval Staff. \u27a2 Indian Naval Ship INS Ranvir, of the Eastern Fleet under the aegis of the Eastern Naval Command arrived at Chattogram, Bangladesh as part of an Operational Deployment. \u27a2 Indian multi-role stealth frigate INS Shivalik, that was deployed on mission in south China Sea and north Pacific Ocean, has reached Pearl Harbour in Hawaii to take part in the Rim of the Pacific (RIMPAC) exercise, world\u2019s largest naval exercise. \u27a2 Indian Naval Ship Kiltan arrived at Muara, Brunei and was accorded a warm welcome by the Royal Brunei Navy. \u27a2 INS Talwar of the Indian Navy recently seized 940 kg of drugs in the Arabian Sea as part of an operation led by the Combined Maritime Forces (CMF). \u27a2 Navy Chief Admiral R Hari Kumar has awarded an \u2018On-the-spot Unit Citation\u2019 to INS Sharda for successful conduct of anti-piracy operations at sea. \u27a2 INS Tir, the lead ship of First Training Squadron (1TS) participated in Exercise Cutlass Express - 24 (CE \u2013 24) held at Port Victoria, Seychelles from 26 Feb \u2013 08 Mar 24. \u27a2 Indian Navy commissioned its latest survey vessel, Sandhayak, at Naval Dockyard in Vizag in the presence of defence minister.  \u27a2 It is the first in a series of four Survey Vessel (Large) ships being constructed at Garden Reach Shipbuilders & Engineers (GRSE), Kolkata  Follow us: Official Site, Telegram, Facebook, Instagram, Youtube 27   How many of the statements given above are correct?",
         "options": [
-            "exercise, world’s largest naval exercise. ",
+            "exercise, world\u2019s largest naval exercise. ",
             "Only one ",
             "Only two ",
             "All three ",
             "None "
         ],
-        "answer": "Only two "
+        "answer": "Only two ",
+        "source": "Unknown"
     },
     {
         "question": "What was the increase in the groundwater recharge in the country from 2017 to 2024?",
@@ -228,7 +250,8 @@
             "25 billion cubic meters ",
             "30 billion cubic meters "
         ],
-        "answer": "15 billion cubic meters "
+        "answer": "15 billion cubic meters ",
+        "source": "Unknown"
     },
     {
         "question": "Which ministry releases the Dynamic Ground Water Resource Assessment Report 2024?",
@@ -238,7 +261,8 @@
             "Ministry of Jal Shakti ",
             "Ministry of Food Processing Industries "
         ],
-        "answer": "Ministry of Jal Shakti "
+        "answer": "Ministry of Jal Shakti ",
+        "source": "Unknown"
     },
     {
         "question": "West Bengal won the 78th Santosh Trophy by defeating which team in the final?",
@@ -248,7 +272,8 @@
             "Manipur ",
             "Tamil Nadu "
         ],
-        "answer": "Kerala  "
+        "answer": "Kerala  ",
+        "source": "Unknown"
     },
     {
         "question": "Santosh Trophy is related to which sport?",
@@ -258,7 +283,8 @@
             "Hockey  ",
             "Badminton "
         ],
-        "answer": "Football  "
+        "answer": "Football  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the new CEO of DBS Bank India effective March 1, 2025?",
@@ -268,7 +294,8 @@
             "Rajat Verma ",
             "Anand Kumar "
         ],
-        "answer": "Rajat Verma "
+        "answer": "Rajat Verma ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Chief Executive Officer of the Unique Identification Authority of India (UIDAI)?",
@@ -278,7 +305,8 @@
             "Rahul Kumar  ",
             "Ravish Kumar "
         ],
-        "answer": "Bhuvnesh Kumar "
+        "answer": "Bhuvnesh Kumar ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Secretary of the Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers, Government of India?",
@@ -288,7 +316,8 @@
             "Pramod Singh  ",
             "Amit Aggarwal "
         ],
-        "answer": "Amit Aggarwal "
+        "answer": "Amit Aggarwal ",
+        "source": "Unknown"
     },
     {
         "question": "When was the Unique Identification Authority of India (UIDAI) established by the government of India?",
@@ -298,7 +327,8 @@
             "2016 ",
             "2012 "
         ],
-        "answer": "2009 "
+        "answer": "2009 ",
+        "source": "Unknown"
     },
     {
         "question": "Under which ministry of the government of India comes the Unique Identification Authority of India (UIDAI)?",
@@ -308,7 +338,8 @@
             "Ministry of Information and Broadcasting ",
             "Ministry of Electronics and Information Technology "
         ],
-        "answer": "Ministry of Electronics and Information Technology "
+        "answer": "Ministry of Electronics and Information Technology ",
+        "source": "Unknown"
     },
     {
         "question": "Which state government has launched a 15 day reading campaign amongst students?",
@@ -318,7 +349,8 @@
             "Odisha  ",
             "Jharkhand "
         ],
-        "answer": "Maharashtra  "
+        "answer": "Maharashtra  ",
+        "source": "Unknown"
     },
     {
         "question": "Which country became the full member of the Schengen Area on 1 January 2025?",
@@ -328,26 +360,29 @@
             "Iceland and Norway ",
             "Slovakia and Spain "
         ],
-        "answer": "Romania and Bulgaria "
+        "answer": "Romania and Bulgaria ",
+        "source": "Unknown"
     },
     {
-        "question": "How many countries are members of the European Union’s Schengen Area?",
+        "question": "How many countries are members of the European Union\u2019s Schengen Area?",
         "options": [
             "27 ",
             "30 ",
             "32 ",
             "29 "
         ],
-        "answer": "29 "
+        "answer": "29 ",
+        "source": "Unknown"
     },
     {
-        "question": "The government of India has extended the Pradhan Mantri Fasal Bima Yojana and Restructured Weather Based Crop Insurance Scheme till–?",
+        "question": "The government of India has extended the Pradhan Mantri Fasal Bima Yojana and Restructured Weather Based Crop Insurance Scheme till\u2013?",
         "options": [
             "2026-27 ",
             "2025-26 ",
             "2027-28 ",
             "2029-30 "
         ],
-        "answer": "2025-26 "
+        "answer": "2025-26 ",
+        "source": "Unknown"
     }
 ]

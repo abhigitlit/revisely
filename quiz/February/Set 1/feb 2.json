@@ -8,18 +8,20 @@
             "Smart Bombs",
             "Submarine Missiles"
         ],
-        "answer": "Laser Weapon 'Helios'"
+        "answer": "Laser Weapon 'Helios'",
+        "source": "Unknown"
     },
     {
         "question": "When did the President of the 79th Session of the UN General Assembly, H.E. Mr. Philemon Yang, visit India?",
         "options": [
-            "1–3 February 2025",
-            "4–7 February 2025",
-            "5–9 February 2025",
-            "10–13 February 2025",
-            "15–17 February 2025"
+            "1\u20133 February 2025",
+            "4\u20137 February 2025",
+            "5\u20139 February 2025",
+            "10\u201313 February 2025",
+            "15\u201317 February 2025"
         ],
-        "answer": "4–7 February 2025"
+        "answer": "4\u20137 February 2025",
+        "source": "Unknown"
     },
     {
         "question": "What exercise was conducted by the Indian Army and IAF in the Eastern Theater?",
@@ -30,10 +32,11 @@
             "Vajra Shakti",
             "Iron Fist"
         ],
-        "answer": "Winged Raider"
+        "answer": "Winged Raider",
+        "source": "Unknown"
     },
     {
-        "question": "Who became India’s second oldest ODI debutant?",
+        "question": "Who became India\u2019s second oldest ODI debutant?",
         "options": [
             "Ravi Shastri",
             "Varun Chakravarthy",
@@ -41,7 +44,8 @@
             "MS Dhoni",
             "Sachin Tendulkar"
         ],
-        "answer": "Varun Chakravarthy"
+        "answer": "Varun Chakravarthy",
+        "source": "Unknown"
     },
     {
         "question": "Which former Sri Lankan captain announced his retirement after playing his 100th Test match?",
@@ -52,7 +56,8 @@
             "Kumar Sangakkara",
             "Angelo Mathews"
         ],
-        "answer": "Dimuth Karunaratne"
+        "answer": "Dimuth Karunaratne",
+        "source": "Unknown"
     },
     {
         "question": "Which country, along with India, has completed two years of the Economic Cooperation and Trade Agreement (ECTA), aiming to reach AUD 100 billion in trade by 2030?",
@@ -63,7 +68,8 @@
             "Australia",
             "Japan"
         ],
-        "answer": "Australia"
+        "answer": "Australia",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the new CEO of DBS Bank India effective March 1, 2025?",
@@ -74,7 +80,8 @@
             "Anand Kumar",
             "Rajeev Ahuja"
         ],
-        "answer": "Rajat Verma"
+        "answer": "Rajat Verma",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has launched a TAB-based digital onboarding process for NRIs to open NRE and NRO accounts?",
@@ -85,7 +92,8 @@
             "Axis Bank",
             "Kotak Mahindra Bank"
         ],
-        "answer": "SBI"
+        "answer": "SBI",
+        "source": "Unknown"
     },
     {
         "question": "Where was the 'Pujari Granthi Samman' scheme launched?",
@@ -96,7 +104,8 @@
             "Chennai",
             "Varanasi"
         ],
-        "answer": "New Delhi"
+        "answer": "New Delhi",
+        "source": "Unknown"
     },
     {
         "question": "What is the primary focus of Grameen Bharat Mahotsav 2025?",
@@ -107,7 +116,8 @@
             "Technological innovation",
             "Education"
         ],
-        "answer": "Rural empowerment"
+        "answer": "Rural empowerment",
+        "source": "Unknown"
     },
     {
         "question": "Which bank launched the \"Har Ghar Lakhpati\" RD and \"Patrons\" FD schemes?",
@@ -118,7 +128,8 @@
             "Axis Bank",
             "Yes Bank"
         ],
-        "answer": "SBI"
+        "answer": "SBI",
+        "source": "Unknown"
     },
     {
         "question": "RBI is injecting Rs 2.5 lakh crore to enhance liquidity in the banking system. What is the primary purpose of this action?",
@@ -129,7 +140,8 @@
             "To boost government revenues",
             "To promote international trade"
         ],
-        "answer": "To improve banking liquidity"
+        "answer": "To improve banking liquidity",
+        "source": "Unknown"
     },
     {
         "question": "Which company announced the receipt of the TPAP license from NPCI for RediffPay?",
@@ -140,7 +152,8 @@
             "Reliance Industries",
             "ICICI Bank"
         ],
-        "answer": "Infibeam Avenues"
+        "answer": "Infibeam Avenues",
+        "source": "Unknown"
     },
     {
         "question": "Who co-chaired the Artificial Intelligence (AI) Action Summit held in France?",
@@ -151,7 +164,8 @@
             "India and Germany",
             "India and China"
         ],
-        "answer": "India and France"
+        "answer": "India and France",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the upgraded Hindustan Jet Trainer (HJT) 36 unveiled by HAL at Aero India 2025?",
@@ -162,7 +176,8 @@
             "Shakti",
             "Chakra"
         ],
-        "answer": "Yashas"
+        "answer": "Yashas",
+        "source": "Unknown"
     },
     {
         "question": "Which country launched 'Operation Devil Hunt' after former minister's supporters resisted 'vandalism'?",
@@ -173,7 +188,8 @@
             "Sri Lanka",
             "Nepal"
         ],
-        "answer": "Bangladesh"
+        "answer": "Bangladesh",
+        "source": "Unknown"
     },
     {
         "question": "What rank did India achieve in the Corruption Perceptions Index 2024?",
@@ -184,7 +200,8 @@
             "80",
             "60"
         ],
-        "answer": "96"
+        "answer": "96",
+        "source": "Unknown"
     },
     {
         "question": "Who addressed the inaugural session of the India Energy Week 2025?",
@@ -195,7 +212,8 @@
             "Energy Minister Raj Kumar Singh",
             "Home Minister Amit Shah"
         ],
-        "answer": "Prime Minister Narendra Modi"
+        "answer": "Prime Minister Narendra Modi",
+        "source": "Unknown"
     },
     {
         "question": "When will the 3rd Kashi Tamil Sangamam take place?",
@@ -206,7 +224,8 @@
             "December 2024",
             "April 2025"
         ],
-        "answer": "February 15, 2025"
+        "answer": "February 15, 2025",
+        "source": "Unknown"
     },
     {
         "question": "Which film won the NETPAC Award at the International Film Festival of Rotterdam?",
@@ -217,10 +236,11 @@
             "Lagaan",
             "The Lunchbox"
         ],
-        "answer": "Bad Girl"
+        "answer": "Bad Girl",
+        "source": "Unknown"
     },
     {
-        "question": "Which country’s students won the Bronze at the Global M-Gov Awards 2025?",
+        "question": "Which country\u2019s students won the Bronze at the Global M-Gov Awards 2025?",
         "options": [
             "USA",
             "India",
@@ -228,18 +248,20 @@
             "Japan",
             "Australia"
         ],
-        "answer": "India"
+        "answer": "India",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of the RBI's Financial Literacy Week (FLW) 2025?",
         "options": [
-            "Digital Banking: Women’s Growth",
-            "Financial Literacy: Women’s Prosperity",
+            "Digital Banking: Women\u2019s Growth",
+            "Financial Literacy: Women\u2019s Prosperity",
             "Saving and Investment Awareness",
             "Budgeting: Women Empowerment",
             "Financial Inclusion for All"
         ],
-        "answer": "Financial Literacy: Women’s Prosperity"
+        "answer": "Financial Literacy: Women\u2019s Prosperity",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the new NR Savings account variant launched by Federal Bank?",
@@ -250,7 +272,8 @@
             "IndiaFirst",
             "Prospera"
         ],
-        "answer": "Prospera"
+        "answer": "Prospera",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the new payment mechanism introduced by IRDAI for premium payments?",
@@ -261,7 +284,8 @@
             "Insure-UPI",
             "PolicyPay"
         ],
-        "answer": "Bima-ASBA"
+        "answer": "Bima-ASBA",
+        "source": "Unknown"
     },
     {
         "question": "Who inaugurated the Inland Waterways Terminal (IWT) at Jogighopa?",
@@ -272,7 +296,8 @@
             "Piyush Goyal",
             "Rajnath Singh"
         ],
-        "answer": "Sarbananda Sonowal"
+        "answer": "Sarbananda Sonowal",
+        "source": "Unknown"
     },
     {
         "question": "Which two countries are enhancing cooperation in maintaining Sukhoi-30 (Su-30) combat aircraft fleets?",
@@ -283,7 +308,8 @@
             "India and Malaysia",
             "India and Pakistan"
         ],
-        "answer": "India and Malaysia"
+        "answer": "India and Malaysia",
+        "source": "Unknown"
     },
     {
         "question": "Where was the School of Ultimate Leadership (SOUL) Leadership Conclave 2025 inaugurated?",
@@ -294,7 +320,8 @@
             "Chennai",
             "Kolkata"
         ],
-        "answer": "New Delhi"
+        "answer": "New Delhi",
+        "source": "Unknown"
     },
     {
         "question": "What is the revised amount for the fixed deposit under the Dulari Kanya Scheme for institutional births of girl children in Arunachal Pradesh?",
@@ -305,7 +332,8 @@
             "Rs 30,000",
             "Rs 50,000"
         ],
-        "answer": "Rs 30,000"
+        "answer": "Rs 30,000",
+        "source": "Unknown"
     },
     {
         "question": "Who has been granted an extension of tenure as the Drug Controller General of India (DCGI)?",
@@ -316,7 +344,8 @@
             "V. G. Somani",
             "Harsh Vardhan"
         ],
-        "answer": "Rajeev Singh Raghuvanshi"
+        "answer": "Rajeev Singh Raghuvanshi",
+        "source": "Unknown"
     },
     {
         "question": "Where will the 72nd edition of the Miss World pageant be held?",
@@ -327,7 +356,8 @@
             "Kolkata",
             "Bangalore"
         ],
-        "answer": "Hyderabad, Telangana"
+        "answer": "Hyderabad, Telangana",
+        "source": "Unknown"
     },
     {
         "question": "What was the previous amount of the fixed deposit for institutional births under the Dulari Kanya Scheme before it was raised?",
@@ -338,7 +368,8 @@
             "Rs 20,000",
             "Rs 25,000"
         ],
-        "answer": "Rs 20,000"
+        "answer": "Rs 20,000",
+        "source": "Unknown"
     },
     {
         "question": "What is the main objective of the Bhoo Kanoon (Land Law Amendment Bill) in Uttarakhand?",
@@ -349,7 +380,8 @@
             "To simplify land transaction processes for non-residents",
             "To encourage agricultural land purchases by non-residents"
         ],
-        "answer": "To protect the state's cultural heritage and natural resources"
+        "answer": "To protect the state's cultural heritage and natural resources",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of the 9th edition of the Asia Economic Dialogue (AED) 2025?",
@@ -360,6 +392,7 @@
             "Overcoming Geopolitical Challenges",
             "The Rise of Emerging Markets"
         ],
-        "answer": "Economic Resilience and Resurgence in an Era of Fragmentation"
+        "answer": "Economic Resilience and Resurgence in an Era of Fragmentation",
+        "source": "Unknown"
     }
 ]

@@ -7,7 +7,8 @@
             "Sheikh Hasina",
             "Anthony Albanese"
         ],
-        "answer": "Prabowo Subianto"
+        "answer": "Prabowo Subianto",
+        "source": "aparichitCA"
     },
     {
         "question": "What new feature has the National Stock Exchange (NSE) launched to promote financial inclusivity?",
@@ -17,7 +18,8 @@
             "A new index fund",
             "A new investor awareness program"
         ],
-        "answer": "A multilingual mobile app and website"
+        "answer": "A multilingual mobile app and website",
+        "source": "aparichitCA"
     },
     {
         "question": "What is India's commitment under the Kunming-Montreal Global Biodiversity Framework (KM GBF) by 2030?",
@@ -27,7 +29,8 @@
             "Protecting 30% of its terrestrial and marine areas",
             "Protecting 40% of its terrestrial and marine areas"
         ],
-        "answer": "India has committed to protecting 30% of its terrestrial and marine areas."
+        "answer": "India has committed to protecting 30% of its terrestrial and marine areas.",
+        "source": "aparichitCA"
     },
     {
         "question": "Where did External Affairs Minister S. Jaishankar inaugurate India's new consulate?",
@@ -37,7 +40,8 @@
             "Perth",
             "Brisbane"
         ],
-        "answer": "Brisbane"
+        "answer": "Brisbane",
+        "source": "aparichitCA"
     },
     {
         "question": "Who launched the 'Shilp Samagam Mela 2024' at Dilli Haat, New Delhi?",
@@ -47,7 +51,8 @@
             "Dr. Virendra Kumar",
             "Smriti Irani"
         ],
-        "answer": "Dr. Virendra Kumar"
+        "answer": "Dr. Virendra Kumar",
+        "source": "aparichitCA"
     },
     {
         "question": "What platform was unveiled to promote artisan empowerment in India?",
@@ -57,7 +62,8 @@
             "GeM",
             "PM-KISAN"
         ],
-        "answer": "TULIP"
+        "answer": "TULIP",
+        "source": "aparichitCA"
     },
     {
         "question": "On which ship did President Droupadi Murmu witness advanced naval operations?",
@@ -67,7 +73,8 @@
             "INS Arihant",
             "INS Chakra"
         ],
-        "answer": "INS Vikrant"
+        "answer": "INS Vikrant",
+        "source": "aparichitCA"
     },
     {
         "question": "When was Bengaluru's first digital population clock inaugurated?",
@@ -77,7 +84,8 @@
             "December 8, 2024",
             "January 8, 2025"
         ],
-        "answer": "November 8, 2024"
+        "answer": "November 8, 2024",
+        "source": "aparichitCA"
     },
     {
         "question": "What was the new penalty for stubble burning doubled to, according to the Union Environment Ministry?",
@@ -87,7 +95,8 @@
             "Under the Environment Protection Act (EPA)",
             "Under the National Green Tribunal Act"
         ],
-        "answer": "Penalties for stubble burning were doubled under the Environmental Protection Act (EPA)."
+        "answer": "Penalties for stubble burning were doubled under the Environmental Protection Act (EPA).",
+        "source": "aparichitCA"
     },
     {
         "question": "Where is the ATMOS 2024 tech fest taking place?",
@@ -97,7 +106,8 @@
             "BITS Pilani, Hyderabad",
             "IIT Kanpur"
         ],
-        "answer": "BITS Pilani, Hyderabad"
+        "answer": "BITS Pilani, Hyderabad",
+        "source": "aparichitCA"
     },
     {
         "question": "What milestone did NTPC celebrate recently?",
@@ -107,7 +117,8 @@
             "75th Independence Day",
             "100th Anniversary"
         ],
-        "answer": "50th Raising Day"
+        "answer": "50th Raising Day",
+        "source": "aparichitCA"
     },
     {
         "question": "What initiative did the government call for in relation to green hydrogen?",
@@ -117,7 +128,8 @@
             "To impose a tax on green hydrogen",
             "To limit green hydrogen exports"
         ],
-        "answer": "The government called for proposals to establish Centers of Excellence for green hydrogen research."
+        "answer": "The government called for proposals to establish Centers of Excellence for green hydrogen research.",
+        "source": "aparichitCA"
     },
     {
         "question": "Who became the first Black woman to lead the UK Conservative Party?",
@@ -127,7 +139,8 @@
             "Priti Patel",
             "Sayeeda Warsi"
         ],
-        "answer": "Kemi Badenoch"
+        "answer": "Kemi Badenoch",
+        "source": "aparichitCA"
     },
     {
         "question": "Who were the main contenders in the US Election 2024?",
@@ -137,7 +150,8 @@
             "Kamala Harris and Donald Trump",
             "Joe Biden and Mike Pence"
         ],
-        "answer": "Kamala Harris and Donald Trump"
+        "answer": "Kamala Harris and Donald Trump",
+        "source": "aparichitCA"
     },
     {
         "question": "Which country re-elected Maia Sandu as President amid Russian interference claims?",
@@ -147,17 +161,19 @@
             "Moldova",
             "Belarus"
         ],
-        "answer": "Moldova"
+        "answer": "Moldova",
+        "source": "aparichitCA"
     },
     {
-        "question": "When will Switzerland’s burqa ban law take effect?",
+        "question": "When will Switzerland\u2019s burqa ban law take effect?",
         "options": [
             "In 2024",
             "In 2025",
             "In 2026",
             "In 2027"
         ],
-        "answer": "In 2025"
+        "answer": "In 2025",
+        "source": "aparichitCA"
     },
     {
         "question": "What was Zimbabwe's latest achievement in space exploration?",
@@ -167,7 +183,8 @@
             "Landing a rover on Mars",
             "Building a new space station"
         ],
-        "answer": "The launch of ZIMSAT-2"
+        "answer": "The launch of ZIMSAT-2",
+        "source": "aparichitCA"
     },
     {
         "question": "Which country did India oppose regarding the UN Arms proposal?",
@@ -177,7 +194,8 @@
             "Bangladesh",
             "Nepal"
         ],
-        "answer": "Pakistan"
+        "answer": "Pakistan",
+        "source": "aparichitCA"
     },
     {
         "question": "What festival does Karnataka celebrate to mark the return of Asura king Bali?",
@@ -187,7 +205,8 @@
             "Bali Padyami Festival",
             "Mysuru Dasara"
         ],
-        "answer": "Bali Padyami Festival"
+        "answer": "Bali Padyami Festival",
+        "source": "aparichitCA"
     },
     {
         "question": "What new policy did Uttar Pradesh introduce to improve animal husbandry?",
@@ -197,7 +216,8 @@
             "A new veterinary policy",
             "A new industrial policy"
         ],
-        "answer": "A new veterinary policy"
+        "answer": "A new veterinary policy",
+        "source": "aparichitCA"
     },
     {
         "question": "Which community in Manipur celebrates the Ningol Chakkouba festival?",
@@ -207,17 +227,19 @@
             "Meitei",
             "Zomi"
         ],
-        "answer": "Meitei"
+        "answer": "Meitei",
+        "source": "aparichitCA"
     },
     {
         "question": "What major semiconductor project was approved by the Uttar Pradesh Cabinet?",
         "options": [
-            "A ₹1,000 crore Tata semiconductor project",
-            "A ₹2,500 crore Vedanta semiconductor project",
-            "A ₹3,706 crore HCL-Foxconn semiconductor project",
-            "A ₹5,000 crore Intel semiconductor project"
+            "A \u20b91,000 crore Tata semiconductor project",
+            "A \u20b92,500 crore Vedanta semiconductor project",
+            "A \u20b93,706 crore HCL-Foxconn semiconductor project",
+            "A \u20b95,000 crore Intel semiconductor project"
         ],
-        "answer": "A ₹3,706 crore HCL-Foxconn semiconductor project"
+        "answer": "A \u20b93,706 crore HCL-Foxconn semiconductor project",
+        "source": "aparichitCA"
     },
     {
         "question": "What new survey did Telangana begin statewide?",
@@ -227,7 +249,8 @@
             "A door-to-door caste and socio-economic data survey",
             "An education survey"
         ],
-        "answer": "A door-to-door caste and socio-economic data survey"
+        "answer": "A door-to-door caste and socio-economic data survey",
+        "source": "aparichitCA"
     },
     {
         "question": "Which two states formed a joint committee for cheetah conservation?",
@@ -237,7 +260,8 @@
             "Karnataka and Tamil Nadu",
             "Andhra Pradesh and Odisha"
         ],
-        "answer": "Madhya Pradesh and Rajasthan"
+        "answer": "Madhya Pradesh and Rajasthan",
+        "source": "aparichitCA"
     },
     {
         "question": "Which Bihar station is being renamed as Ajgaibinath Dham?",
@@ -247,7 +271,8 @@
             "Sultanganj Station",
             "Gaya Junction"
         ],
-        "answer": "Sultanganj Station"
+        "answer": "Sultanganj Station",
+        "source": "aparichitCA"
     },
     {
         "question": "How much loan did Uttarakhand receive from the ADB for urban infrastructure and green mobility?",
@@ -257,7 +282,8 @@
             "$200 million",
             "$250 million"
         ],
-        "answer": "$200 million"
+        "answer": "$200 million",
+        "source": "aparichitCA"
     },
     {
         "question": "What percentage of job reservation for women was approved in Madhya Pradesh state government services?",
@@ -267,7 +293,8 @@
             "35%",
             "40%"
         ],
-        "answer": "35%"
+        "answer": "35%",
+        "source": "aparichitCA"
     },
     {
         "question": "What target did the Supreme Court set for eliminating child marriages in Rajasthan?",
@@ -277,7 +304,8 @@
             "By 2035",
             "By 2040"
         ],
-        "answer": "By 2030"
+        "answer": "By 2030",
+        "source": "aparichitCA"
     },
     {
         "question": "Who was appointed as the Chairman of India Yamaha Motor?",
@@ -287,7 +315,8 @@
             "Itaru Otani",
             "Yoshihide Suga"
         ],
-        "answer": "Itaru Otani"
+        "answer": "Itaru Otani",
+        "source": "aparichitCA"
     },
     {
         "question": "Who is the new Defence Secretary of India?",
@@ -297,17 +326,19 @@
             "Arun Kumar",
             "Rajesh Kumar Singh"
         ],
-        "answer": "Rajesh Kumar Singh"
+        "answer": "Rajesh Kumar Singh",
+        "source": "aparichitCA"
     },
     {
         "question": "Who is appointed as Secretary General of the World Agriculture Forum (WAF)?",
         "options": [
             "Qu Dongyu",
-            "Máximo Torero Cullen",
-            "Dr. Jacqueline d’Arros Hughes",
+            "M\u00e1ximo Torero Cullen",
+            "Dr. Jacqueline d\u2019Arros Hughes",
             "David Nabarro"
         ],
-        "answer": "Dr. Jacqueline d’Arros Hughes"
+        "answer": "Dr. Jacqueline d\u2019Arros Hughes",
+        "source": "aparichitCA"
     },
     {
         "question": "Who assumed the role of CEO and MD of MCX?",
@@ -317,7 +348,8 @@
             "Mrugank Paranjape",
             "Praveena Rai"
         ],
-        "answer": "Praveena Rai"
+        "answer": "Praveena Rai",
+        "source": "aparichitCA"
     },
     {
         "question": "Who announced his retirement from all forms of cricket?",
@@ -327,6 +359,7 @@
             "Wriddhiman Saha",
             "Robin Uthappa"
         ],
-        "answer": "Wriddhiman Saha"
+        "answer": "Wriddhiman Saha",
+        "source": "aparichitCA"
     }
 ]

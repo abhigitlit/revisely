@@ -8,7 +8,8 @@
             "India - Gaganyaan",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "How much funding has been allocated for the Samudrayaan Mission in the Union Budget?",
@@ -19,7 +20,8 @@
             "750 crore",
             "None of the above"
         ],
-        "answer": "600 crore"
+        "answer": "600 crore",
+        "source": "Unknown"
     },
     {
         "question": "Which country will host the BRICS Youth Council Entrepreneurship Working Group Meeting in March 2025?",
@@ -30,7 +32,8 @@
             "South Africa",
             "Russia"
         ],
-        "answer": "India"
+        "answer": "India",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Additional Director General, Directorate General of Foreign Trade (DGFT), as of February 2025?",
@@ -41,7 +44,8 @@
             "Abhinav Gupta",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Marcus Stoinis, who recently announced his retirement from ODIs ahead of the Champions Trophy, represents which country in international cricket?",
@@ -52,7 +56,8 @@
             "New Zealand",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Who has been awarded the Sahitya Akademi Award 2024 in Dogri literature?",
@@ -63,7 +68,8 @@
             "Sushma Rani",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following groups of sites were newly added as Ramsar sites in India, bringing the total to 89?",
@@ -74,7 +80,8 @@
             "Only Khecheopalri Wetland (Sikkim) and Udhwa Lake (Jharkhand)",
             "None of the above"
         ],
-        "answer": "Sakkarakottai and Therthangal Bird Sanctuaries (Tamil Nadu), Khecheopalri Wetland (Sikkim), and Udhwa Lake (Jharkhand)"
+        "answer": "Sakkarakottai and Therthangal Bird Sanctuaries (Tamil Nadu), Khecheopalri Wetland (Sikkim), and Udhwa Lake (Jharkhand)",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of NASA's new space telescope set to launch in February 2025, which aims to survey the entire sky in 102 infrared colors?",
@@ -85,7 +92,8 @@
             "Chandra-CRISP X-ray Observatory",
             "None of the above"
         ],
-        "answer": "SPHEREx"
+        "answer": "SPHEREx",
+        "source": "Unknown"
     },
     {
         "question": "Which country recently passed strict hate crime laws, imposing a minimum 12-month jail term for public Nazi salutes and up to six years for terror-related hate crimes?",
@@ -96,7 +104,8 @@
             "United Kingdom",
             "Japan"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of Zomato's AI-powered, no-code customer support platform designed to help businesses scale their operations?",
@@ -107,7 +116,8 @@
             "Zai",
             "Pro"
         ],
-        "answer": "Nugget"
+        "answer": "Nugget",
+        "source": "Unknown"
     },
     {
         "question": "What is India's rank among the top 10 countries most affected by extreme weather events over the last three decades (1993-2023), as per the Climate Risk Index (CRI) published by Greenwatch?",
@@ -118,7 +128,8 @@
             "10th",
             "None of the above"
         ],
-        "answer": "6th"
+        "answer": "6th",
+        "source": "Unknown"
     },
     {
         "question": "Which company ranked 2nd globally in the FutureBrand Index 2024, ahead of brands like Apple and Nike?",
@@ -129,18 +140,20 @@
             "Reliance",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Who is the richest woman in the world in 2025, according to the Forbes Billionaire List?",
         "options": [
-            "Françoise Bettencourt Meyers",
+            "Fran\u00e7oise Bettencourt Meyers",
             "Julia Koch",
             "Alice Walton",
             "Jacqueline Mars",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the new Chief Election Commissioner (CEC) of India in February 2025?",
@@ -151,7 +164,8 @@
             "Gyanesh Kumar",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which organization launched the \"Imagine a world with more women in science\" campaign marking the 10-year anniversary of the International Day of Women and Girls in Science.?",
@@ -162,7 +176,8 @@
             "International Union of Pure and Applied Physics",
             "None of the above"
         ],
-        "answer": "UNESCO"
+        "answer": "UNESCO",
+        "source": "Unknown"
     },
     {
         "question": "What technology collaboration between the Ministry of Telecommunications (DoT) and International Telecommunication Union (ITU) was focused on in their recent agreement in February 2025?",
@@ -173,7 +188,8 @@
             "IoT for Urban Planning",
             "None of the above"
         ],
-        "answer": "AI-driven Digital Twin Technologies"
+        "answer": "AI-driven Digital Twin Technologies",
+        "source": "Unknown"
     },
     {
         "question": "Who is set to take oath as the Chief Minister of Delhi after winning the Shalimar Bagh seat in the recent Assembly election?",
@@ -184,7 +200,8 @@
             "Parvesh Verma",
             "None of the above"
         ],
-        "answer": "Rekha Gupta"
+        "answer": "Rekha Gupta",
+        "source": "Unknown"
     },
     {
         "question": "The Government of Tamil Nadu celebrates Thiruvalluvar Day in honor of the poet Thiruvalluvar?",
@@ -195,7 +212,8 @@
             "16 January",
             "17 January"
         ],
-        "answer": "15 January"
+        "answer": "15 January",
+        "source": "Unknown"
     },
     {
         "question": "Which two films led the BAFTA 2025, each winning 4 awards?",
@@ -206,7 +224,8 @@
             "The Brutalist and The Artist",
             "Conclave and The Artist"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Deputy Secretary in the Department of Expenditure under the Central Staffing Scheme?",
@@ -217,7 +236,8 @@
             "Mrithinjai Srikanthan",
             "None of the above"
         ],
-        "answer": "Mrithinjai Srikanthan"
+        "answer": "Mrithinjai Srikanthan",
+        "source": "Unknown"
     },
     {
         "question": "The Reserve Bank of India (RBI) announced that 20 non-banking financial companies have surrendered their certificates of registration. What is the main reason behind the surrender of certificates?",
@@ -228,7 +248,8 @@
             "Shift to banking operations",
             "None of the above"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "Where will the sixth edition of the India-Japan joint military exercise Dharma Guardian 2025 be held?",
@@ -239,7 +260,8 @@
             "Mount Fuji",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which bank became the first in India to implement compliance for the Digital Personal Data Protection Act (DPDP Act) 2023?",
@@ -250,7 +272,8 @@
             "ICICI Bank",
             "PNB"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Who was elected as the new Prime Minister of Vanuatu in February 2025?",
@@ -261,7 +284,8 @@
             "Ishmael Kalsakau",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Chief Executive Officer of Standard Chartered India, effective April 1, 2025?",
@@ -272,18 +296,20 @@
             "Aditya Puri",
             "Mohak Singh"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
-        "question": "The Reserve Bank of India (RBI) has penalized Nainital Bank, Ujjivan Small Finance Bank, and Shriram Finance with fines totaling ₹68.1 lakh for non-compliance with various banking regulations. How much was the Nainital Bank fined by the RBI?",
+        "question": "The Reserve Bank of India (RBI) has penalized Nainital Bank, Ujjivan Small Finance Bank, and Shriram Finance with fines totaling \u20b968.1 lakh for non-compliance with various banking regulations. How much was the Nainital Bank fined by the RBI?",
         "options": [
-            "₹61.40 lakh",
-            "₹6.70 lakh",
-            "₹5.80 lakh",
-            "₹10.20 lakh",
-            "₹15.40 lakh"
+            "\u20b961.40 lakh",
+            "\u20b96.70 lakh",
+            "\u20b95.80 lakh",
+            "\u20b910.20 lakh",
+            "\u20b915.40 lakh"
         ],
-        "answer": "₹61.40 lakh"
+        "answer": "\u20b961.40 lakh",
+        "source": "Unknown"
     },
     {
         "question": "What is the objective of ISRO's development of the world's largest 10-tonne vertical planetary propellant mixer, created in collaboration with the Central Manufacturing Technology Institute?",
@@ -294,7 +320,8 @@
             "To enhance the production of solid rocket motors",
             "None of the above"
         ],
-        "answer": "To enhance the production of solid rocket motors"
+        "answer": "To enhance the production of solid rocket motors",
+        "source": "Unknown"
     },
     {
         "question": "Which institution has the Supreme Court appointed to prepare a plan for improving Delhi's green cover?",
@@ -305,7 +332,8 @@
             "Central Pollution Control Board",
             "NGT"
         ],
-        "answer": "Forest Research Institute (FRI)"
+        "answer": "Forest Research Institute (FRI)",
+        "source": "Unknown"
     },
     {
         "question": "China has approved the construction of a deepwater research facility that will be located at a depth of ____________ below the ocean surface in the South China Sea?",
@@ -316,7 +344,8 @@
             "3,500 meters",
             "None of the above"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the indigenous semiconductor chip developed by ISRO and IIT Madras for space-based applications?",
@@ -327,7 +356,8 @@
             "VIKRAM",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "At which port did India's Matsya-6000 submersible successfully complete its wet tests, moving closer to the 500m shallow-water trials by 2025 as part of the Samudrayan Project under the Deep Ocean Mission?",
@@ -338,7 +368,8 @@
             "Kattupalli Port",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of the first-ever Regional Dialogue on the Global Coalition for Social Justice, scheduled for February 24-25, 2025, in New Delhi?",
@@ -349,6 +380,7 @@
             "\"Responsible Businesses for Inclusive & Sustainable Societies\"",
             "None of the above"
         ],
-        "answer": "\"Responsible Businesses for Inclusive & Sustainable Societies\""
+        "answer": "\"Responsible Businesses for Inclusive & Sustainable Societies\"",
+        "source": "Unknown"
     }
 ]

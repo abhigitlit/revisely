@@ -8,7 +8,8 @@
             "Bengaluru",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Which state ranked first in the Devolution Index Report 2024 released by Union Minister of State for Panchayati Raj, S.P. Singh Baghel?",
@@ -19,7 +20,8 @@
             "Maharashtra",
             "None of the above"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the captain of Royal Challengers Bengaluru (RCB) for IPL 2025?",
@@ -30,7 +32,8 @@
             "Glenn Maxwell",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Who topped Bloomberg's list of Asia's 10 richest families?",
@@ -41,7 +44,8 @@
             "Mukesh Ambani",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which two companies have formed a joint venture for manufacturing the HAMMER precision-guided weapon in India?",
@@ -52,7 +56,8 @@
             "Bharat Electronics Limited (BEL) and Safran Electronics & Defense",
             "None of the above"
         ],
-        "answer": "Bharat Electronics Limited (BEL) and Safran Electronics & Defense"
+        "answer": "Bharat Electronics Limited (BEL) and Safran Electronics & Defense",
+        "source": "Unknown"
     },
     {
         "question": "Which scheme has been extended to 2025-26 with the provision of 100% pulse procurement for the next four years?",
@@ -63,7 +68,8 @@
             "National Food Security Scheme",
             "None of the above"
         ],
-        "answer": "PM-AASHA"
+        "answer": "PM-AASHA",
+        "source": "Unknown"
     },
     {
         "question": "Which state government signed an MoU with the Swiss-Indian Chamber of Commerce to foster international business collaboration during the Global Investors 2025?",
@@ -74,7 +80,8 @@
             "Tamil Nadu",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Who was honored with the 2024 Hurun Industry Achievement Award for Financial Solutions Innovation?",
@@ -85,7 +92,8 @@
             "Deepak Parekh",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "In which Indian state was President's Rule imposed in February 2024 following the resignation of Chief Minister N Biren Singh?",
@@ -96,7 +104,8 @@
             "Meghalaya",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Who has been named the event ambassador for the ICC Champions Trophy 2025 from India?",
@@ -107,7 +116,8 @@
             "Sachin Tendulkar",
             "None of the above"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "Who has been nominated as the U.S. Assistant Secretary of State for South Asian Affairs, replacing Donald Lu?",
@@ -118,7 +128,8 @@
             "Vivek Murthy",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "To which country did India send its first-ever sea shipment of pomegranates?",
@@ -129,7 +140,8 @@
             "Australia",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which two ministries signed an MoU to enhance geriatric healthcare and tackle substance abuse?",
@@ -140,7 +152,8 @@
             "Ministry of Home Affairs & Ministry of Ayush",
             "Ministry of Women & Child Development & Ministry of Health"
         ],
-        "answer": "Ministry of Ayush & Department of Social Justice and Empowerment"
+        "answer": "Ministry of Ayush & Department of Social Justice and Empowerment",
+        "source": "Unknown"
     },
     {
         "question": "Which ministry is organizing the Aadi Mahotsav 2025, from February 16 to 24, 2025, at Major Dhyan Chand National Stadium, New Delhi?",
@@ -151,7 +164,8 @@
             "Ministry of Rural Development",
             "None of the above"
         ],
-        "answer": "Ministry of Tribal Affairs"
+        "answer": "Ministry of Tribal Affairs",
+        "source": "Unknown"
     },
     {
         "question": "Which organizations launched the 'AI for Entrepreneurship' initiative to train 1 lakh youth?",
@@ -162,7 +176,8 @@
             "Ministry of Electronics and IT, IBM, and NSDC",
             "None of the above"
         ],
-        "answer": "MSDE, NSDC, and Intel India"
+        "answer": "MSDE, NSDC, and Intel India",
+        "source": "Unknown"
     },
     {
         "question": "Who was confirmed as the U.S. intelligence chief in February 2025?",
@@ -173,7 +188,8 @@
             "Avril Haines",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the newly approved vaccine for Lumpy Skin Disease (LSD) in cattle developed by Biovet (Bharat Biotech group)?",
@@ -184,7 +200,8 @@
             "VetGuard LSD",
             "Lumpaxim"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Which company partnered with Garuda Aerospace to develop indigenous UAVs at Aero India 2025?",
@@ -195,7 +212,8 @@
             "Adani Defence & Aerospace",
             "None of the above"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "Who set the new Indian national record in the indoor men's 3000 metres in 2024 and clinched the silver medal?",
@@ -206,18 +224,20 @@
             "Chetan Sharma",
             "Balbir Sirka"
         ],
-        "answer": "Gulveer Singh"
+        "answer": "Gulveer Singh",
+        "source": "Unknown"
     },
     {
         "question": "What is the maximum health insurance coverage provided under the Ayushman Bharat Vay Vandana Scheme for senior citizens?",
         "options": [
-            "₹5 lakh per year",
-            "₹10 lakh per year",
-            "₹2 lakh per year",
-            "₹3 lakh per year",
+            "\u20b95 lakh per year",
+            "\u20b910 lakh per year",
+            "\u20b92 lakh per year",
+            "\u20b93 lakh per year",
             "None of the above"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "Who was honored with the Vishalakshi Award 2025 for her contributions to education?",
@@ -228,7 +248,8 @@
             "Dr. Vandana Shiva",
             "None of the above"
         ],
-        "answer": "1"
+        "answer": "1",
+        "source": "Unknown"
     },
     {
         "question": "Which company won the Forward Faster Sustainability Award 2025 in the Water Resilience category?",
@@ -239,7 +260,8 @@
             "Adani Power",
             "None of the above"
         ],
-        "answer": "NTPC Ltd."
+        "answer": "NTPC Ltd.",
+        "source": "Unknown"
     },
     {
         "question": "Which country's space organization developed the world's largest 10-tonne propellant mixer for rocket motors?",
@@ -250,7 +272,8 @@
             "China's CNSA",
             "None of the above"
         ],
-        "answer": "India's ISRO"
+        "answer": "India's ISRO",
+        "source": "Unknown"
     },
     {
         "question": "Who was recently awarded the Most Excellent Order of the British Empire (MBE) for contributions to UK-India business relations?",
@@ -261,7 +284,8 @@
             "N. Chandrasekaran",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which organization launched the J. C. Bose Grant (JBG) to support senior Indian scientists and engineers in advancing research?",
@@ -272,7 +296,8 @@
             "Indian Space Research Organisation (ISRO)",
             "None of the above"
         ],
-        "answer": "Anusandhan National Research Foundation (ANRF)"
+        "answer": "Anusandhan National Research Foundation (ANRF)",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of World Radio Day 2025?",
@@ -283,7 +308,8 @@
             "Radio and Global Connectivity",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "What is the full form of the NAKSHA program that aims to create and update land records in urban areas?",
@@ -294,10 +320,11 @@
             "National Geospatial Knowledge-based Land Survey of Urban Habitations",
             "None of the above"
         ],
-        "answer": "National Geospatial Knowledge-based Land Survey of Urban Habitations"
+        "answer": "National Geospatial Knowledge-based Land Survey of Urban Habitations",
+        "source": "Unknown"
     },
     {
-        "question": "Union Government released XV Finance Commission Grants for Rural Local Bodies (RLBs) of Bihar, Haryana, and Sikkim for FY 2024-25. Find how many of them are rightly matched?\n1. Bihar - ₹869.74 crore\n2. Haryana - ₹210.07 crore\n3. Sikkim - ₹6.26 crore",
+        "question": "Union Government released XV Finance Commission Grants for Rural Local Bodies (RLBs) of Bihar, Haryana, and Sikkim for FY 2024-25. Find how many of them are rightly matched?\n1. Bihar - \u20b9869.74 crore\n2. Haryana - \u20b9210.07 crore\n3. Sikkim - \u20b96.26 crore",
         "options": [
             "Only 1 and 2 are correct",
             "Only 2 and 3 are correct",
@@ -305,7 +332,8 @@
             "Only 1 and 3 are correct",
             "None of the above"
         ],
-        "answer": "All are correct"
+        "answer": "All are correct",
+        "source": "Unknown"
     },
     {
         "question": "What is the total prize money announced for the 2025 ICC Champions Trophy?",
@@ -316,7 +344,8 @@
             "$6.9 million",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which defense system is being collaborated on between Swedish defense firm Saab and Hindustan Aeronautics Limited (HAL) as per their recent MoU?",
@@ -327,7 +356,8 @@
             "Anti-Missile Defense System",
             "None of the above"
         ],
-        "answer": "Laser Warning System (LWS-310)"
+        "answer": "Laser Warning System (LWS-310)",
+        "source": "Unknown"
     },
     {
         "question": "Which power station won the 1st prize for official language implementation at the Regional Official Language Conference in Jaipur?",
@@ -338,7 +368,8 @@
             "Sardar Sarovar Power Station",
             "None of the above"
         ],
-        "answer": "Salal Power Station"
+        "answer": "Salal Power Station",
+        "source": "Unknown"
     },
     {
         "question": "Who set the half-marathon world record by finishing in 56 minutes, 42 seconds at the World Athletics Gold Label race in Barcelona?",
@@ -349,6 +380,7 @@
             "Geoffrey Kamworor",
             "None of the above"
         ],
-        "answer": "Jacob Kiplimo"
+        "answer": "Jacob Kiplimo",
+        "source": "Unknown"
     }
 ]

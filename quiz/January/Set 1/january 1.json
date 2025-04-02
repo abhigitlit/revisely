@@ -7,7 +7,8 @@
             "Prayagraj, Uttar Pradesh",
             "Nashik, Maharashtra"
         ],
-        "answer": "Prayagraj, Uttar Pradesh"
+        "answer": "Prayagraj, Uttar Pradesh",
+        "source": "Unknown"
     },
     {
         "question": "What percentage decline in domestic migration was reported in 2023 compared to 2011 levels?",
@@ -17,7 +18,8 @@
             "15.2%",
             "8.7%"
         ],
-        "answer": "11.8%"
+        "answer": "11.8%",
+        "source": "Unknown"
     },
     {
         "question": "Who amended the Foreign Trade Policy 2023 to mandate stakeholder consultations?",
@@ -27,7 +29,8 @@
             "DGFT",
             "NITI Aayog"
         ],
-        "answer": "DGFT"
+        "answer": "DGFT",
+        "source": "Unknown"
     },
     {
         "question": "Which corridor was inaugurated by PM Modi to reduce travel time between Delhi and Meerut to 40 minutes?",
@@ -37,7 +40,8 @@
             "Golden Quadrilateral",
             "North-South Corridor"
         ],
-        "answer": "Namo Bharat RRTS corridor"
+        "answer": "Namo Bharat RRTS corridor",
+        "source": "Unknown"
     },
     {
         "question": "Where will Aero India 2025 be held, and what is its theme?",
@@ -47,7 +51,8 @@
             "Chennai; 'Aviation for All'",
             "Lucknow; 'Fly High, Fly Safe'"
         ],
-        "answer": "Bengaluru; \"The Runway to a Billion Opportunities\""
+        "answer": "Bengaluru; \"The Runway to a Billion Opportunities\"",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the CBI's portal launched for real-time INTERPOL coordination?",
@@ -57,7 +62,8 @@
             "BHARATPOL",
             "Crime Coordination Portal"
         ],
-        "answer": "BHARATPOL"
+        "answer": "BHARATPOL",
+        "source": "Unknown"
     },
     {
         "question": "Which city became the 69th Railway Division in India?",
@@ -67,7 +73,8 @@
             "Leh",
             "Pathankot"
         ],
-        "answer": "Jammu"
+        "answer": "Jammu",
+        "source": "Unknown"
     },
     {
         "question": "India has surpassed how many kilometers of metro rail network?",
@@ -77,7 +84,8 @@
             "1,000 km",
             "1,200 km"
         ],
-        "answer": "1,000 km"
+        "answer": "1,000 km",
+        "source": "Unknown"
     },
     {
         "question": "Where was the first photographic evidence of Pallas's cat found in India?",
@@ -87,7 +95,8 @@
             "Ladakh, Jammu and Kashmir",
             "Gangtok, Sikkim"
         ],
-        "answer": "Kinnaur, Himachal Pradesh"
+        "answer": "Kinnaur, Himachal Pradesh",
+        "source": "Unknown"
     },
     {
         "question": "Which state launched India's first organic fisheries cluster?",
@@ -97,17 +106,19 @@
             "Sikkim",
             "West Bengal"
         ],
-        "answer": "Sikkim"
+        "answer": "Sikkim",
+        "source": "Unknown"
     },
     {
         "question": "How much cashless treatment will be provided for road accident survivors under the new scheme?",
         "options": [
-            "₹50,000 for three days",
-            "₹1 lakh for five days",
-            "₹1.5 lakh for seven days",
-            "₹2 lakh for ten days"
+            "\u20b950,000 for three days",
+            "\u20b91 lakh for five days",
+            "\u20b91.5 lakh for seven days",
+            "\u20b92 lakh for ten days"
         ],
-        "answer": "₹1.5 lakh for seven days"
+        "answer": "\u20b91.5 lakh for seven days",
+        "source": "Unknown"
     },
     {
         "question": "Where will the memorial for Pranab Mukherjee be set up?",
@@ -117,7 +128,8 @@
             "Rajghat Complex, Delhi",
             "Teen Murti Bhavan, Delhi"
         ],
-        "answer": "Rajghat Complex, Delhi"
+        "answer": "Rajghat Complex, Delhi",
+        "source": "Unknown"
     },
     {
         "question": "Who will be the Chief Guest at India's 2025 Republic Day parade?",
@@ -127,7 +139,8 @@
             "Prabowo Subianto",
             "Yoon Suk Yeol"
         ],
-        "answer": "Prabowo Subianto"
+        "answer": "Prabowo Subianto",
+        "source": "Unknown"
     },
     {
         "question": "When will the Indusfood 2025 exhibition be held?",
@@ -137,7 +150,8 @@
             "January 15-17, 2025",
             "January 22-24, 2025"
         ],
-        "answer": "January 8-10, 2025"
+        "answer": "January 8-10, 2025",
+        "source": "Unknown"
     },
     {
         "question": "When was NITI Aayog established, replacing the Planning Commission?",
@@ -147,7 +161,8 @@
             "January 26, 2016",
             "October 2, 2015"
         ],
-        "answer": "January 1, 2015"
+        "answer": "January 1, 2015",
+        "source": "Unknown"
     },
     {
         "question": "Which train was flagged off by PM Modi under the Pravasi Teerth Darshan Yojana?",
@@ -157,17 +172,19 @@
             "Unity Express",
             "Vande Bharat Express"
         ],
-        "answer": "Pravasi Bharatiya Express"
+        "answer": "Pravasi Bharatiya Express",
+        "source": "Unknown"
     },
     {
         "question": "How much investment has the government announced for inland water transport development?",
         "options": [
-            "₹25,000 crore over five years",
-            "₹40,000 crore over five years",
-            "₹50,000 crore over five years",
-            "₹60,000 crore over five years"
+            "\u20b925,000 crore over five years",
+            "\u20b940,000 crore over five years",
+            "\u20b950,000 crore over five years",
+            "\u20b960,000 crore over five years"
         ],
-        "answer": "₹50,000 crore over five years"
+        "answer": "\u20b950,000 crore over five years",
+        "source": "Unknown"
     },
     {
         "question": "Which tunnel will boost connectivity between Kashmir and Ladakh?",
@@ -177,7 +194,8 @@
             "Z-Morh Tunnel",
             "Banihal-Qazigund Tunnel"
         ],
-        "answer": "Z-Morh Tunnel"
+        "answer": "Z-Morh Tunnel",
+        "source": "Unknown"
     },
     {
         "question": "What system was launched in Assam to enhance inland waterway safety?",
@@ -187,7 +205,8 @@
             "National River Traffic & Navigation System (NRT&NS)",
             "Assam Inland Navigation Enhancement System (AINES)"
         ],
-        "answer": "National River Traffic & Navigation System (NRT&NS)"
+        "answer": "National River Traffic & Navigation System (NRT&NS)",
+        "source": "Unknown"
     },
     {
         "question": "Which city was declared the world's most polluted in 2024?",
@@ -197,7 +216,8 @@
             "Lahore, Pakistan",
             "Hanoi, Vietnam"
         ],
-        "answer": "Hanoi"
+        "answer": "Hanoi",
+        "source": "Unknown"
     },
     {
         "question": "Which Canadian Prime Minister recently resigned after nearly a decade in power?",
@@ -207,7 +227,8 @@
             "Justin Trudeau",
             "Paul Martin"
         ],
-        "answer": "Justin Trudeau"
+        "answer": "Justin Trudeau",
+        "source": "Unknown"
     },
     {
         "question": "Who was Shigemi Fukahori?",
@@ -217,7 +238,8 @@
             "Nagasaki atomic bomb survivor and peace advocate",
             "Olympic Gold Medalist"
         ],
-        "answer": "Nagasaki atomic bomb survivor and peace advocate"
+        "answer": "Nagasaki atomic bomb survivor and peace advocate",
+        "source": "Unknown"
     },
     {
         "question": "Who was elected as Lebanon's president in 2025?",
@@ -227,17 +249,19 @@
             "Hassan Nasrallah",
             "General Joseph Aoun"
         ],
-        "answer": "General Joseph Aoun"
+        "answer": "General Joseph Aoun",
+        "source": "Unknown"
     },
     {
         "question": "What milestone did the world cross for the first time in 2024 regarding climate change?",
         "options": [
-            "Earth exceeded 1.5°C above pre-industrial levels",
+            "Earth exceeded 1.5\u00b0C above pre-industrial levels",
             "Global population reached 10 billion",
             "Arctic ice reached its lowest extent",
             "Renewable energy sources supplied 50% of global energy"
         ],
-        "answer": "Earth exceeded 1.5°C above pre-industrial levels"
+        "answer": "Earth exceeded 1.5\u00b0C above pre-industrial levels",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of the 38th National Games torch rally in Uttarakhand?",
@@ -247,7 +271,8 @@
             "Tejaswini",
             "Fit India, Healthy India"
         ],
-        "answer": "Tejaswini"
+        "answer": "Tejaswini",
+        "source": "Unknown"
     },
     {
         "question": "Where was India's first coastal bird census conducted?",
@@ -257,17 +282,19 @@
             "Jamnagar, Gujarat",
             "Visakhapatnam, Andhra Pradesh"
         ],
-        "answer": "Jamnagar, Gujarat"
+        "answer": "Jamnagar, Gujarat",
+        "source": "Unknown"
     },
     {
         "question": "How much sponsorship was announced for the Indian national kho kho team by Odisha?",
         "options": [
-            "₹5 crore",
-            "₹10 crore",
-            "₹15 crore",
-            "₹20 crore"
+            "\u20b95 crore",
+            "\u20b910 crore",
+            "\u20b915 crore",
+            "\u20b920 crore"
         ],
-        "answer": "₹15 crore"
+        "answer": "\u20b915 crore",
+        "source": "Unknown"
     },
     {
         "question": "Who was appointed as CEO of the Delhi Waqf Board in 2025?",
@@ -277,7 +304,8 @@
             "Azimul Haque",
             "Shoaib Jamai"
         ],
-        "answer": "Azimul Haque"
+        "answer": "Azimul Haque",
+        "source": "Unknown"
     },
     {
         "question": "What position will Dr. V. Narayanan hold in ISRO from January 2025?",
@@ -287,7 +315,8 @@
             "Director of Vikram Sarabhai Space Centre",
             "Director of National Remote Sensing Centre"
         ],
-        "answer": "ISRO Chief and Space Secretary"
+        "answer": "ISRO Chief and Space Secretary",
+        "source": "Unknown"
     },
     {
         "question": "What is the new name for the RRTS corridor connecting Delhi and Meerut?",
@@ -297,7 +326,8 @@
             "National Capital Region Transport Corridor",
             "Vande Metro"
         ],
-        "answer": "Namo Bharat"
+        "answer": "Namo Bharat",
+        "source": "Unknown"
     },
     {
         "question": "Who unveiled trophies for the inaugural Kho Kho World Cup 2025?",
@@ -307,7 +337,8 @@
             "FIFA",
             "KKFI"
         ],
-        "answer": "KKFI"
+        "answer": "KKFI",
+        "source": "Unknown"
     },
     {
         "question": "Which country's cricket player, Martin Guptill, announced his retirement in 2025?",
@@ -317,7 +348,8 @@
             "New Zealand",
             "South Africa"
         ],
-        "answer": "New Zealand"
+        "answer": "New Zealand",
+        "source": "Unknown"
     },
     {
         "question": "When is National Bird Day observed annually?",
@@ -327,7 +359,8 @@
             "January 10",
             "January 12"
         ],
-        "answer": "January 5"
+        "answer": "January 5",
+        "source": "Unknown"
     },
     {
         "question": "What theme was announced for Pravasi Bharatiya Divas 2025?",
@@ -337,7 +370,8 @@
             "Role of Diaspora in Nation Building",
             "Reaching out to the Diaspora"
         ],
-        "answer": "\"Diaspora's Contribution to a Viksit Bharat\""
+        "answer": "\"Diaspora's Contribution to a Viksit Bharat\"",
+        "source": "Unknown"
     },
     {
         "question": "Who is the oldest person confirmed by LongeviQuest in 2025?",
@@ -347,6 +381,7 @@
             "Lucile Randon",
             "Sister Inah Lucas"
         ],
-        "answer": "Sister Inah Lucas"
+        "answer": "Sister Inah Lucas",
+        "source": "Unknown"
     }
 ]

@@ -7,7 +7,8 @@
             "Asian Development Bank ",
             "International Labour Organization "
         ],
-        "answer": "International Monetary Fund "
+        "answer": "International Monetary Fund ",
+        "source": "Unknown"
     },
     {
         "question": "According to the IMF report released in January 2025, what is the likely growth rate of the Indian economy in 2025-26 or FY26?",
@@ -17,27 +18,30 @@
             "6.8% ",
             "6.5% "
         ],
-        "answer": "6.5% "
+        "answer": "6.5% ",
+        "source": "Unknown"
     },
     {
-        "question": "The scheme ‘SVAMITVA’ recently seen in news is related to which of the following?",
+        "question": "The scheme \u2018SVAMITVA\u2019 recently seen in news is related to which of the following?",
         "options": [
             "Creation of data base for manpower planning and management. ",
             "Web portal for assistance to disabled persons. ",
             "Digital mapping of Indian villages. ",
             "A new Early warning system for Cyclones. "
         ],
-        "answer": "Digital mapping of Indian villages. "
+        "answer": "Digital mapping of Indian villages. ",
+        "source": "Unknown"
     },
     {
-        "question": "“SVAMITVA Scheme”, recently seen in news is being implemented by which of the following institutions?",
+        "question": "\u201cSVAMITVA Scheme\u201d, recently seen in news is being implemented by which of the following institutions?",
         "options": [
             "Ministry of Panchayati Raj ",
             "SEBI ",
             "Ministry of Earth Science ",
             "NITI Aayog "
         ],
-        "answer": "Ministry of Panchayati Raj "
+        "answer": "Ministry of Panchayati Raj ",
+        "source": "Unknown"
     },
     {
         "question": "Global Risk Report, recently in news, is published by:",
@@ -47,7 +51,8 @@
             "World Metrological Organisation ",
             "World Economic Forum "
         ],
-        "answer": "World Economic Forum "
+        "answer": "World Economic Forum ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Musi river:  1. It originates in the Papikonda hill region of Andhra Pradesh.  2. It is one of the tributary of the River Krishna.  Which of the statements given above is/are correct?",
@@ -57,7 +62,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "2 only "
+        "answer": "2 only ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to New Sanchar Saathi Mobile App, consider the following:  1. It is designed to fortify telecom security and empower citizens.   2. It has a feature of directly reporting suspected calls and SMS using app from mobile phone logs.  3. It helps in verifying the authenticity of mobile handsets.  Which of the statements given above is/are correct?",
@@ -67,7 +73,8 @@
             "1, 2, 3  ",
             "None "
         ],
-        "answer": "1, 2, 3  "
+        "answer": "1, 2, 3  ",
+        "source": "Unknown"
     },
     {
         "question": "India has sign a MoU with which country for cooperation in cyber crime investigations ?",
@@ -77,7 +84,8 @@
             "United States  ",
             "United Kingdom "
         ],
-        "answer": "United States  "
+        "answer": "United States  ",
+        "source": "Unknown"
     },
     {
         "question": "Financial Intelligence Unit (FIU-IND) has signed a MoU with which entity to enhance collaboration in implementing the Prevention of Money Laundering Act (PML",
@@ -89,7 +97,8 @@
             "Reserve Bank Innovation Hub (RBIH) ",
             "Indian Financial Technology and Allied Services (IFTAS) "
         ],
-        "answer": "has signed a MoU with which entity to enhance collaboration "
+        "answer": "has signed a MoU with which entity to enhance collaboration ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Trajan Gun, recently seen in the news:  1. It is a towed artillery gun system.  2. It is jointly developed by India and United States.  Which of the statements given above is/are correct?",
@@ -99,7 +108,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "What is the primary purpose of the SCOT mission, recently seen in the news?",
@@ -109,7 +119,8 @@
             "To study the sun's activity ",
             "To analyze planetary atmospheres "
         ],
-        "answer": "To monitor Resident Space Objects (RSOs) "
+        "answer": "To monitor Resident Space Objects (RSOs) ",
+        "source": "Unknown"
     },
     {
         "question": "Upper Karnali Hydro-electric Project is located in which country?",
@@ -119,7 +130,8 @@
             "Nepal ",
             "Myanmar "
         ],
-        "answer": "Nepal "
+        "answer": "Nepal ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Internet Governance Internship and Capacity Building Scheme:  1. It aims to build awareness and develop expertise in internet governance (IG) among Indian citizens.  2. It is an initiative of the Union Ministry of Electronics and Information Technology.  Which of the statements given above is/are correct?",
@@ -129,7 +141,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to Indian Sustainable Natural Rubber (iSNR) Platform, consider the following:  1. It streamlines the compliance process and makes it more efficient for stakeholders involved in the rubber supply chain.  2. It issues a traceability certificate which will verify the origin of rubber products.  3. It is an initiative of the Union Ministry of Commerce and Industry  Which of the statements given above is/are correct?",
@@ -139,7 +152,8 @@
             "1, 2 , 3 ",
             "None "
         ],
-        "answer": "1 and 2 only "
+        "answer": "1 and 2 only ",
+        "source": "Unknown"
     },
     {
         "question": "What is the rank of India in the QS World Future Skills Index 2025?",
@@ -149,27 +163,30 @@
             "Third ",
             "Fourth "
         ],
-        "answer": "Second "
+        "answer": "Second ",
+        "source": "Unknown"
     },
     {
-        "question": "The “One Plate, One Bag” campaign was launched in which city of Uttar Pradesh?",
+        "question": "The \u201cOne Plate, One Bag\u201d campaign was launched in which city of Uttar Pradesh?",
         "options": [
             "Varanasi ",
             "Agra ",
             "Prayagraj ",
             "Ayodhya "
         ],
-        "answer": "Prayagraj "
+        "answer": "Prayagraj ",
+        "source": "Unknown"
     },
     {
-        "question": "Which institute has been chosen by ICMR to establish South India’s first Infectious Disease Research and Diagnostic Laboratory (IRDL)?",
+        "question": "Which institute has been chosen by ICMR to establish South India\u2019s first Infectious Disease Research and Diagnostic Laboratory (IRDL)?",
         "options": [
             "Stanley Medical College ",
             "Andhra Medical College ",
             "Bangalore Medical College and Research Institute ",
             "Madras Medical College "
         ],
-        "answer": "Bangalore Medical College and Research Institute "
+        "answer": "Bangalore Medical College and Research Institute ",
+        "source": "Unknown"
     },
     {
         "question": "What is India's global rank in the QS Future Skills Index 2025?",
@@ -179,7 +196,8 @@
             "3rd ",
             "4th "
         ],
-        "answer": "2nd "
+        "answer": "2nd ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Fund of Funds for Startups (FFS) Scheme:  1. It aims to boost the Indian startup ecosystem and provide access to domestic capital.  2. Small Industries Development Bank of India (SIDBI) has been given the mandate of operating this fund.  Which of the statements given above is/are correct?",
@@ -189,7 +207,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "World Employment and Social Outlook report, recently seen in the news, is published by:",
@@ -199,7 +218,8 @@
             "World Economic Forum ",
             "International Labour Organization "
         ],
-        "answer": "International Labour Organization "
+        "answer": "International Labour Organization ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the World Economic Forum:  1. It was established in 1971 as a not-for-profit foundation.  2. It publishes the Global Competitiveness Report.  Which of the statements given above is/are correct?",
@@ -209,7 +229,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "The annual meeting of the World Economic Forum is held in which of the following places?",
@@ -219,7 +240,8 @@
             "Switzerland ",
             "France "
         ],
-        "answer": "Switzerland "
+        "answer": "Switzerland ",
+        "source": "Unknown"
     },
     {
         "question": "Which institution is collaborating with C-DOT to develop an indigenous 6G optical chipset?",
@@ -229,7 +251,8 @@
             "IISc Bangalore ",
             "NIT Trichy "
         ],
-        "answer": "IIT Bombay "
+        "answer": "IIT Bombay ",
+        "source": "Unknown"
     },
     {
         "question": "Which organization has signed a contract with the Ministry of Defence for the supply of Medium-Range Surface-to-Air Missiles (MRSAM) for the Indian Navy?",
@@ -239,7 +262,8 @@
             "Bharat Electronics Limited ",
             "Bharat Dynamics Limited "
         ],
-        "answer": "Bharat Dynamics Limited "
+        "answer": "Bharat Dynamics Limited ",
+        "source": "Unknown"
     },
     {
         "question": "Palamu Tiger Reserve lies in which one of the following States?",
@@ -249,7 +273,8 @@
             "Kerala ",
             "Assam "
         ],
-        "answer": "Jharkhand "
+        "answer": "Jharkhand ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Great Barrier Reef:  1. It is a complex of coral reefs, shoal, and islets in the Indian Ocean.  2. It is the longest and largest reef complex in the world.  Which of the statements given above is/are correct?",
@@ -259,7 +284,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "2 only "
+        "answer": "2 only ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the National Disaster Response Force:  1. It was established under the Disaster Management Act, 2005.  2. It works under the supervision of the Union Ministry of Home Affairs.  Which of the statements given above is/are correct?",
@@ -269,7 +295,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Which state in India has signed an MoU with Singapore to establish a FinTech hub?",
@@ -279,7 +306,8 @@
             "Gujarat ",
             "Maharashtra "
         ],
-        "answer": "Odisha "
+        "answer": "Odisha ",
+        "source": "Unknown"
     },
     {
         "question": "What is the reserve price for rice under the Revised Open Market Sale Scheme Policy 2024-25?",
@@ -289,17 +317,19 @@
             "Rs. 2,500 ",
             "Rs. 2,750 "
         ],
-        "answer": "Rs. 2,250 "
+        "answer": "Rs. 2,250 ",
+        "source": "Unknown"
     },
     {
-        "question": "Which Indian state’s postal department is introducing Artificial Intelligence in its services?",
+        "question": "Which Indian state\u2019s postal department is introducing Artificial Intelligence in its services?",
         "options": [
             "Maharashtra ",
             "Karnataka ",
             "Bihar ",
             "Tamil Nadu "
         ],
-        "answer": "Bihar "
+        "answer": "Bihar ",
+        "source": "Unknown"
     },
     {
         "question": "Which crop did ISRO successfully germinate in space using its Compact Research Module for Orbital Plant Studies (CROPS)?",
@@ -309,17 +339,19 @@
             "Rice ",
             "Maize "
         ],
-        "answer": "Lobia "
+        "answer": "Lobia ",
+        "source": "Unknown"
     },
     {
-        "question": "Which automobile company launched its first locally-produced electric vehicle in India priced at ₹49 lakh?",
+        "question": "Which automobile company launched its first locally-produced electric vehicle in India priced at \u20b949 lakh?",
         "options": [
             "Tesla ",
             "Hyundai ",
             "Mercedes-Benz ",
             "BMW "
         ],
-        "answer": "BMW "
+        "answer": "BMW ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Ombudsman and Ethics Officer of the Board of Control for Cricket in India (BCCI)?",
@@ -329,7 +361,8 @@
             "Justice Arun Mishra ",
             "Justice S.A. Bobde "
         ],
-        "answer": "Justice Arun Mishra "
+        "answer": "Justice Arun Mishra ",
+        "source": "Unknown"
     },
     {
         "question": "Which sector was the focus of the NITI Aayog workshop on Carbon Capture, Utilization & Storage to achieve India's net-zero target by 2070?",
@@ -339,6 +372,7 @@
             "Power Sector ",
             "Textile Sector "
         ],
-        "answer": "Cement Sector "
+        "answer": "Cement Sector ",
+        "source": "Unknown"
     }
 ]

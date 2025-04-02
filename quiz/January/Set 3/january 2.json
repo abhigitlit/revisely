@@ -1,13 +1,14 @@
 [
     {
-        "question": "Which company is the beneficiary of the ₹11,440 crore revival package approved by the Union Cabinet?",
+        "question": "Which company is the beneficiary of the \u20b911,440 crore revival package approved by the Union Cabinet?",
         "options": [
             "Steel Authority of India Limited (SAIL) ",
             "Tata Steel Limited ",
             "Rashtriya Ispat Nigam Limited (RINL) ",
             "JSW Steel Limited "
         ],
-        "answer": "Rashtriya Ispat Nigam Limited (RINL) "
+        "answer": "Rashtriya Ispat Nigam Limited (RINL) ",
+        "source": "Unknown"
     },
     {
         "question": "Which country launched Pakistan's first indigenous Electro-Optical Satellite (PRSC-EO1) on January 17, 2025?",
@@ -17,7 +18,8 @@
             "Japan ",
             "European Space Agency "
         ],
-        "answer": "China "
+        "answer": "China ",
+        "source": "Unknown"
     },
     {
         "question": "Which country recently celebrated 60 years of diplomatic ties with India, unveiling a commemorative logo?",
@@ -27,7 +29,8 @@
             "Indonesia ",
             "Thailand "
         ],
-        "answer": "Singapore "
+        "answer": "Singapore ",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian athlete has recently partnered with PUMA India to promote badminton?",
@@ -37,7 +40,8 @@
             "Lakshya Sen ",
             "PV Sindhu "
         ],
-        "answer": "PV Sindhu "
+        "answer": "PV Sindhu ",
+        "source": "Unknown"
     },
     {
         "question": "What is the new name of Shriram Housing Finance following its rebranding?",
@@ -47,7 +51,8 @@
             "SafeNest Finance ",
             "UrbanNest Finance "
         ],
-        "answer": "Truhome Finance "
+        "answer": "Truhome Finance ",
+        "source": "Unknown"
     },
     {
         "question": "Which state has formed a 16-member task force to develop an Artificial Intelligence Policy 2025?",
@@ -57,7 +62,8 @@
             "Maharashtra ",
             "Gujarat "
         ],
-        "answer": "Maharashtra "
+        "answer": "Maharashtra ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been sworn in as the 25th Governor of Mizoram?",
@@ -67,7 +73,8 @@
             "V K Singh ",
             "Phagu Chauhan "
         ],
-        "answer": "V K Singh "
+        "answer": "V K Singh ",
+        "source": "Unknown"
     },
     {
         "question": "In which state has the Eco-Sensitive Zone (ESZ) been declared near the Shikari Devi Sanctuary?",
@@ -77,17 +84,19 @@
             "Jammu & Kashmir ",
             "Sikkim "
         ],
-        "answer": "Himachal Pradesh "
+        "answer": "Himachal Pradesh ",
+        "source": "Unknown"
     },
     {
-        "question": "What is the projected growth rate of India’s economy for the next two fiscal years (2025–2027) as per the World Bank?",
+        "question": "What is the projected growth rate of India\u2019s economy for the next two fiscal years (2025\u20132027) as per the World Bank?",
         "options": [
             "6.5% ",
             "5.8% ",
             "7.2% ",
             "6.7% "
         ],
-        "answer": "6.7% "
+        "answer": "6.7% ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to Asset Reconstruction Companies (ARCs), consider the following statements:  1. ARC is required to have a minimum net owned fund (NOF) of Rs 300 crore  2. They are mandated to maintain a capital adequacy ratio of a minimum of 15% of its total risk-weighted assets.  Which of the statements given above is/are correct?",
@@ -97,7 +106,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "SSI Mantra, recently in news, is a:",
@@ -107,7 +117,8 @@
             "new crypto currency launched by the RBI ",
             "surgical tele-robotic system "
         ],
-        "answer": "surgical tele-robotic system "
+        "answer": "surgical tele-robotic system ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the NASAMS (National Advanced Surface-to-Air Missile System):  1. It is a long-range intercontinental ballistic missile system.  2. It was developed jointly by the United States and Norway.  Which of the statements given above is/are correct?",
@@ -117,7 +128,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to Entity Locker, consider the following:  1. It is a secure, cloud-based solution that simplifies the storage and verification of documents for a wide range of entities.  2. It is developed by the National eGovernance Division of the Ministry of Electronics and Information Technology.  Which of the statements given above is/are correct?",
@@ -127,7 +139,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the digital cloud-based platform launched by the government of India where companies can keep their documents in an online format?",
@@ -137,27 +150,30 @@
             "Adobe Locker  ",
             "Acrobat Locker "
         ],
-        "answer": "Entity Locker "
+        "answer": "Entity Locker ",
+        "source": "Unknown"
     },
     {
-        "question": "The Indian men’s team defeated which team in the final to win the first Kho Kho World Cup 2025?",
+        "question": "The Indian men\u2019s team defeated which team in the final to win the first Kho Kho World Cup 2025?",
         "options": [
             "Brazil ",
             "Nepal ",
             "Peru ",
             "Sri Lanka "
         ],
-        "answer": "Nepal "
+        "answer": "Nepal ",
+        "source": "Unknown"
     },
     {
-        "question": "Who won the women’s title of the first Kho Kho World Cup 2025?",
+        "question": "Who won the women\u2019s title of the first Kho Kho World Cup 2025?",
         "options": [
             "India ",
             "Nepal  ",
             "South Korea ",
             "Malaysia "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
         "question": "Where is the Indira Gandhi Indoor Stadium located in India where the first Kho Kho World Cup 2025 was held?",
@@ -167,7 +183,8 @@
             "New Delhi  ",
             "Chennai "
         ],
-        "answer": "New Delhi  "
+        "answer": "New Delhi  ",
+        "source": "Unknown"
     },
     {
         "question": "Which state is set to become the first in India to implement the Uniform Civil Code (UCC)?",
@@ -178,7 +195,8 @@
             "Gujarat ",
             "Maharashtra "
         ],
-        "answer": "Himachal Pradesh "
+        "answer": "Himachal Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "Who was awarded the INSA Fellowship for 2025 for contributions to vaccine development?",
@@ -188,7 +206,8 @@
             "Dr. Renu Swarup ",
             "Dr. Kiran Mazumdar-Shaw "
         ],
-        "answer": "Dr. Krishna Ella "
+        "answer": "Dr. Krishna Ella ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank received RBI approval to open 20 new branches in India, marking its largest expansion in over a decade?",
@@ -198,7 +217,8 @@
             "HSBC ",
             "Barclays Bank "
         ],
-        "answer": "HSBC "
+        "answer": "HSBC ",
+        "source": "Unknown"
     },
     {
         "question": "Which region's Virgin Coconut Oil recently received the prestigious Geographical Indication (GI) tag?",
@@ -208,17 +228,19 @@
             "Lakshadweep ",
             "Andaman and Nicobar  "
         ],
-        "answer": "Andaman and Nicobar  "
+        "answer": "Andaman and Nicobar  ",
+        "source": "Unknown"
     },
     {
-        "question": "Which country did the winner of the men’s elite race at the 20th Mumbai Marathon 2025 represent?",
+        "question": "Which country did the winner of the men\u2019s elite race at the 20th Mumbai Marathon 2025 represent?",
         "options": [
             "Eritrea ",
             "Kenya ",
             "Ethiopia ",
             "Uganda "
         ],
-        "answer": "Eritrea "
+        "answer": "Eritrea ",
+        "source": "Unknown"
     },
     {
         "question": "Which entity is India collaborating with to boost economic ties through a 6-point plan?",
@@ -228,7 +250,8 @@
             "BRICS ",
             "G20 "
         ],
-        "answer": "European Union "
+        "answer": "European Union ",
+        "source": "Unknown"
     },
     {
         "question": "Which country clinched victory in both men's and women's categories at the inaugural Kho Kho World Cup 2025?",
@@ -238,7 +261,8 @@
             "Bangladesh ",
             "Sri Lanka "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been sworn in as the 47th President of the United States of America?",
@@ -248,7 +272,8 @@
             "Kamala Harris ",
             "Hillary Clinton "
         ],
-        "answer": "Donald Trump "
+        "answer": "Donald Trump ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the Flamingo Festival 2025 organized recently?",
@@ -258,7 +283,8 @@
             "Himachal Pradesh ",
             "Rajasthan  "
         ],
-        "answer": "Andhra Pradesh "
+        "answer": "Andhra Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "Where is the 27th International Glass Congress 2025 being held?",
@@ -268,7 +294,8 @@
             "Varanasi ",
             "Kolkata "
         ],
-        "answer": "Kolkata "
+        "answer": "Kolkata ",
+        "source": "Unknown"
     },
     {
         "question": "How many winners were honoured in the 25th anniversary of the Gates-Cambridge Impact Prize 2025?",
@@ -278,7 +305,8 @@
             "10 ",
             "12 "
         ],
-        "answer": "8 "
+        "answer": "8 ",
+        "source": "Unknown"
     },
     {
         "question": "Which country has recently banned TikTok?",
@@ -288,17 +316,19 @@
             "Pakistan ",
             "Germany "
         ],
-        "answer": "USA "
+        "answer": "USA ",
+        "source": "Unknown"
     },
     {
-        "question": "Which country has been admitted as a “partner country” of the BRICS bloc in January 2025?",
+        "question": "Which country has been admitted as a \u201cpartner country\u201d of the BRICS bloc in January 2025?",
         "options": [
             "Iran ",
             "Vietnam ",
             "Turkey ",
             "Nigeria "
         ],
-        "answer": "Nigeria "
+        "answer": "Nigeria ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Director General of the CRPF ?",
@@ -308,7 +338,8 @@
             "Vitul Kumar ",
             "Rakesh Asthana "
         ],
-        "answer": "Gyanendra Pratap Singh "
+        "answer": "Gyanendra Pratap Singh ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Pralay Missile:  1. It is long-range surface-to-surface missile.  2. It has been indigenously developed by the Defence Research and Development Organisation (DRDO).  Which of the statements given above is/are correct?",
@@ -318,7 +349,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "2 only "
+        "answer": "2 only ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Group CEO of Angel One, effective March 2025?",
@@ -328,7 +360,8 @@
             "Ambarish Kenghe ",
             "Ravi Kumar "
         ],
-        "answer": "Ambarish Kenghe "
+        "answer": "Ambarish Kenghe ",
+        "source": "Unknown"
     },
     {
         "question": "What is the target year for achieving 35% EV sales as highlighted in SIAM's 3rd International Conference on Sustainable Circularity?",
@@ -338,6 +371,7 @@
             "2035 ",
             "2040 "
         ],
-        "answer": "2030 "
+        "answer": "2030 ",
+        "source": "Unknown"
     }
 ]

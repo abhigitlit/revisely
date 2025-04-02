@@ -7,7 +7,8 @@
             "1 and 3 only  ",
             "1, 2 and 3 "
         ],
-        "answer": "1 and 2 only "
+        "answer": "1 and 2 only ",
+        "source": "Unknown"
     },
     {
         "question": "What is the Samudrayaan project under the Deep Ocean Mission?",
@@ -17,7 +18,8 @@
             "A project to develop a manned submersible for ocean exploration. ",
             "A project for underwater mining of rare minerals. "
         ],
-        "answer": "A project to develop a manned submersible for ocean exploration. "
+        "answer": "A project to develop a manned submersible for ocean exploration. ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the SANJAY Surveillance System:  1. It is battlefield automated surveillance system which integrates the inputs from all ground and aerial battlefield sensors.  2. It is jointly developed by the Indian Army and Bharat Electronics Limited (BEL).  Which of the statements given above is/are correct",
@@ -27,7 +29,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the first Technology Dialogue held?",
@@ -37,7 +40,8 @@
             "Chennai  ",
             "Hyderabad "
         ],
-        "answer": "Bengaluru  "
+        "answer": "Bengaluru  ",
+        "source": "Unknown"
     },
     {
         "question": "Micheal Martin has been appointed as the Prime Minister of which country?",
@@ -47,7 +51,8 @@
             "Sweden  ",
             "Norway "
         ],
-        "answer": "Ireland "
+        "answer": "Ireland ",
+        "source": "Unknown"
     },
     {
         "question": "Which article of the Indian constitution empowers the state governments to ban or restrict the sale of liquor?",
@@ -57,7 +62,8 @@
             "Article 42 ",
             "Article 46 "
         ],
-        "answer": "Article 47  "
+        "answer": "Article 47  ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the 2nd BIMSTEC expert group on Cyber Security Cooperation meeting held?",
@@ -67,7 +73,8 @@
             "Bengaluru  ",
             "Hyderabad "
         ],
-        "answer": "New Delhi "
+        "answer": "New Delhi ",
+        "source": "Unknown"
     },
     {
         "question": "Which company received in-principle approval from the RBI to operate as a Payment Aggregator-Cross Border entity?",
@@ -77,7 +84,8 @@
             "Razorpay ",
             "PhonePe "
         ],
-        "answer": "Skydo "
+        "answer": "Skydo ",
+        "source": "Unknown"
     },
     {
         "question": "Which company won the 300 MW solar project from NHPC?",
@@ -87,17 +95,19 @@
             "ReNew Power ",
             "NTPC Green Energy Limited "
         ],
-        "answer": "NTPC Green Energy Limited "
+        "answer": "NTPC Green Energy Limited ",
+        "source": "Unknown"
     },
     {
-        "question": "What is India’s projected share of global consumption by 2050?",
+        "question": "What is India\u2019s projected share of global consumption by 2050?",
         "options": [
             "9% ",
             "16% ",
             "17% ",
             "20% "
         ],
-        "answer": "16% "
+        "answer": "16% ",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the Battlefield Surveillance System launched by Defence Minister Rajnath Singh to boost Army surveillance?",
@@ -107,7 +117,8 @@
             "VIKAS ",
             "SURAKSHA "
         ],
-        "answer": "SANJAY "
+        "answer": "SANJAY ",
+        "source": "Unknown"
     },
     {
         "question": "Which company launched the CyberEdge cyber insurance solution for Indian businesses?",
@@ -117,7 +128,8 @@
             "Bajaj Allianz ",
             "Tata AIG "
         ],
-        "answer": "Tata AIG "
+        "answer": "Tata AIG ",
+        "source": "Unknown"
     },
     {
         "question": "What position has India secured in the Brand Finance 2025 ranking for IT services brand value?",
@@ -127,7 +139,8 @@
             "3rd ",
             "4th  "
         ],
-        "answer": "2nd "
+        "answer": "2nd ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Shompens:  1. They are one of the least studied Particularly Vulnerable Tribal Groups (PVTGs) in India.  2. They reside in dense tropical rain forests of the Andaman Islands.  Which of the statements given above is/are correct?",
@@ -137,7 +150,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "Pangsau Pass, recently in news, lies between:",
@@ -147,7 +161,8 @@
             "Israel and Egypt ",
             "Germany and France "
         ],
-        "answer": "India and Myanmar "
+        "answer": "India and Myanmar ",
+        "source": "Unknown"
     },
     {
         "question": "Which day is celebrated as the International Day of Education globally?",
@@ -157,7 +172,8 @@
             "24 January ",
             "21 January "
         ],
-        "answer": "24 January "
+        "answer": "24 January ",
+        "source": "Unknown"
     },
     {
         "question": "National Girl Child Day (NGCD) is celebrated on __ by the Government of India",
@@ -168,7 +184,8 @@
             "26 January ",
             "23 January "
         ],
-        "answer": "is celebrated on __ by the Government of India "
+        "answer": "is celebrated on __ by the Government of India ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Reserve Bank-Integrated Ombudsman Scheme:  1. It covers all commercial banks and non-banking financial companies.  2. Under this a regulated entity will not have any right to appeal in cases where an award is issued by the ombudsman against it.  Which of the statements given above is/are correct?",
@@ -178,7 +195,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "The Integrated Ombudsman Scheme, 2021 of the Reserve Bank of India includes under its ambit Non-Scheduled Primary Co-operative Banks with __ size of _ crore and above.",
@@ -188,7 +206,8 @@
             "deposit; Rs. 50 ",
             "asset; Rs. 50 "
         ],
-        "answer": "deposit; Rs. 50 "
+        "answer": "deposit; Rs. 50 ",
+        "source": "Unknown"
     },
     {
         "question": "What is the maximum amount of compensation that the RBI Ombudsman can award?",
@@ -198,17 +217,19 @@
             "Rs 20 lakh ",
             "Rs 25 lakh "
         ],
-        "answer": "Rs 20 lakh "
+        "answer": "Rs 20 lakh ",
+        "source": "Unknown"
     },
     {
-        "question": "What is the maximum amount of compensation for loss of the complainant’s time, expenses incurred and for harassment/mental anguish suffered by the complainant that RBI Ombudsman can award?",
+        "question": "What is the maximum amount of compensation for loss of the complainant\u2019s time, expenses incurred and for harassment/mental anguish suffered by the complainant that RBI Ombudsman can award?",
         "options": [
             "Rs 1 lakh ",
             "Rs 2 lakh ",
             "Rs 1.5 lakh ",
             "Rs 2.5 lakh "
         ],
-        "answer": "Rs 1 lakh "
+        "answer": "Rs 1 lakh ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to the Unified Pension Scheme (UPS), consider the following statements:  1. Both current and future Central Government employees covered under National Pension System (NPS) are eligible to opt for the Unified Pension Scheme (UPS).  2. Under the UPS, employees who complete 25 years of service will receive 50% of the average basic pay earned during the 12 months prior to retirement.  3. If the payout holder passes away after superannuation, the legally wedded spouse will receive a family payout equal to 60% of the payout that was admissible to the holder  Which of the statements given above is/are correct?",
@@ -218,7 +239,8 @@
             "1 and 3 only  ",
             "1, 2 and 3 "
         ],
-        "answer": "1, 2 and 3 "
+        "answer": "1, 2 and 3 ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Advanced Towed Artillery Gun System (ATAGS), recently seen in the news:  1. It is a large calibre Gun system developed indigenously by the Defence Research and Development Organisation (DRDO).  2. It has a range of over 500 km.  Which of the statements given above is/are correct?",
@@ -228,17 +250,19 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
-        "question": "Which rocket is set to launch the NVS-02 satellite as part of ISRO’s 100th mission from the Satish Dhawan Space Centre?",
+        "question": "Which rocket is set to launch the NVS-02 satellite as part of ISRO\u2019s 100th mission from the Satish Dhawan Space Centre?",
         "options": [
             "PSLV-C55 ",
-            "GSLV–F15 ",
+            "GSLV\u2013F15 ",
             "GSLV Mark III ",
             "SSLV-D3 "
         ],
-        "answer": "GSLV–F15 "
+        "answer": "GSLV\u2013F15 ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the brand ambassador for the 25th anniversary edition of FICCI Frames?",
@@ -248,7 +272,8 @@
             "Alia Bhatt ",
             "Vicky Kaushal "
         ],
-        "answer": "Ayushmann Khurrana "
+        "answer": "Ayushmann Khurrana ",
+        "source": "Unknown"
     },
     {
         "question": "Which company is a bronze sponsor for the 38th National Games in Uttarakhand?",
@@ -258,7 +283,8 @@
             "Hindustan Petroleum ",
             "Oil and Natural Gas Corporation "
         ],
-        "answer": "Indian Oil Corporation "
+        "answer": "Indian Oil Corporation ",
+        "source": "Unknown"
     },
     {
         "question": "Which is the first state in independent India to implement Uniform Civil Code?",
@@ -268,7 +294,8 @@
             "Assam ",
             "Himachal Pradesh "
         ],
-        "answer": "Uttarakhand "
+        "answer": "Uttarakhand ",
+        "source": "Unknown"
     },
     {
         "question": "Young Indian mountaineer Shivangi Pathak recently hoisted the tricolor on the highest peak of which country?",
@@ -278,7 +305,8 @@
             "Nepal ",
             "Australia "
         ],
-        "answer": "Australia "
+        "answer": "Australia ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Inland Waterways Authority of India:  1. It develops and maintains inland waterway transport infrastructure on national waterways.  2. It works under the union Ministry of Jal Shakti.  Which of the statements given above is/are correct?",
@@ -288,7 +316,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "Which country recently benefited from the Indian Navy's hydrographic survey of 25,000 square nautical miles?",
@@ -298,7 +327,8 @@
             "Tanzania ",
             "Sri Lanka  "
         ],
-        "answer": "Mauritius "
+        "answer": "Mauritius ",
+        "source": "Unknown"
     },
     {
         "question": "Which country became the first Southeast Asian nation to legalize same-sex marriage?",
@@ -308,17 +338,19 @@
             "Thailand ",
             "Malaysia "
         ],
-        "answer": "Thailand "
+        "answer": "Thailand ",
+        "source": "Unknown"
     },
     {
-        "question": "Which company’s bid cleared the technical evaluation for the P-75I submarine project in collaboration with TKMS of Germany?",
+        "question": "Which company\u2019s bid cleared the technical evaluation for the P-75I submarine project in collaboration with TKMS of Germany?",
         "options": [
             "Mazagon Dock Shipbuilders ",
             "Larsen & Toubro ",
             "Hindustan Shipyard Limited ",
             "Cochin Shipyard Limited "
         ],
-        "answer": "Mazagon Dock Shipbuilders "
+        "answer": "Mazagon Dock Shipbuilders ",
+        "source": "Unknown"
     },
     {
         "question": "What was the theme for Republic Day 2025?",
@@ -327,7 +359,8 @@
             "Golden India: Heritage and Progress ",
             "Vibrant India: Growth and Harmony D) India@75: Glory and Aspirations "
         ],
-        "answer": "Unknown"
+        "answer": "Unknown",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state recorded over 800 farmer suicides in 2024?",
@@ -337,6 +370,7 @@
             "Madhya Pradesh ",
             "Maharashtra "
         ],
-        "answer": "Maharashtra "
+        "answer": "Maharashtra ",
+        "source": "Unknown"
     }
 ]

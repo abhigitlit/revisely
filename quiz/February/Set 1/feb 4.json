@@ -8,7 +8,8 @@
             "PM Dhan Dhanya Krishi Yojana",
             "PM SVANIDHI"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Which region has been projected by the WHO to witness an 85% increase in cancer cases and deaths by 2050?",
@@ -19,7 +20,8 @@
             "South-East Asia",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Where will India open a new Consulate during PM Modi's visit to France in February 2025?",
@@ -30,7 +32,8 @@
             "Toulouse",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which university's researchers discovered the new phytopathogenic fungus Epicoccum indicum, associated with an emerging leaf spot disease in Chrysopogon zizanioides (vetiver)?",
@@ -41,7 +44,8 @@
             "University of Hyderabad",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which payment system remains the major driver of digital payments in India as per the recent report February 2025?",
@@ -52,7 +56,8 @@
             "All of the above",
             "None of the above"
         ],
-        "answer": "UPI"
+        "answer": "UPI",
+        "source": "Unknown"
     },
     {
         "question": "Who from Rajasthan has been shortlisted for the USD 1 million GEMS Education Global Teacher Prize 2025?",
@@ -63,7 +68,8 @@
             "Rajesh Kumar",
             "None of the above"
         ],
-        "answer": "Mohammad Imran Khan Mewati"
+        "answer": "Mohammad Imran Khan Mewati",
+        "source": "Unknown"
     },
     {
         "question": "Who won the Tata Steel Masters Chess Tournament 2025 by defeating D Gukesh in the tiebreaker?",
@@ -74,7 +80,8 @@
             "Wei Yi",
             "Magnus Carlsen"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Who became the first Black woman to win the Mrs World title in the competition's 40-year history?",
@@ -85,7 +92,8 @@
             "Shudu Musida",
             "Rabia Fateh"
         ],
-        "answer": "Tshego Gaelae"
+        "answer": "Tshego Gaelae",
+        "source": "Unknown"
     },
     {
         "question": "By what percentage has India's fruit and vegetable exports increased in the last five years, as per the Ministry of Commerce and Industry?",
@@ -96,7 +104,8 @@
             "41.5%",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Which is the world's largest iceberg that is set to strike South Georgia Island?",
@@ -107,10 +116,11 @@
             "Iceberg D16",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
-        "question": "Which state has been allocated ₹23,778 crore for railway projects in the Budget 2025-26?",
+        "question": "Which state has been allocated \u20b923,778 crore for railway projects in the Budget 2025-26?",
         "options": [
             "Bihar",
             "Uttar Pradesh",
@@ -118,7 +128,8 @@
             "Lucknow",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "What is the full form of VSHORAD in the context of DRDO's missile system?",
@@ -129,7 +140,8 @@
             "Vertical Strike Hypersonic Operational Radar Air Defence",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Recently, Marcus Stoinis has announced his retirement from ODIs, ending a 74-match career. Which country does he hail from?",
@@ -140,7 +152,8 @@
             "New Zealand",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian research institute developed the novel high-entropy alloy (HEA) catalyst for green hydrogen production?",
@@ -151,7 +164,8 @@
             "Centre for Nano and Soft Matter Sciences (CeNS)",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Where in West Asia is the Medlab Middle East 2025 exhibition being held?",
@@ -162,7 +176,8 @@
             "Khartoum, Sudan",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Who is the Indian-origin artist who won the Grammy Award for Best New Age, Ambient, or Chant Album in 2025?",
@@ -173,7 +188,8 @@
             "Radhika Vekaria",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the new radio series launched by Akashvani on Basant Panchami to promote Indian classical music?",
@@ -184,7 +200,8 @@
             "Har Kanthh Mein Bharat",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "Recently SCO Secretary General holds talks with MEA Secretary, Who is the current Secretary-General of the Shanghai Cooperation Organization (SCO)?",
@@ -195,7 +212,8 @@
             "Wang Yi",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Who is organizing WAVES 2025, which will introduce AI solutions for live misinformation detection?",
@@ -206,7 +224,8 @@
             "Ministry of Home Affairs and NIC",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following states has contributed significantly to India's total utility-scale solar installations as per the recent achievement of 100 GW solar power capacity?",
@@ -217,7 +236,8 @@
             "Bihar, Jharkhand, Uttar Pradesh, Uttarakhand, and Himachal Pradesh",
             "None of the above"
         ],
-        "answer": "Rajasthan, Gujarat, Tamil Nadu, Maharashtra, and Madhya Pradesh"
+        "answer": "Rajasthan, Gujarat, Tamil Nadu, Maharashtra, and Madhya Pradesh",
+        "source": "Unknown"
     },
     {
         "question": "Where was the National Institute of Electronics and Information Technology (NIELIT) Centre of Excellence in Chip Design inaugurated which is aimed to bolster India's VLSI & semiconductor capabilities?",
@@ -228,7 +248,8 @@
             "Chennai",
             "Mumbai"
         ],
-        "answer": "Noida"
+        "answer": "Noida",
+        "source": "Unknown"
     },
     {
         "question": "Which country has decided to end aid programs for Bangladesh, Albania, and Zambia due to a reduced foreign aid budget?",
@@ -239,7 +260,8 @@
             "Sweden",
             "Japan"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which South-East Asian country declared a food security emergency to curb soaring rice prices in 2025?",
@@ -250,7 +272,8 @@
             "Philippines",
             "None of the above"
         ],
-        "answer": "4"
+        "answer": "4",
+        "source": "Unknown"
     },
     {
         "question": "What was the theme of World Wetlands Day 2025 celebrated at Parvati Arga Ramsar Site in Gonda, Uttar Pradesh?",
@@ -261,7 +284,8 @@
             "Sustainable Wetlands for a Better Tomorrow",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "What is the venue for the 9th Asian Winter Games 2025?",
@@ -272,7 +296,8 @@
             "New Delhi, India",
             "None of the above"
         ],
-        "answer": "3"
+        "answer": "3",
+        "source": "Unknown"
     },
     {
         "question": "Recently government has said 864 km of India-Bangladesh border yet to be fenced in loksabha, Which force is responsible for guarding the India-Bangladesh border?",
@@ -283,7 +308,8 @@
             "National Security Guard (NSG)",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "How much did India contribute to the United Nations Regular Budget for the year 2025?",
@@ -294,7 +320,8 @@
             "$50.91 million",
             "$66.91 million"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which country became the first in Africa to eliminate onchocerciasis (river blindness) as a public health problem?",
@@ -305,7 +332,8 @@
             "Democratic Republic of Congo",
             "Eritrea"
         ],
-        "answer": "Niger"
+        "answer": "Niger",
+        "source": "Unknown"
     },
     {
         "question": "Former world number one and two-time Grand Slam winner Simona Halep announced her retirement from professional tennis in February 2025. Which country does she hail from?",
@@ -316,7 +344,8 @@
             "Germany",
             "None of the above"
         ],
-        "answer": "Romania"
+        "answer": "Romania",
+        "source": "Unknown"
     },
     {
         "question": "Which project led to the creation of a new map of the Arctic Ocean, revealing an area twice the size of France and six times the size of England?",
@@ -327,7 +356,8 @@
             "Deep Sea Mapping Project",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Which country announced a 25% retaliatory tariff on American imports in response to U.S. trade policies?",
@@ -338,7 +368,8 @@
             "Germany",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     },
     {
         "question": "Recently, Digi Yatra app user base has crossed 10 million+ with 30,000 daily downloads. The app was launched in which year?",
@@ -349,7 +380,8 @@
             "2023",
             "None of the above"
         ],
-        "answer": "2022"
+        "answer": "2022",
+        "source": "Unknown"
     },
     {
         "question": "On which date was the PM Internship Scheme launched?",
@@ -360,6 +392,7 @@
             "January 9, 2025",
             "None of the above"
         ],
-        "answer": "2"
+        "answer": "2",
+        "source": "Unknown"
     }
 ]

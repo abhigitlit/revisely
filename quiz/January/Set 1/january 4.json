@@ -7,17 +7,19 @@
             "L&T Shipyard.",
             "Cochin Shipyard."
         ],
-        "answer": "L&T Shipyard."
+        "answer": "L&T Shipyard.",
+        "source": "Unknown"
     },
     {
         "question": "What is the new record low of the rupee against USD in January 2025?",
         "options": [
-            "₹82/USD.",
-            "₹84/USD.",
-            "₹86/USD.",
-            "₹88/USD."
+            "\u20b982/USD.",
+            "\u20b984/USD.",
+            "\u20b986/USD.",
+            "\u20b988/USD."
         ],
-        "answer": "86/USD."
+        "answer": "86/USD.",
+        "source": "Unknown"
     },
     {
         "question": "Which new satellite species was discovered by the Zoological Survey of India (ZSI) in 2025?",
@@ -27,17 +29,19 @@
             "Manis javanica (Sunda Pangolin)",
             "Manis indoburmanica (Indo-Burmese Pangolin)."
         ],
-        "answer": "Manis indoburmanica (Indo-Burmese Pangolin)."
+        "answer": "Manis indoburmanica (Indo-Burmese Pangolin).",
+        "source": "Unknown"
     },
     {
-        "question": "Which project was launched with ₹100 crore to enhance natural rubber quality in India's North-East?",
+        "question": "Which project was launched with \u20b9100 crore to enhance natural rubber quality in India's North-East?",
         "options": [
             "Rubber India Project.",
             "North East Rubber Mission.",
             "INROAD Project.",
             "Green Rubber Initiative."
         ],
-        "answer": "INROAD Project."
+        "answer": "INROAD Project.",
+        "source": "Unknown"
     },
     {
         "question": "What is the projected GDP growth rate for India in FY25 as per CRISIL?",
@@ -47,7 +51,8 @@
             "6.7%.",
             "7.0%."
         ],
-        "answer": "6.7%."
+        "answer": "6.7%.",
+        "source": "Unknown"
     },
     {
         "question": "Which platform was launched by Piyush Goyal to enhance cleantech value chains?",
@@ -57,7 +62,8 @@
             "Green Energy Network.",
             "Sustainable Solutions India."
         ],
-        "answer": "Bharat Cleantech Platform."
+        "answer": "Bharat Cleantech Platform.",
+        "source": "Unknown"
     },
     {
         "question": "Where was the Sri Sri Radha Madanmohanji Temple, Asia's second-largest ISKCON temple, inaugurated?",
@@ -67,7 +73,8 @@
             "Navi Mumbai.",
             "Chennai, Tamil Nadu."
         ],
-        "answer": "Navi Mumbai."
+        "answer": "Navi Mumbai.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the app launched by DoT to curb telecom fraud?",
@@ -77,7 +84,8 @@
             "Sanchar Saathi App.",
             "Nirbhaya App."
         ],
-        "answer": "Sanchar Saathi App."
+        "answer": "Sanchar Saathi App.",
+        "source": "Unknown"
     },
     {
         "question": "What milestone anniversary did the India Meteorological Department (IMD) celebrate in January 2025?",
@@ -87,7 +95,8 @@
             "150 Years.",
             "175 Years."
         ],
-        "answer": "150 Years."
+        "answer": "150 Years.",
+        "source": "Unknown"
     },
     {
         "question": "What festival in Tamil Nadu began with bull-taming events in January 2025?",
@@ -97,7 +106,8 @@
             "Avaniyapuram Jallikattu.",
             "Thai Poosam."
         ],
-        "answer": "Avaniyapuram Jallikattu."
+        "answer": "Avaniyapuram Jallikattu.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the app launched on Army Day 2025 to boost battlefield tourism?",
@@ -105,9 +115,10 @@
             "Bharat Bhoomi Darshan.",
             "Ranbhoomi Darshan.",
             "Bharat Ranbhoomi Darshan App.",
-            "Veer D ভূমি Darshan"
+            "Veer D \u09ad\u09c2\u09ae\u09bf Darshan"
         ],
-        "answer": "Bharat Ranbhoomi Darshan App."
+        "answer": "Bharat Ranbhoomi Darshan App.",
+        "source": "Unknown"
     },
     {
         "question": "Which international committee did India join to strengthen the use of Big Data for SDGs?",
@@ -117,7 +128,8 @@
             "UN Big Data Committee.",
             "High-Level Group for Partnership, Cooperation and Capacity-Building for the 2030 Agenda"
         ],
-        "answer": "UN Big Data Committee."
+        "answer": "UN Big Data Committee.",
+        "source": "Unknown"
     },
     {
         "question": "What is the expected annual growth rate of India's F&B export industry over the next five years?",
@@ -127,7 +139,8 @@
             "14-15%.",
             "16-18%."
         ],
-        "answer": "14-15%."
+        "answer": "14-15%.",
+        "source": "Unknown"
     },
     {
         "question": "What was the retail inflation rate in India in December 2024?",
@@ -137,7 +150,8 @@
             "5.22%.",
             "5.50%."
         ],
-        "answer": "5.22%."
+        "answer": "5.22%.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the cold-weather apparel developed by DRDO?",
@@ -147,7 +161,8 @@
             "Thermal Shield Pro",
             "Arctic Armor"
         ],
-        "answer": "HIMKAVACH."
+        "answer": "HIMKAVACH.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state integrated with Ayushman Bharat PM-JAY in January 2025?",
@@ -157,7 +172,8 @@
             "Telangana",
             "Kerala"
         ],
-        "answer": "Odisha."
+        "answer": "Odisha.",
+        "source": "Unknown"
     },
     {
         "question": "What is the record low exchange rate of the rupee against the US dollar in January 2025?",
@@ -167,7 +183,8 @@
             "86/USD.",
             "88/USD."
         ],
-        "answer": "86/USD."
+        "answer": "86/USD.",
+        "source": "Unknown"
     },
     {
         "question": "Which initiative was launched in Assam for inland waterway safety?",
@@ -177,7 +194,8 @@
             "National River Traffic & Navigation System (NRT&NS).",
             "Brahmaputra Waterway Security Initiative"
         ],
-        "answer": "National River Traffic & Navigation System (NRT&NS)."
+        "answer": "National River Traffic & Navigation System (NRT&NS).",
+        "source": "Unknown"
     },
     {
         "question": "Who was appointed the Chairperson of the AFI Athletes Commission in 2025?",
@@ -187,7 +205,8 @@
             "Milkha Singh",
             "Shiny Wilson"
         ],
-        "answer": "Anju Bobby George."
+        "answer": "Anju Bobby George.",
+        "source": "Unknown"
     },
     {
         "question": "Which countries declared 2026 as a 'Dual Year' focusing on culture and AI?",
@@ -197,17 +216,19 @@
             "India and Spain.",
             "India and Israel"
         ],
-        "answer": "India and Spain."
+        "answer": "India and Spain.",
+        "source": "Unknown"
     },
     {
-        "question": "What is the name of the ₹75,000 crore energy and cement expansion plan announced by Adani?",
+        "question": "What is the name of the \u20b975,000 crore energy and cement expansion plan announced by Adani?",
         "options": [
             "Adani Green Energy Expansion.",
             "Adani Infrastructure Project.",
             "Adani Investment in Chhattisgarh.",
             "Adani Cement Expansion Plan."
         ],
-        "answer": "Adani Investment in Chhattisgarh."
+        "answer": "Adani Investment in Chhattisgarh.",
+        "source": "Unknown"
     },
     {
         "question": "What is the new appointment process for Election Commissioners under the revised act?",
@@ -217,7 +238,8 @@
             "CEC and Other ECs Act, 2023.",
             "Appointment by a Parliamentary committee."
         ],
-        "answer": "CEC and Other ECs Act, 2023."
+        "answer": "CEC and Other ECs Act, 2023.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian beaches received Blue Flag certification for sustainability?",
@@ -227,7 +249,8 @@
             "Kappad and Chal beaches.",
             "Tamil Nadu and Andhra Pradesh beaches."
         ],
-        "answer": "Kappad and Chal beaches."
+        "answer": "Kappad and Chal beaches.",
+        "source": "Unknown"
     },
     {
         "question": "Which regional center was announced in J&K for climate resilience in January 2025?",
@@ -237,7 +260,8 @@
             "Leh Climate Research Facility.",
             "Kargil Environmental Observatory."
         ],
-        "answer": "Srinagar Meteorology Centre."
+        "answer": "Srinagar Meteorology Centre.",
+        "source": "Unknown"
     },
     {
         "question": "What is the projected factory output growth rate for November 2024?",
@@ -247,7 +271,8 @@
             "5.2%.",
             "5.5%."
         ],
-        "answer": "5.2%."
+        "answer": "5.2%.",
+        "source": "Unknown"
     },
     {
         "question": "Who received the Honorary Citizen Award from Singapore in January 2025?",
@@ -257,7 +282,8 @@
             "Tarun Das.",
             "Gautam Adani"
         ],
-        "answer": "Tarun Das."
+        "answer": "Tarun Das.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of Odisha's women empowerment scheme?",
@@ -267,7 +293,8 @@
             "Subhadra Scheme.",
             "Mo Ghara"
         ],
-        "answer": "Subhadra Scheme."
+        "answer": "Subhadra Scheme.",
+        "source": "Unknown"
     },
     {
         "question": "Who received the BCCI Lifetime Achievement Award 2024?",
@@ -277,7 +304,8 @@
             "Sachin Tendulkar.",
             "Rahul Dravid"
         ],
-        "answer": "Sachin Tendulkar."
+        "answer": "Sachin Tendulkar.",
+        "source": "Unknown"
     },
     {
         "question": "What is ISRO's achievement from Sriharikota?",
@@ -287,7 +315,8 @@
             "ISRO successfully launched NVS-02, marking its 100th mission from Sriharikota.",
             "Successful Gaganyaan launch"
         ],
-        "answer": "ISRO successfully launched NVS-02, marking its 100th mission from Sriharikota."
+        "answer": "ISRO successfully launched NVS-02, marking its 100th mission from Sriharikota.",
+        "source": "Unknown"
     },
     {
         "question": "Which banks were penalized by RBI for regulatory non-compliance?",
@@ -297,7 +326,8 @@
             "Canara Bank, Bank of India, and J&K Bank.",
             "Axis Bank and Kotak Mahindra Bank"
         ],
-        "answer": "Canara Bank, Bank of India, and J&K Bank."
+        "answer": "Canara Bank, Bank of India, and J&K Bank.",
+        "source": "Unknown"
     },
     {
         "question": "What is JioSoundPay's new feature for small businesses?",
@@ -307,7 +337,8 @@
             "JioSoundPay launched free UPI payment feature.",
             "Loyalty program integration"
         ],
-        "answer": "JioSoundPay launched free UPI payment feature."
+        "answer": "JioSoundPay launched free UPI payment feature.",
+        "source": "Unknown"
     },
     {
         "question": "Who was given additional charge as DG of BCAS?",
@@ -317,7 +348,8 @@
             "Amrit Mohan Prasad was given additional charge.",
             "Rajiv Bansal"
         ],
-        "answer": "Amrit Mohan Prasad was given additional charge."
+        "answer": "Amrit Mohan Prasad was given additional charge.",
+        "source": "Unknown"
     },
     {
         "question": "Which city hosted the Sci-Fi Science Film Festival?",
@@ -327,7 +359,8 @@
             "Goa CM inaugurated the Sci-Fi Science Film Festival.",
             "Bengaluru"
         ],
-        "answer": "Goa CM inaugurated the Sci-Fi Science Film Festival."
+        "answer": "Goa CM inaugurated the Sci-Fi Science Film Festival.",
+        "source": "Unknown"
     },
     {
         "question": "What is the focus of PM Modi's 'Utkarsh Odisha' conclave?",
@@ -337,6 +370,7 @@
             "Enhancing agricultural practices",
             "Improving healthcare infrastructure"
         ],
-        "answer": "Boosting industrial growth."
+        "answer": "Boosting industrial growth.",
+        "source": "Unknown"
     }
 ]

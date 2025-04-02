@@ -7,7 +7,8 @@
             "Canada ",
             "Australia "
         ],
-        "answer": "Canada "
+        "answer": "Canada ",
+        "source": "Unknown"
     },
     {
         "question": "Which country has recently witnessed the outbreak of Human metapneumovirus (HMPV)?",
@@ -17,7 +18,8 @@
             "China ",
             "United States "
         ],
-        "answer": "China "
+        "answer": "China ",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of initiative launched by Mira Bhayandar Municipal Corporation (MBMC), Maharashtra to empower women entrepreneurs?",
@@ -28,7 +30,8 @@
             "Mahila Udyam ",
             "Aasha Sakhi "
         ],
-        "answer": "Udyog Sakhi "
+        "answer": "Udyog Sakhi ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been honored with the Gangadhar National Award for Poetry 2023?",
@@ -38,7 +41,8 @@
             "Prativa Satpathy ",
             "Tishani Parmar "
         ],
-        "answer": "Prativa Satpathy "
+        "answer": "Prativa Satpathy ",
+        "source": "Unknown"
     },
     {
         "question": "How much aid has been announced by the government of India for Vanuatu to support earthquake-related relief efforts in the country after the earthquake?",
@@ -48,7 +52,8 @@
             "$ 3 lakh ",
             "$ 5 lakh "
         ],
-        "answer": "$ 5 lakh "
+        "answer": "$ 5 lakh ",
+        "source": "Unknown"
     },
     {
         "question": "Which is the proposed 69th division of the Indian Railway ?",
@@ -58,7 +63,8 @@
             "Jammu division ",
             "Waltair division "
         ],
-        "answer": "Jammu division "
+        "answer": "Jammu division ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been sworn in as the 42nd Governor of Bihar?",
@@ -68,7 +74,8 @@
             "K. Vinod Chandran ",
             "Ramesh Chandra "
         ],
-        "answer": "Arif Mohammad Khan "
+        "answer": "Arif Mohammad Khan ",
+        "source": "Unknown"
     },
     {
         "question": "Which state has set a target to add 20,000 MW of renewable energy capacity by 2030?",
@@ -78,17 +85,19 @@
             "Gujarat ",
             "Maharashtra "
         ],
-        "answer": "Telangana "
+        "answer": "Telangana ",
+        "source": "Unknown"
     },
     {
-        "question": "Which country’s satellite is ISRO launching to enable direct smartphone voice calls?",
+        "question": "Which country\u2019s satellite is ISRO launching to enable direct smartphone voice calls?",
         "options": [
             "Canada ",
             "United Kingdom ",
             "United States ",
             "Australia "
         ],
-        "answer": "United States "
+        "answer": "United States ",
+        "source": "Unknown"
     },
     {
         "question": "On which date will the first Lokpal Day be celebrated in 2025?",
@@ -98,7 +107,8 @@
             "January 4 ",
             "January 9 "
         ],
-        "answer": "January 16 "
+        "answer": "January 16 ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has launched a TAB-based digital onboarding process for NRIs to open NRE and NRO accounts?",
@@ -108,7 +118,8 @@
             "Indian Overseas Bank  ",
             "Canara Bank "
         ],
-        "answer": "State Bank of India  "
+        "answer": "State Bank of India  ",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following banks is NOT included in the acquisition of 9.5 percent stake by HDFC Bank?",
@@ -118,7 +129,8 @@
             "AU Small Finance Bank ",
             "Capital Small Finance Bank "
         ],
-        "answer": "Indian Overseas Bank  "
+        "answer": "Indian Overseas Bank  ",
+        "source": "Unknown"
     },
     {
         "question": "Which city is hosting the 18th Pravasi Bhartiya Divas Convention 2025?",
@@ -128,7 +140,8 @@
             "Bhopal, Madhya Pradesh  ",
             "Lucknow, Uttar Pradesh "
         ],
-        "answer": "Bhubaneshwar, Odisha "
+        "answer": "Bhubaneshwar, Odisha ",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of the 18th Pravasi Bhartiya Divas Convention 2025?",
@@ -136,9 +149,10 @@
             "Contributing to Aatmanirbhar Bharat ",
             "Role of Indian Diaspora in building a New India ",
             "Redefining engagement with the Indian diaspora ",
-            "Diaspora’s Contribution to a Viksit Bharat "
+            "Diaspora\u2019s Contribution to a Viksit Bharat "
         ],
-        "answer": "Diaspora’s Contribution to a Viksit Bharat "
+        "answer": "Diaspora\u2019s Contribution to a Viksit Bharat ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the chief guest of the 18th Pravasi Bhartiya Divas Convention 2025?",
@@ -148,7 +162,8 @@
             "Christine Carla Kangaloo ",
             "Ngozi Okonjo-Iweala "
         ],
-        "answer": "Christine Carla Kangaloo "
+        "answer": "Christine Carla Kangaloo ",
+        "source": "Unknown"
     },
     {
         "question": "Which financial institutions has set to approve a $20 billion indicative lending package for Pakistan?",
@@ -158,7 +173,8 @@
             "IMF ",
             "AIIB "
         ],
-        "answer": "World Bank  "
+        "answer": "World Bank  ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has begun offering collateral free loans up to Rs.50 lakh for students heading out to top foreign universities?",
@@ -168,7 +184,8 @@
             "Indian Overseas Bank  ",
             "Kotak Mahindra Bank "
         ],
-        "answer": "State Bank of India "
+        "answer": "State Bank of India ",
+        "source": "Unknown"
     },
     {
         "question": "Which Air Force Station base of the Indian Air Force will host the 15th Aero India 2025?",
@@ -178,7 +195,8 @@
             "Western Air Command in New Delhi, Delhi ",
             "Eastern Air Command in Shillong, Meghalaya "
         ],
-        "answer": "Air Force Station, Yelahanka in Bengaluru, Karnataka "
+        "answer": "Air Force Station, Yelahanka in Bengaluru, Karnataka ",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of the 15th Aero India 2025?",
@@ -188,17 +206,19 @@
             "Conceive, Indigenize, Collaborate  ",
             "Sky is the place where our adventures begin "
         ],
-        "answer": "The Runway to a Billion Opportunities "
+        "answer": "The Runway to a Billion Opportunities ",
+        "source": "Unknown"
     },
     {
-        "question": "Consider the following statements regarding ‘e-student visa’ and ‘e-student-x visa’:  1. It is introduced by the Union Ministry of Home Affairs.  2. Under this initiative international students registered on the Study in India (SII) portal can access the e-student visa facility.  Which of the statements given above is/are correct?",
+        "question": "Consider the following statements regarding \u2018e-student visa\u2019 and \u2018e-student-x visa\u2019:  1. It is introduced by the Union Ministry of Home Affairs.  2. Under this initiative international students registered on the Study in India (SII) portal can access the e-student visa facility.  Which of the statements given above is/are correct?",
         "options": [
             "1 only ",
             "2 only ",
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Cowpea:  1. It is a leguminous crop which can tolerate droughts.  2. India is the largest producer and consumer of cowpea worldwide.  Which of the statements given above is/are correct?",
@@ -208,7 +228,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "On which one of the following rivers is the Polavaram Project being constructed?",
@@ -218,7 +239,8 @@
             "Tungabhadra River ",
             "Mahanadi River "
         ],
-        "answer": "Godavari River "
+        "answer": "Godavari River ",
+        "source": "Unknown"
     },
     {
         "question": "Which institution in India has developed indigenous technology to develop Paracetamol drugs?",
@@ -228,7 +250,8 @@
             "Bharat Biotech ",
             "Council of Scientific and Industrial Research (CSIR) "
         ],
-        "answer": "Council of Scientific and Industrial Research (CSIR) "
+        "answer": "Council of Scientific and Industrial Research (CSIR) ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the 40th Foundation Day of the Department of Scientific and Industrial Research (DSIR) held?",
@@ -238,7 +261,8 @@
             "Bengaluru  ",
             "Hyderabad "
         ],
-        "answer": "New Delhi  "
+        "answer": "New Delhi  ",
+        "source": "Unknown"
     },
     {
         "question": "India overtook which country to have the third-largest operational metro rail network in the world?",
@@ -248,7 +272,8 @@
             "Japan ",
             "France "
         ],
-        "answer": "Japan "
+        "answer": "Japan ",
+        "source": "Unknown"
     },
     {
         "question": "Which is the third country in the world to have more than 1000 km of operational metro rail network?",
@@ -258,37 +283,41 @@
             "Russia  ",
             "United States "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
-        "question": "‘Abdali Missile’, recently seen in the news, was developed by which one of the following countries?",
+        "question": "\u2018Abdali Missile\u2019, recently seen in the news, was developed by which one of the following countries?",
         "options": [
             "Iran ",
             "Turkey ",
             "Pakistan ",
             "North Korea "
         ],
-        "answer": "Pakistan "
+        "answer": "Pakistan ",
+        "source": "Unknown"
     },
     {
-        "question": "Consider the following statements regarding ‘Panchayat Se Parliament 2.0’, programme:  1. Its primary focus is to empower women representatives from Panchayati Raj institutions.  2. It will bring together all the women sarpanch across India.  Which of the statements given above is/are correct?",
+        "question": "Consider the following statements regarding \u2018Panchayat Se Parliament 2.0\u2019, programme:  1. Its primary focus is to empower women representatives from Panchayati Raj institutions.  2. It will bring together all the women sarpanch across India.  Which of the statements given above is/are correct?",
         "options": [
             "1 only ",
             "2 only ",
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
-        "question": "The ‘Banihal Bypass’ is located in:",
+        "question": "The \u2018Banihal Bypass\u2019 is located in:",
         "options": [
             "Himachal Pradesh ",
             "Uttarakhand ",
             "Sikkim ",
             "Jammu & Kashmir "
         ],
-        "answer": "Jammu & Kashmir "
+        "answer": "Jammu & Kashmir ",
+        "source": "Unknown"
     },
     {
         "question": "Which entity has partnered with Stride Ventures to help startups in funding?",
@@ -298,7 +327,8 @@
             "DPIIT  ",
             "NASSCOM "
         ],
-        "answer": "DPIIT  "
+        "answer": "DPIIT  ",
+        "source": "Unknown"
     },
     {
         "question": "What is the mascot of the 38th National Games?",
@@ -308,7 +338,8 @@
             "Serow ",
             "Sangai "
         ],
-        "answer": "Mauli "
+        "answer": "Mauli ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the book titled INDIAN GENIUS: The Meteoric Rise of Indians in America?",
@@ -318,7 +349,8 @@
             "Siddhartha Mukherjee ",
             "Jhumpa Lahiri "
         ],
-        "answer": "Meenakshi Ahamed "
+        "answer": "Meenakshi Ahamed ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the book titled \"How India Scaled Mt G20 : The Inside Story Of G20 Presidency\"",
@@ -328,7 +360,8 @@
             "Arvind Virmani ",
             "Amitabh Kant "
         ],
-        "answer": "Amitabh Kant "
+        "answer": "Amitabh Kant ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the book titled \"Karma's Child : The story of Indian Cinema's ultimate showman\"?",
@@ -338,7 +371,8 @@
             "Subhash Ghai and Suveen Sinha ",
             "Kiran Desai and Ravi Subramanian "
         ],
-        "answer": "Subhash Ghai and Suveen Sinha "
+        "answer": "Subhash Ghai and Suveen Sinha ",
+        "source": "Unknown"
     },
     {
         "question": "NTPC Renewable Energy Ltd has secured a ____ solar power project from Uttar Pradesh Power Corporation Ltd (UPPCL).",
@@ -348,6 +382,7 @@
             "1,500-MW ",
             "2,000-MW "
         ],
-        "answer": "1,000-MW "
+        "answer": "1,000-MW ",
+        "source": "Unknown"
     }
 ]

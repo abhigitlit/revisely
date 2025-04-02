@@ -7,7 +7,8 @@
             "New Delhi  ",
             "Patna "
         ],
-        "answer": "Patna "
+        "answer": "Patna ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Diamond Imprest Authorisation (DI",
@@ -18,7 +19,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Scheme, "
+        "answer": "Scheme, ",
+        "source": "Unknown"
     },
     {
         "question": "The historical Ratnagiri site, which was in the news recently, is located in which state?",
@@ -28,7 +30,8 @@
             "Bihar ",
             "Odisha "
         ],
-        "answer": "Odisha "
+        "answer": "Odisha ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been elected as the President of the Institute of Company Secretaries of India (ICSI) for 2025?",
@@ -38,7 +41,8 @@
             "Nikesh Arora ",
             "Jay Chaudhry "
         ],
-        "answer": "Dhananjay Shukla "
+        "answer": "Dhananjay Shukla ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been elected as the Vice-President of the Institute of Company Secretaries of India (ICSI) for 2025?",
@@ -48,7 +52,8 @@
             "Rajeev Suri ",
             "Pawan G Chandak "
         ],
-        "answer": "Pawan G Chandak "
+        "answer": "Pawan G Chandak ",
+        "source": "Unknown"
     },
     {
         "question": "Donald Trump has ordered the withdrawal of the United States of America from which international Organisation?",
@@ -58,7 +63,8 @@
             "International Labour Organization ",
             "United Nations Industrial Development Organization "
         ],
-        "answer": "World Health Organisation "
+        "answer": "World Health Organisation ",
+        "source": "Unknown"
     },
     {
         "question": "Donald Trump has ordered the withdrawal of the United States of America from which international Treaty?",
@@ -68,7 +74,8 @@
             "Ramsar Convention ",
             "Paris Agreement "
         ],
-        "answer": "Paris Agreement "
+        "answer": "Paris Agreement ",
+        "source": "Unknown"
     },
     {
         "question": "For how many days the Donald Trump government in the United States has halted foreign aid to foreign governments/organisations?",
@@ -78,7 +85,8 @@
             "90 days ",
             "60 days "
         ],
-        "answer": "90 days "
+        "answer": "90 days ",
+        "source": "Unknown"
     },
     {
         "question": "During the 3rd National Mining Ministers Conference, which state won the award for securing the first position for outstanding contribution in conducting the highest number of auctions in 2023-24?",
@@ -88,7 +96,8 @@
             "Maharashtra ",
             "Odisha "
         ],
-        "answer": "Rajasthan   "
+        "answer": "Rajasthan   ",
+        "source": "Unknown"
     },
     {
         "question": "With whom has the Defense Ministry recently signed an agreement for Bridge Laying Tank?",
@@ -98,17 +107,19 @@
             "Hindustan Aeronautics ",
             "L&T "
         ],
-        "answer": "Heavy Vehicles Factory "
+        "answer": "Heavy Vehicles Factory ",
+        "source": "Unknown"
     },
     {
         "question": "Maharashtra signed MoUs worth how much at the World Economic Forum 2025 in Davos?",
         "options": [
-            "₹4 lakh crore ",
-            "₹5.5 lakh crore ",
-            "₹6.25 lakh crore ",
-            "₹7 lakh crore "
+            "\u20b94 lakh crore ",
+            "\u20b95.5 lakh crore ",
+            "\u20b96.25 lakh crore ",
+            "\u20b97 lakh crore "
         ],
-        "answer": "₹6.25 lakh crore "
+        "answer": "\u20b96.25 lakh crore ",
+        "source": "Unknown"
     },
     {
         "question": "Where will the first International Olympic Research Conference be held?",
@@ -118,27 +129,30 @@
             "New Delhi ",
             "Gandhinagar "
         ],
-        "answer": "Gandhinagar "
+        "answer": "Gandhinagar ",
+        "source": "Unknown"
     },
     {
-        "question": "What is India’s current rank as a coffee producer globally?",
+        "question": "What is India\u2019s current rank as a coffee producer globally?",
         "options": [
             "6th ",
             "7th ",
             "8th ",
             "9th "
         ],
-        "answer": "7th "
+        "answer": "7th ",
+        "source": "Unknown"
     },
     {
-        "question": "Which country completed the world’s longest expressway tunnel?",
+        "question": "Which country completed the world\u2019s longest expressway tunnel?",
         "options": [
             "Japan ",
             "South Korea ",
             "India ",
             "China "
         ],
-        "answer": "China "
+        "answer": "China ",
+        "source": "Unknown"
     },
     {
         "question": "Which platform has partnered with DPIIT to provide skilled manpower to startups?",
@@ -148,7 +162,8 @@
             "Apna ",
             "Naukri "
         ],
-        "answer": "Apna "
+        "answer": "Apna ",
+        "source": "Unknown"
     },
     {
         "question": "What is the minimum support price for raw jute announced by the government of India for the 2025-26 agricultural season?",
@@ -158,7 +173,8 @@
             "Rs 4780 per quintal ",
             "Rs 5650 per quintal "
         ],
-        "answer": "Rs 5650 per quintal "
+        "answer": "Rs 5650 per quintal ",
+        "source": "Unknown"
     },
     {
         "question": "Which sub committee of the Union Cabinet approves the minimum support price for crops?",
@@ -168,17 +184,19 @@
             "Cabinet committee on Economic Affairs ",
             "Department of Economics and revenue "
         ],
-        "answer": "Cabinet committee on Economic Affairs "
+        "answer": "Cabinet committee on Economic Affairs ",
+        "source": "Unknown"
     },
     {
-        "question": "What is the name of India’s first AI-powered credit card expert introduced by CheQ?",
+        "question": "What is the name of India\u2019s first AI-powered credit card expert introduced by CheQ?",
         "options": [
             "Wisor ",
             "QPro ",
             "CardGenie ",
             "CheQuick "
         ],
-        "answer": "Wisor "
+        "answer": "Wisor ",
+        "source": "Unknown"
     },
     {
         "question": "By which year has Piyush Goyal set a target to achieve 10,000 GI tags?",
@@ -188,27 +206,30 @@
             "2029 ",
             "2030 "
         ],
-        "answer": "2030 "
+        "answer": "2030 ",
+        "source": "Unknown"
     },
     {
-        "question": "Who won the men’s singles title of the 2025 India Open Badminton Tournament?",
+        "question": "Who won the men\u2019s singles title of the 2025 India Open Badminton Tournament?",
         "options": [
             "Viktor Axelsen ",
             "Lee Cheuk Yiu ",
             "Kim Won-ho ",
             "Seo Seung-jae "
         ],
-        "answer": "Viktor Axelsen "
+        "answer": "Viktor Axelsen ",
+        "source": "Unknown"
     },
     {
-        "question": "Who won the women’s singles title of the 2025 India Open Badminton Tournament?",
+        "question": "Who won the women\u2019s singles title of the 2025 India Open Badminton Tournament?",
         "options": [
             "An Se-young ",
             "Pornpawee Chochuwong ",
             "Arisa Igarashi ",
             "Ayaka Sakuramoto "
         ],
-        "answer": "An Se-young "
+        "answer": "An Se-young ",
+        "source": "Unknown"
     },
     {
         "question": "What was the rank of India in the Global Firepower Index 2025?",
@@ -218,17 +239,19 @@
             "3rd ",
             "2nd "
         ],
-        "answer": "4th "
+        "answer": "4th ",
+        "source": "Unknown"
     },
     {
-        "question": "Which country’s military was ranked as the most powerful in the world by the Global Firepower Index 2025?",
+        "question": "Which country\u2019s military was ranked as the most powerful in the world by the Global Firepower Index 2025?",
         "options": [
             "USA ",
             "Russia  ",
             "China ",
             "India "
         ],
-        "answer": "USA "
+        "answer": "USA ",
+        "source": "Unknown"
     },
     {
         "question": "Which country was ranked at the bottom of the Global Firepower Index 2025?",
@@ -238,7 +261,8 @@
             "Bhutan  ",
             "Sri Lanka "
         ],
-        "answer": "Bhutan  "
+        "answer": "Bhutan  ",
+        "source": "Unknown"
     },
     {
         "question": "Which country will host the Chess World Cup 2025?",
@@ -248,7 +272,8 @@
             "USA ",
             "Norway "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
         "question": "Who has recently become India's top chess player?",
@@ -258,17 +283,19 @@
             "D Gukesh ",
             "Vidit Gujrathi "
         ],
-        "answer": "D Gukesh "
+        "answer": "D Gukesh ",
+        "source": "Unknown"
     },
     {
-        "question": "Which institution has recently released the “Dependency and Depopulation: Confronting the Consequences of New Demographic Reality” report?",
+        "question": "Which institution has recently released the \u201cDependency and Depopulation: Confronting the Consequences of New Demographic Reality\u201d report?",
         "options": [
             "World Health Organization ",
             "International Atomic Energy Agency ",
             "International Labour Organization ",
             "World Data Lab  "
         ],
-        "answer": "World Data Lab  "
+        "answer": "World Data Lab  ",
+        "source": "Unknown"
     },
     {
         "question": "According to the World Data Lab recent report, India will become the second largest global consumption economy on the purchasing power parity basis by which year?",
@@ -278,7 +305,8 @@
             "2050 ",
             "2070 "
         ],
-        "answer": "2050 "
+        "answer": "2050 ",
+        "source": "Unknown"
     },
     {
         "question": "Which scheme of the government of India completed 10 years on 22 January 2025?",
@@ -288,7 +316,8 @@
             "Pradhan Mantri Street Vendor Atmanirbhar Nidhi ",
             "Beti Bachao Beti Padhao "
         ],
-        "answer": "Beti Bachao Beti Padhao "
+        "answer": "Beti Bachao Beti Padhao ",
+        "source": "Unknown"
     },
     {
         "question": "What is the share of the state government in the funding of the Beti Bachao Beti Padhao Scheme?",
@@ -298,7 +327,8 @@
             "70% ",
             "100% "
         ],
-        "answer": "100% "
+        "answer": "100% ",
+        "source": "Unknown"
     },
     {
         "question": "The Beti Bachao, Beti Padhao (BBBP) scheme was launched to control which of the following declining options?",
@@ -308,7 +338,8 @@
             "Education level in females ",
             "Health issues in female child "
         ],
-        "answer": "Child Sex Ratio "
+        "answer": "Child Sex Ratio ",
+        "source": "Unknown"
     },
     {
         "question": "Prabowo Subianto, the chief guest of Republic Day 2025, is the President of which country?",
@@ -318,7 +349,8 @@
             "Singapore ",
             "Indonesia "
         ],
-        "answer": "Indonesia "
+        "answer": "Indonesia ",
+        "source": "Unknown"
     },
     {
         "question": "Who was sworn-in as the Chief Justice of Delhi High Court?",
@@ -328,7 +360,8 @@
             "Justice Ajay Kumar Sinha ",
             "Justice Deepak Mishra "
         ],
-        "answer": "Justice Devendra Kumar Upadhyay "
+        "answer": "Justice Devendra Kumar Upadhyay ",
+        "source": "Unknown"
     },
     {
         "question": "Mount Ibu is an active volcano located in which country?",
@@ -338,6 +371,7 @@
             "Ecuador ",
             "Indonesia "
         ],
-        "answer": "Indonesia "
+        "answer": "Indonesia ",
+        "source": "Unknown"
     }
 ]

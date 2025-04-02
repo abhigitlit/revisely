@@ -1,6 +1,6 @@
 [
     {
-        "question": "Which state introduced India’s first Global Capability Centers (GCC) Policy 2025?",
+        "question": "Which state introduced India\u2019s first Global Capability Centers (GCC) Policy 2025?",
         "options": [
             "Policy 2025? ",
             "Maharashtra ",
@@ -8,7 +8,8 @@
             "Uttar Pradesh ",
             "Madhya Pradesh "
         ],
-        "answer": "Uttar Pradesh "
+        "answer": "Uttar Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the statue of Thiruvalluvar unveiled?",
@@ -18,7 +19,8 @@
             "Sri Lanka ",
             "United States "
         ],
-        "answer": "Philippines "
+        "answer": "Philippines ",
+        "source": "Unknown"
     },
     {
         "question": "Under the AI for Entrepreneurship initiative launched by the Government of India, how many lakh youths are targeted to be trained?",
@@ -28,7 +30,8 @@
             "3 lakh ",
             "4 lakh "
         ],
-        "answer": "1 lakh "
+        "answer": "1 lakh ",
+        "source": "Unknown"
     },
     {
         "question": "Who was recently honored with the title of Honorary Knighthood in the UK?",
@@ -38,7 +41,8 @@
             "N. Chandrasekaran ",
             "Arvind Kejriwal "
         ],
-        "answer": "N. Chandrasekaran "
+        "answer": "N. Chandrasekaran ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements with respect to Agricultural and Processed Food Products Export Development Authority (APED",
@@ -49,7 +53,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Project Waterworth:  1. It uses AI to enhance subsea cable infrastructure to improve global connectivity.  2. It is an initiative of the World Economic Forum to improve digital inclusion across the world.  Which of the statements given above is/are correct?",
@@ -59,7 +64,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "Which company is behind Project Waterworth which involves laying a 50,000 km undersea cable?",
@@ -69,7 +75,8 @@
             "Amazon ",
             "Microsoft "
         ],
-        "answer": "Meta "
+        "answer": "Meta ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has received RBI approval to establish a branch in GIFT City?",
@@ -79,27 +86,30 @@
             "Bank of Maharashtra ",
             "State Bank of India "
         ],
-        "answer": "Bank of Maharashtra "
+        "answer": "Bank of Maharashtra ",
+        "source": "Unknown"
     },
     {
-        "question": "Which submersible developed under India’s Deep Ocean Mission recently passed its wet tests?",
+        "question": "Which submersible developed under India\u2019s Deep Ocean Mission recently passed its wet tests?",
         "options": [
             "Samudrayan-1000 ",
             "Oceanus-500 ",
             "Matsya-6000 ",
             "Aquavision-7000 "
         ],
-        "answer": "Matsya-6000 "
+        "answer": "Matsya-6000 ",
+        "source": "Unknown"
     },
     {
-        "question": "Which bank launched the ‘SIB Quick FD’ for seamless digital investment?",
+        "question": "Which bank launched the \u2018SIB Quick FD\u2019 for seamless digital investment?",
         "options": [
             "South Indian Bank ",
             "HDFC Bank ",
             "ICICI Bank ",
             "Axis Bank "
         ],
-        "answer": "South Indian Bank "
+        "answer": "South Indian Bank ",
+        "source": "Unknown"
     },
     {
         "question": "Which country won its first-ever Asia Mixed Team Badminton Championship title by defeating China 3-1?",
@@ -109,7 +119,8 @@
             "Indonesia ",
             "Japan "
         ],
-        "answer": "Indonesia "
+        "answer": "Indonesia ",
+        "source": "Unknown"
     },
     {
         "question": "What is the primary health hazard found in the Ganga River at Prayagraj during the Maha Kumbh Mela?",
@@ -119,7 +130,8 @@
             "Salmonella ",
             "Coliform Bacteria "
         ],
-        "answer": "Faecal Bacteria "
+        "answer": "Faecal Bacteria ",
+        "source": "Unknown"
     },
     {
         "question": "To which country did India send its first-ever sea shipment of pomegranates?",
@@ -129,7 +141,8 @@
             "United Kingdom ",
             "Canada "
         ],
-        "answer": "Australia "
+        "answer": "Australia ",
+        "source": "Unknown"
     },
     {
         "question": "Which state has launched the G-SAFAL initiative to uplift underprivileged women?",
@@ -139,7 +152,8 @@
             "Tamil Nadu ",
             "Uttar Pradesh "
         ],
-        "answer": "Gujarat "
+        "answer": "Gujarat ",
+        "source": "Unknown"
     },
     {
         "question": "In which country is the headquarters of the International Telecommunication Union (ITU) located?",
@@ -149,7 +163,8 @@
             "Japan ",
             "Switzerland "
         ],
-        "answer": "Switzerland "
+        "answer": "Switzerland ",
+        "source": "Unknown"
     },
     {
         "question": "Where will the 17th BRICS Summit be hosted in 2025?",
@@ -159,7 +174,8 @@
             "New Delhi ",
             "Moscow "
         ],
-        "answer": "Rio de Janeiro "
+        "answer": "Rio de Janeiro ",
+        "source": "Unknown"
     },
     {
         "question": "On which date is Global Tourism Resilience Day observed annually?",
@@ -169,17 +185,19 @@
             "February 16 ",
             "February 17 "
         ],
-        "answer": "February 17 "
+        "answer": "February 17 ",
+        "source": "Unknown"
     },
     {
-        "question": "Which bank pledged ₹104 crore to Ashoka University to enhance its research programs?",
+        "question": "Which bank pledged \u20b9104 crore to Ashoka University to enhance its research programs?",
         "options": [
             "HDFC Bank ",
             "ICICI Bank ",
             "Axis Bank ",
             "State Bank of India "
         ],
-        "answer": "Axis Bank "
+        "answer": "Axis Bank ",
+        "source": "Unknown"
     },
     {
         "question": "Who has won the 2024 BBC's Indian Sportwomen of the Year Award?",
@@ -189,7 +207,8 @@
             "PV Sindhu ",
             "Koneru Humpey "
         ],
-        "answer": "Manu Bhaker "
+        "answer": "Manu Bhaker ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been honoured with the 2024 BBC Lifetime Achievement Award?",
@@ -199,7 +218,8 @@
             "Anju Bobby George ",
             "Mithali Raj "
         ],
-        "answer": "Mithali Raj "
+        "answer": "Mithali Raj ",
+        "source": "Unknown"
     },
     {
         "question": "Who won the 2024 BBC Indian Para-sportswoman of the Year award?",
@@ -209,7 +229,8 @@
             "Manisha Ramadass ",
             "Deepa Malik "
         ],
-        "answer": "Avani Lekhara "
+        "answer": "Avani Lekhara ",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following naval vessels was used for Navika Sagar Parikrama?",
@@ -219,7 +240,8 @@
             "INS Kavaratti ",
             "INS Nilgiri "
         ],
-        "answer": "INSV Tarini "
+        "answer": "INSV Tarini ",
+        "source": "Unknown"
     },
     {
         "question": "On which river did Union Minister Sarbananda Sonowal recently inaugurate an inland waterway terminal?",
@@ -229,7 +251,8 @@
             "Ganga ",
             "Brahmaputra "
         ],
-        "answer": "Brahmaputra "
+        "answer": "Brahmaputra ",
+        "source": "Unknown"
     },
     {
         "question": "Caspian Pipeline Consortium (CPC) is a project consisting of a crude oil pipeline that connect which of the following countries?",
@@ -240,7 +263,8 @@
             "Kazakhstan and Russia ",
             "Azerbaijan and Russia "
         ],
-        "answer": "Kazakhstan and Iran "
+        "answer": "Kazakhstan and Iran ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Soil Health Card Scheme:  1. The scheme provides farmers with a detailed analysis of pH, and organic carbon of the soil.  2. Under the scheme, soil samples are collected once every five years.  Which of the statements given above is/are correct?",
@@ -250,7 +274,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Periodic Labour Force Survey (PLFS):  1. The PLFS estimates Unemployment Rate in the short time interval of three months.  2. It is conducted by the National Sample Survey Office (NSSO) .  Which of the statements given above is/are correct?",
@@ -260,7 +285,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Which institutions signed an MoU to strengthen science and technology cooperation between India and Nepal?",
@@ -270,17 +296,19 @@
             "DRDO and NAST ",
             "NASA and ISRO "
         ],
-        "answer": "CSIR and NAST "
+        "answer": "CSIR and NAST ",
+        "source": "Unknown"
     },
     {
-        "question": "Where was India’s first open-air art wall museum inaugurated?",
+        "question": "Where was India\u2019s first open-air art wall museum inaugurated?",
         "options": [
             "New Delhi ",
             "Mumbai ",
             "Jaipur ",
             "Guwahati "
         ],
-        "answer": "New Delhi "
+        "answer": "New Delhi ",
+        "source": "Unknown"
     },
     {
         "question": "With which institutions has TRIFED formed a strategic partnership to facilitate tribal businesses?",
@@ -290,7 +318,8 @@
             "FSSAI, FICCI, MSME ",
             "SEBI, RBI, Tribes India "
         ],
-        "answer": "Meesho, IFCA, MGIRI "
+        "answer": "Meesho, IFCA, MGIRI ",
+        "source": "Unknown"
     },
     {
         "question": "Which country is set to acquire a $200 million Akash missile system from India?",
@@ -300,7 +329,8 @@
             "Bangladesh ",
             "Philippines "
         ],
-        "answer": "Philippines "
+        "answer": "Philippines ",
+        "source": "Unknown"
     },
     {
         "question": "Which space agency's mission, Euclid, discovered a stunning Einstein ring near galaxy NGC 6505?",
@@ -310,7 +340,8 @@
             "ISRO ",
             "CNSA "
         ],
-        "answer": "ESA "
+        "answer": "ESA ",
+        "source": "Unknown"
     },
     {
         "question": "Where was India showcased as the theme country for the first time at the 27th Annual New Year Celebration?",
@@ -320,7 +351,8 @@
             "Washington ",
             "Chicago "
         ],
-        "answer": "Washington "
+        "answer": "Washington ",
+        "source": "Unknown"
     },
     {
         "question": "Who set the new half-marathon world record by running in under 57 minutes?",
@@ -330,7 +362,8 @@
             "Eliud Kipchoge ",
             "Haile Gebrselassie "
         ],
-        "answer": "Jacob Kiplimo "
+        "answer": "Jacob Kiplimo ",
+        "source": "Unknown"
     },
     {
         "question": "Which state approved the Industrial Park & Green Energy Policy 2025?",
@@ -340,7 +373,8 @@
             "Kerala ",
             "Assam "
         ],
-        "answer": "Assam "
+        "answer": "Assam ",
+        "source": "Unknown"
     },
     {
         "question": "When will the new Income Tax Bill, 2025, take effect?",
@@ -350,18 +384,20 @@
             "April 1, 2025 ",
             "March 31, 2025 "
         ],
-        "answer": "April 1, 2026 "
+        "answer": "April 1, 2026 ",
+        "source": "Unknown"
     },
     {
         "question": "The Indian government has extended the Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASH",
         "options": [
-            "Scheme till –? ",
+            "Scheme till \u2013? ",
             "31st March 2026 ",
             "31st March 2028 ",
             "31st March 2029 ",
             "31st March 2030 "
         ],
-        "answer": "Scheme till –? "
+        "answer": "Scheme till \u2013? ",
+        "source": "Unknown"
     },
     {
         "question": "With which country has India signed a memorandum of understanding in February 2025 for the mining and exploration of lithium minerals?",
@@ -371,6 +407,7 @@
             "Indonesia  ",
             "Argentina "
         ],
-        "answer": "Argentina "
+        "answer": "Argentina ",
+        "source": "Unknown"
     }
 ]

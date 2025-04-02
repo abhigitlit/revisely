@@ -2,12 +2,13 @@
     {
         "question": "How much dividend did NSIC pay for FY24?",
         "options": [
-            "₹37.97 crore",
-            "₹35 crore",
-            "₹40 crore",
-            "₹38 crore"
+            "\u20b937.97 crore",
+            "\u20b935 crore",
+            "\u20b940 crore",
+            "\u20b938 crore"
         ],
-        "answer": "₹37.97 crore"
+        "answer": "\u20b937.97 crore",
+        "source": "Unknown"
     },
     {
         "question": "What is the number of credit cards issued by SBI Card?",
@@ -17,7 +18,8 @@
             "Over 25 million",
             "Over 18 million"
         ],
-        "answer": "Over 20 million"
+        "answer": "Over 20 million",
+        "source": "Unknown"
     },
     {
         "question": "Who won the Aster Guardians Global Nursing Award 2024?",
@@ -27,7 +29,8 @@
             "Julia Downing",
             "Lilian Pakhomova"
         ],
-        "answer": "Maria Victoria Juan"
+        "answer": "Maria Victoria Juan",
+        "source": "Unknown"
     },
     {
         "question": "What is the date of International Day for the Abolition of Slavery?",
@@ -37,7 +40,8 @@
             "December 3",
             "December 4"
         ],
-        "answer": "December 2"
+        "answer": "December 2",
+        "source": "Unknown"
     },
     {
         "question": "When is World AIDS Day observed?",
@@ -47,7 +51,8 @@
             "November 30",
             "December 3"
         ],
-        "answer": "December 1"
+        "answer": "December 1",
+        "source": "Unknown"
     },
     {
         "question": "What is the date of International Day of Persons with Disabilities?",
@@ -57,7 +62,8 @@
             "December 4",
             "December 5"
         ],
-        "answer": "December 3"
+        "answer": "December 3",
+        "source": "Unknown"
     },
     {
         "question": "When is Indian Navy Day celebrated?",
@@ -67,7 +73,8 @@
             "December 5",
             "December 6"
         ],
-        "answer": "December 4"
+        "answer": "December 4",
+        "source": "Unknown"
     },
     {
         "question": "What is the date of World Soil Day?",
@@ -77,7 +84,8 @@
             "December 6",
             "December 7"
         ],
-        "answer": "December 5"
+        "answer": "December 5",
+        "source": "Unknown"
     },
     {
         "question": "When is International Volunteer Day?",
@@ -87,7 +95,8 @@
             "December 6",
             "December 7"
         ],
-        "answer": "December 5"
+        "answer": "December 5",
+        "source": "Unknown"
     },
     {
         "question": "What is the date of Mahaparinirvan Diwas?",
@@ -97,7 +106,8 @@
             "December 7",
             "December 8"
         ],
-        "answer": "December 6"
+        "answer": "December 6",
+        "source": "Unknown"
     },
     {
         "question": "When is Armed Forces Flag Day observed?",
@@ -107,7 +117,8 @@
             "December 8",
             "December 9"
         ],
-        "answer": "December 7"
+        "answer": "December 7",
+        "source": "Unknown"
     },
     {
         "question": "What global chess rating did Arjun Erigaisi join?",
@@ -117,7 +128,8 @@
             "2850 ELO",
             "2700 ELO"
         ],
-        "answer": "2800 ELO"
+        "answer": "2800 ELO",
+        "source": "Unknown"
     },
     {
         "question": "Who won the Junior Hockey Asia Cup?",
@@ -127,7 +139,8 @@
             "India (defeating South Korea 5-3)",
             "South Korea (defeating India 5-3)"
         ],
-        "answer": "India (defeating Pakistan 5-3)"
+        "answer": "India (defeating Pakistan 5-3)",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the event celebrating youth innovation in Battery Technology?",
@@ -137,7 +150,8 @@
             "InnovateHer 2024",
             "FutureTech 2024"
         ],
-        "answer": "SheSTEM 2024"
+        "answer": "SheSTEM 2024",
+        "source": "Unknown"
     },
     {
         "question": "Which actor announced retirement from acting?",
@@ -147,7 +161,8 @@
             "Aamir Khan",
             "Akshay Kumar"
         ],
-        "answer": "Vikrant Massey"
+        "answer": "Vikrant Massey",
+        "source": "Unknown"
     },
     {
         "question": "What disease did India declare as notifiable to reduce mortality?",
@@ -157,7 +172,8 @@
             "Tuberculosis",
             "Malaria"
         ],
-        "answer": "Snakebite"
+        "answer": "Snakebite",
+        "source": "Unknown"
     },
     {
         "question": "Which global drug policy-making body will India chair?",
@@ -167,7 +183,8 @@
             "International Narcotics Control Board (INCB)",
             "United Nations Office on Drugs and Crime (UNODC)"
         ],
-        "answer": "68th UN Commission on Narcotic Drugs (CND)"
+        "answer": "68th UN Commission on Narcotic Drugs (CND)",
+        "source": "Unknown"
     },
     {
         "question": "What is the aim for snakebite deaths reduction by 2030?",
@@ -177,7 +194,8 @@
             "Eliminating completely",
             "Reducing by 75%"
         ],
-        "answer": "Halving the mortality rate"
+        "answer": "Halving the mortality rate",
+        "source": "Unknown"
     },
     {
         "question": "What is the new portal launched for legal metrology?",
@@ -187,7 +205,8 @@
             "LegalMetrologyOnline",
             "MeasureRight Portal"
         ],
-        "answer": "eMaap Portal"
+        "answer": "eMaap Portal",
+        "source": "Unknown"
     },
     {
         "question": "Which state announced a new farmer subsidy scheme?",
@@ -197,7 +216,8 @@
             "Karnataka (PM-KISAN)",
             "Maharashtra (Krishi Sanman Nidhi)"
         ],
-        "answer": "Telangana (Rythu Bharosa)"
+        "answer": "Telangana (Rythu Bharosa)",
+        "source": "Unknown"
     },
     {
         "question": "What is the date of International Civil Aviation Day?",
@@ -207,7 +227,8 @@
             "December 8",
             "December 9"
         ],
-        "answer": "December 7"
+        "answer": "December 7",
+        "source": "Unknown"
     },
     {
         "question": "When is World Meditation Day declared by UNGA?",
@@ -217,7 +238,8 @@
             "December 11",
             "December 20"
         ],
-        "answer": "December 21"
+        "answer": "December 21",
+        "source": "Unknown"
     },
     {
         "question": "Who became Sri Lanka's second female Chief Justice?",
@@ -227,7 +249,8 @@
             "K. Sripavan",
             "Mohan Peiris"
         ],
-        "answer": "Murdu Fernando"
+        "answer": "Murdu Fernando",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the drone delivered by Adani to the Indian Navy?",
@@ -237,7 +260,8 @@
             "Netra-10",
             "Surya-10"
         ],
-        "answer": "Drishti-10"
+        "answer": "Drishti-10",
+        "source": "Unknown"
     },
     {
         "question": "Which sports tournament did PV Sindhu win in 2024?",
@@ -247,7 +271,8 @@
             "BWF World Championships 2024",
             "India Open 2024"
         ],
-        "answer": "Syed Modi 2024"
+        "answer": "Syed Modi 2024",
+        "source": "Unknown"
     },
     {
         "question": "What is the government initiative to modernize the Public Distribution System?",
@@ -257,7 +282,8 @@
             "Modern PDS",
             "Food Security Mission"
         ],
-        "answer": "Anna 'Chakra'"
+        "answer": "Anna 'Chakra'",
+        "source": "Unknown"
     },
     {
         "question": "What percentage improvement did girls' secondary education see?",
@@ -267,7 +293,8 @@
             "80%",
             "82%"
         ],
-        "answer": "79.4% Gross Enrollment Ratio"
+        "answer": "79.4% Gross Enrollment Ratio",
+        "source": "Unknown"
     },
     {
         "question": "Which military drill between India and Malaysia focuses on jungle terrain?",
@@ -277,7 +304,8 @@
             "Garuda Shakti",
             "Samudra Shakti"
         ],
-        "answer": "Harimau Shakti 2024"
+        "answer": "Harimau Shakti 2024",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the cybersecurity hub Google will establish in Hyderabad?",
@@ -287,7 +315,8 @@
             "Cybersecurity Excellence Center",
             "Google Security Center"
         ],
-        "answer": "Safety Engineering Centre"
+        "answer": "Safety Engineering Centre",
+        "source": "Unknown"
     },
     {
         "question": "What is the new digital literacy milestone in rural India?",
@@ -297,7 +326,8 @@
             "7 crore",
             "6.5 crore"
         ],
-        "answer": "6.39 crore individuals trained"
+        "answer": "6.39 crore individuals trained",
+        "source": "Unknown"
     },
     {
         "question": "Which article did the Supreme Court invoke to grant permanent commission to a woman Army officer?",
@@ -307,7 +337,8 @@
             "Article 32",
             "Article 21"
         ],
-        "answer": "Article 142"
+        "answer": "Article 142",
+        "source": "Unknown"
     },
     {
         "question": "Which bill aims to simplify the legal framework for Indian Railways?",
@@ -317,7 +348,8 @@
             "Railway Modernization Bill 2024",
             "Railway Safety Bill 2024"
         ],
-        "answer": "Railways (Amendment) Bill 2024"
+        "answer": "Railways (Amendment) Bill 2024",
+        "source": "Unknown"
     },
     {
         "question": "By what year does India plan to triple its atomic power capacity?",
@@ -327,7 +359,8 @@
             "2032",
             "2035"
         ],
-        "answer": "2031"
+        "answer": "2031",
+        "source": "Unknown"
     },
     {
         "question": "Which technology was trialed to improve water quality in Delhi Zoo?",
@@ -337,17 +370,19 @@
             "UV Filtration",
             "Ozone Treatment"
         ],
-        "answer": "Nano Bubble Technology"
+        "answer": "Nano Bubble Technology",
+        "source": "Unknown"
     },
     {
         "question": "What is the amount of annual farmer subsidy announced in Telangana?",
         "options": [
-            "₹15,000",
-            "₹12,000",
-            "₹16,000",
-            "₹14,000"
+            "\u20b915,000",
+            "\u20b912,000",
+            "\u20b916,000",
+            "\u20b914,000"
         ],
-        "answer": "₹15,000"
+        "answer": "\u20b915,000",
+        "source": "Unknown"
     },
     {
         "question": "Which foundation received FCRA licenses for foreign funding?",
@@ -357,6 +392,7 @@
             "Oxfam India and Care India",
             "Save the Children India and Pratham"
         ],
-        "answer": "CNI and USIN Foundation"
+        "answer": "CNI and USIN Foundation",
+        "source": "Unknown"
     }
 ]

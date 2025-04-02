@@ -7,7 +7,8 @@
             "Chennai",
             "New Delhi"
         ],
-        "answer": "Bengaluru"
+        "answer": "Bengaluru",
+        "source": "Unknown"
     },
     {
         "question": "What rank did India achieve in the Henley Passport Index 2025?",
@@ -17,7 +18,8 @@
             "85th",
             "90th"
         ],
-        "answer": "85th"
+        "answer": "85th",
+        "source": "Unknown"
     },
     {
         "question": "How many countries are participating in the Kho Kho World Cup 2025?",
@@ -27,7 +29,8 @@
             "24",
             "28"
         ],
-        "answer": "24"
+        "answer": "24",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state recently launched the \"PARTH Yojana\"?",
@@ -37,7 +40,8 @@
             "Madhya Pradesh",
             "Gujarat"
         ],
-        "answer": "Madhya Pradesh"
+        "answer": "Madhya Pradesh",
+        "source": "Unknown"
     },
     {
         "question": "What is the new lending restriction update by RBI for Asirvad Micro Finance?",
@@ -47,27 +51,30 @@
             "Lending restrictions were lifted",
             "New lending restrictions imposed"
         ],
-        "answer": "Lending restrictions were lifted"
+        "answer": "Lending restrictions were lifted",
+        "source": "Unknown"
     },
     {
-        "question": "Which country has been declared the world's most polluted city in 2024 with PM2.5 levels at 266 µg/m³?",
+        "question": "Which country has been declared the world's most polluted city in 2024 with PM2.5 levels at 266 \u00b5g/m\u00b3?",
         "options": [
             "Dhaka, Bangladesh",
             "Hanoi, Vietnam",
             "Kabul, Afghanistan",
             "Ulaanbaatar, Mongolia"
         ],
-        "answer": "Hanoi, Vietnam."
+        "answer": "Hanoi, Vietnam.",
+        "source": "Unknown"
     },
     {
         "question": "Who stepped down as Canadian Prime Minister after nearly a decade in power?",
         "options": [
-            "Jean Chrétien",
+            "Jean Chr\u00e9tien",
             "Stephen Harper",
             "Justin Trudeau",
             "Paul Martin"
         ],
-        "answer": "Justin Trudeau."
+        "answer": "Justin Trudeau.",
+        "source": "Unknown"
     },
     {
         "question": "What milestone did India achieve in metro rail, becoming the world's 3rd largest network?",
@@ -77,7 +84,8 @@
             "Surpassing 1,000 km of metro rail network.",
             "Surpassing 1,200 km of metro rail network."
         ],
-        "answer": "Surpassing 1,000 km of metro rail network."
+        "answer": "Surpassing 1,000 km of metro rail network.",
+        "source": "Unknown"
     },
     {
         "question": "Which tunnel, enhancing Kashmir-Ladakh connectivity, is set to be inaugurated by PM Modi?",
@@ -87,7 +95,8 @@
             "Z-Morh Tunnel",
             "Banihal-Qazigund Tunnel"
         ],
-        "answer": "Z-Morh Tunnel."
+        "answer": "Z-Morh Tunnel.",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of Aero India 2025, scheduled from February 10-14 in Bengaluru?",
@@ -97,7 +106,8 @@
             "Indian Aviation: A New Horizon",
             "Defence and Aerospace: Self-Reliance"
         ],
-        "answer": "\"The Runway to a Billion Opportunities.\""
+        "answer": "\"The Runway to a Billion Opportunities.\"",
+        "source": "Unknown"
     },
     {
         "question": "Who has been elected as the new President of the Athletics Federation of India (AFI)?",
@@ -107,7 +117,8 @@
             "Suresh Kalmadi",
             "Bahadur Singh Sagoo"
         ],
-        "answer": "Bahadur Singh Sagoo."
+        "answer": "Bahadur Singh Sagoo.",
+        "source": "Unknown"
     },
     {
         "question": "Which initiative has Amit Shah recently launched for real-time INTERPOL coordination in India?",
@@ -117,7 +128,8 @@
             "BHARATPOL Portal",
             "National Crime Network"
         ],
-        "answer": "BHARATPOL Portal."
+        "answer": "BHARATPOL Portal.",
+        "source": "Unknown"
     },
     {
         "question": "What was the rank of India in the 2025 Henley Passport Index?",
@@ -127,7 +139,8 @@
             "85th",
             "88th"
         ],
-        "answer": "85th."
+        "answer": "85th.",
+        "source": "Unknown"
     },
     {
         "question": "Who has been confirmed as the Chief Guest for India's 2025 Republic Day parade?",
@@ -137,7 +150,8 @@
             "Prabowo Subianto, Indonesian President.",
             "Yoon Suk Yeol"
         ],
-        "answer": "Prabowo Subianto, Indonesian President."
+        "answer": "Prabowo Subianto, Indonesian President.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state hosted the first coastal and wader bird census in Jamnagar?",
@@ -147,7 +161,8 @@
             "West Bengal",
             "Odisha"
         ],
-        "answer": "Gujarat."
+        "answer": "Gujarat.",
+        "source": "Unknown"
     },
     {
         "question": "What significant GDP growth rate has NSO projected for India for the year 2024-25?",
@@ -157,17 +172,19 @@
             "6.8%",
             "7.2%"
         ],
-        "answer": "6.4%."
+        "answer": "6.4%.",
+        "source": "Unknown"
     },
     {
         "question": "What is the government's capital investment allocation for developing inland waterways over five years?",
         "options": [
-            "₹40,000 crore.",
-            "₹50,000 crore.",
-            "₹60,000 crore.",
-            "₹75,000 crore."
+            "\u20b940,000 crore.",
+            "\u20b950,000 crore.",
+            "\u20b960,000 crore.",
+            "\u20b975,000 crore."
         ],
-        "answer": "₹ 50,000 crore."
+        "answer": "\u20b9 50,000 crore.",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the new ISRO Chief and Secretary of Space?",
@@ -177,7 +194,8 @@
             "Dr. V. Narayanan.",
             "Ritu Karidhal"
         ],
-        "answer": "Dr. V. Narayanan."
+        "answer": "Dr. V. Narayanan.",
+        "source": "Unknown"
     },
     {
         "question": "In which state was India's first organic fisheries cluster launched?",
@@ -187,7 +205,8 @@
             "Arunachal Pradesh",
             "Tamil Nadu"
         ],
-        "answer": "Sikkim."
+        "answer": "Sikkim.",
+        "source": "Unknown"
     },
     {
         "question": "Which country signed an MoU with India to strengthen resource security in copper and coking coal sectors?",
@@ -197,7 +216,8 @@
             "Russia",
             "South Africa"
         ],
-        "answer": "Mongolia."
+        "answer": "Mongolia.",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the tourist train launched under Pravasi Teerth Darshan Yojana?",
@@ -207,7 +227,8 @@
             "Golden Chariot",
             "Mahaparinirvan Express"
         ],
-        "answer": "Pravasi Bharatiya Express."
+        "answer": "Pravasi Bharatiya Express.",
+        "source": "Unknown"
     },
     {
         "question": "Which nation has implemented new sanctions against entities aiding Russia in the Ukraine war?",
@@ -217,7 +238,8 @@
             "Germany",
             "France"
         ],
-        "answer": "Japan."
+        "answer": "Japan.",
+        "source": "Unknown"
     },
     {
         "question": "What is the special initiative launched by MBMC and NITI Aayog to empower women in traditional snack production?",
@@ -227,7 +249,8 @@
             "Swashakti Program",
             "Mahila Udyam Nidhi"
         ],
-        "answer": "Faral Sakhi Initiative."
+        "answer": "Faral Sakhi Initiative.",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as India's new Revenue Secretary?",
@@ -237,7 +260,8 @@
             "T. Pandey.",
             "Sanjay Malhotra"
         ],
-        "answer": "T. Pandey."
+        "answer": "T. Pandey.",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian athlete was honored with the US Presidential Medal of Freedom?",
@@ -247,7 +271,8 @@
             "LeBron James",
             "Serena Williams"
         ],
-        "answer": "Lionel Messi."
+        "answer": "Lionel Messi.",
+        "source": "Unknown"
     },
     {
         "question": "What growth forecast for India in FY25-26 was predicted by the Bank of Baroda report?",
@@ -257,7 +282,8 @@
             "6.6%-6.8%.",
             "6.9%-7.1%."
         ],
-        "answer": "6.6%-6.8%."
+        "answer": "6.6%-6.8%.",
+        "source": "Unknown"
     },
     {
         "question": "Which high-value insurance was launched for Prayagraj's Kumbh Mela 2025?",
@@ -267,7 +293,8 @@
             "Prayagraj Teerth Bima",
             "Shahi Snan Bima"
         ],
-        "answer": "Maha Kumbh Mela Insurance."
+        "answer": "Maha Kumbh Mela Insurance.",
+        "source": "Unknown"
     },
     {
         "question": "Where is the theme park dedicated to former President Pranab Mukherjee being set up?",
@@ -277,7 +304,8 @@
             "Rajghat Complex, Delhi.",
             "Science City, Kolkata"
         ],
-        "answer": "Rajghat Complex, Delhi."
+        "answer": "Rajghat Complex, Delhi.",
+        "source": "Unknown"
     },
     {
         "question": "What major exhibition is scheduled to be held in Greater Noida from January 8-10, 2025?",
@@ -287,7 +315,8 @@
             "India International Trade Fair 2025",
             "Plastindia 2025"
         ],
-        "answer": "Indusfood 2025."
+        "answer": "Indusfood 2025.",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of Pravasi Bharatiya Divas 2025?",
@@ -297,7 +326,8 @@
             "Indian Diaspora: Partners in India's Growth",
             "\"Diaspora's Contribution to a Viksit Bharat.\""
         ],
-        "answer": "\"Diaspora's Contribution to a Viksit Bharat.\""
+        "answer": "\"Diaspora's Contribution to a Viksit Bharat.\"",
+        "source": "Unknown"
     },
     {
         "question": "Who was elected as the new President of Lebanon, ending a two-year political vacuum?",
@@ -307,7 +337,8 @@
             "Hassan Nasrallah",
             "General Joseph Aoun."
         ],
-        "answer": "General Joseph Aoun."
+        "answer": "General Joseph Aoun.",
+        "source": "Unknown"
     },
     {
         "question": "What initiative did PM Modi inaugurate to promote rural innovation and self-reliance?",
@@ -317,7 +348,8 @@
             "Grameen Bharat Mahotsav.",
             "Aajeevika National Rural Livelihoods Mission"
         ],
-        "answer": "Grameen Bharat Mahotsav."
+        "answer": "Grameen Bharat Mahotsav.",
+        "source": "Unknown"
     },
     {
         "question": "What is the fiscal deficit target for FY25 according to the government?",
@@ -327,7 +359,8 @@
             "4.9% of GDP.",
             "4.5% of GDP"
         ],
-        "answer": "4.9% of GDP."
+        "answer": "4.9% of GDP.",
+        "source": "Unknown"
     },
     {
         "question": "Who was announced as the International Ambassador for the 20th Tata Mumbai Marathon?",
@@ -337,6 +370,7 @@
             "Usain Bolt",
             "Paula Radcliffe"
         ],
-        "answer": "Sir Mo Farah."
+        "answer": "Sir Mo Farah.",
+        "source": "Unknown"
     }
 ]

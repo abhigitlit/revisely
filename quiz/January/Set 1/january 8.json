@@ -7,7 +7,8 @@
             "Rs.619.22 Crore ",
             "Rs.824.77 Crore "
         ],
-        "answer": "Rs.824.77 Crore "
+        "answer": "Rs.824.77 Crore ",
+        "source": "Unknown"
     },
     {
         "question": "Which is the only state in India to adopt 100 % technology for the estimation of crop yields?",
@@ -17,7 +18,8 @@
             "Madhya Pradesh  ",
             "Bihar "
         ],
-        "answer": "Madhya Pradesh  "
+        "answer": "Madhya Pradesh  ",
+        "source": "Unknown"
     },
     {
         "question": "What has the Defence Ministry designated 2025 as?",
@@ -27,7 +29,8 @@
             "Year of Reforms ",
             "Year of Integration "
         ],
-        "answer": "Year of Reforms "
+        "answer": "Year of Reforms ",
+        "source": "Unknown"
     },
     {
         "question": "Who shared the 2024 World Blitz Chess Championship title?",
@@ -37,7 +40,8 @@
             "Ian Nepomniachtchi and Ju Wenjun ",
             "Magnus Carlsen and Lei Tingjie "
         ],
-        "answer": "Magnus Carlsen and Ian Nepomniachtchi "
+        "answer": "Magnus Carlsen and Ian Nepomniachtchi ",
+        "source": "Unknown"
     },
     {
         "question": "R. Vaishali who was in the news recently belongs to which sport?",
@@ -47,7 +51,8 @@
             "Badminton  ",
             "Tennis "
         ],
-        "answer": "Chess  "
+        "answer": "Chess  ",
+        "source": "Unknown"
     },
     {
         "question": "Who won the women's section of the 2024 FIDE World Blitz Championship?",
@@ -57,7 +62,8 @@
             "Zhu Jiner ",
             "R. Vaishali "
         ],
-        "answer": "Ju Wenjun "
+        "answer": "Ju Wenjun ",
+        "source": "Unknown"
     },
     {
         "question": "What is the primary mandate of the Ramesh Chand Panel, constituted recently?",
@@ -67,7 +73,8 @@
             "To assess fiscal policies of the government. ",
             "To evaluate public expenditure. "
         ],
-        "answer": "To revise the base year of the Wholesale Price Index (WPI). "
+        "answer": "To revise the base year of the Wholesale Price Index (WPI). ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the chairman of the Working Group set up by the government of India on the revision of the base year of the Wholesale Price Index to 2022-23?",
@@ -77,7 +84,8 @@
             "Ramesh Chand ",
             "S. Venkatasubramanian "
         ],
-        "answer": "Ramesh Chand "
+        "answer": "Ramesh Chand ",
+        "source": "Unknown"
     },
     {
         "question": "What is the base year of the current Wholesale Price Index(WPI)?",
@@ -87,7 +95,8 @@
             "2020-21 ",
             "2018-19 "
         ],
-        "answer": "2011-12 "
+        "answer": "2011-12 ",
+        "source": "Unknown"
     },
     {
         "question": "Which ministry of the government of India releases the monthly Wholesale Price Index to measure inflation?",
@@ -97,7 +106,8 @@
             "Department for Promotion of Industry and Internal Trade ",
             "Ministry of Cooperation "
         ],
-        "answer": "Department for Promotion of Industry and Internal Trade "
+        "answer": "Department for Promotion of Industry and Internal Trade ",
+        "source": "Unknown"
     },
     {
         "question": "Who releases the monthly Consumer Price Index which is used to measure retail inflation in the country?",
@@ -107,7 +117,8 @@
             "Department for Promotion of Industry and Internal Trade ",
             "Ministry of Cooperation "
         ],
-        "answer": "National Statistic Office  "
+        "answer": "National Statistic Office  ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the National Sports Award:  1. Major Dhyan Chand Khel Ratna Award is given for the most outstanding performance in the field of sports over the period of the previous four years.  2. The Maulana Abul Kalam Azad Trophy is given to an individual for top performance in inter-university tournaments.  Which of the statements given above is/are correct?",
@@ -117,7 +128,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     },
     {
         "question": "Which state is conducting the country's first coastal and wader birds census?",
@@ -127,37 +139,41 @@
             "Gujarat  ",
             "Odisha "
         ],
-        "answer": "Gujarat  "
+        "answer": "Gujarat  ",
+        "source": "Unknown"
     },
     {
-        "question": "Where is the country’s first Marine National Park and first Marine Sanctuary located?",
+        "question": "Where is the country\u2019s first Marine National Park and first Marine Sanctuary located?",
         "options": [
             "Mathura, Uttar Pradesh  ",
             "Jamnagar ,Gujarat ",
             "Narmadapuram, Madhya Pradesh  ",
             "Chamoli, Uttarakhand "
         ],
-        "answer": "Jamnagar ,Gujarat "
+        "answer": "Jamnagar ,Gujarat ",
+        "source": "Unknown"
     },
     {
-        "question": "Where was the 31st National Children’s Science Congress held?",
+        "question": "Where was the 31st National Children\u2019s Science Congress held?",
         "options": [
             "Bhopal, Madhya Pradesh ",
             "Lucknow, Uttar Pradesh  ",
             "Ujjain, Madhya Pradesh  ",
             "Hyderabad, Telangana "
         ],
-        "answer": "Bhopal, Madhya Pradesh "
+        "answer": "Bhopal, Madhya Pradesh ",
+        "source": "Unknown"
     },
     {
-        "question": "What is the theme of the 31st National Children’s Science Congress?",
+        "question": "What is the theme of the 31st National Children\u2019s Science Congress?",
         "options": [
             "Indigenous Technologies For Viksit Bharat ",
             "Global Science for Global Wellbeing  ",
             "Integrated Approach in S&T for Sustainable Future ",
             "Understanding Ecosystems for Health and Well-being "
         ],
-        "answer": "Understanding Ecosystems for Health and Well-being "
+        "answer": "Understanding Ecosystems for Health and Well-being ",
+        "source": "Unknown"
     },
     {
         "question": "The government has allowed which institution to export non-basmati rice to Indonesia for the next four years?",
@@ -167,7 +183,8 @@
             "Food Safety and Standards Authority of India ",
             "National Cooperative Exports Limited (NCEL) "
         ],
-        "answer": "National Cooperative Exports Limited (NCEL) "
+        "answer": "National Cooperative Exports Limited (NCEL) ",
+        "source": "Unknown"
     },
     {
         "question": "Which country introduced a 1% tourist tax on lodging costs to support tourism infrastructure starting in 2025?",
@@ -177,7 +194,8 @@
             "Russia ",
             "Italy "
         ],
-        "answer": "Russia "
+        "answer": "Russia ",
+        "source": "Unknown"
     },
     {
         "question": "Which country is enforcing a ban on facial coverings and implementing pension increases starting January 1, 2025?",
@@ -187,7 +205,8 @@
             "Germany ",
             "Switzerland "
         ],
-        "answer": "Switzerland "
+        "answer": "Switzerland ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the new Secretary General of ASSOCHAM?",
@@ -197,7 +216,8 @@
             "Manish Singhal ",
             "Vijay Singh "
         ],
-        "answer": "Manish Singhal "
+        "answer": "Manish Singhal ",
+        "source": "Unknown"
     },
     {
         "question": "Which state became the first to link forest ecosystem with Green GDP?",
@@ -207,37 +227,41 @@
             "Chhattisgarh ",
             "Bihar "
         ],
-        "answer": "Chhattisgarh "
+        "answer": "Chhattisgarh ",
+        "source": "Unknown"
     },
     {
-        "question": "Which institute’s space tech startup tested its first green propulsion system, VYOM 2U?",
+        "question": "Which institute\u2019s space tech startup tested its first green propulsion system, VYOM 2U?",
         "options": [
             "IIT Roorkee ",
             "IIT Madras ",
             "IIT Bombay ",
             "IIT Kanpur "
         ],
-        "answer": "IIT Bombay "
+        "answer": "IIT Bombay ",
+        "source": "Unknown"
     },
     {
-        "question": "Which ministry has released the ‘UDISE Plus’ Report?",
+        "question": "Which ministry has released the \u2018UDISE Plus\u2019 Report?",
         "options": [
             "Ministry of Finance ",
             "Ministry of Culture ",
             "Ministry of Education ",
             "Ministry of Urban Development "
         ],
-        "answer": "Ministry of Education "
+        "answer": "Ministry of Education ",
+        "source": "Unknown"
     },
     {
-        "question": "Which city has launched ‘Climate Mission’ to become world’s first energy literate city?",
+        "question": "Which city has launched \u2018Climate Mission\u2019 to become world\u2019s first energy literate city?",
         "options": [
             "Roorkee, Uttarakhand ",
             "Jaisalmer, Rajasthan ",
             "Indore, Madhya Pradesh ",
             "Varanasi, Uttar Pradesh "
         ],
-        "answer": "Indore, Madhya Pradesh "
+        "answer": "Indore, Madhya Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "What is the primary objective of the Gobardhan Portal?",
@@ -247,7 +271,8 @@
             "To facilitate rural electrification projects ",
             "To develop irrigation systems "
         ],
-        "answer": "To streamline the setup process for Biogas/Compressed Biogas plants in India "
+        "answer": "To streamline the setup process for Biogas/Compressed Biogas plants in India ",
+        "source": "Unknown"
     },
     {
         "question": "According to the recent RBI report, what is the estimated GDP Growth of India in 2024-25?",
@@ -257,7 +282,8 @@
             "6.6% ",
             "6.4% "
         ],
-        "answer": "6.6% "
+        "answer": "6.6% ",
+        "source": "Unknown"
     },
     {
         "question": "The SBI Patrons Scheme, recently seen in the news, is designed specifically for which group of people?",
@@ -267,7 +293,8 @@
             "Senior citizens aged 80 years and above ",
             "Farmers and agricultural worker "
         ],
-        "answer": "Senior citizens aged 80 years and above "
+        "answer": "Senior citizens aged 80 years and above ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Project VISTAAR (Virtually Integrated System to Access Agricultural Resources):  1. It is a digital platform designed to integrate information about start-ups in the agriculture and allied sectors.  2. It enables farmers to access high-quality advisory services on crop production and marketing.  Which of the statements given above is/are correct?",
@@ -277,7 +304,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Logistics Ease Across Different States Report is published by:",
@@ -287,17 +315,19 @@
             "NITI Aayog ",
             "Ministry of Commerce & Industry "
         ],
-        "answer": "Ministry of Commerce & Industry "
+        "answer": "Ministry of Commerce & Industry ",
+        "source": "Unknown"
     },
     {
-        "question": "What is the primary purpose of the ‘Baanknet Portal’, recently seen in the news?",
+        "question": "What is the primary purpose of the \u2018Baanknet Portal\u2019, recently seen in the news?",
         "options": [
             "To provide loans to small businesses. ",
             "To consolidate information on properties put up for e-auction by public sector banks. ",
             "To track the financial performance of public sector banks. ",
             "To facilitate online tax payments "
         ],
-        "answer": "To consolidate information on properties put up for e-auction by public sector banks. "
+        "answer": "To consolidate information on properties put up for e-auction by public sector banks. ",
+        "source": "Unknown"
     },
     {
         "question": "What is the position of India in the world in the export of textiles and apparel in 2023?",
@@ -307,7 +337,8 @@
             "3rd ",
             "6th "
         ],
-        "answer": "6th "
+        "answer": "6th ",
+        "source": "Unknown"
     },
     {
         "question": "What was the share of India in the world export of textiles and apparel in 2023?",
@@ -317,7 +348,8 @@
             "3.9% ",
             "5.9% "
         ],
-        "answer": "3.9% "
+        "answer": "3.9% ",
+        "source": "Unknown"
     },
     {
         "question": "What was the total import of textiles and apparel during the April-October of FY 25?",
@@ -327,7 +359,8 @@
             "USD 2.123 billion ",
             "USD 6.813 billion "
         ],
-        "answer": "USD 5.425 billion "
+        "answer": "USD 5.425 billion ",
+        "source": "Unknown"
     },
     {
         "question": "Which commodity has the highest share in the export of textile and apparel from India during April-October 2024-25?",
@@ -337,7 +370,8 @@
             "Silk products ",
             "Ready Made Garments "
         ],
-        "answer": "Ready Made Garments "
+        "answer": "Ready Made Garments ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Open Data Kit (ODK) Platform:  1. It is a digital platform which allows the Comptroller and Auditor General (CAG) to collect and manage data securely.  2. It can only use the English language for its surveys.  Which of the statements given above is/are correct?",
@@ -347,6 +381,7 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "1 only "
+        "answer": "1 only ",
+        "source": "Unknown"
     }
 ]

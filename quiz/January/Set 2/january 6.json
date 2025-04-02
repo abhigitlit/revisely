@@ -7,7 +7,8 @@
             "10 January  ",
             "11 January "
         ],
-        "answer": "12 January "
+        "answer": "12 January ",
+        "source": "Unknown"
     },
     {
         "question": "Which country has launched its first certificate course in Hindi on the occasion of the World Hindi Day in 2025?",
@@ -17,7 +18,8 @@
             "Sri Lanka  ",
             "Nepal "
         ],
-        "answer": "Sri Lanka  "
+        "answer": "Sri Lanka  ",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the indigenous dog breed recently recognized by ICAR-NBAGR from the Himalayas?",
@@ -27,7 +29,8 @@
             "Rajapalayam ",
             "Chippiparai "
         ],
-        "answer": "Gaddi "
+        "answer": "Gaddi ",
+        "source": "Unknown"
     },
     {
         "question": "The Adani Group will invest Rs 65,000 crore in energy and cement projects in which state?",
@@ -37,17 +40,19 @@
             "Bihar  ",
             "Madhya Pradesh "
         ],
-        "answer": "Chhattisgarh "
+        "answer": "Chhattisgarh ",
+        "source": "Unknown"
     },
     {
-        "question": "What are ‘Sonobuoys’, recently mentioned in news?",
+        "question": "What are \u2018Sonobuoys\u2019, recently mentioned in news?",
         "options": [
             "A Stealth guided missile destroyer ",
             "A satellite used for monitoring sea levels ",
             "A small, expendable device used in underwater acoustics to detect and sonar systems ",
             "None of the Above "
         ],
-        "answer": "A small, expendable device used in underwater acoustics to detect and sonar systems "
+        "answer": "A small, expendable device used in underwater acoustics to detect and sonar systems ",
+        "source": "Unknown"
     },
     {
         "question": "Which country will host the 28th Conference of Speakers and Presiding Officers of Parliaments of Commonwealth Countries (CSPOC) in 2026?",
@@ -58,7 +63,8 @@
             "Brazil  ",
             "India "
         ],
-        "answer": "Brazil  "
+        "answer": "Brazil  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed to chair the Advisory Board of the ID verification firm Equal?",
@@ -68,17 +74,19 @@
             "Justice Sanjiv Khanna ",
             "Justice D Y Chandrachud "
         ],
-        "answer": "Justice B.N. Srikrishna "
+        "answer": "Justice B.N. Srikrishna ",
+        "source": "Unknown"
     },
     {
-        "question": "Which entity has achieved “Excellent” rating for its performance under the MoU with the Ministry of New & Renewable Energy (MNRE) for the financial year 2023-24?",
+        "question": "Which entity has achieved \u201cExcellent\u201d rating for its performance under the MoU with the Ministry of New & Renewable Energy (MNRE) for the financial year 2023-24?",
         "options": [
             "Adani Green Energy Ltd ",
             "Tata Power Renewable Energy Limited ",
             "NTPC Renewable Energy Limited ",
             "Solar Energy Corporation of India Ltd "
         ],
-        "answer": "Solar Energy Corporation of India Ltd "
+        "answer": "Solar Energy Corporation of India Ltd ",
+        "source": "Unknown"
     },
     {
         "question": "What is the primary objective of Mission Mausam?",
@@ -88,7 +96,8 @@
             "To boost India's weather- and climate-related science and services. ",
             "To promote traditional farming techniques "
         ],
-        "answer": "To boost India's weather- and climate-related science and services. "
+        "answer": "To boost India's weather- and climate-related science and services. ",
+        "source": "Unknown"
     },
     {
         "question": "Which ministry of the government of India is the nodal implementing agency for the recently launched Mission Mausam?",
@@ -98,7 +107,8 @@
             "Ministry of New and Renewable Energy ",
             "Ministry of Electronics and Information Technology "
         ],
-        "answer": "Ministry of Earth Science "
+        "answer": "Ministry of Earth Science ",
+        "source": "Unknown"
     },
     {
         "question": "What is the total outlay for the Mission Mausam launched by the government of India?",
@@ -108,7 +118,8 @@
             "Rs 3000 crore ",
             "Rs 5000 crore "
         ],
-        "answer": "Rs 2000 crore "
+        "answer": "Rs 2000 crore ",
+        "source": "Unknown"
     },
     {
         "question": "What is the duration of the Mission Mausam launched by the government of India?",
@@ -118,7 +129,8 @@
             "2 years  ",
             "4 years "
         ],
-        "answer": "2 years  "
+        "answer": "2 years  ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Nag Mk 2 Missile:  1. It is a third-generation Anti-Tank Fire-and-Forget Guided Missile.  2. It is developed by the Defence Research and Development Organisation (DRDO).  Which of the statements given above is/are correct?",
@@ -128,7 +140,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "The Makaravilakku festival, recently seen in the news, is celebrated in which Indian state?",
@@ -138,17 +151,19 @@
             "Odisha ",
             "Kerala "
         ],
-        "answer": "Kerala "
+        "answer": "Kerala ",
+        "source": "Unknown"
     },
     {
-        "question": "Consider the following statements regarding the Universal Account Number (UAN):  1.It is a 12-digit number that each member of the Employee Provident Fund (EPF) is allotted against his/her name.   2. This number is the same throughout an employee’s professional life.  Which of the statements given above is/are correct?",
+        "question": "Consider the following statements regarding the Universal Account Number (UAN):  1.It is a 12-digit number that each member of the Employee Provident Fund (EPF) is allotted against his/her name.   2. This number is the same throughout an employee\u2019s professional life.  Which of the statements given above is/are correct?",
         "options": [
             "1 only ",
             "2 only ",
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Who becomes 34th state to implement Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) scheme?",
@@ -158,7 +173,8 @@
             "West Bengal  ",
             "Odisha "
         ],
-        "answer": "Odisha "
+        "answer": "Odisha ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has introduced a new specialised fixed deposit scheme, ' Chiranjeevi-Super Senior Citizen FD,' targeting customers aged 80 years and above?",
@@ -168,7 +184,8 @@
             "ICICI Bank  ",
             "HDFC Bank "
         ],
-        "answer": "IDBI Bank "
+        "answer": "IDBI Bank ",
+        "source": "Unknown"
     },
     {
         "question": "Centre for Development of Telematics (C-DOT) has signed an agreement with which Institute to Develop Semiconductor Chip of Wideband Spectrum Sensor for Dynamic Spectrum Access?",
@@ -178,7 +195,8 @@
             "IIT Kanpur  ",
             "IIT Mandi "
         ],
-        "answer": "IIT Mandi "
+        "answer": "IIT Mandi ",
+        "source": "Unknown"
     },
     {
         "question": "Zoran Milanovic has been reelected as the President of which country?",
@@ -188,7 +206,8 @@
             "Indonesia  ",
             "Croatia "
         ],
-        "answer": "Croatia "
+        "answer": "Croatia ",
+        "source": "Unknown"
     },
     {
         "question": "Combat Air Teaming System, recently in news, is developed by:",
@@ -198,17 +217,19 @@
             "Bharat Electronics Limited ",
             "Hindustan Aeronautics Limited "
         ],
-        "answer": "Hindustan Aeronautics Limited "
+        "answer": "Hindustan Aeronautics Limited ",
+        "source": "Unknown"
     },
     {
-        "question": "Consider the following statements regarding the Bharat Cleantech Manufacturing Platform:  1. It is an initiative designed to enhance India's cleantech value chains only in the solar sector.  2. It provides an opportunity for the Indian firms to collaborate to share ideas, technologies and resources. ➢ John Mahama : Ghana ➢ Yamandu Orsi : Uruguay ➢ Donald Trump : USA ( 47th President ) ➢ Duma Boko : Botswana ➢ Luong Cuong : Vietnam ➢ Kais Saied : Tunisia ➢ Claudia Sheinbaum : Mexico ( First woman president) ➢ Paul Kagame : Rwanda ➢ Nicolas Maduro : Venezuela  ➢ Paul Kagame : Rwanda  ➢ Gitanas Nausėda : Lithuanian  ➢ Masoud Pezeshkian : Iran  Follow us: Official Site, Telegram, Facebook, Instagram, Youtube 216   Which of the statements given above is/are correct?",
+        "question": "Consider the following statements regarding the Bharat Cleantech Manufacturing Platform:  1. It is an initiative designed to enhance India's cleantech value chains only in the solar sector.  2. It provides an opportunity for the Indian firms to collaborate to share ideas, technologies and resources. \u27a2 John Mahama : Ghana \u27a2 Yamandu Orsi : Uruguay \u27a2 Donald Trump : USA ( 47th President ) \u27a2 Duma Boko : Botswana \u27a2 Luong Cuong : Vietnam \u27a2 Kais Saied : Tunisia \u27a2 Claudia Sheinbaum : Mexico ( First woman president) \u27a2 Paul Kagame : Rwanda \u27a2 Nicolas Maduro : Venezuela  \u27a2 Paul Kagame : Rwanda  \u27a2 Gitanas Naus\u0117da : Lithuanian  \u27a2 Masoud Pezeshkian : Iran  Follow us: Official Site, Telegram, Facebook, Instagram, Youtube 216   Which of the statements given above is/are correct?",
         "options": [
             "1 only ",
             "2 only ",
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "2 only "
+        "answer": "2 only ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Amrit Bharat 2.0 Train:  1. These trains consist of IoT based water level indicators to help watering station and on-board staff.  2. Trains will be manufactured at the Integral Coach Factory (ICF)  Which of the statements given above is/are correct?",
@@ -218,7 +239,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Neptune Missile, recently seen in the news, is developed by which country?",
@@ -228,7 +250,8 @@
             "Turkey ",
             "Ukraine "
         ],
-        "answer": "Ukraine "
+        "answer": "Ukraine ",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following state received the largest share of tax devolution?",
@@ -238,7 +261,8 @@
             "Maharashtra  ",
             "Uttar Pradesh "
         ],
-        "answer": "Uttar Pradesh "
+        "answer": "Uttar Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "How much investment will be made to boost infrastructure along national waterways in the next five years?",
@@ -248,7 +272,8 @@
             "Rs 60,000 crore ",
             "Rs 30,000 crore "
         ],
-        "answer": "Rs 50,000 crore "
+        "answer": "Rs 50,000 crore ",
+        "source": "Unknown"
     },
     {
         "question": "India has signed a Haj agreement with which country, securing a quota of 1,75,025 pilgrims for the year 2025?",
@@ -258,7 +283,8 @@
             "Qatar  ",
             "Kuwait "
         ],
-        "answer": "Saudi Arabia "
+        "answer": "Saudi Arabia ",
+        "source": "Unknown"
     },
     {
         "question": "HPCL has commissioned a 5-million tonne liquefied natural gas (LNG) regasification terminal in Chhara of which state?",
@@ -268,7 +294,8 @@
             "Maharashtra  ",
             "Goa "
         ],
-        "answer": "Gujarat  "
+        "answer": "Gujarat  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the a judge of Supreme Court?",
@@ -278,7 +305,8 @@
             "Justice Shashi Bhushan  ",
             "Justice Chakradhari Sharan Singh "
         ],
-        "answer": "Justice K Vinod Chandran "
+        "answer": "Justice K Vinod Chandran ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been reappointed as the Chairman and Managing Director of Bharat Sanchar Nigam Limited (BSNL)?",
@@ -288,17 +316,19 @@
             "Vinay M Tonse ",
             "Robert Jerard Ravi "
         ],
-        "answer": "Robert Jerard Ravi "
+        "answer": "Robert Jerard Ravi ",
+        "source": "Unknown"
     },
     {
-        "question": "Who is the author of the book titled “Parliament: Powers, Functions & Privileges; a Comparative Constitutional Perspective\" ?",
+        "question": "Who is the author of the book titled \u201cParliament: Powers, Functions & Privileges; a Comparative Constitutional Perspective\" ?",
         "options": [
             "Dr. Seema Biswas ",
             "Dr. K.S. Chauhan ",
             "Dr. Pratiba Sinha ",
             "Dr. Shabama Azmi "
         ],
-        "answer": "Dr. K.S. Chauhan "
+        "answer": "Dr. K.S. Chauhan ",
+        "source": "Unknown"
     },
     {
         "question": "Which city in India is hosting the first Kho Kho World Cup?",
@@ -308,17 +338,19 @@
             "Mumbai  ",
             "New Delhi "
         ],
-        "answer": "New Delhi "
+        "answer": "New Delhi ",
+        "source": "Unknown"
     },
     {
-        "question": "Which among the following best describes ‘Bhargavastra’, recently seen in the news?",
+        "question": "Which among the following best describes \u2018Bhargavastra\u2019, recently seen in the news?",
         "options": [
             "It is an artificial intelligence-based surveillance system ",
             "It is a laser-guided anti-tank missile. ",
             "It is a next-generation armored vehicle. ",
             "It is a micro-missile system. "
         ],
-        "answer": "It is a micro-missile system. "
+        "answer": "It is a micro-missile system. ",
+        "source": "Unknown"
     },
     {
         "question": "'Bhargavastra' micro-missile system has been developed by whom?",
@@ -328,25 +360,28 @@
             "Hindustan Aeronautics Limited ",
             "Defence Research and Development Organisation "
         ],
-        "answer": "Economic Explosives Limited "
+        "answer": "Economic Explosives Limited ",
+        "source": "Unknown"
     },
     {
-        "question": "Who commissioned the Indian Navy’s warship and submarine INS Nilgiri, INS Surat and INS Vagsheer in a function in Mumbai in January 2025?",
+        "question": "Who commissioned the Indian Navy\u2019s warship and submarine INS Nilgiri, INS Surat and INS Vagsheer in a function in Mumbai in January 2025?",
         "options": [
             "Rajnath Singh  ",
             "Amit Shah  ",
             "Draupadi Murmu  ",
             "Narendra Modi "
         ],
-        "answer": "Narendra Modi "
+        "answer": "Narendra Modi ",
+        "source": "Unknown"
     },
     {
-        "question": "Which Indian defence shipbuilder has constructed the Indian Navy’s warship and submarine INS Nilgiri, INS Surat and INS Vagsheer?",
+        "question": "Which Indian defence shipbuilder has constructed the Indian Navy\u2019s warship and submarine INS Nilgiri, INS Surat and INS Vagsheer?",
         "options": [
             "Mazagon Dock Shipbuilders Limited B) Cochin Shipyard Limited ",
             "Modest Infrastructure Limited ",
             "Hindustan Shipyard Limited "
         ],
-        "answer": "Unknown"
+        "answer": "Unknown",
+        "source": "Unknown"
     }
 ]

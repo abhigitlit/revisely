@@ -7,7 +7,8 @@
             "Rs 2.97 lakh crore ",
             "Rs 1.78 lakh crore "
         ],
-        "answer": "Rs 4.15 lakh crore "
+        "answer": "Rs 4.15 lakh crore ",
+        "source": "Unknown"
     },
     {
         "question": "Which state government has announced a $1 million reward for anyone who deciphers the Indus Valley script?",
@@ -17,27 +18,30 @@
             "Karnataka  ",
             "Telangana "
         ],
-        "answer": "Tamil Nadu  "
+        "answer": "Tamil Nadu  ",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following statements is true about veteran nuclear scientist Rajagopala Chidambaram, who recently passed away?",
         "options": [
-            "He was instrumental in India’s nuclear tests of 1975 (Smiling Buddha) and 1998 (Pokhran-II). ",
+            "He was instrumental in India\u2019s nuclear tests of 1975 (Smiling Buddha) and 1998 (Pokhran-II). ",
             "He was honored with Padma Shri (1975) & Padma Vibhushan (1999). ",
-            "He served as Principal Scientific Adviser (2001–2018) ",
+            "He served as Principal Scientific Adviser (2001\u20132018) ",
             "All are correct "
         ],
-        "answer": "All are correct "
+        "answer": "All are correct ",
+        "source": "Unknown"
     },
     {
-        "question": "The world’s oldest person Tomiko Itooka has died aged 116. She was from which country",
+        "question": "The world\u2019s oldest person Tomiko Itooka has died aged 116. She was from which country",
         "options": [
             "Spain ",
             "Sweden ",
             "France ",
             "Japan "
         ],
-        "answer": "Japan "
+        "answer": "Japan ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank is merging with National Co-operative Bank as approved by the RBI?",
@@ -46,7 +50,8 @@
             "Cosmos Co-operative Bank ",
             "Sahebrao Deshmukh Sahakari Bank D) Karnataka Bank "
         ],
-        "answer": "Unknown"
+        "answer": "Unknown",
+        "source": "Unknown"
     },
     {
         "question": "Omkareshwar Floating Solar Project is inaugurated in which state recently?",
@@ -56,7 +61,8 @@
             "Madhya Pradesh  ",
             "Manipur "
         ],
-        "answer": "Madhya Pradesh  "
+        "answer": "Madhya Pradesh  ",
+        "source": "Unknown"
     },
     {
         "question": "World's largest floating solar project, is to be constructed in which of the following Indian State/UTs?",
@@ -66,7 +72,8 @@
             "Madhya Pradesh ",
             "Gujarat "
         ],
-        "answer": "Madhya Pradesh "
+        "answer": "Madhya Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "The World's largest Floating solar energy project is to be constructed at Omkareshwar dam.This will be a  _ solar power plant.",
@@ -76,17 +83,19 @@
             "200 MW ",
             "700 MW "
         ],
-        "answer": "600 MW "
+        "answer": "600 MW ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the first male football player to be honoured with the US Presidential Medal of Freedom Award?",
         "options": [
             "Lionel Messi ",
             "Cristiano Ronaldo ",
-            "Luka Modrić ",
+            "Luka Modri\u0107 ",
             "Robert Lewandowski "
         ],
-        "answer": "Lionel Messi "
+        "answer": "Lionel Messi ",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the highest civilian award of the United States of America?",
@@ -96,7 +105,8 @@
             "Commendation Medal ",
             "Presidential Medal of Freedom Award "
         ],
-        "answer": "Presidential Medal of Freedom Award "
+        "answer": "Presidential Medal of Freedom Award ",
+        "source": "Unknown"
     },
     {
         "question": "What is the new deadline for implementing the transaction volume cap on UPI apps as per NPCI?",
@@ -106,7 +116,8 @@
             "December 31, 2027 ",
             "December 31, 2028 "
         ],
-        "answer": "December 31, 2026 "
+        "answer": "December 31, 2026 ",
+        "source": "Unknown"
     },
     {
         "question": "The National Bank for Financing Infrastructure and Development (NaBFID) has invested Rs 745 crore in long-term bonds issued by NDR InvIT. Who sponsors NDR InvIT?",
@@ -118,17 +129,19 @@
             "NDR Warehousing Private Limited ",
             "have partnered to launch UPI payments in "
         ],
-        "answer": "Reserve Bank of India "
+        "answer": "Reserve Bank of India ",
+        "source": "Unknown"
     },
     {
         "question": "Under which guidelines have VFS Capital applied for a small finance bank licence?",
         "options": [
-            "‘Greenfield’ Bank Licensing Guidelines ",
-            "‘Rural Finance’ Bank Licensing Guidelines ",
-            "‘Financial Inclusion’ Bank Licensing Scheme ",
-            "‘On-tap’ Licensing Scheme for SFBs in the Private Sector "
+            "\u2018Greenfield\u2019 Bank Licensing Guidelines ",
+            "\u2018Rural Finance\u2019 Bank Licensing Guidelines ",
+            "\u2018Financial Inclusion\u2019 Bank Licensing Scheme ",
+            "\u2018On-tap\u2019 Licensing Scheme for SFBs in the Private Sector "
         ],
-        "answer": "‘On-tap’ Licensing Scheme for SFBs in the Private Sector "
+        "answer": "\u2018On-tap\u2019 Licensing Scheme for SFBs in the Private Sector ",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following small savings schemes has an interest rate of 8.2% for the January-March 2025 quarter?",
@@ -138,17 +151,19 @@
             "Public Provident Fund ",
             "Sukanya Samriddhi Account "
         ],
-        "answer": "Sukanya Samriddhi Account "
+        "answer": "Sukanya Samriddhi Account ",
+        "source": "Unknown"
     },
     {
         "question": "Which of the following interest rate on small savings scheme is not correct under the January to March quarter of financial year 2025-2026?",
         "options": [
-            "Senior Citizen Savings Scheme – 8.2% ",
-            "National Savings Certificate – 7.7% ",
-            "Public Provident Fund Scheme – 7.4%% ",
-            "Sukanya Samriddhi Account – 8.2% "
+            "Senior Citizen Savings Scheme \u2013 8.2% ",
+            "National Savings Certificate \u2013 7.7% ",
+            "Public Provident Fund Scheme \u2013 7.4%% ",
+            "Sukanya Samriddhi Account \u2013 8.2% "
         ],
-        "answer": "Public Provident Fund Scheme – 7.4%% "
+        "answer": "Public Provident Fund Scheme \u2013 7.4%% ",
+        "source": "Unknown"
     },
     {
         "question": "The interest rate on Kisan Vikas Patra for January to March quarter of financial year 2025-2026 is set at 7.5 percent. What is the maturity period of this scheme?",
@@ -158,27 +173,30 @@
             "115 months ",
             "128 months "
         ],
-        "answer": "115 months "
+        "answer": "115 months ",
+        "source": "Unknown"
     },
     {
-        "question": "Union Bank of India has enhanced its Digital Rupee (e₹) application with accessibility features, marking a significant step in digital inclusion. What is the Digital Rupee (e₹)?",
+        "question": "Union Bank of India has enhanced its Digital Rupee (e\u20b9) application with accessibility features, marking a significant step in digital inclusion. What is the Digital Rupee (e\u20b9)?",
         "options": [
             "A cryptocurrency ",
             "A type of foreign exchange ",
             "A prepaid gift card ",
             "A digital version of fiat currency "
         ],
-        "answer": "A digital version of fiat currency "
+        "answer": "A digital version of fiat currency ",
+        "source": "Unknown"
     },
     {
-        "question": "Which bank has launched FedOne, a new transaction banking platform powered by Nucleus Software’s FinnAxia solution?",
+        "question": "Which bank has launched FedOne, a new transaction banking platform powered by Nucleus Software\u2019s FinnAxia solution?",
         "options": [
             "Kotak Mahindra Bank  ",
             "Indian Overseas Bank  ",
             "Federal Bank  ",
             "Bank of Baroda "
         ],
-        "answer": "Federal Bank  "
+        "answer": "Federal Bank  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Chairman and Managing Director (CMD) of the Food Corporation of India (FCI)?",
@@ -189,7 +207,8 @@
             "Ashutosh Agnihotri ",
             "Rahul Singh "
         ],
-        "answer": "Manoj Kumar  "
+        "answer": "Manoj Kumar  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Chief Secretary of the Board of Control for Cricket in India (BCCI)?",
@@ -199,7 +218,8 @@
             "Jay Shah ",
             "Rahul Dravid "
         ],
-        "answer": "Devajit Saikia "
+        "answer": "Devajit Saikia ",
+        "source": "Unknown"
     },
     {
         "question": "Punjab & Sind Bank will launch an instant loan scheme for the MSME sector. What is the maximum loan amount under the instant loan scheme for the MSME sector by Punjab & Sind Bank?",
@@ -209,7 +229,8 @@
             "Rs 25 lakh ",
             "Rs 50 lakh "
         ],
-        "answer": "Rs 25 lakh "
+        "answer": "Rs 25 lakh ",
+        "source": "Unknown"
     },
     {
         "question": "What percentage of its stake in Unity Small Finance Bank does BharatPe plan to sell?",
@@ -219,17 +240,19 @@
             "51% ",
             "33% "
         ],
-        "answer": "25% "
+        "answer": "25% ",
+        "source": "Unknown"
     },
     {
-        "question": "Union Shipping Ministry has proposed new additions to the ₹72,000-crore mega-infrastructure project in which Island?",
+        "question": "Union Shipping Ministry has proposed new additions to the \u20b972,000-crore mega-infrastructure project in which Island?",
         "options": [
             "Barren Island ",
             "Rutland Island ",
             "Narcondam Island ",
             "Great Nicobar Island "
         ],
-        "answer": "Great Nicobar Island "
+        "answer": "Great Nicobar Island ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been re-elected as the Speaker of the House of Representatives?",
@@ -239,7 +262,8 @@
             "Christopher A. Wray ",
             "Mike Johnson "
         ],
-        "answer": "Mike Johnson "
+        "answer": "Mike Johnson ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the book titled \"Wild Fictions : Essays\"?",
@@ -249,17 +273,19 @@
             "Vikram Seth ",
             "Ruskin Bond "
         ],
-        "answer": "Amitabh Ghosh "
+        "answer": "Amitabh Ghosh ",
+        "source": "Unknown"
     },
     {
-        "question": "Which city has been declared the world’s most polluted with PM2.5 levels peaking at 266 µg/m³?",
+        "question": "Which city has been declared the world\u2019s most polluted with PM2.5 levels peaking at 266 \u00b5g/m\u00b3?",
         "options": [
             "Hanoi ",
             "Beijing ",
             "New Delhi ",
             "Jakarta "
         ],
-        "answer": "Hanoi "
+        "answer": "Hanoi ",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state is being monitored for the first cases of Human Metapneumovirus (HMPV) by ICMR?",
@@ -269,7 +295,8 @@
             "Maharashtra ",
             "Karnataka "
         ],
-        "answer": "Karnataka "
+        "answer": "Karnataka ",
+        "source": "Unknown"
     },
     {
         "question": "Which state launched the Shahid Madho Singh Haath Kharcha Scheme for tribal students during the Adivasi Mela?",
@@ -279,7 +306,8 @@
             "Chhattisgarh ",
             "Madhya Pradesh "
         ],
-        "answer": "Odisha "
+        "answer": "Odisha ",
+        "source": "Unknown"
     },
     {
         "question": "Which country ranks first globally in terms of cyberattacks in 2024?",
@@ -289,7 +317,8 @@
             "United States ",
             "India "
         ],
-        "answer": "United States "
+        "answer": "United States ",
+        "source": "Unknown"
     },
     {
         "question": "Which Indian state faces significant human trafficking challenges, particularly in the Sundarbans region, due to socio-environmental vulnerabilities?",
@@ -299,7 +328,8 @@
             "West Bengal ",
             "Assam "
         ],
-        "answer": "West Bengal "
+        "answer": "West Bengal ",
+        "source": "Unknown"
     },
     {
         "question": "In which state is the Soreng District where the country's first organic fisheries cluster has been inaugurated recently?",
@@ -309,17 +339,19 @@
             "Sikkim  ",
             "Arunachal Pradesh "
         ],
-        "answer": "Sikkim  "
+        "answer": "Sikkim  ",
+        "source": "Unknown"
     },
     {
-        "question": "In which state is the country’s first natural pearl cluster notified by the Department of Fisheries,government of India ?",
+        "question": "In which state is the country\u2019s first natural pearl cluster notified by the Department of Fisheries,government of India ?",
         "options": [
             "Bihar  ",
             "Jharkhand  ",
             "Chhattisgarh  ",
             "Madhya Pradesh "
         ],
-        "answer": "Jharkhand  "
+        "answer": "Jharkhand  ",
+        "source": "Unknown"
     },
     {
         "question": "Which financial institution will provide financial and other assistance to the development of organic fisheries clusters in Soreng District of Sikkim?",
@@ -329,7 +361,8 @@
             "SIDBI  ",
             "NABARD "
         ],
-        "answer": "NABARD "
+        "answer": "NABARD ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Pradhan Mantri Matsya Sampada Yojana (PMMSY):  1. It will be implemented over a period of 5 years from FY 2020-21 to FY 2024-25 in all States/Union Territories.  2. More than 50% of the total estimated investment of the PMMSY is earmarked for creation and up-gradation of fisheries infrastructure facilities.  3. The scheme plans to reduce post-harvest losses from the present high of 25% to about 10% by modernizing and strengthening value chain.  Which of the statements given above is/are correct?",
@@ -339,7 +372,8 @@
             "1 and 3 only ",
             "3 only "
         ],
-        "answer": "1 and 3 only "
+        "answer": "1 and 3 only ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the 11th Chairman of the Indian Space Research Organisation (ISRO)?",
@@ -349,6 +383,7 @@
             "Shailesh Nayak ",
             "V Narayanan "
         ],
-        "answer": "V Narayanan "
+        "answer": "V Narayanan ",
+        "source": "Unknown"
     }
 ]

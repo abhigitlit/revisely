@@ -7,17 +7,19 @@
             "Andhra Pradesh ",
             "Tamil Nadu "
         ],
-        "answer": "Telangana "
+        "answer": "Telangana ",
+        "source": "Unknown"
     },
     {
-        "question": "Which state’s transport corporation is set to launch the ‘Clean and Beautiful Bus Station Campaign’?",
+        "question": "Which state\u2019s transport corporation is set to launch the \u2018Clean and Beautiful Bus Station Campaign\u2019?",
         "options": [
             "Karnataka ",
             "Maharashtra ",
             "Gujarat ",
             "Rajasthan "
         ],
-        "answer": "Maharashtra "
+        "answer": "Maharashtra ",
+        "source": "Unknown"
     },
     {
         "question": "Who has recently been sworn in as the Chief Justice of the Bombay High Court?",
@@ -27,7 +29,8 @@
             "Justice Sanjay Kishan Kaul ",
             "Justice Alok Aradhe "
         ],
-        "answer": "Justice Alok Aradhe "
+        "answer": "Justice Alok Aradhe ",
+        "source": "Unknown"
     },
     {
         "question": "Which company partnered with ESAF Small Finance Bank for tailored vehicle financing solutions?",
@@ -37,7 +40,8 @@
             "Ashok Leyland ",
             "Bajaj Auto "
         ],
-        "answer": "Ashok Leyland "
+        "answer": "Ashok Leyland ",
+        "source": "Unknown"
     },
     {
         "question": "Which act has been amended by the Reserve Bank of India to promote cross-border transactions in Indian Rupee (INR)?",
@@ -46,17 +50,19 @@
             "Companies Act ",
             "Payment and Settlement Systems Act D) Foreign Exchange Management Act "
         ],
-        "answer": "Unknown"
+        "answer": "Unknown",
+        "source": "Unknown"
     },
     {
-        "question": "Which bank has completed the acquisition of ₹3,300 crore personal loan portfoilio of Standard Chartered Bank India?",
+        "question": "Which bank has completed the acquisition of \u20b93,300 crore personal loan portfoilio of Standard Chartered Bank India?",
         "options": [
             "Kotak Mahindra Bank  ",
             "Indian Overseas Bank  ",
             "Punjab National Bank  ",
             "State Bank of India "
         ],
-        "answer": "Kotak Mahindra Bank  "
+        "answer": "Kotak Mahindra Bank  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been reappointment as the Managing Director (MD) and Chief Executive Officer (CEO) for another three-year term?",
@@ -67,7 +73,8 @@
             "Ashok Chandra ",
             "Partha Sengupta "
         ],
-        "answer": "and Chief Executive Officer (CEO) for "
+        "answer": "and Chief Executive Officer (CEO) for ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the chairman of the Standing External Advisory Committee (SEAC) for evaluating applications for Universal Banks as well as Small Finance Banks?",
@@ -78,7 +85,8 @@
             "N. S. Kannan ",
             "Hemant G. Contractor "
         ],
-        "answer": "for evaluating "
+        "answer": "for evaluating ",
+        "source": "Unknown"
     },
     {
         "question": "Which institution has won the Subhash Chandra Bose Aapda Prabandhan Puraskar 2025?",
@@ -88,7 +96,8 @@
             "Gujarat Institute of Disaster Management ",
             "National Institute of Disaster Management (NIDM) "
         ],
-        "answer": "Indian National Centre for Ocean Information Services (INCOIS) "
+        "answer": "Indian National Centre for Ocean Information Services (INCOIS) ",
+        "source": "Unknown"
     },
     {
         "question": "What is the prize money for the Institutional winner of the Subhash Chandra Bose Aapda Prabandhan Puraskar?",
@@ -98,7 +107,8 @@
             "Rs 51 lakhs ",
             "Rs 75 lakhs "
         ],
-        "answer": "Rs 51 lakhs "
+        "answer": "Rs 51 lakhs ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the GI Tag Samagam 2025 held ?",
@@ -108,7 +118,8 @@
             "Bengaluru  ",
             "Mumbai "
         ],
-        "answer": "New Delhi  "
+        "answer": "New Delhi  ",
+        "source": "Unknown"
     },
     {
         "question": "The government of India set a target of 10,000 Geographical Indication (GI) tags for the Indian products by which year?",
@@ -118,7 +129,8 @@
             "2028 ",
             "2032 "
         ],
-        "answer": "2030 "
+        "answer": "2030 ",
+        "source": "Unknown"
     },
     {
         "question": "What is the validity of the Geographical Indication tag given to a product?",
@@ -128,7 +140,8 @@
             "8 years  ",
             "10 years "
         ],
-        "answer": "10 years "
+        "answer": "10 years ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to the Sukanya Samriddhi Yojana (SSY), consider the following statements:  1. A SSY account can be opened by a parent or legal guardian of the girl's child until she attains the age of 18 years.  2. Only one account is allowed for a girl child and a family can open a maximum of two SSY accounts.  3. The amount invested, interest earned and maturity amount in the SSY account is tax-free.  Which of the statements given above is/are correct?",
@@ -138,7 +151,8 @@
             "1, 2 , 3 ",
             "None "
         ],
-        "answer": "2 and 3 only "
+        "answer": "2 and 3 only ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to KaWaCHaM System, consider the following:  1. It is an advanced disaster warning system.  2. It is developed with funding from the National Disaster Management Authority and the World Bank.  3. It is an initiative of the India Meteorological Department of India.  Which of the statements given above is/are correct?",
@@ -148,7 +162,8 @@
             "1, 2 , 3 ",
             "None "
         ],
-        "answer": "1 and 2 only "
+        "answer": "1 and 2 only ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Eurodrone:  1. It is a twin-engine -turboprop unmanned aerial vehicle.  2. It is designed for long-endurance missions such as intelligence and surveillance.  Which of the statements given above is/are correct?",
@@ -158,7 +173,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Which company signed an MoU to invest Rs 800 crore in a Telangana Unmanned Aerial Systems manufacturing plant?",
@@ -168,37 +184,41 @@
             "HAL ",
             "Reliance Defence "
         ],
-        "answer": "JSW "
+        "answer": "JSW ",
+        "source": "Unknown"
     },
     {
-        "question": "What is the name of India’s first AI and Emotional Intelligence-driven fashion forecasting platform launched by NIFT?",
+        "question": "What is the name of India\u2019s first AI and Emotional Intelligence-driven fashion forecasting platform launched by NIFT?",
         "options": [
             "VisionNxt ",
             "TrendAI ",
             "Insights Pro ",
             "NxtGen "
         ],
-        "answer": "VisionNxt "
+        "answer": "VisionNxt ",
+        "source": "Unknown"
     },
     {
-        "question": "Which state is set to host the first Olympic Research Conference as part of India’s ambition to host the 2036 Olympics?",
+        "question": "Which state is set to host the first Olympic Research Conference as part of India\u2019s ambition to host the 2036 Olympics?",
         "options": [
             "Maharashtra ",
             "Uttar Pradesh ",
             "Gujarat ",
             "Rajasthan "
         ],
-        "answer": "Gujarat "
+        "answer": "Gujarat ",
+        "source": "Unknown"
     },
     {
-        "question": "Which company unveiled India’s first eVTOL air taxi ‘Shunya’?",
+        "question": "Which company unveiled India\u2019s first eVTOL air taxi \u2018Shunya\u2019?",
         "options": [
             "Sarla Aviation ",
             "Reliance Aerospace ",
             "Tata Advanced Systems ",
             "Mahindra Aerospace "
         ],
-        "answer": "Sarla Aviation "
+        "answer": "Sarla Aviation ",
+        "source": "Unknown"
     },
     {
         "question": "Which company launched strategic pilots with Indian startups to enhance its US supply chain and sourcing operations?",
@@ -208,7 +228,8 @@
             "Flipkart ",
             "Reliance "
         ],
-        "answer": "Walmart "
+        "answer": "Walmart ",
+        "source": "Unknown"
     },
     {
         "question": "Where was the ninth foreign ministers level meeting of the Quad Foreign Minister held in January 2025?",
@@ -218,7 +239,8 @@
             "Tokyo, Japan  ",
             "Canberra, Australia "
         ],
-        "answer": "Washington D.C, USA "
+        "answer": "Washington D.C, USA ",
+        "source": "Unknown"
     },
     {
         "question": "Which country will host the 7th Quad leaders summit meeting in 2025?",
@@ -228,7 +250,8 @@
             "Japan  ",
             "Australia "
         ],
-        "answer": "India "
+        "answer": "India ",
+        "source": "Unknown"
     },
     {
         "question": "Which among the following countries is not a Member of QUAD?",
@@ -238,7 +261,8 @@
             "Japan ",
             "Russia "
         ],
-        "answer": "Russia "
+        "answer": "Russia ",
+        "source": "Unknown"
     },
     {
         "question": "Which country is hosting the 4th Asian Badminton Mixed Team Championships?",
@@ -248,7 +272,8 @@
             "China ",
             "Malaysia "
         ],
-        "answer": "China "
+        "answer": "China ",
+        "source": "Unknown"
     },
     {
         "question": "Typhon Missile System, recently seen in the news, was developed by which country?",
@@ -258,7 +283,8 @@
             "Japan ",
             "North Korea "
         ],
-        "answer": "United States "
+        "answer": "United States ",
+        "source": "Unknown"
     },
     {
         "question": "Dhanauri Wetland, recently seen in the news, lies in which state?",
@@ -268,7 +294,8 @@
             "Maharashtra ",
             "Uttar Pradesh "
         ],
-        "answer": "Uttar Pradesh "
+        "answer": "Uttar Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "Lake Victoria, recently in news, is border by:",
@@ -278,7 +305,8 @@
             "Tanzania, Somalia and Rawanda ",
             "Tanzania, Uganda, and Kenya "
         ],
-        "answer": "Tanzania, Uganda, and Kenya "
+        "answer": "Tanzania, Uganda, and Kenya ",
+        "source": "Unknown"
     },
     {
         "question": "India observed Parakram Diwas on January 23 to mark the birth anniversary of Netaji Subhash Chandra Bose. In 2025, which anniversary is being celebrated of the great freedom fighter?",
@@ -288,7 +316,8 @@
             "128 ",
             "136 "
         ],
-        "answer": "128 "
+        "answer": "128 ",
+        "source": "Unknown"
     },
     {
         "question": "Parakram Diwas is celebrated to commemorate the birth anniversary of which freedom fighter?",
@@ -298,7 +327,8 @@
             "Subash Chandra Bose  ",
             "Bal Gangadhar Tilak "
         ],
-        "answer": "Subash Chandra Bose  "
+        "answer": "Subash Chandra Bose  ",
+        "source": "Unknown"
     },
     {
         "question": "Fiscal Health Index, recently in news, is published by:",
@@ -308,36 +338,40 @@
             "World Economic Forum ",
             "NITI Aayog "
         ],
-        "answer": "NITI Aayog "
+        "answer": "NITI Aayog ",
+        "source": "Unknown"
     },
     {
-        "question": "Which state has topped the NITI Aayog’s first Fiscal Health Index 2025?",
+        "question": "Which state has topped the NITI Aayog\u2019s first Fiscal Health Index 2025?",
         "options": [
             "Kerala  ",
             "Odisha  ",
             "Karnataka  ",
             "Tamil Nadu "
         ],
-        "answer": "Odisha  "
+        "answer": "Odisha  ",
+        "source": "Unknown"
     },
     {
-        "question": "Bihar has been put in which category of state in the NITI Aayog’s first Fiscal Health Index 2025 report?",
+        "question": "Bihar has been put in which category of state in the NITI Aayog\u2019s first Fiscal Health Index 2025 report?",
         "options": [
             "Achiever States ",
             "Frontrunner   ",
             "Performer  ",
             "Aspirational "
         ],
-        "answer": "Performer  "
+        "answer": "Performer  ",
+        "source": "Unknown"
     },
     {
-        "question": "Which bank has partnered with RuPay to launch the FIRST EA₹N RuPay Credit Card?",
+        "question": "Which bank has partnered with RuPay to launch the FIRST EA\u20b9N RuPay Credit Card?",
         "options": [
             "HDFC Bank ",
             "Axis Bank ",
             "IDFC FIRST Bank ",
             "ICICI Bank "
         ],
-        "answer": "IDFC FIRST Bank "
+        "answer": "IDFC FIRST Bank ",
+        "source": "Unknown"
     }
 ]

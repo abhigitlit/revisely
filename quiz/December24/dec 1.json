@@ -7,7 +7,8 @@
             "Howrah Bridge",
             "Vidyasagar Setu"
         ],
-        "answer": "New Pamban Bridge"
+        "answer": "New Pamban Bridge",
+        "source": "Unknown"
     },
     {
         "question": "How many tiger reserves are there in India after the notification of Ratapani Tiger Reserve?",
@@ -17,7 +18,8 @@
             "55",
             "60"
         ],
-        "answer": "57"
+        "answer": "57",
+        "source": "Unknown"
     },
     {
         "question": "What is the total number of tigers in India as of 2022?",
@@ -27,7 +29,8 @@
             "3,167 tigers",
             "4,000 tigers"
         ],
-        "answer": "3,682 tigers"
+        "answer": "3,682 tigers",
+        "source": "Unknown"
     },
     {
         "question": "Which bill was passed to modernize aviation regulations in 2024?",
@@ -37,7 +40,8 @@
             "Aviation Regulatory Bill 2024",
             "Modern Aviation Act 2024"
         ],
-        "answer": "Bharatiya Vayuyan Vidheyak 2024"
+        "answer": "Bharatiya Vayuyan Vidheyak 2024",
+        "source": "Unknown"
     },
     {
         "question": "What is the improved Sex Ratio at Birth reported in 2023-24?",
@@ -47,7 +51,8 @@
             "920",
             "910"
         ],
-        "answer": "930"
+        "answer": "930",
+        "source": "Unknown"
     },
     {
         "question": "Who was appointed as the new FBI Director in 2024?",
@@ -57,7 +62,8 @@
             "James Comey",
             "Robert Mueller"
         ],
-        "answer": "Kash Patel"
+        "answer": "Kash Patel",
+        "source": "Unknown"
     },
     {
         "question": "What is the value of the US-India Defence Deal for Indian Navy's MH-60R helicopters?",
@@ -67,7 +73,8 @@
             "$1 billion",
             "$1.5 billion"
         ],
-        "answer": "$1.17 billion"
+        "answer": "$1.17 billion",
+        "source": "Unknown"
     },
     {
         "question": "Who became Namibia's first female president?",
@@ -77,7 +84,8 @@
             "Pendukeni Iivula-Ithana",
             "Monica Geingos"
         ],
-        "answer": "Netumbo Nandi-Ndaitwah"
+        "answer": "Netumbo Nandi-Ndaitwah",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of the first water transport service launched in Srinagar's Dal Lake?",
@@ -87,7 +95,8 @@
             "Srinagar Water Connect",
             "Lake Transport Service"
         ],
-        "answer": "Uber Shikara"
+        "answer": "Uber Shikara",
+        "source": "Unknown"
     },
     {
         "question": "Which military exercises began in Pune focusing on counter-terrorism operations?",
@@ -97,7 +106,8 @@
             "Exercise Vajra Prahar",
             "Exercise Yudh Abhyas"
         ],
-        "answer": "India-Cambodia joint exercise CINBAX"
+        "answer": "India-Cambodia joint exercise CINBAX",
+        "source": "Unknown"
     },
     {
         "question": "How much is the Adani Group planning to invest in European Ports?",
@@ -107,7 +117,8 @@
             "$3 billion",
             "$2.5 billion"
         ],
-        "answer": "$2 billion"
+        "answer": "$2 billion",
+        "source": "Unknown"
     },
     {
         "question": "What was the GST collection in November 2024?",
@@ -117,7 +128,8 @@
             "2 trillion",
             "1.75 trillion"
         ],
-        "answer": "1.82 trillion"
+        "answer": "1.82 trillion",
+        "source": "Unknown"
     },
     {
         "question": "How much did FDI inflows increase in H1 FY25?",
@@ -127,7 +139,8 @@
             "50%",
             "40%"
         ],
-        "answer": "45% (to USD 29.79 billion)"
+        "answer": "45% (to USD 29.79 billion)",
+        "source": "Unknown"
     },
     {
         "question": "What is the total value of UPI transactions in October 2024?",
@@ -137,7 +150,8 @@
             "25 trillion",
             "22 trillion"
         ],
-        "answer": "23.5 trillion"
+        "answer": "23.5 trillion",
+        "source": "Unknown"
     },
     {
         "question": "What is the unemployment rate reported in 2024?",
@@ -147,7 +161,8 @@
             "3%",
             "3.5%"
         ],
-        "answer": "3.2%"
+        "answer": "3.2%",
+        "source": "Unknown"
     },
     {
         "question": "How many tonnes of gold reserves does India have as of October 2024?",
@@ -157,7 +172,8 @@
             "900 tonnes",
             "850 tonnes"
         ],
-        "answer": "882 tonnes"
+        "answer": "882 tonnes",
+        "source": "Unknown"
     },
     {
         "question": "What is the new UPI Lite wallet limit set by RBI?",
@@ -167,7 +183,8 @@
             "10,000",
             "3,000"
         ],
-        "answer": "5,000"
+        "answer": "5,000",
+        "source": "Unknown"
     },
     {
         "question": "What percentage of GDP do women-centric schemes account for?",
@@ -177,7 +194,8 @@
             "0.3%",
             "0.7%"
         ],
-        "answer": "0.5%"
+        "answer": "0.5%",
+        "source": "Unknown"
     },
     {
         "question": "How many individuals have been trained under PMGDISHA?",
@@ -187,7 +205,8 @@
             "7 crore",
             "6.5 crore"
         ],
-        "answer": "6.39 crore"
+        "answer": "6.39 crore",
+        "source": "Unknown"
     },
     {
         "question": "What is the target for rooftop solar installations under Pradhan Mantri Surya Ghar Muft Bijli Yojana?",
@@ -197,7 +216,8 @@
             "2 crore by 2028",
             "75 lakh by 2025"
         ],
-        "answer": "1 crore by 2027"
+        "answer": "1 crore by 2027",
+        "source": "Unknown"
     },
     {
         "question": "Who won the 2024 Turner Prize?",
@@ -207,17 +227,19 @@
             "Grayson Perry",
             "Anish Kapoor"
         ],
-        "answer": "Jasleen Kaur"
+        "answer": "Jasleen Kaur",
+        "source": "Unknown"
     },
     {
         "question": "What is the new Cash Transfer amount proposed by Haryana under \"Ladki Bahin Yojana\"?",
         "options": [
-            "₹2,100/month",
-            "₹2,000/month",
-            "₹2,200/month",
-            "₹2,500/month"
+            "\u20b92,100/month",
+            "\u20b92,000/month",
+            "\u20b92,200/month",
+            "\u20b92,500/month"
         ],
-        "answer": "₹2,100/month"
+        "answer": "\u20b92,100/month",
+        "source": "Unknown"
     },
     {
         "question": "Which world maritime conference was hosted in Chennai?",
@@ -227,7 +249,8 @@
             "Global Maritime Meet 2024",
             "World Ocean Conference 2024"
         ],
-        "answer": "World Maritime Conference 2024"
+        "answer": "World Maritime Conference 2024",
+        "source": "Unknown"
     },
     {
         "question": "Who became the youngest ICC Chairman?",
@@ -237,7 +260,8 @@
             "Greg Barclay",
             "Shashank Manohar"
         ],
-        "answer": "Jay Shah"
+        "answer": "Jay Shah",
+        "source": "Unknown"
     },
     {
         "question": "How many MSSC scheme accounts were opened as of October 31, 2024?",
@@ -247,17 +271,19 @@
             "Over 40 lakh",
             "Over 45 lakh"
         ],
-        "answer": "Over 43 lakh"
+        "answer": "Over 43 lakh",
+        "source": "Unknown"
     },
     {
         "question": "What is the per-transaction cap for UPI Lite raised to?",
         "options": [
-            "₹1,000",
-            "₹500",
-            "₹2,000",
-            "₹1,500"
+            "\u20b91,000",
+            "\u20b9500",
+            "\u20b92,000",
+            "\u20b91,500"
         ],
-        "answer": "₹1,000"
+        "answer": "\u20b91,000",
+        "source": "Unknown"
     },
     {
         "question": "Who passed away, known as the 'Old Fox' of Indian squash?",
@@ -267,7 +293,8 @@
             "Anil Nayar",
             "Surbjit Singh Sachdeva"
         ],
-        "answer": "Brigadier Raj Manchanda"
+        "answer": "Brigadier Raj Manchanda",
+        "source": "Unknown"
     },
     {
         "question": "What is the GDP growth forecast for FY25 by Morgan Stanley?",
@@ -277,7 +304,8 @@
             "6.2%",
             "6.4%"
         ],
-        "answer": "6.3%"
+        "answer": "6.3%",
+        "source": "Unknown"
     },
     {
         "question": "Which state leads in women-centric scheme allocation?",
@@ -287,17 +315,19 @@
             "Karnataka",
             "Andhra Pradesh"
         ],
-        "answer": "Maharashtra"
+        "answer": "Maharashtra",
+        "source": "Unknown"
     },
     {
         "question": "What was the fine imposed by SEBI on Reliance Securities?",
         "options": [
-            "₹9 Lakh",
-            "₹10 Lakh",
-            "₹8 Lakh",
-            "₹12 Lakh"
+            "\u20b99 Lakh",
+            "\u20b910 Lakh",
+            "\u20b98 Lakh",
+            "\u20b912 Lakh"
         ],
-        "answer": "₹9 Lakh"
+        "answer": "\u20b99 Lakh",
+        "source": "Unknown"
     },
     {
         "question": "How many rooftop solar installations have been achieved under PMSGMBY?",
@@ -307,7 +337,8 @@
             "7 lakh",
             "6.5 lakh"
         ],
-        "answer": "6.3 lakh"
+        "answer": "6.3 lakh",
+        "source": "Unknown"
     },
     {
         "question": "Who won India's first medal in eFootball at the Asian Esports Games?",
@@ -317,7 +348,8 @@
             "Muthuvel Mariappan",
             "Siva Sridhar"
         ],
-        "answer": "Pavan Kampelli"
+        "answer": "Pavan Kampelli",
+        "source": "Unknown"
     },
     {
         "question": "What is the Worker Population Ratio reported?",
@@ -327,7 +359,8 @@
             "60%",
             "59%"
         ],
-        "answer": "58.2%"
+        "answer": "58.2%",
+        "source": "Unknown"
     },
     {
         "question": "How many individuals were rehabilitated under the 'Smile Sub-Scheme'?",
@@ -337,7 +370,8 @@
             "950",
             "980"
         ],
-        "answer": "970"
+        "answer": "970",
+        "source": "Unknown"
     },
     {
         "question": "What is the OECD's growth forecast for India in FY25?",
@@ -347,7 +381,8 @@
             "7%",
             "6.7%"
         ],
-        "answer": "6.8%"
+        "answer": "6.8%",
+        "source": "Unknown"
     },
     {
         "question": "Which country contributed 50% of FDI inflows in Q3 FY25?",
@@ -357,7 +392,8 @@
             "Mauritius",
             "Netherlands"
         ],
-        "answer": "Singapore"
+        "answer": "Singapore",
+        "source": "Unknown"
     },
     {
         "question": "What is the amount of World Bank loan approved for Maharashtra?",
@@ -367,6 +403,7 @@
             "$150 million",
             "$190 million"
         ],
-        "answer": "$188.28 million"
+        "answer": "$188.28 million",
+        "source": "Unknown"
     }
 ]

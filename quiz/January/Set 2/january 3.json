@@ -7,7 +7,8 @@
             "4 years  ",
             "5 years "
         ],
-        "answer": "2 years  "
+        "answer": "2 years  ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the Production Linked Incentive Scheme 1.1:  1. It covers products like Alloy Steel Products & Steel wires and Electrical Steel.  2. It is implemented during the production period of FY 2025-26 to FY 2029-30.  Which of the statements given above is/are correct?",
@@ -17,7 +18,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the BHARATPOL Portal:  1. It will streamline the processing of all requests for international assistance through INTERPOL.  2. It is developed by the Central Bureau of Investigation (CBI).  Which of the statements given above is/are correct?",
@@ -27,7 +29,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Which organisation in India has launched the Bharatpol Portal?",
@@ -37,7 +40,8 @@
             "Research and Analysis Wing (RAW) ",
             "Defence Research and Development Organisation (DRDO) "
         ],
-        "answer": "Central Bureau of Investigation (CBI) "
+        "answer": "Central Bureau of Investigation (CBI) ",
+        "source": "Unknown"
     },
     {
         "question": "Where is the headquarters of INTERPOL?",
@@ -47,7 +51,8 @@
             "Berlin, Germany  ",
             "Geneva, Switzerland "
         ],
-        "answer": "Lyon, France "
+        "answer": "Lyon, France ",
+        "source": "Unknown"
     },
     {
         "question": "Financial Intelligence Unit-India (FIU-IND) has signed MoU with which organisation for sharing intelligence and information to check money laundering?",
@@ -58,7 +63,8 @@
             "SIDBI  ",
             "RBI "
         ],
-        "answer": "SEBI "
+        "answer": "SEBI ",
+        "source": "Unknown"
     },
     {
         "question": "Bahadur Singh Sagoo has been elected as the President of which sports body of India?",
@@ -68,7 +74,8 @@
             "All India Football Federation ",
             "Athletics Federation of India "
         ],
-        "answer": "Athletics Federation of India "
+        "answer": "Athletics Federation of India ",
+        "source": "Unknown"
     },
     {
         "question": "Which city will host the first Indian Open World Athletics Bronze Level Continental Tour event in August 2025?",
@@ -78,7 +85,8 @@
             "Bhubaneswar, Odisha ",
             "Mumbai, Maharashtra "
         ],
-        "answer": "Bhubaneswar, Odisha "
+        "answer": "Bhubaneswar, Odisha ",
+        "source": "Unknown"
     },
     {
         "question": "What is the maximum interest rate offered on fixed deposit investments through IndiaBonds.com?",
@@ -88,7 +96,8 @@
             "9.4% ",
             "6.8% "
         ],
-        "answer": "9.4% "
+        "answer": "9.4% ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding Toda tribes:  1. They are the oldest ethnic groups residing in the upper Nilgiris plateau in Tamil Nadu.  2. They celebrate their traditional 'Modhweth' festival to mark the New Year.  Which of the statements given above is/are correct?",
@@ -98,7 +107,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Which one of the following is the longest lake in India?",
@@ -108,7 +118,8 @@
             "Vembanad Lake ",
             "Loktak Lake "
         ],
-        "answer": "Vembanad Lake "
+        "answer": "Vembanad Lake ",
+        "source": "Unknown"
     },
     {
         "question": "At which one of the following confluence does the Alaknanda River meet the Bhagirathi River to form the Ganga?",
@@ -118,17 +129,19 @@
             "Karnaprayag ",
             "Rudraprayag "
         ],
-        "answer": "Devprayag "
+        "answer": "Devprayag ",
+        "source": "Unknown"
     },
     {
-        "question": "Consider the following statements regarding UJALA Scheme:  1. It is the world’s largest zero-subsidy LED lamp distribution scheme.  2. It is implemented by Energy Efficiency Services Limited (EESL) under the Ministry of Power.  Which of the statements given above is/are correct?",
+        "question": "Consider the following statements regarding UJALA Scheme:  1. It is the world\u2019s largest zero-subsidy LED lamp distribution scheme.  2. It is implemented by Energy Efficiency Services Limited (EESL) under the Ministry of Power.  Which of the statements given above is/are correct?",
         "options": [
             "1 only ",
             "2 only ",
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "Which Bank raises $1 billion in overseas market via 10-year bonds, sets benchmark for Indian issuers in 2025 ?",
@@ -138,7 +151,8 @@
             "State Bank of India  ",
             "Punjab National Bank "
         ],
-        "answer": "Exim Bank  "
+        "answer": "Exim Bank  ",
+        "source": "Unknown"
     },
     {
         "question": "RBI asks credit bureaus, banks to pay _ compensation per day for delay in data updation ?",
@@ -148,7 +162,8 @@
             "Rs 500 ",
             "Rs 800 "
         ],
-        "answer": "Rs 100 "
+        "answer": "Rs 100 ",
+        "source": "Unknown"
     },
     {
         "question": "In Which City of Andhra Pradesh,  PM Modi launch a projects worth over Rs.2 lakh crore ?",
@@ -158,7 +173,8 @@
             "Jaislamer  ",
             "Mumbai "
         ],
-        "answer": "Vishakapatnam  "
+        "answer": "Vishakapatnam  ",
+        "source": "Unknown"
     },
     {
         "question": "With reference to the, Amalgamation of National Co-operative Bank consider the following statements:   1. The Reserve Bank of India (RBI)  approved the merger of National Co-operative Bank with Cosms Co- Operative Bank, effective from January 6, 2025.   2. National Co-operative Bank has 13 branches. In FY24, Maratha Sahakari Bank and Sahebrao Deshmukh Sahakari Bank also merged into Cosmos Bank.   3.  In July 2023, the RBI imposed restrictions on the National Co-operative Bank Ltd. and limited deposit withdrawals to Rs 50,000 per account due to the bank's weak financial performance  How many of the statements given above are correct?",
@@ -168,7 +184,8 @@
             "All three  ",
             "None "
         ],
-        "answer": "All three  "
+        "answer": "All three  ",
+        "source": "Unknown"
     },
     {
         "question": "Recently Indian Railways to launch historic ___ Vande Bharat Express?",
@@ -178,7 +195,8 @@
             "Mumbai - Maharashtra  ",
             "Leh - Ladakh "
         ],
-        "answer": "Jammu - Srinagar  "
+        "answer": "Jammu - Srinagar  ",
+        "source": "Unknown"
     },
     {
         "question": "Which Company has successfully commissioned two units of the 6x170 MW Punatsangchhu-II Hydroelectric Project (PHEP-II) in",
@@ -188,7 +206,8 @@
             "Adani Group  ",
             "Microsoft "
         ],
-        "answer": "Bharat Heavy Electricals Limited (BHEL) "
+        "answer": "Bharat Heavy Electricals Limited (BHEL) ",
+        "source": "Unknown"
     },
     {
         "question": "Gold import numbers slashed by ___ for November to $9.84 billion ?",
@@ -198,17 +217,19 @@
             "$8 Billion ",
             "$5 Billion "
         ],
-        "answer": "$5 Billion "
+        "answer": "$5 Billion ",
+        "source": "Unknown"
     },
     {
-        "question": "The State Bank of India (SBI) has revised its forecast for India’s GDP growth in the financial year 2024-25 (FY25) to 6.3 per cent, down from the National Statistical Office’s (NSO) projection of ____ per cent.",
+        "question": "The State Bank of India (SBI) has revised its forecast for India\u2019s GDP growth in the financial year 2024-25 (FY25) to 6.3 per cent, down from the National Statistical Office\u2019s (NSO) projection of ____ per cent.",
         "options": [
             "7.8% ",
             "6.4% ",
             "5.6% ",
             "8.9% "
         ],
-        "answer": "6.4% "
+        "answer": "6.4% ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as new Revenue Secretary ?",
@@ -218,7 +239,8 @@
             "T. V. Somanathan ",
             "Tuhin Kanta Pandey "
         ],
-        "answer": "Tuhin Kanta Pandey "
+        "answer": "Tuhin Kanta Pandey ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as new Department of Investment and Public Asset Management(DIPAM) Secretary ?",
@@ -228,7 +250,8 @@
             "Arunish Chawala ",
             "T. V. Somanathan "
         ],
-        "answer": "Arunish Chawala "
+        "answer": "Arunish Chawala ",
+        "source": "Unknown"
     },
     {
         "question": "The Reserve Bank of India (RBI) has become the world's ____largest central bank gold buyer, a report by the World Gold Council (WGC) said.",
@@ -239,7 +262,8 @@
             "First  ",
             "Fifth "
         ],
-        "answer": "Third "
+        "answer": "Third ",
+        "source": "Unknown"
     },
     {
         "question": "Recently in January 2025,The Reserve Bank of India (RBI) has lifted supervisory restrictions on Chennai-based Asirvad Micro Finance Ltd and New Delhi-based __?",
@@ -249,7 +273,8 @@
             "Tata Motors Ltd  ",
             "Bajaj Finserv "
         ],
-        "answer": "DMI Finance Ltd. "
+        "answer": "DMI Finance Ltd. ",
+        "source": "Unknown"
     },
     {
         "question": "Adani Group has partnered with which Fintech to foray into refinery, petrochemical and chemical business. ?",
@@ -259,17 +284,19 @@
             "Netherland's Rabobank ",
             "Singapore's Notable firms "
         ],
-        "answer": "Thailand's Indorama Resources "
+        "answer": "Thailand's Indorama Resources ",
+        "source": "Unknown"
     },
     {
-        "question": "According to Recently released 2025 Henley passport index, Which Country has reclaimed its place at the top of a quarterly ranking of the world’s most powerful passports .",
+        "question": "According to Recently released 2025 Henley passport index, Which Country has reclaimed its place at the top of a quarterly ranking of the world\u2019s most powerful passports .",
         "options": [
             "United State of America  ",
             "China ",
             "Singapore  ",
             "India "
         ],
-        "answer": "Singapore  "
+        "answer": "Singapore  ",
+        "source": "Unknown"
     },
     {
         "question": "Food and grocery delivery platform Swiggy has launched a new app___ for delivery of snacks, drinks and meals in 15 minutes?",
@@ -279,17 +306,19 @@
             "Uber Eats ",
             "Snacc "
         ],
-        "answer": "Snacc "
+        "answer": "Snacc ",
+        "source": "Unknown"
     },
     {
-        "question": "The ePlane Company—an IIT Madras-incubated electric flying taxi startup has signed a strategic partnership with which Company to develop scalable solutions for passenger and cargo transportation using e-planes.?",
+        "question": "The ePlane Company\u2014an IIT Madras-incubated electric flying taxi startup has signed a strategic partnership with which Company to develop scalable solutions for passenger and cargo transportation using e-planes.?",
         "options": [
             "Tata Consultancy services (TCS) ",
             "Tata Motors Ltd  ",
             "Adni Group Ltd ",
             "BHEL "
         ],
-        "answer": "Tata Consultancy services (TCS) "
+        "answer": "Tata Consultancy services (TCS) ",
+        "source": "Unknown"
     },
     {
         "question": "The UAE, as part of the 'Operation Chivalrous Knight 3', has launched a campaign to support education in ?",
@@ -299,7 +328,8 @@
             "Israel  ",
             "Italy "
         ],
-        "answer": "Gaza Strip "
+        "answer": "Gaza Strip ",
+        "source": "Unknown"
     },
     {
         "question": "In Which City Western Sydney University planning to open new campus?",
@@ -309,7 +339,8 @@
             "Greater Noida  ",
             "Vishakapatnam "
         ],
-        "answer": "Greater Noida  "
+        "answer": "Greater Noida  ",
+        "source": "Unknown"
     },
     {
         "question": "Microfinance Institutions Network has extended deadline limiting maximum of lenders per borrower to __ till April 2025.",
@@ -319,7 +350,8 @@
             "Three  ",
             "Two "
         ],
-        "answer": "Three  "
+        "answer": "Three  ",
+        "source": "Unknown"
     },
     {
         "question": "NPCI is set to roll out its Bharat BillPay for Business service under ___ by March 2025.?",
@@ -329,7 +361,8 @@
             "Phone pe ",
             "GPay "
         ],
-        "answer": "Bharat Connect Platform  "
+        "answer": "Bharat Connect Platform  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Revenue Secretary and Finance Secretary of India?",
@@ -339,7 +372,8 @@
             "T.V. Somanathan ",
             "Mukhmeet S. Bhatia "
         ],
-        "answer": "Tuhin Kanta Pandey "
+        "answer": "Tuhin Kanta Pandey ",
+        "source": "Unknown"
     },
     {
         "question": "Who has been appointed as the Secretary of the Department of Investment and Public Asset Management (DIPAM), Union Ministry of Finance?",
@@ -349,6 +383,7 @@
             "Vikram Misri ",
             "Arunish Chawla "
         ],
-        "answer": "Arunish Chawla "
+        "answer": "Arunish Chawla ",
+        "source": "Unknown"
     }
 ]

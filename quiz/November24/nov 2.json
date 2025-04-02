@@ -7,7 +7,8 @@
             "Rajkiran Rai G.",
             "Rahul Bhave"
         ],
-        "answer": "Rahul Bhave."
+        "answer": "Rahul Bhave.",
+        "source": "aparichitCA"
     },
     {
         "question": "Who will assume the FICCI presidency on November 21, 2024?",
@@ -17,37 +18,41 @@
             "Harsha Vardhan Agarwal",
             "Uday Shankar"
         ],
-        "answer": "Harsha Vardhan Agarwal."
+        "answer": "Harsha Vardhan Agarwal.",
+        "source": "aparichitCA"
     },
     {
         "question": "What were India's GST collections for October 2024?",
         "options": [
-            "₹1.57 lakh crore",
-            "₹1.67 lakh crore",
-            "₹1.77 lakh crore",
-            "₹1.87 lakh crore"
+            "\u20b91.57 lakh crore",
+            "\u20b91.67 lakh crore",
+            "\u20b91.77 lakh crore",
+            "\u20b91.87 lakh crore"
         ],
-        "answer": "₹1.87 lakh crore."
+        "answer": "\u20b91.87 lakh crore.",
+        "source": "aparichitCA"
     },
     {
         "question": "How much recovery target did Canara Bank set for FY25?",
         "options": [
-            "₹4,000 crore",
-            "₹5,000 crore",
-            "₹6,000 crore",
-            "₹7,000 crore"
+            "\u20b94,000 crore",
+            "\u20b95,000 crore",
+            "\u20b96,000 crore",
+            "\u20b97,000 crore"
         ],
-        "answer": "₹6,000 crore."
+        "answer": "\u20b96,000 crore.",
+        "source": "aparichitCA"
     },
     {
         "question": "What equity infusion was approved for the Food Corporation of India?",
         "options": [
-            "₹8,700 crore",
-            "₹9,700 crore",
-            "₹10,700 crore",
-            "₹11,700 crore"
+            "\u20b98,700 crore",
+            "\u20b99,700 crore",
+            "\u20b910,700 crore",
+            "\u20b911,700 crore"
         ],
-        "answer": "₹10,700 crore."
+        "answer": "\u20b910,700 crore.",
+        "source": "aparichitCA"
     },
     {
         "question": "What is the goal of reconstituting the Central Apprenticeship Council (CAC)?",
@@ -57,7 +62,8 @@
             "To set minimum wages",
             "To resolve industrial disputes"
         ],
-        "answer": "To promote apprenticeship programs and industry reforms."
+        "answer": "To promote apprenticeship programs and industry reforms.",
+        "source": "aparichitCA"
     },
     {
         "question": "What reforms did SEBI propose for REITs and InvITs?",
@@ -67,7 +73,8 @@
             "To enhance flexibility and investor protection",
             "To merge them with mutual funds"
         ],
-        "answer": "To enhance flexibility and investor protection"
+        "answer": "To enhance flexibility and investor protection",
+        "source": "aparichitCA"
     },
     {
         "question": "What new rules did SEBI propose regarding securitisation?",
@@ -77,17 +84,19 @@
             "To introduce a new tax regime",
             "SEBI proposed reforms including investment thresholds and liquidity safeguards."
         ],
-        "answer": "SEBI proposed reforms including investment thresholds and liquidity safeguards."
+        "answer": "SEBI proposed reforms including investment thresholds and liquidity safeguards.",
+        "source": "aparichitCA"
     },
     {
         "question": "What milestone did SBI Mutual Fund achieve recently?",
         "options": [
-            "It crossed ₹5 lakh crore in assets under management (AUM)",
-            "It crossed ₹7.5 lakh crore in assets under management (AUM)",
-            "It crossed ₹10 lakh crore in assets under management (AUM)",
-            "It crossed ₹12.5 lakh crore in assets under management (AUM)"
+            "It crossed \u20b95 lakh crore in assets under management (AUM)",
+            "It crossed \u20b97.5 lakh crore in assets under management (AUM)",
+            "It crossed \u20b910 lakh crore in assets under management (AUM)",
+            "It crossed \u20b912.5 lakh crore in assets under management (AUM)"
         ],
-        "answer": "It crossed ₹10 lakh crore in assets under management (AUM)."
+        "answer": "It crossed \u20b910 lakh crore in assets under management (AUM).",
+        "source": "aparichitCA"
     },
     {
         "question": "Which bank introduced e-Bank Guarantee with NeSL?",
@@ -97,17 +106,19 @@
             "Punjab & Sind Bank",
             "Union Bank of India"
         ],
-        "answer": "Punjab & Sind Bank."
+        "answer": "Punjab & Sind Bank.",
+        "source": "aparichitCA"
     },
     {
         "question": "How much investment did Deutsche Bank inject to boost its India operations?",
         "options": [
-            "₹3,113 crore",
-            "₹4,113 crore",
-            "₹5,113 crore",
-            "₹6,113 crore"
+            "\u20b93,113 crore",
+            "\u20b94,113 crore",
+            "\u20b95,113 crore",
+            "\u20b96,113 crore"
         ],
-        "answer": "₹5,113 crore."
+        "answer": "\u20b95,113 crore.",
+        "source": "aparichitCA"
     },
     {
         "question": "Which bank introduced real-time tracking for international money transfers?",
@@ -117,7 +128,8 @@
             "IDFC FIRST Bank",
             "Axis Bank"
         ],
-        "answer": "IDFC FIRST Bank"
+        "answer": "IDFC FIRST Bank",
+        "source": "aparichitCA"
     },
     {
         "question": "What did the RBI include in the Fully Accessible Route for non-resident investments?",
@@ -127,7 +139,8 @@
             "15-year Government Securities",
             "2-year Treasury Bills"
         ],
-        "answer": "10-year Sovereign Green Bonds"
+        "answer": "10-year Sovereign Green Bonds",
+        "source": "aparichitCA"
     },
     {
         "question": "What new amendments did the RBI introduce to strengthen KYC processes?",
@@ -137,7 +150,8 @@
             "Six amendments effective from November 6, 2024",
             "Eight amendments effective from November 6, 2024"
         ],
-        "answer": "Six amendments effective from November 6, 2024"
+        "answer": "Six amendments effective from November 6, 2024",
+        "source": "aparichitCA"
     },
     {
         "question": "How many UPI transactions were recorded in October 2024?",
@@ -147,7 +161,8 @@
             "16.58 billion",
             "17.58 billion"
         ],
-        "answer": "16.58 billion"
+        "answer": "16.58 billion",
+        "source": "aparichitCA"
     },
     {
         "question": "Which two companies formed a joint venture for green energy?",
@@ -157,7 +172,8 @@
             "Tata and Birla",
             "IOCL and BPCL"
         ],
-        "answer": "NTPC and ONGC"
+        "answer": "NTPC and ONGC",
+        "source": "aparichitCA"
     },
     {
         "question": "What self-certification status was awarded to BEML for defense equipment?",
@@ -167,17 +183,19 @@
             "Self-Certification status by the Department of Defence Production",
             "Self-Certification status by the DRDO"
         ],
-        "answer": "Self-Certification status by the Department of Defence Production"
+        "answer": "Self-Certification status by the Department of Defence Production",
+        "source": "aparichitCA"
     },
     {
-        "question": "What was the IFC’s investment in Bajaj Finance aimed at?",
+        "question": "What was the IFC\u2019s investment in Bajaj Finance aimed at?",
         "options": [
             "Promoting affordable housing",
-            "Promoting climate finance and women’s empowerment",
+            "Promoting climate finance and women\u2019s empowerment",
             "Promoting small business loans",
             "Promoting rural development"
         ],
-        "answer": "Promoting climate finance and women’s empowerment"
+        "answer": "Promoting climate finance and women\u2019s empowerment",
+        "source": "aparichitCA"
     },
     {
         "question": "What electric vehicle brand was launched by Royal Enfield?",
@@ -187,7 +205,8 @@
             "Flying Flea",
             "Meteor EV"
         ],
-        "answer": "Flying Flea"
+        "answer": "Flying Flea",
+        "source": "aparichitCA"
     },
     {
         "question": "Which country did India surpass to become the second-largest smartphone market?",
@@ -197,7 +216,8 @@
             "The United States",
             "Germany"
         ],
-        "answer": "The United States"
+        "answer": "The United States",
+        "source": "aparichitCA"
     },
     {
         "question": "Which country did CDS Gen Anil Chauhan sign a defense cooperation MoU with?",
@@ -207,27 +227,30 @@
             "Algeria",
             "Libya"
         ],
-        "answer": "Algeria"
+        "answer": "Algeria",
+        "source": "aparichitCA"
     },
     {
         "question": "What milestone did Cairn Oil & Gas achieve regarding methane emissions?",
         "options": [
             "It achieved net-zero methane emissions",
             "It reduced methane emissions by 50%",
-            "It joined UNEP’s OGMP 2.0 for methane emissions reduction",
+            "It joined UNEP\u2019s OGMP 2.0 for methane emissions reduction",
             "It stopped reporting methane emissions"
         ],
-        "answer": "It joined UNEP’s OGMP 2.0 for methane emissions reduction"
+        "answer": "It joined UNEP\u2019s OGMP 2.0 for methane emissions reduction",
+        "source": "aparichitCA"
     },
     {
         "question": "Which companies formed a joint venture to produce titanium slag in Odisha?",
         "options": [
             "SAIL and POSCO",
-            "IREL and Kazakhstan’s UKTMP",
+            "IREL and Kazakhstan\u2019s UKTMP",
             "NALCO and Rusal",
             "Vedanta and Rio Tinto"
         ],
-        "answer": "IREL and Kazakhstan’s UKTMP."
+        "answer": "IREL and Kazakhstan\u2019s UKTMP.",
+        "source": "aparichitCA"
     },
     {
         "question": "Who was awarded the Rohini Nayyar Prize 2024 for contributions to rural development?",
@@ -237,17 +260,19 @@
             "Anil Pradhan",
             "Medha Patkar"
         ],
-        "answer": "Anil Pradhan."
+        "answer": "Anil Pradhan.",
+        "source": "aparichitCA"
     },
     {
-        "question": "Where is the ILO’s 352nd Governing Body meeting being held?",
+        "question": "Where is the ILO\u2019s 352nd Governing Body meeting being held?",
         "options": [
             "New York",
             "Paris",
             "Geneva",
             "Rome"
         ],
-        "answer": "Geneva"
+        "answer": "Geneva",
+        "source": "aparichitCA"
     },
     {
         "question": "Who was re-elected as the President of the International Solar Alliance (ISA)?",
@@ -257,17 +282,19 @@
             "Brazil",
             "Australia"
         ],
-        "answer": "India"
+        "answer": "India",
+        "source": "aparichitCA"
     },
     {
         "question": "What is the focus of the first-ever Asian Buddhist Summit hosted by India?",
         "options": [
             "Promoting tourism",
-            "Strengthening Asia’s spiritual development",
+            "Strengthening Asia\u2019s spiritual development",
             "Economic cooperation",
             "Political alliances"
         ],
-        "answer": "Strengthening Asia’s spiritual development"
+        "answer": "Strengthening Asia\u2019s spiritual development",
+        "source": "aparichitCA"
     },
     {
         "question": "Where is the Indian Navy's 3rd Mahasagar Summit on maritime security being conducted?",
@@ -277,7 +304,8 @@
             "Indian Ocean Region",
             "South China Sea"
         ],
-        "answer": "Indian Ocean Region"
+        "answer": "Indian Ocean Region",
+        "source": "aparichitCA"
     },
     {
         "question": "Who chaired the 32nd Kendriya Hindi Samiti meeting?",
@@ -287,7 +315,8 @@
             "Narendra Modi",
             "Smriti Irani"
         ],
-        "answer": "Amit Shah"
+        "answer": "Amit Shah",
+        "source": "aparichitCA"
     },
     {
         "question": "Where did the Indian Army participate in the 15th India-US Special Forces Exercise?",
@@ -297,17 +326,19 @@
             "Idaho, USA",
             "Texas, USA"
         ],
-        "answer": "Idaho, USA"
+        "answer": "Idaho, USA",
+        "source": "aparichitCA"
     },
     {
-        "question": "What new initiative did the Indian Armed Forces start in Gujarat’s Defence Corridor?",
+        "question": "What new initiative did the Indian Armed Forces start in Gujarat\u2019s Defence Corridor?",
         "options": [
             "A new military base",
             "A strategic defense conference to bolster industry links",
             "A new naval exercise",
             "A new recruitment drive"
         ],
-        "answer": "A strategic defense conference to bolster industry links"
+        "answer": "A strategic defense conference to bolster industry links",
+        "source": "aparichitCA"
     },
     {
         "question": "Who launched the National MSME Cluster Outreach Programme in Bengaluru?",
@@ -317,16 +348,18 @@
             "Nirmala Sitharaman",
             "Piyush Goyal"
         ],
-        "answer": "Union Finance Minister Nirmala Sitharaman"
+        "answer": "Union Finance Minister Nirmala Sitharaman",
+        "source": "aparichitCA"
     },
     {
-        "question": "Which corridor marks its 5th anniversary in 2024, enabling visa-free pilgrimages to Pakistan’s Gurdwara Sri Kartarpur Sahib?",
+        "question": "Which corridor marks its 5th anniversary in 2024, enabling visa-free pilgrimages to Pakistan\u2019s Gurdwara Sri Kartarpur Sahib?",
         "options": [
             "Attari-Wagah Border",
             "Kartarpur Sahib Corridor",
             "Delhi-Lahore Bus Service",
             "Samjhauta Express"
         ],
-        "answer": "Kartarpur Sahib Corridor"
+        "answer": "Kartarpur Sahib Corridor",
+        "source": "aparichitCA"
     }
 ]

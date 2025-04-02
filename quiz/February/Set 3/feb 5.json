@@ -6,7 +6,8 @@
             "Prithvi-III ",
             "Naval Anti-Ship Missile (NASM-SR) D) Agni-V "
         ],
-        "answer": "Unknown"
+        "answer": "Unknown",
+        "source": "Unknown"
     },
     {
         "question": "What is the range of the recently tested indigenously developed Naval Anti-Ship Missile -Short Range (NASM-SR)?",
@@ -16,7 +17,8 @@
             "75 kilometers ",
             "65 kilometers "
         ],
-        "answer": "55 kilometers "
+        "answer": "55 kilometers ",
+        "source": "Unknown"
     },
     {
         "question": "Who is manufacturing the indigenously developed Naval Anti-Ship Missile -Short Range (NASM-SR)?",
@@ -25,7 +27,8 @@
             "Tata Advanced Systems ",
             "Mahindra Defence Systems Limited D) Bharat Dynamics "
         ],
-        "answer": "Unknown"
+        "answer": "Unknown",
+        "source": "Unknown"
     },
     {
         "question": "The Reserve Bank of India (RBI) has eased the risk-weight norms for bank loans to NBFCs, reducing it from 125% to 100%, effective from ?",
@@ -35,7 +38,8 @@
             "1 August, 2025 ",
             "1 September, 2025 "
         ],
-        "answer": "1 April, 2025 "
+        "answer": "1 April, 2025 ",
+        "source": "Unknown"
     },
     {
         "question": "The Central Government is strategically planning to sell how much percent stake in at least five Public Sector Banks (PSBs)?",
@@ -45,17 +49,19 @@
             "30% ",
             "35% "
         ],
-        "answer": "20% "
+        "answer": "20% ",
+        "source": "Unknown"
     },
     {
-        "question": "Small Industries Development Bank of India (SIDBI) has signed an MoU with which entity for “Partnership for financing MSMEs,”?",
+        "question": "Small Industries Development Bank of India (SIDBI) has signed an MoU with which entity for \u201cPartnership for financing MSMEs,\u201d?",
         "options": [
             "Tata Consultancy Services ",
             "HCL Technologies ",
             "Tata Capital Limited ",
             "Tech Mahindra "
         ],
-        "answer": "Tata Capital Limited "
+        "answer": "Tata Capital Limited ",
+        "source": "Unknown"
     },
     {
         "question": "The Reserve Bank of India (RBI) has allowed the depositors of New India Cooperative Bank Limited to withdraw how many rupees per depositor?",
@@ -65,17 +71,19 @@
             "Rs 25,000 ",
             "Rs 75,000 "
         ],
-        "answer": "Rs 25,000 "
+        "answer": "Rs 25,000 ",
+        "source": "Unknown"
     },
     {
         "question": "The Reserve Bank of India (RBI) has increased the small value loan limit per borrower for Urban Cooperative Banks (UCBs) to how many crore rupees?",
         "options": [
-            "₹3 Crore ",
-            "₹5 Crore ",
-            "₹6 Crore ",
-            "₹7 Crore "
+            "\u20b93 Crore ",
+            "\u20b95 Crore ",
+            "\u20b96 Crore ",
+            "\u20b97 Crore "
         ],
-        "answer": "₹3 Crore "
+        "answer": "\u20b93 Crore ",
+        "source": "Unknown"
     },
     {
         "question": "Which company has launched the 'Surya Urja ka Maha Kumbh' mission , an initiative to power 10 lakh homes by 2027 in line with PM Surya Ghar Yojana?",
@@ -85,7 +93,8 @@
             "Adani Power ",
             "Power Grid Corporation of India "
         ],
-        "answer": "Tata Power "
+        "answer": "Tata Power ",
+        "source": "Unknown"
     },
     {
         "question": "Which Bank has introduced SIB QUICKPL, a fully digital personal loan platform?",
@@ -95,7 +104,8 @@
             "Indian Overseas Bank ",
             "South Indian Bank "
         ],
-        "answer": "South Indian Bank "
+        "answer": "South Indian Bank ",
+        "source": "Unknown"
     },
     {
         "question": "Which fintech startup has acquired BharatX to Strengthen BNPL and Credit-on-UPI Offerings?",
@@ -105,7 +115,8 @@
             "Affirm ",
             "Super.money "
         ],
-        "answer": "Super.money "
+        "answer": "Super.money ",
+        "source": "Unknown"
     },
     {
         "question": "Which entity has partnered with Zaggle to introduce a citizen card and visitor management systems?",
@@ -115,7 +126,8 @@
             "Wise ",
             "GIFT City "
         ],
-        "answer": "GIFT City "
+        "answer": "GIFT City ",
+        "source": "Unknown"
     },
     {
         "question": "Which one of the following has imposed a Rs 5.05 crore penalty on Indian Clearing Corporation Ltd (ICCL) for non-compliance with cyber security and disaster recovery framework?",
@@ -125,7 +137,8 @@
             "Competition Commission of India (CCI) ",
             "Confederation of Indian Industry (CII) "
         ],
-        "answer": "Securities and Exchange Board of India (SEBI)  "
+        "answer": "Securities and Exchange Board of India (SEBI)  ",
+        "source": "Unknown"
     },
     {
         "question": "Consider the following statements regarding the SPHEREx Telescope:  1. It will use spectroscopic images to measure the 3D positions of about 450 million galaxies across cosmic history.  2. It is an initiative of the National Aeronautics and Space Administration.  Which of the statements given above is/are correct?",
@@ -135,7 +148,8 @@
             "Both 1 and 2 ",
             "Neither 1 nor 2 "
         ],
-        "answer": "Both 1 and 2 "
+        "answer": "Both 1 and 2 ",
+        "source": "Unknown"
     },
     {
         "question": "National Stock Exchange (NSE) has signed a MoU with which state government to launch a student skilling programme in the banking, financial services and insurance (BFSI) sector?",
@@ -145,7 +159,8 @@
             "Jharkhand  ",
             "Madhya Pradesh "
         ],
-        "answer": "Assam  "
+        "answer": "Assam  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has received approval from the Reserve Bank of India (RBI) to open 115 new branches?",
@@ -155,7 +170,8 @@
             "Muthoot Finance ",
             "LIC Housing Finance "
         ],
-        "answer": "Muthoot Finance "
+        "answer": "Muthoot Finance ",
+        "source": "Unknown"
     },
     {
         "question": "Which one of the following has signed a contract for the procurement of 223 Automatic Chemical Agent Detection and Alarm (ACAD",
@@ -166,17 +182,19 @@
             "Indian Army ",
             "Indian Coast Guard "
         ],
-        "answer": "Indian Air Force "
+        "answer": "Indian Air Force ",
+        "source": "Unknown"
     },
     {
-        "question": "Which institution has launched the ‘Insurance for all by 2047’ Mission?",
+        "question": "Which institution has launched the \u2018Insurance for all by 2047\u2019 Mission?",
         "options": [
             "Tata AIA Life Insurance ",
             "Bharti AXA Life Insurance ",
             "ICICI Prudential Life Insurance ",
             "Insurance Regulatory and Development Authority of India "
         ],
-        "answer": "Insurance Regulatory and Development Authority of India "
+        "answer": "Insurance Regulatory and Development Authority of India ",
+        "source": "Unknown"
     },
     {
         "question": "Which country has launched a roadmap to enhance trade and investment with India, focusing on defence industries, sports, culture, space, and technology?",
@@ -186,7 +204,8 @@
             "Australia  ",
             "Malaysia "
         ],
-        "answer": "Australia  "
+        "answer": "Australia  ",
+        "source": "Unknown"
     },
     {
         "question": "Which two countries have the highest breast cancer incidence rates globally according to a recent study?",
@@ -196,7 +215,8 @@
             "Australia and New Zealand ",
             "France and India "
         ],
-        "answer": "Australia and New Zealand "
+        "answer": "Australia and New Zealand ",
+        "source": "Unknown"
     },
     {
         "question": "In which year will the Central Board of Secondary Education start conducting biannual Class-10 board exams?",
@@ -206,7 +226,8 @@
             "2024 ",
             "2027 "
         ],
-        "answer": "2026 "
+        "answer": "2026 ",
+        "source": "Unknown"
     },
     {
         "question": "Which institution did the CAG sign MoUs with to enhance auditing practices?",
@@ -216,7 +237,8 @@
             "IIT Madras ",
             "IIT Kanpur "
         ],
-        "answer": "IIT Madras "
+        "answer": "IIT Madras ",
+        "source": "Unknown"
     },
     {
         "question": "What is the name of India's last imported warship, set for commissioning in June 2025?",
@@ -226,17 +248,19 @@
             "Shakti ",
             "INS Kolkata "
         ],
-        "answer": "Tamal "
+        "answer": "Tamal ",
+        "source": "Unknown"
     },
     {
-        "question": "Which institution organized Asia’s first Global Hyperloop Competition?",
+        "question": "Which institution organized Asia\u2019s first Global Hyperloop Competition?",
         "options": [
             "IIT Bombay ",
             "IIT Delhi ",
             "IIT Kanpur ",
             "IIT Madras "
         ],
-        "answer": "IIT Madras "
+        "answer": "IIT Madras ",
+        "source": "Unknown"
     },
     {
         "question": "Who is the author of the Kannada short story collection Heart Lamp, longlisted for the International Booker Prize 2025?",
@@ -246,7 +270,8 @@
             "U.R. Ananthamurthy ",
             "Geetanjali Shree "
         ],
-        "answer": "Banu Mushtaq "
+        "answer": "Banu Mushtaq ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank partnered with the ITBP to provide exclusive banking benefits?",
@@ -256,7 +281,8 @@
             "ICICI Bank ",
             "Punjab National Bank "
         ],
-        "answer": "Punjab National Bank "
+        "answer": "Punjab National Bank ",
+        "source": "Unknown"
     },
     {
         "question": "Which country introduced the Green Transition Alliance India (GTAI) to enhance collaboration with India on sustainable energy solutions?",
@@ -266,7 +292,8 @@
             "Germany ",
             "Finland "
         ],
-        "answer": "Denmark "
+        "answer": "Denmark ",
+        "source": "Unknown"
     },
     {
         "question": "Mount Fentale, recently seen in the news, lies in which country?",
@@ -276,7 +303,8 @@
             "Russia ",
             "Ethiopia "
         ],
-        "answer": "Ethiopia "
+        "answer": "Ethiopia ",
+        "source": "Unknown"
     },
     {
         "question": "Which state government has recently signed an agreement with the Solar Energy Corporation of India Limited for a solar project?",
@@ -286,7 +314,8 @@
             "Rajasthan ",
             "Uttar Pradesh "
         ],
-        "answer": "Madhya Pradesh "
+        "answer": "Madhya Pradesh ",
+        "source": "Unknown"
     },
     {
         "question": "Who launched the Financial Literacy Week?",
@@ -296,7 +325,8 @@
             "NITI Aayog ",
             "SEBI "
         ],
-        "answer": "RBI "
+        "answer": "RBI ",
+        "source": "Unknown"
     },
     {
         "question": "What is the theme of Financial Literacy Week (FLW) 2025 launched by Reserve Bank of India?",
@@ -306,7 +336,8 @@
             "Good Financial Behaviour, Your Saviour ",
             "Financial Literacy: Women's Prosperity "
         ],
-        "answer": "Financial Literacy: Women's Prosperity "
+        "answer": "Financial Literacy: Women's Prosperity ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has been awarded the BSI's ISO 22301:2019 Business Continuity Management System Certification?",
@@ -316,7 +347,8 @@
             "Bank of Baroda  ",
             "State Bank of India "
         ],
-        "answer": "Bank of Baroda  "
+        "answer": "Bank of Baroda  ",
+        "source": "Unknown"
     },
     {
         "question": "Who has introduced its next-generation digital assistant 'Alexa+'?",
@@ -326,17 +358,19 @@
             "IBM ",
             "Amazon "
         ],
-        "answer": "Amazon "
+        "answer": "Amazon ",
+        "source": "Unknown"
     },
     {
-        "question": "Who has introduced its first quantum computing chip–called \"Ocelot\"?",
+        "question": "Who has introduced its first quantum computing chip\u2013called \"Ocelot\"?",
         "options": [
             "Amazon Web Services  ",
             "Alphabet Inc ",
             "Alibaba Group ",
             "Shopify "
         ],
-        "answer": "Amazon Web Services  "
+        "answer": "Amazon Web Services  ",
+        "source": "Unknown"
     },
     {
         "question": "Which fintech companies has partnered with Perplexity to integrate AI-powered search?",
@@ -346,7 +380,8 @@
             "Paytm ",
             "Lendingkart "
         ],
-        "answer": "Paytm "
+        "answer": "Paytm ",
+        "source": "Unknown"
     },
     {
         "question": "Which bank has signed a MoU with the Indo-Tibetan Border Police (ITBP) to provide exclusive financial benefits and insurance coverage for personnel, pensioners, and their families?",
@@ -356,7 +391,8 @@
             "HDFC Bank  ",
             "Punjab National Bank "
         ],
-        "answer": "Punjab National Bank "
+        "answer": "Punjab National Bank ",
+        "source": "Unknown"
     },
     {
         "question": "According to the Union Ministry of Finance, what was the total loan sanctioned under the Kisan Credit Card as of 31st December 2024?",
@@ -366,6 +402,7 @@
             "Rs 12.05 lakh crore ",
             "Rs 15.05 lakh crore "
         ],
-        "answer": "Rs 10.05 lakh crore "
+        "answer": "Rs 10.05 lakh crore ",
+        "source": "Unknown"
     }
 ]
