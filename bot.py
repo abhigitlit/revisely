@@ -660,7 +660,7 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
                 context.job_queue.run_once(timeout_quiz, poll_time, chat_id=chat_id, name=f"quiz_{user_id}")
 
             if not user.get("timer", False):
-                context.job_queue.run_once(check_inactivity, 10, chat_id=chat_id, name=f"inactive_{user_id}")
+                context.job_queue.run_once(check_inactivity, 180, chat_id=chat_id, name=f"inactive_{user_id}")
 
         else:
             user["active_quiz"] = False
