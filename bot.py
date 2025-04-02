@@ -856,7 +856,8 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
         print(wrong_count)
         if stats.get("retry_mode", False):
             reply_markup = InlineKeyboardMarkup(inline)
-                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            try:
+                 await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
             except TimedOut:
                 print("Timeout while sending leaderboard. Retrying...")
                 await asyncio.sleep(2)
