@@ -1,0 +1,310 @@
+[
+    {
+        "question": "Which state government is launching its own satellite named 'ASSAMSAT'?",
+        "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Uttar Pradesh",
+            "Maharashtra",
+            "Assam"
+        ],
+        "answer": "Assam"
+    },
+    {
+        "question": "Which state replaced the rupee symbol with a Tamil letter in the budget logo in 2025?",
+        "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh",
+            "Telangana"
+        ],
+        "answer": "Tamil Nadu"
+    },
+    {
+        "question": "What is the partnership between Canara HSBC Life Insurance and GIC Housing Finance focused on?",
+        "options": [
+            "To provide home loans",
+            "To enhance home loan security",
+            "To promote insurance plans",
+            "To build affordable housing",
+            "To improve banking services"
+        ],
+        "answer": "To enhance home loan security"
+    },
+    {
+        "question": "Which country has become the top source of Foreign Direct Investment (FDI) into Dubai?",
+        "options": [
+            "United States",
+            "China",
+            "India",
+            "United Kingdom",
+            "Japan"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "What is the purpose of Indian Railways joining the Mission Amrit Sarovar?",
+        "options": [
+            "To tackle water scarcity",
+            "To promote sustainable energy",
+            "To build more railways",
+            "To improve connectivity",
+            "To increase railway revenue"
+        ],
+        "answer": "To tackle water scarcity"
+    },
+    {
+        "question": "What milestone has been achieved in India’s solar revolution under the PM Surya Ghar initiative?",
+        "options": [
+            "5 lakh solar installations",
+            "10 lakh solar installations",
+            "15 lakh solar installations",
+            "20 lakh solar installations",
+            "25 lakh solar installations"
+        ],
+        "answer": "10 lakh solar installations"
+    },
+    {
+        "question": "Which national park in Chhattisgarh is set to become India’s next UNESCO World Heritage Site?",
+        "options": [
+            "Sundarbans National Park",
+            "Kaziranga National Park",
+            "Kanger Valley National Park",
+            "Jim Corbett National Park",
+            "Bandhavgarh National Park"
+        ],
+        "answer": "Kanger Valley National Park"
+    },
+    {
+        "question": "Which city has been added to the Ayushman Bharat scheme with a coverage of Rs 5 lakh for millions?",
+        "options": [
+            "Mumbai",
+            "Delhi",
+            "Kolkata",
+            "Chennai",
+            "Bangalore"
+        ],
+        "answer": "Delhi"
+    },
+    {
+        "question": "Which team won the 15th Hockey India Senior Women National Championship?",
+        "options": [
+            "Odisha",
+            "Haryana",
+            "Hockey Jharkhand",
+            "Uttar Pradesh",
+            "Punjab"
+        ],
+        "answer": "Hockey Jharkhand"
+    },
+    {
+        "question": "Which team won the Women’s Premier League 2025 Final?",
+        "options": [
+            "Delhi Capitals",
+            "Royal Challengers Bangalore",
+            "Mumbai Indians",
+            "Chennai Super Kings",
+            "Gujarat Giants"
+        ],
+        "answer": "Mumbai Indians"
+    },
+    {
+        "question": "Which company has received approval from the RBI to get an NBFC license?",
+        "options": [
+            "Westbridge Capital",
+            "Kuhoo Finance",
+            "HDFC Finance",
+            "ICICI Finance",
+            "Bajaj Finance"
+        ],
+        "answer": "Kuhoo Finance"
+    },
+    {
+        "question": "Which organization has approved the first private reinsurance firm in India?",
+        "options": [
+            "SEBI",
+            "IRDAI",
+            "RBI",
+            "Insurance Regulatory Authority",
+            "Ministry of Finance"
+        ],
+        "answer": "IRDAI"
+    },
+    {
+        "question": "Where has China deployed advanced radar systems near?",
+        "options": [
+            "India Border",
+            "Myanmar Border",
+            "Taiwan Strait",
+            "South China Sea",
+            "Hong Kong"
+        ],
+        "answer": "Myanmar Border"
+    },
+    {
+        "question": "Which space mission has been approved by the Indian government, to be a joint mission with Japan?",
+        "options": [
+            "Chandrayaan-5",
+            "Mars Orbiter Mission-2",
+            "Gaganyaan Mission",
+            "Astrosat-2",
+            "Aditya-L1"
+        ],
+        "answer": "Chandrayaan-5"
+    },
+    {
+        "question": "What missile did the Tejas fighter jet successfully test-fire recently?",
+        "options": [
+            "Surface-to-air missile",
+            "BrahMos missile",
+            "Air-to-air Astra missile",
+            "Cruise missile",
+            "Interceptor missile"
+        ],
+        "answer": "Air-to-air Astra missile"
+    },
+    {
+        "question": "What is India's ranking in the latest global free speech index?",
+        "options": [
+            "50th",
+            "66th",
+            "33th",
+            "24th",
+            "41th"
+        ],
+        "answer": "24th"
+    },
+    {
+        "question": "What is the new reservation percentage for OBCs in Telangana after the recent bill passed?",
+        "options": [
+            "33%",
+            "42%",
+            "49%",
+            "50%",
+            "60%"
+        ],
+        "answer": "42%"
+    },
+    {
+        "question": "What company won double gold at the SKOCH Awards 2025?",
+        "options": [
+            "Muthoot Microfin",
+            "Tata Microfinance",
+            "HDFC Microfin",
+            "ICICI Microfinance",
+            "Aditya Birla Microfinance"
+        ],
+        "answer": "Muthoot Microfin"
+    },
+    {
+        "question": "Which two astronauts returned to Earth after spending nine unplanned months in space?",
+        "options": [
+            "Butch Wilmore and Suni Williams",
+            "Neil Armstrong and Buzz Aldrin",
+            "Peggy Whitson and Scott Kelly",
+            "Michael Collins and Chris Hadfield",
+            "John W. Young and Story Musgrave"
+        ],
+        "answer": "Butch Wilmore and Suni Williams"
+    },
+    {
+        "question": "How many countries are affected by the US travel ban in 2025?",
+        "options": [
+            "30",
+            "40",
+            "43",
+            "50",
+            "60"
+        ],
+        "answer": "43"
+    },
+    {
+        "question": "Which sport received official approval to feature in the Los Angeles 2028 Olympic Games?",
+        "options": [
+            "Wrestling",
+            "Baseball",
+            "Boxing",
+            "Cricket",
+            "Basketball"
+        ],
+        "answer": "Boxing"
+    },
+    {
+        "question": "Which country’s team did India defeat to clinch both Men’s & Women’s Kabaddi World Cup 2025?",
+        "options": [
+            "England",
+            "Iran",
+            "Sri Lanka",
+            "Bangladesh",
+            "Japan"
+        ],
+        "answer": "England"
+    },
+    {
+        "question": "Which organization has been appointed by IN-SPACe to manage the Rs 1,000 crore spacetech fund?",
+        "options": [
+            "SIDBI",
+            "ICICI Bank",
+            "Canara Bank",
+            "HDFC Ventures",
+            "IDBI Bank"
+        ],
+        "answer": "SIDBI"
+    },
+    {
+        "question": "Where did the 614th meeting of the RBI Central Board of Directors take place?",
+        "options": [
+            "New Delhi",
+            "Mumbai",
+            "Trivandrum",
+            "Bengaluru",
+            "Chennai"
+        ],
+        "answer": "Trivandrum"
+    },
+    {
+        "question": "What is the record profit posted by RRBs in FY 2023-24?",
+        "options": [
+            "₹5,000 crore",
+            "₹7,571 crore",
+            "₹10,000 crore",
+            "₹8,000 crore",
+            "₹6,500 crore"
+        ],
+        "answer": "₹7,571 crore"
+    },
+    {
+        "question": "What percentage salary and pension hike has been notified for MPs by the Centre?",
+        "options": [
+            "10%",
+            "15%",
+            "20%",
+            "24%",
+            "30%"
+        ],
+        "answer": "24%"
+    },
+    {
+        "question": "Which country has unveiled the world’s largest hydrogen reserve worth $92 billion?",
+        "options": [
+            "Germany",
+            "United States",
+            "France",
+            "Japan",
+            "China"
+        ],
+        "answer": "France"
+    },
+    {
+        "question": "Which state’s 15 districts have been added to the ESI scheme of ESIC?",
+        "options": [
+            "Punjab",
+            "Uttar Pradesh",
+            "Bihar",
+            "West Bengal",
+            "Rajasthan"
+        ],
+        "answer": "Uttar Pradesh"
+    }
+]

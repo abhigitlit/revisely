@@ -1,0 +1,310 @@
+[
+    {
+        "question": "What is the name of the newly launched initiative to support biotech startups?",
+        "options": [
+            "BioSaarthi",
+            "BioTech India",
+            "Startup Biotech",
+            "Genome Boost",
+            "BioVikas"
+        ],
+        "answer": "BioSaarthi"
+    },
+    {
+        "question": "Where did President Murmu attend the Purple Fest 2025?",
+        "options": [
+            "Goa",
+            "Rashtrapati Bhavan",
+            "Mumbai",
+            "Kolkata",
+            "Bengaluru"
+        ],
+        "answer": "Rashtrapati Bhavan"
+    },
+    {
+        "question": "Which Indian state assembly became the first to broadcast proceedings in sign language?",
+        "options": [
+            "Maharashtra",
+            "Tamil Nadu",
+            "Karnataka",
+            "Punjab",
+            "Gujarat"
+        ],
+        "answer": "Punjab"
+    },
+    {
+        "question": "Who has been elected as the 10th President of the International Olympic Committee (IOC)?",
+        "options": [
+            "Thomas Bach",
+            "Kirsty Coventry",
+            "Sebastian Coe",
+            "John Coates",
+            "Sergey Bubka"
+        ],
+        "answer": "Kirsty Coventry"
+    },
+    {
+        "question": "Which organization approved Paytm Money to offer research analyst services?",
+        "options": [
+            "RBI",
+            "SEBI",
+            "NABARD",
+            "IRDAI",
+            "Ministry of Finance"
+        ],
+        "answer": "SEBI"
+    },
+    {
+        "question": "Which country has topped the World Happiness Rankings for the eighth consecutive year?",
+        "options": [
+            "Sweden",
+            "Finland",
+            "Denmark",
+            "Norway",
+            "Netherlands"
+        ],
+        "answer": "Finland"
+    },
+    {
+        "question": "What is the purpose of the 'Shishtachar' squad launched by the Delhi Police?",
+        "options": [
+            "To combat eve-teasing",
+            "women's safety",
+            "To promote traffic rules",
+            "To control pollution",
+            "To educate the public"
+        ],
+        "answer": "women's safety"
+    },
+    {
+        "question": "What is the purpose of the entry fee introduced by the Sikkim Government?",
+        "options": [
+            "To improve education",
+            "To boost infrastructure and visitor experience",
+            "To develop new industries",
+            "To reduce pollution",
+            "To increase tourism"
+        ],
+        "answer": "To boost infrastructure and visitor experience"
+    },
+    {
+        "question": "Which animal's photo was unveiled by the Rajasthan Forest Department?",
+        "options": [
+            "Bengal Tiger",
+            "Caracal Wildcat",
+            "Asiatic Lion",
+            "Indian Elephant",
+            "Snow Leopard"
+        ],
+        "answer": "Caracal Wildcat"
+    },
+    {
+        "question": "Which airport has been declared the \"Best in Arrival Globally\" for the third consecutive year?",
+        "options": [
+            "Delhi Airport",
+            "Kempegowda Airport, Bengaluru",
+            "Mumbai Airport",
+            "Chennai Airport",
+            "Kolkata Airport"
+        ],
+        "answer": "Kempegowda Airport, Bengaluru"
+    },
+    {
+        "question": "What is the recent approval secured by Muthoot Finance from the RBI?",
+        "options": [
+            "To open 100 new branches",
+            "To open 115 new branches",
+            "To launch a new mobile app",
+            "To increase its loan interest rates",
+            "To merge with another company"
+        ],
+        "answer": "To open 115 new branches"
+    },
+    {
+        "question": "What is the aim of the MoU signed between SIDBI and Tata Capital Limited?",
+        "options": [
+            "Strengthen education funding",
+            "Strengthen MSME financing",
+            "Increase agricultural loans",
+            "Expand international trade",
+            "Promote consumer loans"
+        ],
+        "answer": "Strengthen MSME financing"
+    },
+    {
+        "question": "What special feature does the 'Anmol Salary Account' introduced by HDFC Bank offer to PSU employees?",
+        "options": [
+            "Interest-free loans",
+            "Cyber fraud cover",
+            "High-interest savings account",
+            "Zero balance maintenance",
+            "Family health insurance"
+        ],
+        "answer": "Cyber fraud cover"
+    },
+    {
+        "question": "What milestone has been achieved by Kisan Credit Card loans in India?",
+        "options": [
+            "Crossed Rs 5 lakh crore",
+            "Crossed Rs 8 lakh crore",
+            "Crossed Rs 10 lakh crore",
+            "Crossed Rs 12 lakh crore",
+            "Crossed Rs 15 lakh crore"
+        ],
+        "answer": "Crossed Rs 10 lakh crore"
+    },
+    {
+        "question": "Which satellite has NASA recently launched to discover traces of water on the Moon?",
+        "options": [
+            "Mars Orbiter",
+            "Lunar Trailblazer",
+            "Moon Explorer",
+            "Solar Scout",
+            "Venus Mission"
+        ],
+        "answer": "Lunar Trailblazer"
+    },
+    {
+        "question": "Which Indian airport secured a spot in the top 10 busiest global airports in 2025?",
+        "options": [
+            "Indira Gandhi International Airport",
+            "Chhatrapati Shivaji Maharaj International Airport",
+            "Kempegowda International Airport",
+            "Netaji Subhas Chandra Bose International Airport",
+            "Sardar Vallabhbhai Patel International Airport"
+        ],
+        "answer": "Indira Gandhi International Airport"
+    },
+    {
+        "question": "What decision has been made by the Bhagwant Mann government in Punjab regarding the Punjabi language?",
+        "options": [
+            "Make Punjabi optional",
+            "Make Punjabi compulsory in all Punjab schools",
+            "Introduce new Punjabi textbooks",
+            "Promote Punjabi in international schools",
+            "Establish a Punjabi language university"
+        ],
+        "answer": "Make Punjabi compulsory in all Punjab schools"
+    },
+    {
+        "question": "Which bi-annual magazine was released by Rajnath Singh in Hindi?",
+        "options": [
+            "Bharat Ka Vikas",
+            "Sashakt Bharat",
+            "Rashtriya Suraksha",
+            "Vishwa Shakti",
+            "Suraksha Darpan"
+        ],
+        "answer": "Sashakt Bharat"
+    },
+    {
+        "question": "ADB approves a $200 million loan to expand urban services in which Indian city?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Bengaluru",
+            "Chennai"
+        ],
+        "answer": "Kolkata"
+    },
+    {
+        "question": "According to the RBI, corporate profits jumped by what percentage in FY24 despite slow sales?",
+        "options": [
+            "10.2%",
+            "12.5%",
+            "15.3%",
+            "8.7%",
+            "20.4%"
+        ],
+        "answer": "15.3%"
+    },
+    {
+        "question": "What interest rate has the EPFO retained for the year 2024-25?",
+        "options": [
+            "7.5%",
+            "8.0%",
+            "8.25%",
+            "8.5%",
+            "9.0%"
+        ],
+        "answer": "8.25%"
+    },
+    {
+        "question": "India’s first hyperloop test track will bring which type of revolution?",
+        "options": [
+            "Economic",
+            "Agricultural",
+            "Environmental",
+            "High-Speed Transportation",
+            "Technological"
+        ],
+        "answer": "High-Speed Transportation"
+    },
+    {
+        "question": "Donald Trump has announced which type of US visa to replace the EB-5 visa?",
+        "options": [
+            "Green Card",
+            "Gold Card",
+            "Blue Card",
+            "Silver Card",
+            "Platinum Card"
+        ],
+        "answer": "Gold Card"
+    },
+    {
+        "question": "What new visa program has the UAE introduced for foreigners?",
+        "options": [
+            "Red Visa",
+            "Green Visa",
+            "Blue Visa",
+            "Gold Visa",
+            "White Visa"
+        ],
+        "answer": "Blue Visa"
+    },
+    {
+        "question": "What initiative was unveiled by Sarbananda Sonowal?",
+        "options": [
+            "One Nation-One Tax",
+            "One Nation-One Port",
+            "One Nation-One Election",
+            "One Nation-One Hospital",
+            "One Nation-One Market"
+        ],
+        "answer": "One Nation-One Port"
+    },
+    {
+        "question": "SEBI recently launched a centralized database for corporate bonds, what is it called?",
+        "options": [
+            "Bond Central",
+            "Bond Hub",
+            "SEBI Bonds",
+            "Corporate Bonds Center",
+            "Debt Bond Database"
+        ],
+        "answer": "Bond Central"
+    },
+    {
+        "question": "According to the World Bank, what annual growth rate is required for India to become Viksit Bharat by 2047?",
+        "options": [
+            "8.5%",
+            "7.8%",
+            "6.2%",
+            "9.5%",
+            "10%"
+        ],
+        "answer": "7.8%"
+    },
+    {
+        "question": "Who will China send as the first foreign guest to its space station?",
+        "options": [
+            "An Indian astronaut",
+            "A Pakistani astronaut",
+            "A Russian astronaut",
+            "A European astronaut",
+            "An American astronaut"
+        ],
+        "answer": "A Pakistani astronaut"
+    }
+]
