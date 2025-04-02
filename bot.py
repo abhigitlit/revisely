@@ -117,6 +117,13 @@ def init_db():
             quiz_timestamp DATETIME
         )
     ''')
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS users (
+            user_id INTEGER PRIMARY KEY,
+            full_name TEXT,
+            username TEXT
+        )
+    ''')
 
     conn.commit()
     return conn
@@ -213,6 +220,32 @@ def has_reached_quiz_limit(user_id):
 
     return False
 
+<<<<<<< HEAD
+=======
+
+def store_user_details(user_id, full_name, username):
+    """Stores or updates user details in the database."""
+    conn = sqlite3.connect(DB_PATH, check_same_thread=False)
+    cursor = conn.cursor()
+
+    # Check if the user already exists
+    cursor.execute("SELECT user_id FROM users WHERE user_id = ?", (user_id,))
+    existing_user = cursor.fetchone()
+
+    if existing_user:
+        # Update user details (if needed)
+        cursor.execute("UPDATE users SET full_name = ?, username = ? WHERE user_id = ?",
+                       (full_name, username, user_id))
+    else:
+        # Insert new user data
+        cursor.execute("INSERT INTO users (user_id, full_name, username) VALUES (?, ?, ?)",
+                       (user_id, full_name, username))
+
+    conn.commit()
+    conn.close()
+
+
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
 # -------------------- TELEGRAM BOT FUNCTIONS --------------------
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.message.from_user
@@ -220,6 +253,11 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.message.chat_id
     full_name = user.full_name  # Get full name
     username = user.username if user.username else "NoUsername"
+<<<<<<< HEAD
+=======
+
+    store_user_details(user_id, full_name, username)
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
     now = datetime.utcnow()
     if user_id not in user_data:
         user_data[user_id] = {}
@@ -245,7 +283,11 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 return
         
         if has_reached_quiz_limit(user_id):
+<<<<<<< HEAD
             await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Please wait 5 Minutes....")
+=======
+            await context.bot.send_message(chat_id, f"❌ You have reached your quiz limit. Please wait 20 Minutes....")
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
             return
     user_data[user_id]["active_menu"] = True
     log_user_action(user_id, full_name, username, "started menu", f"in Chat ID: {update.message.chat_id}")
@@ -509,7 +551,11 @@ async def timer_selection(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         full_name = user.full_name
         username = user.username if user.username else "NoUsername"
+<<<<<<< HEAD
         log_user_action(user_id, full_name, username, "Started the Quiz", f"in Chat ID: {update.message.chat_id}")
+=======
+        log_user_action(user_id, full_name, username, "Started the Quiz", f"in Chat ID: {query.message.chat_id}")
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
         await staggered_quiz_start(chat_id, user_id, context)
     elif data == "pre_timer":
         await show_directory(chat_id, context, query)
@@ -653,7 +699,11 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
         full_name = user.full_name
 
         username = user.username if user.username else "NoUsername"
+<<<<<<< HEAD
         log_user_action(user_id, full_name, username, "Answered The Poll", f"in Chat ID: {update.message.chat_id}")
+=======
+        log_user_action(user_id, full_name, username, "Answered The Poll", f"in Chat ID: {user_id}")
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
 
         if user_id in user_data:
             user = user_data[user_id]
@@ -681,6 +731,7 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     except TimedOut:
                         print("Timeout while removing jobs. Continuing...")
 
+<<<<<<< HEAD
                     # ✅ Check if the selected option is correct
                     if selected_option != correct_index:
                         if not session.get("retry_mode", False):
@@ -688,6 +739,13 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     else:
                         session["correct"] += 1  # Increase correct answer count
 
+=======
+                    if selected_option != correct_index:
+                        if not user.get("retry_mode", False):
+                            user.setdefault("wrong_questions", []).append(question)
+                    else:
+                        user["correct"] += 1  # Increase correct answer count
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
                 # ✅ Move to the next question with error handling
                 if user["index"] + 1 < max_questions:
                     user["index"] += 1
@@ -824,6 +882,7 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
         inline = []
         wrong_questions = stats.get("wrong_questions", [])
         wrong_count = len(wrong_questions)
+<<<<<<< HEAD
         if wrong_count > 0:
             message += f"\n\nYou have {wrong_count} wrong question(s). Would you like to reattempt them?"
             inline.append([
@@ -854,11 +913,55 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
                         f"❌ You have reached your quiz limit. Try after 5 minutes...."
                     )
 
+=======
+
+        print(wrong_count)
+        if stats.get("retry_mode", False):
+            reply_markup = InlineKeyboardMarkup(inline)
+            try:
+                 await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            except TimedOut:
+                print("Timeout while sending leaderboard. Retrying...")
+                await asyncio.sleep(2)
+                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            return
+        if wrong_count > 0:
+            message += f"\n\nYou have {wrong_count} wrong question(s). Would you like to reattempt them?"
+            inline.append([
+                InlineKeyboardButton("Yes, Retry", callback_data="retry_choice:yes"),
+                InlineKeyboardButton("No", callback_data="retry_choice:no")
+            ])
+                    # ✅ Send results message with timeout handling
+            try:
+                reply_markup = InlineKeyboardMarkup(inline)
+                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            except TimedOut:
+                print("Timeout while sending leaderboard. Retrying...")
+                await asyncio.sleep(2)
+                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+        else:
+            # ✅ Check quiz limit & handle timeout
+            if has_reached_quiz_limit(user_id) and user_id != CONFIG["ADMIN_USER_ID"]:
+                try:
+                    await context.bot.send_message(
+                        chat_id,
+                        f"❌ You have reached your quiz limit. Try after 20 minutes...."
+                    )
+                except TimedOut:
+                    print("Timeout while sending limit message. Retrying...")
+                    await asyncio.sleep(2)
+                    await context.bot.send_message(
+                        chat_id,
+                        f"❌ You have reached your quiz limit. Try after 20 minutes...."
+                    )
+
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
                 if user_id in user_data:
                     user_data[user_id]["active_menu"] = True
 
                 return
 
+<<<<<<< HEAD
         # ✅ Show updated quiz directory with timeout handling
         try:
             await asyncio.sleep(2)
@@ -870,6 +973,19 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
             await show_directory(chat_id, context)  # Retry
         
         user_data[user_id]["active_menu"] = True
+=======
+            # ✅ Show updated quiz directory with timeout handling
+            try:
+                await asyncio.sleep(2)
+
+                await show_directory(chat_id, context)
+            except TimedOut:
+                print("Timeout while showing directory. Retrying...")
+                await asyncio.sleep(2)
+                await show_directory(chat_id, context)  # Retry
+        
+                user_data[user_id]["active_menu"] = True
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
 
     except TimedOut:
         print("Timeout occurred in show_leaderboard. Ignoring and continuing...")
@@ -926,14 +1042,22 @@ async def retry_choice_callback(update: Update, context: ContextTypes.DEFAULT_TY
             try:
                 await context.bot.send_message(
                     chat_id,
+<<<<<<< HEAD
                     "❌ You have reached your quiz limit. Try after 5 minutes...."
+=======
+                    "❌ You have reached your quiz limit. Try after 20 minutes...."
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
                 )
             except TimedOut:
                 print("Timeout while sending limit message. Retrying...")
                 await asyncio.sleep(2)
                 await context.bot.send_message(
                     chat_id,
+<<<<<<< HEAD
                     "❌ You have reached your quiz limit. Try after 5 minutes...."
+=======
+                    "❌ You have reached your quiz limit. Try after 20 minutes...."
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
                 )
         else:
             await query.edit_message_text("Okay, returning to quiz directory.")
@@ -1078,14 +1202,23 @@ def get_all_user_ids():
     conn.close()
     return [row[0] for row in results]
 
+<<<<<<< HEAD
 async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Allows the admin to broadcast an announcement to all users retrieved from the database."""
     user = update.message.from_user
+=======
+
+async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Allows the admin to broadcast an announcement to all users or a specific user."""
+    user = update.message.from_user
+
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
     # Check if the sender is the admin.
     if user.id != CONFIG["ADMIN_USER_ID"]:
         await update.message.reply_text("❌ You are not authorized to make announcements.")
         return
 
+<<<<<<< HEAD
     # Ensure an announcement message is provided.
     if not context.args:
         await update.message.reply_text("Please provide an announcement message. Usage: /announce <message>")
@@ -1100,6 +1233,25 @@ async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
     unsuccessful = []
     for uid in user_ids:
         # In many Telegram bots, the chat_id is the same as the user_id.
+=======
+    # Ensure arguments are provided
+    if not context.args:
+        await update.message.reply_text("Usage: /announce [user_id (optional)] <message>")
+        return
+
+    # Check if the first argument is a user ID
+    first_arg = context.args[0]
+    if first_arg.isdigit():
+        user_id = int(first_arg)
+        announcement_text = "📢:\n\n" + " ".join(context.args[1:])
+        recipients = [user_id]
+    else:
+        announcement_text = "📢:\n\n" + " ".join(context.args)
+        recipients = get_all_user_ids()  # Fetch all user IDs from the database
+
+    unsuccessful = []
+    for uid in recipients:
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
         try:
             await context.bot.send_message(uid, announcement_text)
         except Exception as e:
@@ -1107,9 +1259,21 @@ async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
             unsuccessful.append(uid)
 
     log_api_request("announce")
+<<<<<<< HEAD
     response = "✅ Announcement broadcasted successfully."
     if unsuccessful:
         response += f"\nFailed to send to: {unsuccessful}"
+=======
+    
+    if len(recipients) == 1:
+        response = f"✅ Announcement sent to user {recipients[0]}."
+    else:
+        response = "✅ Announcement broadcasted successfully."
+
+    if unsuccessful:
+        response += f"\nFailed to send to: {unsuccessful}"
+
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
     await update.message.reply_text(response)
 
 
@@ -1118,7 +1282,11 @@ def main():
     app = Application.builder().token(TOKEN).build()
     app.add_handler(CommandHandler(["start", "startx"], start))
     app.add_handler(CommandHandler("cancel", quit))
+<<<<<<< HEAD
     app.add_handler(CommandHandler("announcex", announce)
+=======
+    app.add_handler(CommandHandler("announcex", announce))
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
     app.add_handler(MessageHandler(filters.ALL, combined_message_handler))
     app.add_handler(CallbackQueryHandler(quiz_selection, pattern="^(dir:|file:)"))
     app.add_handler(CallbackQueryHandler(timer_selection, pattern="^(yeah|no|pre_timer|home|next|buy_premium|return_pre)$"))

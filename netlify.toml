@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 [build]
   command = "python bot.py"
   publish = "."
 
 [[plugins]]
+=======
+[build]
+  command = "python bot.py"
+  publish = "."
+
+[[plugins]]
+>>>>>>> 7f2116c9f8c080728ff370e865a6d2d1532b1a44
   package = "@netlify/plugin-no-build"
