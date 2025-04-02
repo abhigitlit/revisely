@@ -625,7 +625,7 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
 
             raw_explanation = question.get("source", "").strip()
             poll_kwargs = {}
-            if raw_explanation not in ("Unknown", "NA", ""):
+            if raw_explanation not in ("Unknown", "NA", " "):
                 poll_kwargs = {
                     "explanation": raw_explanation,
                     "explanation_parse_mode": 'HTML'
