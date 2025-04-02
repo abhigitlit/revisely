@@ -1141,6 +1141,8 @@ async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
         announcement_text = " ".join(context.args)
         recipients = get_all_user_ids()  # Fetch all user IDs from the database
 
+    print(recipients)
+
     unsuccessful = []
     for uid in recipients:
         try:
