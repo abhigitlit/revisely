@@ -770,8 +770,8 @@ async def force_quit_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE, 
             wrong=wrong
         )
         full_name = user_data[user_id].get("full_name", "Unknown User")
-        username = user.username if user.username else "NoUsername"
-        log_user_action(user_id, full_name, username, "was inactive, quiz canceled", f"in Chat ID: {update.message.chat_id}")
+        username = "None"
+        log_user_action(user_id, full_name, username, "was inactive, quiz canceled", f"in Chat ID: {chat_id}")
         user["active_quiz"] = False
         del user_data[user_id]
         if message=="inactive":
