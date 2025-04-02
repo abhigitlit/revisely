@@ -1135,16 +1135,19 @@ async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
     first_arg = context.args[0]
     if first_arg.isdigit():
         user_id = int(first_arg)
-        announcement_text = "📢:\n\n" + " ".join(context.args[1:])
+        announcement_text = " ".join(context.args[1:])
         recipients = [user_id]
     else:
-        announcement_text = "📢:\n\n" + " ".join(context.args)
+        announcement_text = " ".join(context.args)
         recipients = get_all_user_ids()  # Fetch all user IDs from the database
 
     unsuccessful = []
     for uid in recipients:
         try:
-            await context.bot.send_message(uid, announcement_text)
+            chat = await context.bot.get_chat(user_id)
+            user_name = f"{chat.first_name} {chat.last_name}".strip() if chat.last_name else chat.first_name
+
+            await context.bot.send_message(uid, f""📢:    " + Hello {user_name} {announcement_text})
         except Exception as e:
             print(f"Failed to send announcement to user {uid}: {e}")
             unsuccessful.append(uid)
