@@ -562,7 +562,7 @@ def calculate_quiz_timer(question):
 
     # Calculate additional time: 1 second for every 20 characters
     extra_time = (question_length + option_length) // 20
-    return min(base_time + extra_time, max_time)
+    return min(base_time + extra_time, max_time) + 5
 
 import asyncio
 def log_api_request(api_type):
@@ -747,9 +747,8 @@ async def check_inactivity(context: ContextTypes.DEFAULT_TYPE):
 
     if user_id in user_data and user_data[user_id].get("active_quiz", False):
         full_name = user_data[user_id].get("full_name", "Unknown User")
-        username = user.username if user.username else "NoUsername"
         
-        log_user_action(user_id, full_name, username, "was inactive, quiz canceled", f"in Chat ID: {update.message.chat_id}")
+        log_user_action(user_id, full_name, "None", "was inactive, quiz canceled", f"in Chat ID: {chat_id}")
         await force_quit_quiz(chat_id, user_id, context, message="inactive")
         
 async def force_quit_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE, message):
