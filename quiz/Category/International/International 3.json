@@ -1,0 +1,343 @@
+[
+    {
+        "question": "How much did India contribute to the United Nations Regular Budget for the year 2025?",
+        "options": [
+            "$25.34 million",
+            "$37.64 million",
+            "$40.12 million",
+            "$50.91 million",
+            "$66.91 million"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country became the first in Africa to eliminate onchocerciasis (river blindness) as a public health problem?",
+        "options": [
+            "Niger",
+            "Kenya",
+            "South Africa",
+            "Democratic Republic of Congo",
+            "Eritrea"
+        ],
+        "answer": "Niger"
+    },
+    {
+        "question": "Former world number one and two-time Grand Slam winner Simona Halep announced her retirement from professional tennis in February 2025. Which country does she hail from?",
+        "options": [
+            "Albania",
+            "Croatia",
+            "Romania",
+            "Germany",
+            "None of the above"
+        ],
+        "answer": "Romania"
+    },
+    {
+        "question": "Which project led to the creation of a new map of the Arctic Ocean, revealing an area twice the size of France and six times the size of England?",
+        "options": [
+            "Ocean Discovery 2050",
+            "Seabed 2030",
+            "Arctic Exploration Initiative",
+            "Deep Sea Mapping Project",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country announced a 25% retaliatory tariff on American imports in response to U.S. trade policies?",
+        "options": [
+            "China",
+            "Canada",
+            "Mexico",
+            "Germany",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country's mission successfully demonstrated artificial photosynthesis in space?",
+        "options": [
+            "United States - Artemis",
+            "Russia - Soyuz MS",
+            "China - Shenzhou-19",
+            "India - Gaganyaan",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which country will host the BRICS Youth Council Entrepreneurship Working Group Meeting in March 2025?",
+        "options": [
+            "China",
+            "Brazil",
+            "India",
+            "South Africa",
+            "Russia"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Marcus Stoinis, who recently announced his retirement from ODIs ahead of the Champions Trophy, represents which country in international cricket?",
+        "options": [
+            "England",
+            "Australia",
+            "South Africa",
+            "New Zealand",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the name of NASA's new space telescope set to launch in February 2025, which aims to survey the entire sky in 102 infrared colors?",
+        "options": [
+            "SPHEREx",
+            "James Webb Space Telescope 2.0",
+            "Hubble Space Telescope 2.0",
+            "Chandra-CRISP X-ray Observatory",
+            "None of the above"
+        ],
+        "answer": "SPHEREx"
+    },
+    {
+        "question": "Which country recently passed strict hate crime laws, imposing a minimum 12-month jail term for public Nazi salutes and up to six years for terror-related hate crimes?",
+        "options": [
+            "Canada",
+            "Australia",
+            "Germany",
+            "United Kingdom",
+            "Japan"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which organization launched the \"Imagine a world with more women in science\" campaign marking the 10-year anniversary of the International Day of Women and Girls in Science.?",
+        "options": [
+            "UNESCO",
+            "UNHCR",
+            "International Science Council",
+            "International Union of Pure and Applied Physics",
+            "None of the above"
+        ],
+        "answer": "UNESCO"
+    },
+    {
+        "question": "Where will the sixth edition of the India-Japan joint military exercise Dharma Guardian 2025 be held?",
+        "options": [
+            "Tokyo",
+            "Sapporo",
+            "Osaka",
+            "Mount Fuji",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "China has approved the construction of a deepwater research facility that will be located at a depth of ____________ below the ocean surface in the South China Sea?",
+        "options": [
+            "2,000 meters",
+            "2,500 meters",
+            "3,000 meters",
+            "3,500 meters",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "To which country did India send its first-ever sea shipment of pomegranates?",
+        "options": [
+            "United States",
+            "Canada",
+            "United Kingdom",
+            "Australia",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the theme of World Radio Day 2025?",
+        "options": [
+            "Radio and Technology",
+            "Radio and Climate Change",
+            "Radio and Education",
+            "Radio and Global Connectivity",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country received $5 lakh relief assistance from India for rehabilitation after a 7.4 magnitude earthquake in December 2024?",
+        "options": [
+            "Tonga",
+            "Fiji",
+            "Samoa",
+            "Vanuatu",
+            "Kiribati"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the name of the Pakistani satellite launched into space by China in January 2025?",
+        "options": [
+            "PRSC-EO1",
+            "PRSS-1",
+            "PakTES-1A",
+            "Tianlu-1",
+            "Noor-07"
+        ],
+        "answer": "PRSC-EO1"
+    },
+    {
+        "question": "What is the title of the legislation recently passed by the US House to bar transgender athletes from women's sports at federally funded schools, defining sex by birth biology?",
+        "options": [
+            "Equality in Athletics Act",
+            "Protection of Women and Girls in Sports Act",
+            "Fair Play in Sports Act",
+            "Women's Sports Equity Act",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country is experiencing an outbreak of human metapneumovirus (HMPV)?",
+        "options": [
+            "Indonesia",
+            "China",
+            "Japan",
+            "South Korea",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country is home to the Tianshan Shengli Tunnel, the world's longest expressway tunnel?",
+        "options": [
+            "Mongolia",
+            "Japan",
+            "China",
+            "South Korea",
+            "Vietnam"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Where did the 18th 'Suryakiran' military exercise between India and Nepal commence?",
+        "options": [
+            "Kathmandu",
+            "Rupandehi",
+            "New Delhi",
+            "Bihar",
+            "Tamil Nadu"
+        ],
+        "answer": "Rupandehi"
+    },
+    {
+        "question": "Which countries are participating in the 4th edition of Exercise La Perouse in which INS Mumbai, an indigenously built destroyer, is also participating?",
+        "options": [
+            "Australia, France, India, Germany, Japan, South Korea, USA, and U.K.",
+            "Australia, France, USA, U.K., India, Indonesia, Malaysia, Singapore, and Canada",
+            "France, USA, U.K., Germany, Singapore, Italy, Ukraine, Moldova and Canada",
+            "India, USA, Singapore, Malaysia, Thailand, Cambodia, Philippines and Australia",
+            "Germany, Singapore, Italy, Ukraine"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country is hosting the 1st International Pashmina Festival to promote \"Chyangra Pashmina\"?",
+        "options": [
+            "India",
+            "Bhutan",
+            "Pakistan",
+            "Nepal",
+            "Afghanistan"
+        ],
+        "answer": "Nepal"
+    },
+    {
+        "question": "What is the slogan for the UAE's 2025 \"Year of Community\" initiative announced by President Sheikh Mohamed bin Zayed Al Nahyan?",
+        "options": [
+            "Together We Can",
+            "United We Stand",
+            "Hand in Hand",
+            "Building Bridges",
+            "Lets Stand"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which countries officially became full members of the Schengen Border-Free Zone on January 1, 2025?",
+        "options": [
+            "Ukraine and Moldova",
+            "Serbia and Montenegro",
+            "Romania and Bulgaria",
+            "Croatia and Slovenia",
+            "Greece and Turkey"
+        ],
+        "answer": "Romania and Bulgaria"
+    },
+    {
+        "question": "What is the theme of the 15th edition of Asia's biggest aero show, Aero India 2025?",
+        "options": [
+            "Wings of Innovation",
+            "The Sky's the Limit",
+            "Advancing Atmanirbhar Aerospace for All",
+            "The Runway to a Billion Opportunities",
+            "None of the above"
+        ],
+        "answer": "The Runway to a Billion Opportunities"
+    },
+    {
+        "question": "India became an observer state in which international programme focused on intelligence, surveillance, and reconnaissance?",
+        "options": [
+            "Eurodrone",
+            "Global Hawk",
+            "Skyshield",
+            "NATO Surveillance Programme",
+            "None of the above"
+        ],
+        "answer": "Eurodrone"
+    },
+    {
+        "question": "Nepal launched the 'Child Marriage Free Nepal' campaign with support from Indian and Nepalese organizations. Who led the 'Child Marriage Free Nepal' campaign along with child rights activists?",
+        "options": [
+            "K P Sharma Oli",
+            "Kishor Sah Sudi",
+            "Just Right for Children",
+            "BASE Nepal",
+            "None of the above"
+        ],
+        "answer": "Kishor Sah Sudi"
+    },
+    {
+        "question": "Which country became the 10th full member of BRICS in January 2025?",
+        "options": [
+            "Indonesia",
+            "Myanmar",
+            "China",
+            "Finland",
+            "Both 1 and 2"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "\"Lake Turkana\" is the largest desert lake in the world, it is situated in which of the following countries of the world?",
+        "options": [
+            "United Arab Emirates",
+            "Turkey",
+            "Kenya",
+            "Oman",
+            "Nigeria"
+        ],
+        "answer": "Kenya"
+    },
+    {
+        "question": "Which country unveiled its first national autism strategy with AU$42.3 million in funding, aiming to improve inclusion and support for autistic individuals, focusing on education, employment, and diagnostic reforms?",
+        "options": [
+            "United Kingdom",
+            "Australia",
+            "Canada",
+            "New Zealand",
+            "None of the above"
+        ],
+        "answer": "Australia"
+    }
+]

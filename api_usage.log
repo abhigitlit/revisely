@@ -18369,3 +18369,9 @@ task: <Task pending name='Task-1' coro=<poll_worker() running at D:\revisely\bot
 2025-04-05 11:01:14,392 - INFO - This log message goes to both user_log.txt and api_usage.log
 2025-04-05 11:01:42,684 - INFO - This log message goes to both user_log.txt and api_usage.log
 2025-04-05 11:02:10,318 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 11:03:51,575 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 11:37:17,768 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 11:38:58,243 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 12:04:37,912 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 12:11:42,225 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 12:24:58,905 - INFO - This log message goes to both user_log.txt and api_usage.log

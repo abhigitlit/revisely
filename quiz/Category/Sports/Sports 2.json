@@ -1,0 +1,398 @@
+[
+    {
+        "question": "Who won the gold medal in the 25m women's pistol event at the National Shooting Championships?",
+        "options": [
+            "Heena Sidhu",
+            "Rahi Sarnobat",
+            "Simranpreet Kaur Brar",
+            "Riya Shirish Thatte",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who clinched their first national title in the men's 25m rapid-fire pistol event at the 67th National Shooting Championship Competitions?",
+        "options": [
+            "Gurpreet Singh",
+            "Vijayveer Sidhu",
+            "Shivam Shukla",
+            "Ankur Goel",
+            "Premjeet Dhillon"
+        ],
+        "answer": "Vijayveer Sidhu"
+    },
+    {
+        "question": "Which activity was excluded from the 18th Chitwan Elephant and Tourism Festival due to animal rights concerns?",
+        "options": [
+            "Elephant beauty contest",
+            "Elephant football matches",
+            "Elephant polo",
+            "Elephant parades",
+            "Elephant march"
+        ],
+        "answer": "Elephant polo"
+    },
+    {
+        "question": "Who secured three gold medals in women's air pistol at the 67th National Shooting Championship?",
+        "options": [
+            "Rhythm Sangwan",
+            "Palak",
+            "Suruchi",
+            "Manu Bhaker",
+            "Prajakta Priyam"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which Indian Grandmaster recently advanced to the quarterfinals of the World Blitz Championship with a score of 9.5 out of 11 games?",
+        "options": [
+            "R Praggnanandhaa",
+            "R Vaishali",
+            "Arjun Erigaisi",
+            "Koneru Humpy",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which Indian bowler recently equaled the record ICC rating of 904 in Men's Test Bowling Rankings in December 2024?",
+        "options": [
+            "Ravichandran Ashwin",
+            "Anil Kumble",
+            "Jasprit Bumrah",
+            "Mohammed Shami",
+            "Harshit Rana"
+        ],
+        "answer": "Jasprit Bumrah"
+    },
+    {
+        "question": "In the 11th Men's Hockey Junior Asia Cup 2024 final, which team did India defeat to win the title?",
+        "options": [
+            "Japan",
+            "South Korea",
+            "Malaysia",
+            "Pakistan",
+            "Oman"
+        ],
+        "answer": "Pakistan"
+    },
+    {
+        "question": "Nat Sciver-Brunt has recently smashed fastest women's test century. Who held the previous record for the fastest Women's Test hundred before Nat Sciver-Brunt?",
+        "options": [
+            "Shafali Verma",
+            "Chamani Seneviratna",
+            "Smriti Mandhana",
+            "Maia Bouchier",
+            "None of the above"
+        ],
+        "answer": "Chamani Seneviratna"
+    },
+    {
+        "question": "In which city is the FIFAe World Cup 2024, featuring eFootball, scheduled to be held?",
+        "options": [
+            "London",
+            "Tokyo",
+            "Riyadh",
+            "Seoul",
+            "Paris"
+        ],
+        "answer": "Riyadh"
+    },
+    {
+        "question": "Who became the first Indian to win an FIA Formula 2 Constructors' World Championship, achieving five podiums and claiming India's first F2 pole position in 2024?",
+        "options": [
+            "Arjun Maini",
+            "Jehan Daruvala",
+            "Narain Karthikeyan",
+            "Kush Maini",
+            "Pankaj Advani"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "How many total medals did the Indian team win at the Asian Youth and Junior Weightlifting Championships 2024 and where did it take place?",
+        "options": [
+            "33 medals, Doha",
+            "42 medals, Abu Dhabi",
+            "50 medals, Melbourne",
+            "25 medals, Baku",
+            "11 medals, Durban"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which team won the Men’s Hockey India League 2024-25 title?",
+        "options": [
+            "Punjab Warriors",
+            "Delhi Tigers",
+            "Shrachi Rarh Bengal Tigers",
+            "Mumbai Rockets",
+            "Bangalore Blizzards"
+        ],
+        "answer": "Shrachi Rarh Bengal Tigers"
+    },
+    {
+        "question": "How many times has FIFA suspended Pakistan Football Federation since 2017?",
+        "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Four times",
+            "Five times"
+        ],
+        "answer": "Three times"
+    },
+    {
+        "question": "Who won the historic bronze medal in archery at the 38th National Games 2025?",
+        "options": [
+            "Archana Kaur",
+            "Tarundeep Rai",
+            "Deepika Kumari",
+            "Bhagat Singh",
+            "Sunil Kumar"
+        ],
+        "answer": "Tarundeep Rai"
+    },
+    {
+        "question": "Who became India’s second oldest ODI debutant?",
+        "options": [
+            "Ravi Shastri",
+            "Varun Chakravarthy",
+            "Yuvraj Singh",
+            "MS Dhoni",
+            "Sachin Tendulkar"
+        ],
+        "answer": "Varun Chakravarthy"
+    },
+    {
+        "question": "Which former Sri Lankan captain announced his retirement after playing his 100th Test match?",
+        "options": [
+            "Mahela Jayawardene",
+            "Dimuth Karunaratne",
+            "Tillakaratne Dilshan",
+            "Kumar Sangakkara",
+            "Angelo Mathews"
+        ],
+        "answer": "Dimuth Karunaratne"
+    },
+    {
+        "question": "Who won the 71st Senior National Men’s Kabaddi Championship?",
+        "options": [
+            "Railways",
+            "Punjab",
+            "Haryana",
+            "Services",
+            "Uttar Pradesh"
+        ],
+        "answer": "Services"
+    },
+    {
+        "question": "Who became the fastest batter to reach 14,000 runs in ODI cricket?",
+        "options": [
+            "Sachin Tendulkar",
+            "Virat Kohli",
+            "Ricky Ponting",
+            "Kumar Sangakkara",
+            "MS Dhoni"
+        ],
+        "answer": "Virat Kohli"
+    },
+    {
+        "question": "Which team did Uttar Pradesh Men's Kabaddi Team defeat 57-43 to win the gold medal?",
+        "options": [
+            "Haryana",
+            "Chandigarh",
+            "Maharashtra",
+            "Punjab",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which team won the inaugural World Pickleball League (WPL) championship, defeating Pune United 3-1 in the final?",
+        "options": [
+            "Bengaluru Jawans",
+            "Pune United",
+            "Mumbai Mavericks",
+            "Delhi Warriors",
+            "None of the above"
+        ],
+        "answer": "Bengaluru Jawans"
+    },
+    {
+        "question": "Who won the Tata Steel Masters Chess Tournament 2025 by defeating D Gukesh in the tiebreaker?",
+        "options": [
+            "Vincent Keymer",
+            "R Praggnanandhaa",
+            "Arjun Erigaisi",
+            "Wei Yi",
+            "Magnus Carlsen"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Recently, Marcus Stoinis has announced his retirement from ODIs, ending a 74-match career. Which country does he hail from?",
+        "options": [
+            "South Africa",
+            "England",
+            "Australia",
+            "New Zealand",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the venue for the 9th Asian Winter Games 2025?",
+        "options": [
+            "Seoul, South Korea",
+            "Quezon City, Philippines",
+            "Harbin, China",
+            "New Delhi, India",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Former world number one and two-time Grand Slam winner Simona Halep announced her retirement from professional tennis in February 2025. Which country does she hail from?",
+        "options": [
+            "Albania",
+            "Croatia",
+            "Romania",
+            "Germany",
+            "None of the above"
+        ],
+        "answer": "Romania"
+    },
+    {
+        "question": "Marcus Stoinis, who recently announced his retirement from ODIs ahead of the Champions Trophy, represents which country in international cricket?",
+        "options": [
+            "England",
+            "Australia",
+            "South Africa",
+            "New Zealand",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has been named the event ambassador for the ICC Champions Trophy 2025 from India?",
+        "options": [
+            "Shikhar Dhawan",
+            "MS Dhoni",
+            "Yuvraj Singh",
+            "Sachin Tendulkar",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Who set the new Indian national record in the indoor men's 3000 metres in 2024 and clinched the silver medal?",
+        "options": [
+            "Gulveer Singh",
+            "Surendra Singh",
+            "Avinash Sable",
+            "Chetan Sharma",
+            "Balbir Sirka"
+        ],
+        "answer": "Gulveer Singh"
+    },
+    {
+        "question": "What is the total prize money announced for the 2025 ICC Champions Trophy?",
+        "options": [
+            "$3 million",
+            "$3.5 million",
+            "$4.7 million",
+            "$6.9 million",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who set the half-marathon world record by finishing in 56 minutes, 42 seconds at the World Athletics Gold Label race in Barcelona?",
+        "options": [
+            "Eliud Kipchoge",
+            "Jacob Kiplimo",
+            "Kenenisa Bekele",
+            "Geoffrey Kamworor",
+            "None of the above"
+        ],
+        "answer": "Jacob Kiplimo"
+    },
+    {
+        "question": "Which team won the inaugural Women's Hockey India League title?",
+        "options": [
+            "JSW Soorma Hockey Club",
+            "Haryana Strikers",
+            "Odisha Warriors",
+            "Punjab Panthers",
+            "None of the abocve"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "The Ministry of Youth Affairs and Sports has announced the National Sports Awards 2024. Four sportspersons have been conferred with the Major Dhyan Chand Khel Ratna Award. Who among the following is not one of the four sportspersons?",
+        "options": [
+            "Praveen Kumar",
+            "Manu Bhaker",
+            "Gukesh D",
+            "Harmanpreet Singh",
+            "Sucha Singh"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "What is the title of the legislation recently passed by the US House to bar transgender athletes from women's sports at federally funded schools, defining sex by birth biology?",
+        "options": [
+            "Equality in Athletics Act",
+            "Protection of Women and Girls in Sports Act",
+            "Fair Play in Sports Act",
+            "Women's Sports Equity Act",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which Union Territory topped the medal tally in the Khelo India Winter Games (KIWG) 2025?",
+        "options": [
+            "Himachal Pradesh",
+            "Jammu & Kashmir",
+            "Ladakh",
+            "Arunachal Pradesh",
+            "Delhi"
+        ],
+        "answer": "Ladakh"
+    },
+    {
+        "question": "Who won the gold and broke the national record in the women's 60m indoor hurdles at the Meeting de Nantes Métropole 2025?",
+        "options": [
+            "Hima Das",
+            "Dutee Chand",
+            "Jyothi Yarraji",
+            "Annu Rani",
+            "Kanti Kumar"
+        ],
+        "answer": "Jyothi Yarraji"
+    },
+    {
+        "question": "Whom did Gukesh Dommaraju defeat in a 72-move marathon match at the Tata Steel Chess 2025?",
+        "options": [
+            "Leon Mendonca",
+            "Max Warmerdam",
+            "Vincent Keymer",
+            "Magnus Carlsen",
+            "Hikaru Nakamura"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who won the men's and women's singles titles at the 2025 Australian Open?",
+        "options": [
+            "Novak Djokovic and Iga Swiatek",
+            "Jannik Sinner and Madison Keys",
+            "Carlos Alcaraz and Aryna Sabalenka",
+            "Daniil Medvedev and Elena Rybakina",
+            "Carlos Alcaraz and Elena Rybakina"
+        ],
+        "answer": "2"
+    }
+]

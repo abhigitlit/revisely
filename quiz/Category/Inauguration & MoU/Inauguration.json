@@ -1,0 +1,100 @@
+[
+    {
+        "question": "Where was India\u2019s first World Peace Centre inaugurated?",
+        "options": [
+            "New Delhi",
+            "Mumbai",
+            "Gurugram, Haryana",
+            "Varanasi"
+        ],
+        "answer": "Gurugram, Haryana"
+    },
+    {
+        "question": "On December 6, which festival, inaugurated by the Prime Minister, showcased Northeast India's arts, crafts, and traditions?",
+        "options": [
+            "Rashtriya Kala Utsav",
+            "Bharat Shilp Mahotsav",
+            "Northeast Heritage Festival",
+            "Ashtalakshmi Mahotsav",
+            "None of the Above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Where was India's first bio-bitumen highway inaugurated?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Bengaluru",
+            "Nagpur",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Where was the 10th World Ayurveda Congress and Arogya Expo inaugurated?",
+        "options": [
+            "Varanasi",
+            "Dehradun",
+            "Jaipur",
+            "Hyderabad",
+            "Lucknow"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "India's first underwater metro tunnel, inaugurated in 2024, is located in which city?",
+        "options": [
+            "Mumbai",
+            "Chennai",
+            "Delhi",
+            "Hyderabad",
+            "Kolkata"
+        ],
+        "answer": "Kolkata"
+    },
+    {
+        "question": "Who inaugurated the Inland Waterways Terminal (IWT) at Jogighopa?",
+        "options": [
+            "Narendra Modi",
+            "Sarbananda Sonowal",
+            "Amit Shah",
+            "Piyush Goyal",
+            "Rajnath Singh"
+        ],
+        "answer": "Sarbananda Sonowal"
+    },
+    {
+        "question": "Where was the School of Ultimate Leadership (SOUL) Leadership Conclave 2025 inaugurated?",
+        "options": [
+            "Mumbai",
+            "New Delhi",
+            "Bangalore",
+            "Chennai",
+            "Kolkata"
+        ],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "Who inaugurated the ISKCON Temple at Kharghar, Navi Mumbai?",
+        "options": [
+            "Narendra Modi",
+            "Devendra Fadanvis",
+            "Eknath Shinde",
+            "None of the above",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which service will Amit Shah inaugurate at 7 airports in January 2025 for seamless international travel?",
+        "options": [
+            "Fast Track Passport Service",
+            "Digital Passport System",
+            "Biometric Screening",
+            "Trusted Traveller Programme",
+            "None of the above"
+        ],
+        "answer": "Trusted Traveller Programme"
+    }
+]

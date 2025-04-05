@@ -1,0 +1,376 @@
+[
+    {
+        "question": "What was the cut-off rate at which NaBFID raised funds via 15-year bonds?",
+        "options": [
+            "8.00%",
+            "7.25%",
+            "6.50%",
+            "9.00%",
+            "7.50%"
+        ],
+        "answer": "7.25%"
+    },
+    {
+        "question": "What is the main proposal of RBI regarding Indian banks' websites?",
+        "options": [
+            "To improve website speed",
+            "To make internet banking safer",
+            "To allow online loans",
+            "To integrate new payment methods",
+            "To increase website traffic"
+        ],
+        "answer": "To allow online loans"
+    },
+    {
+        "question": "How many claims did EPFO settle in FY25?",
+        "options": [
+            "5 crore",
+            "20 crore",
+            "10 crore",
+            "50 lakh",
+            "2 crore"
+        ],
+        "answer": "5 crore"
+    },
+    {
+        "question": "Which company has collaborated with Yes Bank to provide financial services?",
+        "options": [
+            "Beacon",
+            "Infosys",
+            "TCS",
+            "Paytm",
+            "HDFC"
+        ],
+        "answer": "Beacon"
+    },
+    {
+        "question": "NPCI has proposed a hike in ATM interchange fees. What does NPCI stand for?",
+        "options": [
+            "National Payment Corporation of India",
+            "National Public Commission of India",
+            "National Partnership Corporation of India",
+            "National Planning Council of India",
+            "New Payment Corporation of India"
+        ],
+        "answer": "National Payment Corporation of India"
+    },
+    {
+        "question": "IOB has joined a global partnership for carbon accounting. What does IOB stand for?",
+        "options": [
+            "Indian Overseas Bank",
+            "International Organization Bank",
+            "Indian Oil Bank",
+            "Indian Online Banking",
+            "International Oil Bank"
+        ],
+        "answer": "Indian Overseas Bank"
+    },
+    {
+        "question": "HDFC Bank Parivartan Start-Up Grants will support over how many startups with ₹20 crore?",
+        "options": [
+            "100",
+            "200",
+            "50",
+            "150",
+            "75"
+        ],
+        "answer": "50"
+    },
+    {
+        "question": "What is the new initiative by SEBI aimed at improving market safety?",
+        "options": [
+            "Retail Algo Trading Regulations",
+            "Crypto Trading Regulations",
+            "Market Transparency Rules",
+            "High-Frequency Trading Restrictions",
+            "Risk Assessment Tools"
+        ],
+        "answer": "Retail Algo Trading Regulations"
+    },
+    {
+        "question": "Which Indian bank has expanded its AI-based Amitabh Bachchan avatar?",
+        "options": [
+            "ICICI Bank",
+            "HDFC Bank",
+            "IDFC FIRST Bank",
+            "Axis Bank",
+            "SBI"
+        ],
+        "answer": "IDFC FIRST Bank"
+    },
+    {
+        "question": "What new security feature has RBI introduced for international transactions?",
+        "options": [
+            "One-Time Password (OTP)",
+            "Two-factor authentication (2FA)",
+            "Biometric Authentication",
+            "Additional Factor Authentication (AFA)",
+            "Smart Card Technology"
+        ],
+        "answer": "Additional Factor Authentication (AFA)"
+    },
+    {
+        "question": "Which bank has launched a TAB-based digital onboarding process for NRIs to open NRE and NRO accounts?",
+        "options": [
+            "ICICI Bank",
+            "SBI",
+            "HDFC Bank",
+            "Axis Bank",
+            "Kotak Mahindra Bank"
+        ],
+        "answer": "SBI"
+    },
+    {
+        "question": "Which bank launched the \"Har Ghar Lakhpati\" RD and \"Patrons\" FD schemes?",
+        "options": [
+            "HDFC Bank",
+            "ICICI Bank",
+            "SBI",
+            "Axis Bank",
+            "Yes Bank"
+        ],
+        "answer": "SBI"
+    },
+    {
+        "question": "RBI is injecting Rs 2.5 lakh crore to enhance liquidity in the banking system. What is the primary purpose of this action?",
+        "options": [
+            "To reduce inflation",
+            "To increase foreign investments",
+            "To improve banking liquidity",
+            "To boost government revenues",
+            "To promote international trade"
+        ],
+        "answer": "To improve banking liquidity"
+    },
+    {
+        "question": "Which company announced the receipt of the TPAP license from NPCI for RediffPay?",
+        "options": [
+            "HDFC Bank",
+            "Infibeam Avenues",
+            "Tata Consultancy Services",
+            "Reliance Industries",
+            "ICICI Bank"
+        ],
+        "answer": "Infibeam Avenues"
+    },
+    {
+        "question": "What is the theme of the RBI's Financial Literacy Week (FLW) 2025?",
+        "options": [
+            "Digital Banking: Women’s Growth",
+            "Financial Literacy: Women’s Prosperity",
+            "Saving and Investment Awareness",
+            "Budgeting: Women Empowerment",
+            "Financial Inclusion for All"
+        ],
+        "answer": "Financial Literacy: Women’s Prosperity"
+    },
+    {
+        "question": "What is the name of the new NR Savings account variant launched by Federal Bank?",
+        "options": [
+            "FedSaver",
+            "NR Advantage",
+            "GlobalSaver",
+            "IndiaFirst",
+            "Prospera"
+        ],
+        "answer": "Prospera"
+    },
+    {
+        "question": "What is the name of the new payment mechanism introduced by IRDAI for premium payments?",
+        "options": [
+            "Bima-ASBA",
+            "Pay-Insurance",
+            "Premium-ASBA",
+            "Insure-UPI",
+            "PolicyPay"
+        ],
+        "answer": "Bima-ASBA"
+    },
+    {
+        "question": "What was the penalty imposed on Axis Securities by SEBI for regulatory violations?",
+        "options": [
+            "₹5 lakh",
+            "₹10 lakh",
+            "₹15 lakh",
+            "₹20 lakh",
+            "₹50 lakh"
+        ],
+        "answer": "₹10 lakh"
+    },
+    {
+        "question": "Which company introduced the Bima-ASBA facility for premium payments?",
+        "options": [
+            "HDFC Life",
+            "LIC",
+            "Bajaj Allianz Life Insurance",
+            "ICICI Prudential Life",
+            "SBI Life Insurance"
+        ],
+        "answer": "Bajaj Allianz Life Insurance"
+    },
+    {
+        "question": "Which payment system remains the major driver of digital payments in India as per the recent report February 2025?",
+        "options": [
+            "IMPS",
+            "NEFT",
+            "UPI",
+            "All of the above",
+            "None of the above"
+        ],
+        "answer": "UPI"
+    },
+    {
+        "question": "The Reserve Bank of India (RBI) announced that 20 non-banking financial companies have surrendered their certificates of registration. What is the main reason behind the surrender of certificates?",
+        "options": [
+            "Exit from the financial sector and mergers",
+            "Non-compliance with RBI regulations",
+            "Low profitability and high debts",
+            "Shift to banking operations",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which bank became the first in India to implement compliance for the Digital Personal Data Protection Act (DPDP Act) 2023?",
+        "options": [
+            "State Bank of India",
+            "Axis Bank",
+            "HDFC Bank",
+            "ICICI Bank",
+            "PNB"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "The Reserve Bank of India (RBI) has penalized Nainital Bank, Ujjivan Small Finance Bank, and Shriram Finance with fines totaling ₹68.1 lakh for non-compliance with various banking regulations. How much was the Nainital Bank fined by the RBI?",
+        "options": [
+            "₹61.40 lakh",
+            "₹6.70 lakh",
+            "₹5.80 lakh",
+            "₹10.20 lakh",
+            "₹15.40 lakh"
+        ],
+        "answer": "₹61.40 lakh"
+    },
+    {
+        "question": "What is the name of the digital transaction banking platform launched by Federal Bank for corporate and SME customers on January 2, 2025?",
+        "options": [
+            "Fedone",
+            "Fed anytime",
+            "Fed Everywhere",
+            "Both 1 and 2",
+            "Do Fed Every Time"
+        ],
+        "answer": "Fedone"
+    },
+    {
+        "question": "What is the primary purpose of the RBI's decision to infuse Rs 1.1 lakh crore liquidity into the banking system?",
+        "options": [
+            "To provide immediate credit growth to banks",
+            "To manage liquidity challenges and stabilize the banking system",
+            "To finance upcoming government infrastructure projects",
+            "To increase interest rates across financial markets",
+            "None of the above"
+        ],
+        "answer": "To manage liquidity challenges and stabilize the banking system"
+    },
+    {
+        "question": "How much did UPI process in terms of transactions in December 2024?",
+        "options": [
+            "10 billion transactions",
+            "16.73 billion transactions",
+            "20.51 billion transactions",
+            "25.24 billion transactions",
+            "32.19 billion transactions"
+        ],
+        "answer": "16.73 billion transactions"
+    },
+    {
+        "question": "The State Bank of India (SBI) launched a TAB-based online facility for opening which types of accounts for Non-Resident Indians (NRIs) on January 2, 2025?",
+        "options": [
+            "Current Account and Savings Account",
+            "Fixed Deposit and Recurring Deposit",
+            "Non-Resident External (NRE) and Non-Resident Ordinary (NRO) Accounts",
+            "Demat Account and Trading Account",
+            "Foreign Currency Non-Resident (FCNR) Account"
+        ],
+        "answer": "Non-Resident External (NRE) and Non-Resident Ordinary (NRO) Accounts"
+    },
+    {
+        "question": "Which of the following e-auction portals was launched by Nagaraju Maddirala, Secretary of the Department of Financial Services (DFS), on January 3, 2025?",
+        "options": [
+            "E-BidNet",
+            "BAANKNET",
+            "AssetMart",
+            "BidConnect",
+            "AuctionLink"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which bank launched the 'Har Ghar Lakhpati Recurring Deposit (RD) scheme' and the 'SBI Patrons Fixed Deposit (FD) scheme' on January 3, 2025?",
+        "options": [
+            "Punjab National Bank",
+            "State Bank of India",
+            "Bank of Baroda",
+            "Bank of Mahrashtra",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the name of the solution adopted by Punjab National Bank for real-time cybercrime complaint management?",
+        "options": [
+            "CyberSecure 360",
+            "FraudShield Pro",
+            "SafeBank Integration System",
+            "Clari5 NCRP Integration Solution",
+            "SafeSecure 360"
+        ],
+        "answer": "Clari5 NCRP Integration Solution"
+    },
+    {
+        "question": "The RBI has constituted a committee for the Framework on Responsible and Ethical AI (FREE-AI) in the financial sector, chaired by ________, to ensure ethical adoption, governance, and risk management.",
+        "options": [
+            "Dr. Rajiv Kumar, NITI Aayog Vice Chairman",
+            "Dr. C. Rangarajan, Former RBI Governor",
+            "Dr. Raghuram Rajan, Economist and Former RBI Governor",
+            "Dr. Pushpak Bhattacharyya, Professor, IIT Bombay",
+            "Dr. Abhijit Banerjee, Nobel Laureate in Economics"
+        ],
+        "answer": "Dr. Pushpak Bhattacharyya, Professor, IIT Bombay"
+    },
+    {
+        "question": "The Reserve Bank of India (RBI) has approved the voluntary amalgamation of The National Co-operative Bank Ltd., Bangalore, with ________, effective from January 06, 2025.",
+        "options": [
+            "Saraswat Co-operative Bank Limited",
+            "Punjab and Maharashtra Co-operative Bank",
+            "Cosmos Co-operative Bank Limited",
+            "Shamrao Vithal Co-operative Bank",
+            "Bharat Co-operative Bank"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Consider the following statements regarding the regulatory inclusion of NaBFID as an All-India Financial Institution (AIFI):\n1. NaBFID will be regulated by the Reserve Bank of India under Sections 45L and 45N of the RBI Act, 1934.\n2. It is permitted to participate in financial markets through activities like Credit Default Swaps (CDS) and Repo Transactions.\n3. NaBFID was established as India's sixth All-India Financial Institution (AIFI) to provide long-term infrastructure financing.\nWhich of the following options is correct?",
+        "options": [
+            "Only 1",
+            "Only 1 and 2",
+            "Only 2 and 3",
+            "Only 1 and 3",
+            "All of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Consider the following statements regarding the RBI's circular on resetting floating interest rates for EMI-based personal loans:\n1. Interest rates must be reset at least once every three months for applicable loans.\n2. Borrowers must be informed about changes in EMI/tenor due to interest rate resets during the loan tenure.\n3. Urban Cooperative Banks (UCBs) are allowed a maximum 25-year loan tenor for housing loans under the new guidelines.\nWhich of the following options is correct?",
+        "options": [
+            "Only 1",
+            "Only 1 and 2",
+            "Only 1 and 3",
+            "Only 2 and 3",
+            "All of the above"
+        ],
+        "answer": "Only 1 and 2"
+    }
+]

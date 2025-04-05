@@ -1,0 +1,284 @@
+[
+    {
+        "question": "Who was appointed as the International Event Ambassador for the 20th Mumbai Marathon?",
+        "options": [
+            "Usain Bolt",
+            "Eliud Kipchoge",
+            "Mo Farah",
+            "Haile Gebrselassie"
+        ],
+        "answer": "Mo Farah"
+    },
+    {
+        "question": "Who has Levi’s roped in as its new global brand ambassador?",
+        "options": [
+            "Ranbir Kapoor",
+            "Deepika Padukone",
+            "Diljit Dosanjh",
+            "Shah Rukh Khan"
+        ],
+        "answer": "Diljit Dosanjh"
+    },
+    {
+        "question": "Who assumed office as the Controller General of Defence Accounts (CGDA) on March 1, 2025?",
+        "options": [
+            "Giridhar Aramane",
+            "Ajay Kumar",
+            "Dr. Mayank Sharma",
+            "T. V. Somanathan"
+        ],
+        "answer": "Dr. Mayank Sharma"
+    },
+    {
+        "question": "Who is the current Chairman of the Bar Council of India (BCI) as mentioned in the recent appointments?",
+        "options": [
+            "R. Venkataramani",
+            "Manan Kumar Mishra",
+            "Harish Salve",
+            "Amit Sibal"
+        ],
+        "answer": "Manan Kumar Mishra"
+    },
+    {
+        "question": "Who was elected as the new Prime Minister of Tonga, securing 16 votes in parliament, following the resignation of Siaosi Sovaleni?",
+        "options": [
+            "Viliami Latu",
+            "Siaosi Sovaleni",
+            "Aisake Valu Eke",
+            "Akilisi Pohiva",
+            "Rahsail Bino"
+        ],
+        "answer": "Aisake Valu Eke"
+    },
+    {
+        "question": "Who was recently appointed as the Secretary of the Department of Revenue, Ministry of Finance in December 2024?",
+        "options": [
+            "Rajiv Kumar",
+            "Ajay Bhushan Pandey",
+            "Subhash Chandra Garg",
+            "Arunish Chawla",
+            "Nagendra Rajawat"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who has been appointed as India's doubles badminton coach, marking his return to the country in December 2024?",
+        "options": [
+            "Vimal Kumar",
+            "Gopichand Pullela",
+            "Morten Frost",
+            "Tan Kim Her",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who has taken over as the President of the Asian Cricket Council (ACC)?",
+        "options": [
+            "Jay Shah",
+            "Sourav Ganguly",
+            "Imran Khwaja",
+            "Shammi Silva",
+            "None of the Above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who has been appointed as the new CEO of DBS Bank India, effective March 1, 2025?",
+        "options": [
+            "Surojit Shome",
+            "Rajat Verma",
+            "Piyush Gupta",
+            "Gautam Jain",
+            "Vedant Mahajan"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has been appointed as the new Chairperson of the National Human Rights Commission (NHRC) in December 2024?",
+        "options": [
+            "Justice Arun Kumar Mishra",
+            "Justice H.L. Dattu",
+            "Justice K.G. Balakrishnan",
+            "Justice V. Ramasubramanian",
+            "Justice D.Y. Chandrachud"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who has been appointed as the new Managing Director (MD) and Chief Executive Officer (CEO) of J&K Bank, effective December 30, 2024?",
+        "options": [
+            "Baldev Prakash",
+            "Amitava Chatterjee",
+            "Dinesh Khara",
+            "Rajnish Kumar",
+            "Shamsheer Mattoo"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has been appointed as the new Chairperson of NABL, succeeding Prof. Subbanna Ayyappan?",
+        "options": [
+            "Dr. Sandip Shah",
+            "Dr. Subbanna Ayyappan",
+            "Prof. Rajesh Kumar",
+            "Dr. Ramesh Patel",
+            "Prof. Brijesh Khaitan"
+        ],
+        "answer": "Dr. Sandip Shah"
+    },
+    {
+        "question": "Who has been appointed as the Chief Executive Officer (CEO) of the Unique Identification Authority of India (UIDAI) with effect from January 2, 2025?",
+        "options": [
+            "Amit Agrawal",
+            "Bhuvnesh Kumar",
+            "Ajay Bhushan Pandey",
+            "R. S. Sharma",
+            "Rajesh Kumar Singh"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has been appointed as the executive director of Dhanlaxmi Bank for a term of three years in January 2025?",
+        "options": [
+            "P. Suriaraj",
+            "Zulfiqar Hasan",
+            "Amrit Mohan Prasad",
+            "Priyanka Aggarwal",
+            "Nandini Kulasekara"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Who has been appointed as the Director General (D-G) of the Central Reserve Police Force (CRPF) in January 2025?",
+        "options": [
+            "Anish Dayal Singh",
+            "Vitul Kumar",
+            "Gyanendra Pratap Singh",
+            "Rakesh Asthana",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who recently assumed command of the Indian Air Force's Western Air Command? (January 2025)",
+        "options": [
+            "Air Marshal Pankaj Mohan Sinha",
+            "Air Marshal Raghunath Nambiar",
+            "Air Marshal Jeetendra Mishra",
+            "Air Marshal Anil Chopra",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who has recently been appointed as the Chief Vigilance Officer (CVO) of Bharat Electronics Limited (BEL)?",
+        "options": [
+            "Anil Kumar Gupta",
+            "Suresh Chandra",
+            "Ramesh Kumar Singh",
+            "Nilabhra Sengupta",
+            "None of the above"
+        ],
+        "answer": "Nilabhra Sengupta"
+    },
+    {
+        "question": "Who has been appointed as the Chief Financial Officer (CFO) of Oil India Limited (OIL)? (December 2024)",
+        "options": [
+            "Rupam Barua",
+            "Ramesh Kumar",
+            "Trailukya Borgohain",
+            "Abhijit Majumder",
+            "Tabish Seher"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who has been appointed as the new CEO of DBS Bank India effective March 1, 2025?",
+        "options": [
+            "Surojit Shome",
+            "Piyush Gupta",
+            "Rajat Verma",
+            "Anand Kumar",
+            "Rajeev Ahuja"
+        ],
+        "answer": "Rajat Verma"
+    },
+    {
+        "question": "Who has been granted an extension of tenure as the Drug Controller General of India (DCGI)?",
+        "options": [
+            "Rajeev Singh Raghuvanshi",
+            "S. Eswara Reddy",
+            "Ramesh Kumar Gupta",
+            "V. G. Somani",
+            "Harsh Vardhan"
+        ],
+        "answer": "Rajeev Singh Raghuvanshi"
+    },
+    {
+        "question": "Who became the first Indian American FBI Director?",
+        "options": [
+            "Kamala Harris",
+            "Kash Patel",
+            "Bobby Jindal",
+            "Sundar Pichai",
+            "Arun Kumar"
+        ],
+        "answer": "Kash Patel"
+    },
+    {
+        "question": "Who was appointed as the ‘Principal Secretary-2’ to Prime Minister Narendra Modi after serving as RBI Governor?",
+        "options": [
+            "Raghuram Rajan",
+            "Shaktikanta Das",
+            "Urjit Patel",
+            "Nirmala Sitharaman",
+            "Arvind Subramanian"
+        ],
+        "answer": "Shaktikanta Das"
+    },
+    {
+        "question": "Recently SCO Secretary General holds talks with MEA Secretary, Who is the current Secretary-General of the Shanghai Cooperation Organization (SCO)?",
+        "options": [
+            "Zhang Ming",
+            "Nurlan Yermekbayev",
+            "Sergey Lavrov",
+            "Wang Yi",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has been appointed as the Additional Director General, Directorate General of Foreign Trade (DGFT), as of February 2025?",
+        "options": [
+            "Anant Swarup",
+            "Samar Nanda",
+            "Santosh Kumar Verma",
+            "Abhinav Gupta",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who has been appointed as the new Chief Election Commissioner (CEC) of India in February 2025?",
+        "options": [
+            "Sukhbir Singh Sandhu",
+            "Vivek Joshi",
+            "Rajiv Kumar",
+            "Gyanesh Kumar",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who is set to take oath as the Chief Minister of Delhi after winning the Shalimar Bagh seat in the recent Assembly election?",
+        "options": [
+            "Rekha Gupta",
+            "Vijender Gupta",
+            "Harsh Vardhan",
+            "Parvesh Verma",
+            "None of the above"
+        ],
+        "answer": "Rekha Gupta"
+    }
+]

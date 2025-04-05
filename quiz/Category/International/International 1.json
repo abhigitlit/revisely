@@ -1,0 +1,341 @@
+[
+    {
+        "question": "Which US President signed an executive order making English the official language of the U.S.?",
+        "options": [
+            "Bill Clinton",
+            "Barack Obama",
+            "Donald Trump",
+            "Joe Biden"
+        ],
+        "answer": "Donald Trump"
+    },
+    {
+        "question": "What did President Trump's executive order on the official language of the U.S. rescind?",
+        "options": [
+            "A policy requiring English to be the only language used by federal agencies.",
+            "A 2000 policy by Bill Clinton that required language assistance for non-English speakers.",
+            "A law establishing bilingual education in public schools.",
+            "The constitutional right to use languages other than English."
+        ],
+        "answer": "A 2000 policy by Bill Clinton that required language assistance for non-English speakers."
+    },
+    {
+        "question": "Who was elected as the new Prime Minister of Tonga, securing 16 votes in parliament, following the resignation of Siaosi Sovaleni?",
+        "options": [
+            "Viliami Latu",
+            "Siaosi Sovaleni",
+            "Aisake Valu Eke",
+            "Akilisi Pohiva",
+            "Rahsail Bino"
+        ],
+        "answer": "Aisake Valu Eke"
+    },
+    {
+        "question": "Which country is the theme country at the 30th Kolkata International Film Festival (KIFF) 2024?",
+        "options": [
+            "Germany",
+            "Japan",
+            "France",
+            "Italy",
+            "Pakistan"
+        ],
+        "answer": "France"
+    },
+    {
+        "question": "Where did the inaugural India-Cambodia Joint Table Top Exercise CINBAX take place in December 2024?",
+        "options": [
+            "Phnom Penh, Cambodia",
+            "Umroi, Meghalaya",
+            "Pune, Maharashtra",
+            "Siem Reap, Cambodia",
+            "New Delhi, India"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "With which country is India conducting the 4th edition of the joint military exercise HARIMAU SHAKTI in December 2024?",
+        "options": [
+            "Indonesia",
+            "Malaysia",
+            "Thailand",
+            "Vietnam",
+            "Myanmar"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country unveiled the new stealth fighter jet, the J-36, which has raised alarms globally, particularly in the Indo-Pacific region?",
+        "options": [
+            "Russia",
+            "China",
+            "United States",
+            "India",
+            "Japan"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which traditional Bosnian love song, dating back to the 16th century and blending South Slavic oral poetry with Ottoman musical influences, was recently added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?",
+        "options": [
+            "Sevdalinka",
+            "Klapa",
+            "Ojkanje",
+            "Ganga",
+            "Akanji"
+        ],
+        "answer": "Sevdalinka"
+    },
+    {
+        "question": "The European Free Trade Association (EFTA) comprise of which of the following group of nations?",
+        "options": [
+            "Finland, Norway, Sweden, Denmark",
+            "Germany, Belgium, France, Spain",
+            "Switzerland, Norway, Sweden, Finland",
+            "Iceland, Liechtenstein, Norway and Switzerland",
+            "France, Spain, Germany, Belgium"
+        ],
+        "answer": "Iceland, Liechtenstein, Norway and Switzerland"
+    },
+    {
+        "question": "Which NASA mission recently made a historic close approach to the Sun at a distance of 6.1 million kilometers?",
+        "options": [
+            "Voyager 1",
+            "Parker Solar Probe",
+            "Juno",
+            "Axiom 4",
+            "Plutus 3"
+        ],
+        "answer": "Parker Solar Probe"
+    },
+    {
+        "question": "Which country declared the end of the Marburg virus outbreak after no new cases were reported in a 42-day observation period?",
+        "options": [
+            "Uganda",
+            "Rwanda",
+            "Kenya",
+            "Tanzania",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which group, known for leading the Syrian rebels, declared Damascus 'liberated' and announced the end of Bashar al-Assad's government...?",
+        "options": [
+            "Free Syrian Army",
+            "Hayat Tahrir al-Sham",
+            "Islamic State",
+            "Al-Qaeda",
+            "Hezbollah"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Where is the 2024 Asian Youth and Junior Weightlifting Championships being held?",
+        "options": [
+            "Tokyo, Japan",
+            "Doha, Qatar",
+            "New Delhi, India",
+            "Bangkok, Thailand",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which countries will jointly host the 2030 FIFA World Cup?",
+        "options": [
+            "Spain, Portugal, and Morocco",
+            "Saudi Arabia, Morocco, and Argentina",
+            "Spain, France, and Italy",
+            "Portugal, Argentina, and Brazil",
+            "Saudi Arabia, Portugal, and Morocco"
+        ],
+        "answer": "Spain, Portugal, and Morocco"
+    },
+    {
+        "question": "What is India’s total external debt in 2023, as per the World Bank International Debt Report?",
+        "options": [
+            "$610.67 billion",
+            "$635.84 billion",
+            "$646.79 billion",
+            "$655.74 billion",
+            "$675.95 billion"
+        ],
+        "answer": "$646.79 billion"
+    },
+    {
+        "question": "Which word was named Oxford Word of the Year 2024?",
+        "options": [
+            "Screen Fatigue",
+            "Digital Burnout",
+            "Information Overload",
+            "Brain Rot",
+            "Rizz"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Where is the Gympie-Gympie plant, the World's Most Toxic Plant, scientifically known as Dendrocnide moroides, native to?",
+        "options": [
+            "Africa",
+            "South America",
+            "Australia",
+            "Southeast Asia",
+            "North America"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "question": "Which country is set to allow visa-free entry for Indian tourists starting March 2025?",
+        "options": [
+            "Japan",
+            "Russia",
+            "Canada",
+            "Germany",
+            "China"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which bird was officially declared the national bird of the United States, symbolizing American strength and freedom since 1782?",
+        "options": [
+            "Peregrine Falcon",
+            "Golden Eagle",
+            "American Robin",
+            "Bald Eagle",
+            "White Pigeon"
+        ],
+        "answer": "Bald Eagle"
+    },
+    {
+        "question": "Which of the following organization has adopted 02 December as the International Day for the Abolition of Slavery?",
+        "options": [
+            "World Labour Organization",
+            "United Nations General Assembly",
+            "World Bank",
+            "International Red Cross Society",
+            "None of the Above"
+        ],
+        "answer": "United Nations General Assembly"
+    },
+    {
+        "question": "Who became the shortest-serving Prime Minister in the history of the French Fifth Republic after being defeated in a confidence vote in December 2024?",
+        "options": [
+            "Emmanuel Macron",
+            "Michel Barnier",
+            "Marine Le Pen",
+            "Jean-Luc Mélenchon",
+            "None of the Above"
+        ],
+        "answer": "Michel Barnier"
+    },
+    {
+        "question": "According to the recent United Nations report on drylands, what percentage of Earth's land has become drier over the last 30 years?",
+        "options": [
+            "45%",
+            "55%",
+            "77%",
+            "88%",
+            "99%"
+        ],
+        "answer": "77%"
+    },
+    {
+        "question": "What is the capital of Nicaragua, where India and Nicaragua recently signed an MoU for Quick Impact Projects?",
+        "options": [
+            "Managua",
+            "San Salvador",
+            "Tegucigalpa",
+            "Bogotá",
+            "Harare"
+        ],
+        "answer": "Managua"
+    },
+    {
+        "question": "What is the name of the Maldives' Minister of Foreign Affairs who made an official visit to India from 2nd January to 4th January 2025?",
+        "options": [
+            "Mohamed Nasheed",
+            "Abdulla Shahid",
+            "Abdulla Khaleel",
+            "Ibrahim Solih",
+            "Ahmed Naseem"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "World Braille Day is celebrated to mark the birthday of Louis Braille, the inventor of Braille system for the blind, on?",
+        "options": [
+            "January 4th",
+            "February 4th",
+            "January 5th",
+            "February 5th",
+            "January 10th"
+        ],
+        "answer": "January 4th"
+    },
+    {
+        "question": "Which country introduced a 1% tourist tax on lodging costs to support tourism infrastructure starting January 1, 2025?",
+        "options": [
+            "France",
+            "Russia",
+            "Italy",
+            "Germany",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which Latin-American country declared a 60-day state of emergency in seven provinces due to rising crime and organized armed groups in January 2025?",
+        "options": [
+            "Colombia",
+            "Peru",
+            "Venezuela",
+            "Ecuador",
+            "Uruguay"
+        ],
+        "answer": "Ecuador"
+    },
+    {
+        "question": "Which countries began assuming responsibilities as non-permanent members of the United Nations Security Council for two-year term?",
+        "options": [
+            "Denmark, Japan, Pakistan, Greece, and Somalia",
+            "Japan, Germany, India, Greece, and Panama",
+            "Denmark, Pakistan, Greece, India, and Panama",
+            "Denmark, Greece, Pakistan, Panama, and Somalia",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Where was the 21st Third Eye Asian Film Festival held, which screened 61 films from across Asia?",
+        "options": [
+            "Mumbai",
+            "Delhi",
+            "Bengaluru",
+            "Kolkata",
+            "Noida"
+        ],
+        "answer": "Mumbai"
+    },
+    {
+        "question": "Which country has been confirmed as the host for the 2034 FIFA World Cup?",
+        "options": [
+            "Morocco",
+            "Portugal",
+            "Saudi Arabia",
+            "Qatar",
+            "Senegal"
+        ],
+        "answer": "Saudi Arabia"
+    },
+    {
+        "question": "Which country is set to launch a free mRNA cancer vaccine in 2025?",
+        "options": [
+            "United States",
+            "Russia",
+            "Germany",
+            "China",
+            "UK"
+        ],
+        "answer": "2"
+    }
+]

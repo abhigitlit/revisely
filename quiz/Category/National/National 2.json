@@ -1,0 +1,299 @@
+[
+    {
+        "question": "SheSTEM 2024, an initiative of the India-Nordic BEST project, focused on which key area for energy solutions?",
+        "options": [
+            "Solar Power & Wind Energy",
+            "Battery Technology and Energy Storage",
+            "Hydroelectric Power & Semiconductors",
+            "AI in Satellite Communication System",
+            "None of the Above"
+        ],
+        "answer": "Battery Technology and Energy Storage"
+    },
+    {
+        "question": "According to the India State of Forest Report 2023, by how much has India's forest cover increased since 2021?",
+        "options": [
+            "1,000 sq. km",
+            "1,445 sq. km",
+            "2,000 sq. km",
+            "800 sq. km",
+            "777 sq. km"
+        ],
+        "answer": "1,445 sq. km"
+    },
+    {
+        "question": "India has surpassed $1 trillion in Foreign Direct Investment (FDI) from April 2000 to September 2024. How much of this FDI has been recorded since 2014, reflecting a 119% increase over the previous decade?",
+        "options": [
+            "$500.2 billion",
+            "$667.4 billion",
+            "$805.9 billion",
+            "$1 trillion",
+            "$904.9 billion"
+        ],
+        "answer": "$667.4 billion"
+    },
+    {
+        "question": "Which Union Minister recently unveiled the Anna Chakra, designed to optimize logistics under the Public Distribution System (PDS) and the SCAN Portal, which automates subsidy claim submissions and settlements under the National Food Security Act (NFSA) for faster processing?",
+        "options": [
+            "Shri Rajnath Singh",
+            "Shri Pralhad Joshi",
+            "Shri Nitin Gadkari",
+            "Shri Piyush Goyal",
+            "Shri Jagdeep Dhankar"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Parliament passed the Bharatiya Vayuyan Vidheyak 2024. Which old act does the Bharatiya Vayuyan Vidheyak 2024 replace?",
+        "options": [
+            "Indian Aviation Act, 1920",
+            "Civil Aviation Act, 1950",
+            "Aeronautics Act, 1945",
+            "Aircraft Act, 1934",
+            "Airplane Act, 1999"
+        ],
+        "answer": "Aircraft Act, 1934"
+    },
+    {
+        "question": "What is the name of India's first indigenous macrolide antibiotic, which aims to address antimicrobial resistance (AMR)?",
+        "options": [
+            "Nafithromycin",
+            "Amoxyclav",
+            "Ciprofloxacin",
+            "Doxycycline",
+            "None of the Above"
+        ],
+        "answer": "Nafithromycin"
+    },
+    {
+        "question": "Which researcher from the Zoological Survey of India (ZSI) is credited with discovering the new species of pangolin, named the Indo-Burmese pangolin (Manis indoburmanica), in Arunachal Pradesh?",
+        "options": [
+            "Lenrik Konchok",
+            "Suresh Naik",
+            "Ramesh Pandey",
+            "Deepa Sharma",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which ministry launched the 'e-student visa' and 'e-student-x visa' for foreign students on January 5, 2025?",
+        "options": [
+            "Ministry of Education",
+            "Ministry of External Affairs",
+            "Ministry of Home Affairs",
+            "Ministry of Human Resource Development",
+            "Ministry of Skill Development and Entrepreneurship"
+        ],
+        "answer": "Ministry of Home Affairs"
+    },
+    {
+        "question": "Which department organized the workshop on the National Anubhav Awards Scheme, 2025?",
+        "options": [
+            "Department of Personnel & Training",
+            "Department of Pension & Pensioners' Welfare",
+            "Department of Administrative Reforms & Public Grievances",
+            "Ministry of Social Justice & Empowerment",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which telecom company has launched the IFTV platform in partnership with Skypro and PlayboxTV for offering over 550 Live TV channels and premium OTT apps in India?",
+        "options": [
+            "Airtel",
+            "BSNL",
+            "Reliance Jio",
+            "Vodafone Idea",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "India's first underwater metro tunnel, inaugurated in 2024, is located in which city?",
+        "options": [
+            "Mumbai",
+            "Chennai",
+            "Delhi",
+            "Hyderabad",
+            "Kolkata"
+        ],
+        "answer": "Kolkata"
+    },
+    {
+        "question": "What is the primary objective of the 9th Swachh Survekshan Toolkit and Super Swachh League launched by Union Minister Manohar Lal?",
+        "options": [
+            "Promote rural cleanliness",
+            "Enhance urban cleanliness and innovation among ULBs",
+            "Simplify rural sanitation programs",
+            "Introduce competitions for rural community development",
+            "None of the above"
+        ],
+        "answer": "Enhance urban cleanliness and innovation among ULBs"
+    },
+    {
+        "question": "Which of the following statements regarding the Union Cabinet approvals on January 1, 2025 is/are correct?\n1. The Pradhan Mantri Fasal Bima Yojana (PMFBY) and Restructured Weather Based Crop Insurance Scheme (RWBCIS) have been extended till 2025-26.\n2. The Union Cabinet approved the creation of a Fund for Innovation and Technology (FIAT) with an outlay of Rs. 824.77 crore.\n3. The One-time Special Package for Di-Ammonium Phosphate (DAP) will end on 1st March 2025.",
+        "options": [
+            "Only 1 and 2",
+            "Only 2 and 3",
+            "Only 1 and 3",
+            "Only 1",
+            "All 1, 2, and 3"
+        ],
+        "answer": "Only 1 and 2"
+    },
+    {
+        "question": "Who serves as the convener of the Island Development Agency (IDA), which was constituted by the Home Ministry in 2017 to promote sustainable development of the islands of India?",
+        "options": [
+            "Union Minister of Environment, Forest and Climate Change",
+            "CEO of NITI Aayog",
+            "Prime Minister of India",
+            "Minister of State for Home Affairs",
+            "Cabinet Secretary"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which schemes has the Union Cabinet approved the continuation of until 2025-26 with a ₹69,515.71 crore outlay?",
+        "options": [
+            "Pradhan Mantri Fasal Bima Yojana and Pradhan Mantri Kisan Yojana",
+            "Pradhan Mantri Fasal Bima Yojana and Restructured Weather Based Crop Insurance Scheme",
+            "National Agricultural Market Scheme and Pradhan Mantri Kisan Samman Nidhi",
+            "Pradhan Mantri Krishi Sinchayee Yojana and National Livelihood Mission",
+            "None of the above"
+        ],
+        "answer": "Pradhan Mantri Fasal Bima Yojana and Restructured Weather Based Crop Insurance Scheme"
+    },
+    {
+        "question": "What is the age bracket for women eligible for the recently launched Bima Sakhi Yojana?",
+        "options": [
+            "16 to 60 years",
+            "21 to 65 years",
+            "18 to 70 years",
+            "25 to 70 years",
+            "10 to 70 years"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the name of the affordable cafe initiative launched by the Ministry of Civil Aviation at airports and managed by the Airports Authority of India?",
+        "options": [
+            "Aero Café",
+            "Aviator Bistro",
+            "Udaan Yatri Cafe",
+            "Sky Lounge",
+            "Avian Civilian"
+        ],
+        "answer": "Udaan Yatri Cafe"
+    },
+    {
+        "question": "Where has the Indian Army launched its Artificial Intelligence Incubation Centre (IAAIIC)?",
+        "options": [
+            "Delhi",
+            "Pune",
+            "Bengaluru",
+            "Chandigarh",
+            "Chennai"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the theme of the 4th National Conference of Chief Secretaries held in New Delhi?",
+        "options": [
+            "Enhancing Infrastructure for Sustainable Growth",
+            "Promoting Entrepreneurship, Employment, and Skilling",
+            "Strengthening Health and Education Systems",
+            "Digital Transformation for National Development",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which country has secured seven key positions in the interim organizational structure of the new Asian body formed by World Boxing, including a board member role for its Boxing Federation President?",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "India",
+            "Laos"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Which edition of the Raising Day Parade of the BSF was celebrated in Jodhpur, Rajasthan on 8th December 2024?",
+        "options": [
+            "50th",
+            "55th",
+            "60th",
+            "65th",
+            "69th"
+        ],
+        "answer": "60th"
+    },
+    {
+        "question": "Under which scheme did the government provide grants of ₹50 lakh each to two start-ups focusing on sustainable and medical textiles?",
+        "options": [
+            "Atal Innovation Mission",
+            "GREAT scheme",
+            "Start-Up India Initiative",
+            "Technical Textiles Grant Program",
+            "MGNREGA"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the name of the nationwide campaign that was launched during the 4th Good Governance Week on 19th December, 2024?",
+        "options": [
+            "Prashasan Gaon Ki Baat",
+            "Prashasan Gaon Ki Yatra",
+            "Prashasan Gaon Ki Abhiyan",
+            "Prashasan Gaon Ki Ore",
+            "Prashasan Gaon Ki Tarakki"
+        ],
+        "answer": "Prashasan Gaon Ki Ore"
+    },
+    {
+        "question": "Which organization has partnered with boAt to mentor and support startups in the D2C and manufacturing sectors?",
+        "options": [
+            "NITI Aayog",
+            "Department for Promotion of Industry and Internal Trade (DPIIT)",
+            "Ministry of Micro, Small and Medium Enterprises (MSME)",
+            "Startup India",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the primary objective of the 'Track and Trace Mechanism' approved by the GST Council in December 2024?",
+        "options": [
+            "To monitor imports and exports",
+            "To monitor GST rate expansion on certain goods",
+            "To simplify GST registration process and to track the GSTIN holder locations",
+            "To curb tax evasion in specified commodities",
+            "To impose tax at every level"
+        ],
+        "answer": "To curb tax evasion in specified commodities"
+    },
+    {
+        "question": "India has set up its first diabetes biobank in Chennai. Which two organizations collaborated to set up India's first diabetes biobank?",
+        "options": [
+            "Indian Council of Medical Research and Madras Diabetes Research Foundation",
+            "All India Institute of Medical Sciences and Tata Trusts",
+            "World Health Organization and All India Institute of Medical Sciences",
+            "Indian Medical Association and National Institute of Diabetes",
+            "None of the above"
+        ],
+        "answer": "Indian Council of Medical Research and Madras Diabetes Research Foundation"
+    },
+    {
+        "question": "Which of the following statements is correct regarding the Kisan Kavach anti-pesticide bodysuit launched by Dr. Jitendra Singh?",
+        "options": [
+            "It is a reusable bodysuit priced at ₹6,000.",
+            "It was developed by BRIC-inStem in collaboration with Sepio Health Pvt. Ltd.",
+            "The bodysuit uses advanced nanotechnology to neutralize pesticides.",
+            "The bodysuit was distributed to all Indian farmers for free at the launch event.",
+            "None of the above"
+        ],
+        "answer": "2"
+    }
+]

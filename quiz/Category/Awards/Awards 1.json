@@ -1,0 +1,275 @@
+[
+    {
+        "question": "Which companies were granted 'Navratna Status' by the central government?",
+        "options": [
+            "IRCTC and NTPC.",
+            "IRFC and ONGC.",
+            "IRCTC and IRFC.",
+            "NTPC and ONGC."
+        ],
+        "answer": "IRCTC and IRFC."
+    },
+    {
+        "question": "Who is the recipient of the Gangadhar National Award for Poetry 2023?",
+        "options": [
+            "Sitakant Mahapatra",
+            "Prativa Satpathy",
+            "Jayanta Mahapatra",
+            "Ramakanta Rath",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which legendary cricketer was awarded honorary membership of the Melbourne Cricket Club (MCC)?",
+        "options": [
+            "Sunil Gavaskar",
+            "Sachin Tendulkar",
+            "Kapil Dev",
+            "Sourav Ganguly"
+        ],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "Who was crowned the 'Spell Master of India' in SBI Life Spell Bee Season 14?",
+        "options": [
+            "Medhansh Vaddadi",
+            "Yashwin Pachauri",
+            "Chaya M V",
+            "Mandira Bedi",
+            "Sakshi Sinha"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which award will Taika Waititi receive at the 36th Producers Guild of America Awards?",
+        "options": [
+            "Academy Award",
+            "Golden Globe Award",
+            "Grammy Award",
+            "Norman Lear Achievement Award",
+            "Pen Pinter Prize"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What were the key contributions of S. M. Krishna to Indian politics, and which prestigious award was he honored with in 2023?",
+        "options": [
+            "Transforming Bengaluru into India's Silicon Valley; Padma Shri",
+            "Establishing Karnataka as a leading agricultural state; Bharat Ratna",
+            "Advocating for women's empowerment and rural development; Padma Bhushan",
+            "Serving as Chief Minister of Karnataka and Minister of External Affairs; Padma Vibhushan",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which prestigious award has Indian environmentalist Madhav Gadgil received in 2024?",
+        "options": [
+            "Nobel Prize for Environmental Science",
+            "UNEP's Lifetime Achievement Award",
+            "Tyler Prize for Environmental Achievement",
+            "Padma Bhushan",
+            "Environment Engineer Award"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which state was awarded the Geographical Indication (GI) tag for its traditional handicraft, 'Gharchola,' known for its intricate designs and cultural motifs?",
+        "options": [
+            "Rajasthan",
+            "Gujarat",
+            "Punjab",
+            "Maharashtra",
+            "Haryana"
+        ],
+        "answer": "Gujarat"
+    },
+    {
+        "question": "Who was awarded the Indian Film Personality of the Year at the 55th International Film Festival of India (IFFI)?",
+        "options": [
+            "Amitabh Bachchan",
+            "Rajinikanth",
+            "Vikrant Massey",
+            "Nawazuddin Siddiqui",
+            "Deepika Padukone"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who was crowned Miss India USA 2024 at the event held in New Jersey?",
+        "options": [
+            "Nirali Desia",
+            "Manini Patel",
+            "Sanskriti Sharma",
+            "Caitlin Sandra Neil",
+            "Shipra Negi"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who was awarded the Indira Gandhi Prize for Peace, Disarmament, and Development 2024?",
+        "options": [
+            "Ban Ki-moon",
+            "Angela Merkel",
+            "Veronica Michelle Bachelet",
+            "Jacinda Ardern",
+            "Malala Yousafzai"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who posthumously honored Dr. Vishakha Tripathi Ji with the Lifetime Achievement Award for her extraordinary service to humanity?",
+        "options": [
+            "World Health Organization (WHO)",
+            "Indian Council of Medical Research (ICMR)",
+            "United Nations Development Program (UNDP)",
+            "Asia Pacific Vascular Society (APVS)",
+            "None of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Who was awarded the Jamsetji Tata Award for pioneering the biosciences movement in India?",
+        "options": [
+            "Ratan Tata",
+            "Janak Kumar Mehta",
+            "Kiran Mazumdar-Shaw",
+            "B Muthuraman",
+            "Adar Poonawala"
+        ],
+        "answer": "Kiran Mazumdar-Shaw"
+    },
+    {
+        "question": "India received the ISSA Good Practice Award for Asia-Pacific 2024 for which purpose?",
+        "options": [
+            "Launching a nationwide pension scheme",
+            "Enhancing agricultural productivity",
+            "Innovative activities of the Employees' Provident Fund Organisation (EPFO)",
+            "Advancing renewable energy technologies",
+            "Developing multilingual education platforms"
+        ],
+        "answer": "Innovative activities of the Employees' Provident Fund Organisation (EPFO)"
+    },
+    {
+        "question": "Which company won two awards at the 3rd PSU Transformation Awards 2024 for Innovative Product Development and Technology Adoption?",
+        "options": [
+            "Cochin Shipyard Limited",
+            "Hindustan Shipyard Limited",
+            "Mazagon Dock Shipbuilders Limited",
+            "Garden Reach Shipbuilders & Engineers",
+            "None of the above"
+        ],
+        "answer": "Hindustan Shipyard Limited"
+    },
+    {
+        "question": "Who will receive the Lifetime Achievement Award at the 77th Annual Directors Guild of America (DGA) Awards, and what makes their contributions significant?",
+        "options": [
+            "Steven Spielberg; known for his blockbuster films and innovative techniques",
+            "Ang Lee; recognized for his diverse filmmaking and cinematic excellence",
+            "Martin Scorsese; celebrated for his contribution to crime and drama genres",
+            "Ridley Scott; honored for his work in science fiction and historical epics",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which researcher from the Zoological Survey of India (ZSI) is credited with discovering the new species of pangolin, named the Indo-Burmese pangolin (Manis indoburmanica), in Arunachal Pradesh?",
+        "options": [
+            "Lenrik Konchok",
+            "Suresh Naik",
+            "Ramesh Pandey",
+            "Deepa Sharma",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Who has been named the ICC Men's ODI Cricketer of the Year 2024?",
+        "options": [
+            "Rashid Khan",
+            "Azmatullah Omarzai",
+            "Babar Azam",
+            "Rohit Sharma",
+            "Jasprit Bumrah"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who won the Dronacharya Award for outstanding coaches in Sports and Games 2024 in the Regular Category for Hockey?",
+        "options": [
+            "Shri Harendra Singh",
+            "Shri Sandeep Sangwan",
+            "Shri Randhir Singh Gentle",
+            "Shri Harmik Singh",
+            "Shri Yograj Singh"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which university was honored with the prestigious MAKA Trophy 2024 and had a student, Sanjay Kumar, receive the Arjuna Award for hockey?",
+        "options": [
+            "Amity University",
+            "Chandigarh University",
+            "Banaras Hindu University",
+            "Delhi University",
+            "LPU"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which former Indian hockey player received the Padma Bhushan award on the eve of the 76th Republic Day?",
+        "options": [
+            "R Ashwin",
+            "Inivalappil Mani Vijayan",
+            "Harvinder Singh",
+            "PR Sreejesh",
+            "Manpreet Singh"
+        ],
+        "answer": "PR Sreejesh"
+    },
+    {
+        "question": "Christine Carla Kangaloo, President of _________, was awarded the Pravasi Bharatiya Samman Award 2025.",
+        "options": [
+            "Guyana",
+            "Trinidad and Tobago",
+            "Fiji",
+            "Mauritius",
+            "Algeria"
+        ],
+        "answer": "Trinidad and Tobago"
+    },
+    {
+        "question": "Who is the recipient of the Major Dhyan Chand Khel Ratna Award 2024 for his outstanding contribution to sports?",
+        "options": [
+            "Virat Kohli",
+            "Neeraj Chopra",
+            "Manika Batra",
+            "Harmanpreet Singh",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who was crowned the ICC Women's ODI Cricketer of the Year for 2024?",
+        "options": [
+            "Laura Wolvaardt",
+            "Tammy Beaumont",
+            "Hayley Matthews",
+            "​Smriti Mandhana",
+            "None of the abocve"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who was awarded the JC Daniel Award 2023 for lifetime contributions to Malayalam cinema, and what are some of his notable achievements?",
+        "options": [
+            "TV Chandran for pioneering new-wave cinema",
+            "KS Chitra for contributions to music in Malayalam films",
+            "Shaji N Karun for showcasing Malayalam cinema on the international stage",
+            "Vijayaraghavan for his acting in Malayalam cinema",
+            "None of the above"
+        ],
+        "answer": "Shaji N Karun for showcasing Malayalam cinema on the international stage"
+    }
+]

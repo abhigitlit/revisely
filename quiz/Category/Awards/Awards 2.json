@@ -1,0 +1,277 @@
+[
+    {
+        "question": "Who won the gold medal in the 25m women's pistol event at the National Shooting Championships?",
+        "options": [
+            "Heena Sidhu",
+            "Rahi Sarnobat",
+            "Simranpreet Kaur Brar",
+            "Riya Shirish Thatte",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who has been named TIME's 2024 Person of the Year?",
+        "options": [
+            "Donald Trump",
+            "Elon Musk",
+            "Volodymyr Zelenskyy",
+            "Vladimir Putin",
+            "Malala Yousufzhai"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which English news channel won the 'Best News Channel (English)' award at the ITA Awards 2024?",
+        "options": [
+            "NDTV",
+            "Republic TV",
+            "India Today",
+            "CNN-News18",
+            "Times Now"
+        ],
+        "answer": "India Today"
+    },
+    {
+        "question": "Which country has been awarded the hosting rights for the ISSF Junior Shooting World Cup 2025?",
+        "options": [
+            "China",
+            "Germany",
+            "India",
+            "South Korea",
+            "Italy"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Who was awarded the Sahitya Akademi Award 2024 in Dogri for the book 'Ik Hor Ashwthama'?",
+        "options": [
+            "Shashi Tharoor",
+            "Gajanan Madhav Muktibodh",
+            "Uday Prakash",
+            "Chaman Arora",
+            "Nand Kishore"
+        ],
+        "answer": "Chaman Arora"
+    },
+    {
+        "question": "Which film won the NETPAC Award at the International Film Festival of Rotterdam?",
+        "options": [
+            "RRR",
+            "Bad Girl",
+            "Piku",
+            "Lagaan",
+            "The Lunchbox"
+        ],
+        "answer": "Bad Girl"
+    },
+    {
+        "question": "Which country’s students won the Bronze at the Global M-Gov Awards 2025?",
+        "options": [
+            "USA",
+            "India",
+            "Canada",
+            "Japan",
+            "Australia"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Who from Rajasthan has been shortlisted for the USD 1 million GEMS Education Global Teacher Prize 2025?",
+        "options": [
+            "Mohammad Imran Khan Mewati",
+            "Dr. Ramesh Kumar",
+            "Shalini Gupta",
+            "Rajesh Kumar",
+            "None of the above"
+        ],
+        "answer": "Mohammad Imran Khan Mewati"
+    },
+    {
+        "question": "Who won the Tata Steel Masters Chess Tournament 2025 by defeating D Gukesh in the tiebreaker?",
+        "options": [
+            "Vincent Keymer",
+            "R Praggnanandhaa",
+            "Arjun Erigaisi",
+            "Wei Yi",
+            "Magnus Carlsen"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who is the Indian-origin artist who won the Grammy Award for Best New Age, Ambient, or Chant Album in 2025?",
+        "options": [
+            "Ricky Kej",
+            "Anoushka Shankar",
+            "Chandrika Tandon",
+            "Radhika Vekaria",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who has been awarded the Sahitya Akademi Award 2024 in Dogri literature?",
+        "options": [
+            "Jitendra Udhampuri",
+            "Chaman Arora",
+            "Veena Gupta",
+            "Sushma Rani",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which two films led the BAFTA 2025, each winning 4 awards?",
+        "options": [
+            "Conclave and The Brutalist",
+            "Anora and The Brutalist",
+            "Conclave and Anora",
+            "The Brutalist and The Artist",
+            "Conclave and The Artist"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Who was honored with the 2024 Hurun Industry Achievement Award for Financial Solutions Innovation?",
+        "options": [
+            "Vijay Shekhar Sharma",
+            "Raj P Narayanam",
+            "Nandan Nilekani",
+            "Deepak Parekh",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who was honored with the Vishalakshi Award 2025 for her contributions to education?",
+        "options": [
+            "Dr. Bhagyashree Patil",
+            "Sudha Murthy",
+            "Dr. Ranjana Agarwal",
+            "Dr. Vandana Shiva",
+            "None of the above"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which company won the Forward Faster Sustainability Award 2025 in the Water Resilience category?",
+        "options": [
+            "NTPC Ltd.",
+            "Reliance Industries Ltd.",
+            "Tata Power",
+            "Adani Power",
+            "None of the above"
+        ],
+        "answer": "NTPC Ltd."
+    },
+    {
+        "question": "Who was recently awarded the Most Excellent Order of the British Empire (MBE) for contributions to UK-India business relations?",
+        "options": [
+            "Mukesh Ambani",
+            "Gautam Adani",
+            "Ratan Tata",
+            "N. Chandrasekaran",
+            "None of the above"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which contingent won the Best Marching Contingent (CAPFs/auxiliary forces) in the People's Choice Category during the Republic Day Parade 2025?",
+        "options": [
+            "Delhi Police Marching Contingent",
+            "BSF Marching Contingent",
+            "CRPF Marching Contingent",
+            "ITBP Marching Contingent",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who has been honoured with the RK Srikantan Trust Award at the Sankranti Music Festival in Bengaluru?",
+        "options": [
+            "L. Subramaniam",
+            "TV Gopalakrishnan",
+            "Zakir Hussain",
+            "Ravi Shankar",
+            "Shankar Mahajan"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which contingent won the Best Marching Contingent (CAPFs/auxiliary forces) award in the Republic Day Parade 2025?",
+        "options": [
+            "Delhi Police Marching Contingent",
+            "BSF Marching Contingent",
+            "CRPF Marching Contingent",
+            "ITBP Marching Contingent",
+            "None of the above"
+        ],
+        "answer": "Delhi Police Marching Contingent"
+    },
+    {
+        "question": "Which Indian organisation has bagged Subhash Chandra Bose Aapda Prabandhan Puraskar for disaster preparedness in January 2025?",
+        "options": [
+            "National Disaster Management Authority",
+            "Coalition for Disaster Resilient Infrastructure",
+            "Indian National Centre for Ocean Information Services",
+            "National Disaster Management Authority.",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which steel organization received the 'Great Place to Work' certification by the Great Place to Work Institute for the period January 2025 to January 2026?",
+        "options": [
+            "Tata Steel",
+            "JSW Steel",
+            "Steel Authority of India Limited (SAIL)",
+            "Vedanta Limited",
+            "Hindalco Industries"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Who was recently honored with the Singapore Honorary Citizen Award for strengthening India-Singapore bilateral relations?",
+        "options": [
+            "Anand Mahindra",
+            "Tarun Das",
+            "Sunil Bharti Mittal",
+            "N. R. Narayana Murthy",
+            "Azim Premji"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Who has won Best Performance by a Male Actor in a Limited Series, Anthology Series, or a Motion Picture Made for Television at the Golden Globe Awards 2025?",
+        "options": [
+            "Adrian Brody",
+            "Colin Farrell",
+            "Tadanobu Asano",
+            "Jeremy Allen White",
+            "None of the above"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "How many Arjuna Awards for outstanding performance in Sports and Games were announced in 2024?",
+        "options": [
+            "20",
+            "29",
+            "32",
+            "26",
+            "35"
+        ],
+        "answer": "32"
+    },
+    {
+        "question": "Which veteran filmmaker will receive the Padmapani Lifetime Achievement Award at the Ajanta-Ellora International Film Festival 2025?",
+        "options": [
+            "Mira Nair",
+            "Aparna Sen",
+            "Sai Paranjpye",
+            "Shyam Benegal",
+            "Vivek Rathore"
+        ],
+        "answer": "3"
+    }
+]

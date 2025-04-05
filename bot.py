@@ -258,8 +258,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     active_users = sum(1 for u in user_data.values() if u.get("active_quiz", False))
     if active_users >= 5:
         await asyncio.sleep(5)
-
-    print("Hello", user_data[user_id]["active_menu"])
     if user_id in user_data and user_data[user_id].get("active_menu", False):
         log_user_action(user_id, full_name, username, "is trying to restart the menu", f"in Chat ID: {update.message.chat_id}")
         #await update.message.reply_text("⚠️ You already have an active quiz. Finish it first before starting a new one.")
@@ -484,18 +482,15 @@ async def quiz_selection(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 InlineKeyboardButton("🏠", callback_data="home")]
             ]
             reply_markup = InlineKeyboardMarkup(buttons)
-            try:
-                await query.edit_message_text("⏳ Do you want timer for the quiz?", reply_markup=reply_markup)
-            except Exception:
-                await context.bot.send_message(chat_id, "⏳ Do you want timer for the quiz?", reply_markup=reply_markup)
+            await ask_for_timer(chat_id, query, context, len(filtered_quiz))
 
 
         except Exception as e:
             print(f"Error loading quiz: {traceback.format_exc()}")
             await query.edit_message_text("Error loading quiz. Try again later.")
 
-async def ask_for_timer(chat_id, query, context: ContextTypes.DEFAULT_TYPE):
-    """Asks the user if they want a timer for the quiz."""
+async def ask_for_timer(chat_id, query, context: ContextTypes.DEFAULT_TYPE, total_questions: int):
+    """Asks the user if they want a timer for the quiz and shows the total number of questions."""
     buttons = [
         [InlineKeyboardButton("⏳ Yes", callback_data="yeah")],
         [InlineKeyboardButton("⏲️ No", callback_data="no")],
@@ -503,10 +498,13 @@ async def ask_for_timer(chat_id, query, context: ContextTypes.DEFAULT_TYPE):
          InlineKeyboardButton("🏠", callback_data="home")]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
+
+    message_text = f"⏳ Do you want a timer for the quiz?\n\n📊 **Total Questions: {total_questions}**"
+
     try:
-        await query.edit_message_text("⏳ Do you want timer for the quiz?", reply_markup=reply_markup)
+        await query.edit_message_text(message_text, reply_markup=reply_markup, parse_mode="Markdown")
     except Exception:
-        await context.bot.send_message(chat_id, "⏳ Do you want timer for the quiz?", reply_markup=reply_markup)
+        await context.bot.send_message(chat_id, message_text, reply_markup=reply_markup, parse_mode="Markdown")
 
 
 async def timer_selection(update: Update, context: ContextTypes.DEFAULT_TYPE):

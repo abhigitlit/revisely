@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Which city recorded the highest year-on-year increase in the House Price Index in Q3 FY25?",
+        "options": [
+            "Mumbai",
+            "Bengaluru",
+            "Kolkata",
+            "Kanpur"
+        ],
+        "answer": "Kolkata"
+    },
+    {
+        "question": "What was the quarter-on-quarter increase in the all-India HPI?",
+        "options": [
+            "3.1%",
+            "4.3%",
+            "3.8%",
+            "0.4%"
+        ],
+        "answer": "0.4%"
+    },
+    {
+        "question": "Which rating agency revised India's FY25 GDP growth forecast to 7%?",
+        "options": [
+            "IMF",
+            "World Bank",
+            "Crisil",
+            "Moody\u2019s"
+        ],
+        "answer": "Moody\u2019s"
+    },
+    {
+        "question": "What was the IMF's revised growth forecast for India's FY25 GDP?",
+        "options": [
+            "7.0%",
+            "6.7%",
+            "6.5%",
+            "6.4%"
+        ],
+        "answer": "6.5%"
+    },
+    {
+        "question": "According to the excerpts, where does India rank globally in terms of the start-up ecosystem?",
+        "options": [
+            "1st",
+            "2nd",
+            "3rd",
+            "4th"
+        ],
+        "answer": "3rd"
+    },
+    {
+        "question": "What was the year-on-year growth of the All India House Price Index (HPI) in Q3 FY25?",
+        "options": [
+            "4.3%",
+            "3.8%",
+            "3.1%",
+            "0.4%"
+        ],
+        "answer": "3.1%"
+    },
+    {
+        "question": "Which city recorded the highest year-on-year increase in the House Price Index in Q3 FY25?",
+        "options": [
+            "Mumbai",
+            "Bengaluru",
+            "Kolkata",
+            "Kanpur"
+        ],
+        "answer": "Kolkata"
+    },
+    {
+        "question": "What was the quarter-on-quarter increase in the all-India HPI?",
+        "options": [
+            "3.1%",
+            "4.3%",
+            "3.8%",
+            "0.4%"
+        ],
+        "answer": "0.4%"
+    },
+    {
+        "question": "Which rating agency revised India's FY25 GDP growth forecast to 7%?",
+        "options": [
+            "IMF",
+            "World Bank",
+            "Crisil",
+            "Moody\u2019s"
+        ],
+        "answer": "Moody\u2019s"
+    },
+    {
+        "question": "What was the IMF's revised growth forecast for India's FY25 GDP?",
+        "options": [
+            "7.0%",
+            "6.7%",
+            "6.5%",
+            "6.4%"
+        ],
+        "answer": "6.5%"
+    },
+    {
+        "question": "According to the excerpts, where does India rank globally in terms of the start-up ecosystem?",
+        "options": [
+            "1st",
+            "2nd",
+            "3rd",
+            "4th"
+        ],
+        "answer": "3rd"
+    },
+    {
+        "question": "What is the amount of the revival package approved by the Union Cabinet for Vizag Steel (RINL)?",
+        "options": [
+            "\u20b910,000 crore",
+            "\u20b911,440 crore",
+            "\u20b915,000 crore",
+            "\u20b920,000 crore"
+        ],
+        "answer": "\u20b911,440 crore"
+    },
+    {
+        "question": "What is the World Bank's projected economic growth for India for the fiscal years 2025-27?",
+        "options": [
+            "7.0%",
+            "6.5%",
+            "6.7%",
+            "6.4%"
+        ],
+        "answer": "6.7%"
+    },
+    {
+        "question": "What is CRISIL's forecast for India's GDP growth in FY26?",
+        "options": [
+            "6.0%",
+            "6.5%",
+            "7.0%",
+            "7.5%"
+        ],
+        "answer": "6.5%"
+    },
+    {
+        "question": "What is CRISIL's expectation regarding the RBI's Monetary Policy Committee (MPC) in fiscal year 2026?",
+        "options": [
+            "To increase the repo rate.",
+            "To keep the repo rate unchanged.",
+            "To cut the repo rate by 25-50 basis points.",
+            "To cut the repo rate by 50-75 basis points."
+        ],
+        "answer": "To cut the repo rate by 50-75 basis points."
+    },
+    {
+        "question": "What was the retail inflation rate in India in December 2024?",
+        "options": [
+            "6.5%",
+            "5.5%",
+            "5.22%",
+            "4.8%"
+        ],
+        "answer": "5.22%"
+    },
+    {
+        "question": "What was the growth in India's factory output in November 2024?",
+        "options": [
+            "4.5%",
+            "5.0%",
+            "5.2%",
+            "6.0%"
+        ],
+        "answer": "5.2%"
+    },
+    {
+        "question": "What milestone did the Indian Rupee hit against the US Dollar as mentioned in the news?",
+        "options": [
+            "Record high of \u20b975.",
+            "Record low of \u20b980.",
+            "Record low of \u20b986.",
+            "Remained stable."
+        ],
+        "answer": "Record low of \u20b986."
+    },
+    {
+        "question": "What was the total amount processed by UPI in October 2024?",
+        "options": [
+            "\u20b910.32 lakh crore",
+            "\u20b915.58 lakh crore",
+            "\u20b923.49 lakh crore",
+            "\u20b929.10 lakh crore",
+            "\u20b934.19 lakh crore"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "By what percentage did India's FDI inflows increase during April-September 2024 compared to the same period last year?",
+        "options": [
+            "35%",
+            "40%",
+            "45%",
+            "50%",
+            "55%"
+        ],
+        "answer": "45%"
+    },
+    {
+        "question": "By how many basis points has the Reserve Bank of India (RBI) reduced the Cash Reserve Ratio (CRR) in December 2024?",
+        "options": [
+            "25 basis points",
+            "50 basis points",
+            "75 basis points",
+            "100 basis points",
+            "125 basis points"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which state in India received a $188.28 million loan from the World Bank to boost economic growth in backward districts?",
+        "options": [
+            "Gujarat",
+            "Maharashtra",
+            "Bihar",
+            "Uttar Pradesh",
+            "Madhya Pradesh"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which rocket was used by the Indian Space Research Organization (ISRO) to launch the European Space Agency\u2019s Probe 3 spacecraft?",
+        "options": [
+            "PSLV- C 54",
+            "PSLV-C59",
+            "PSLV-C58",
+            "PSLV-C57",
+            "PSLV-C56"
+        ],
+        "answer": "PSLV-C59"
+    },
+    {
+        "question": "What is the gross direct tax collection for 2024-25 as of December 17?",
+        "options": [
+            "\u20b915.82 lakh crore",
+            "\u20b918.56 lakh crore",
+            "\u20b919.21 lakh crore",
+            "\u20b920.45 lakh crore",
+            "\u20b924.57 lakh crore"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "From which sector did the Government withdraw the windfall tax as announced in December 2024?",
+        "options": [
+            "Renewable Energy Sector",
+            "Aviation and Oil Sector",
+            "Telecommunications Sector",
+            "Electric Automobile Manufacturing Sector",
+            "Real Estate"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "India has surpassed $1 trillion in Foreign Direct Investment (FDI) from April 2000 to September 2024. How much of this FDI has been recorded since 2014, reflecting a 119% increase over the previous decade?",
+        "options": [
+            "$500.2 billion",
+            "$667.4 billion",
+            "$805.9 billion",
+            "$1 trillion",
+            "$904.9 billion"
+        ],
+        "answer": "$667.4 billion"
+    },
+    {
+        "question": "In December 2024, the total value of UPI transactions reached a record high of ________, marking a 39.2% year-on-year growth in volume.",
+        "options": [
+            "\u20b922.5 lakh crore",
+            "\u20b921.8 lakh crore",
+            "\u20b923.25 lakh crore",
+            "\u20b924.1 lakh crore",
+            "\u20b920.75 lakh crore"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "India's space economy, currently at 8 billion dollars, is projected to grow to how many billion dollars in the next 10 years?",
+        "options": [
+            "44",
+            "47",
+            "48",
+            "49.5",
+            "None of the above"
+        ],
+        "answer": "44"
+    },
+    {
+        "question": "Which satellite constellation launched by Pixxel Space is India's first private constellation for hyper-spectral imaging?",
+        "options": [
+            "SCOT",
+            "Firefly",
+            "Optimus",
+            "Primus",
+            "Plutus"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "According to Nomura's forecast on January 3, 2025, what is the projected GDP growth rate for India in the Financial Year 2024-25 (FY25)?",
+        "options": [
+            "8.5%",
+            "5.45%",
+            "6%",
+            "8%",
+            "9%"
+        ],
+        "answer": "6%"
+    },
+    {
+        "question": "Which country contributed the highest Foreign Direct Investment (FDI) into India during July-September 2024, accounting for 50% of the total inflows?",
+        "options": [
+            "United States",
+            "Singapore",
+            "United Kingdom",
+            "Japan",
+            "Canada"
+        ],
+        "answer": "Singapore"
+    },
+    {
+        "question": "What is the revised GDP growth forecast for India in FY25, as per the State Bank of India (SBI)?",
+        "options": [
+            "6.0%",
+            "6.3%",
+            "6.5%",
+            "6.8%",
+            "7.0%"
+        ],
+        "answer": "6.3%"
+    },
+    {
+        "question": "By what percentage has India's fruit and vegetable exports increased in the last five years, as per the Ministry of Commerce and Industry?",
+        "options": [
+            "35.8%",
+            "50.1%",
+            "47.3%",
+            "41.5%",
+            "None of the above"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the amount approved by the Cabinet Committee on Economic Affairs (CCEA) for the revival of Rashtriya Ispat Nigam Limited (RINL)?",
+        "options": [
+            "\u20b911,440 crore",
+            "\u20b910,500 crore",
+            "\u20b912,090 crore",
+            "\u20b99,950 crore",
+            "None of the above"
+        ],
+        "answer": "\u20b911,440 crore"
+    },
+    {
+        "question": "What is the projected real GDP growth rate for India in FY25 according to the National Statistics Office (NSO)?",
+        "options": [
+            "8.2%",
+            "6.4%",
+            "7.2%",
+            "5.5%",
+            "5.9%"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "On January 13, 2025, the rupee experienced its steepest drop in two years, closing at ________ against the dollar.",
+        "options": [
+            "\u20b983.45",
+            "\u20b984.51",
+            "\u20b985.60",
+            "\u20b986.58",
+            "\u20b988.40"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the projected growth rate for India's economy over the next two fiscal years (2025-2027) according to the World Bank?",
+        "options": [
+            "6.3%",
+            "6.5%",
+            "6.7%",
+            "7.2%",
+            "7.7%"
+        ],
+        "answer": "6.7%"
+    },
+    {
+        "question": "What is India's total export value during April-December 2024, and what is the percentage growth compared to the previous period?",
+        "options": [
+            "USD 550.12 Billion, 5.02%",
+            "USD 602.64 Billion, 6.03%",
+            "USD 600.00 Billion, 5.50%",
+            "USD 650.45 Billion, 7.00%",
+            "None of the above"
+        ],
+        "answer": "2"
+    }
+]
