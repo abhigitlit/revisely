@@ -631,7 +631,7 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
                     "explanation_parse_mode": 'HTML'
                 }
             poll_time = calculate_quiz_timer(question) if user.get("timer", False) else None
-            await asyncio.sleep(2)
+            await asyncio.sleep(1)
 
             
             try:
@@ -647,7 +647,7 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
                 )
             except TimedOut:
                 print("Timeout occurred while sending poll. Retrying...")
-                await asyncio.sleep(5)  # Short delay before retrying
+                await asyncio.sleep(2)  # Short delay before retrying
                 return await send_quiz(chat_id, user_id, context)
             log_api_request("send_poll")
             user_data[user_id]["poll_message_id"] = msg.message_id
@@ -723,7 +723,7 @@ async def handle_poll(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         await send_quiz(chat_id, user_id, context)
                     except TimedOut:
                         print("Timeout while sending next question. Retrying...")
-                        await asyncio.sleep(2)
+                        await asyncio.sleep(1)
                         await send_quiz(chat_id, user_id, context)  # Retry!
                 else:
                     user["active_quiz"] = False
@@ -810,6 +810,13 @@ async def timeout_quiz(context: ContextTypes.DEFAULT_TYPE):
 from telegram.error import TimedOut
 
 
+
+import asyncio
+import traceback
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.error import TimedOut
+from telegram.ext import ContextTypes
+
 async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     """Displays the final quiz results and updates the database."""
     try:
@@ -826,7 +833,6 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
             "────────────────────────────\n"
             "🎉 Thank you for participating!\n"
         )
-
 
         # ✅ Update user stats in the database
         update_user_stats(
@@ -852,60 +858,51 @@ async def show_leaderboard(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE)
         wrong_questions = stats.get("wrong_questions", [])
         wrong_count = len(wrong_questions)
 
-        print(wrong_count)
+        # ✅ Determine the reply markup
         if stats.get("retry_mode", False):
             reply_markup = InlineKeyboardMarkup(inline)
-            try:
-                 await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
-            except TimedOut:
-                print("Timeout while sending leaderboard. Retrying...")
-                await asyncio.sleep(2)
-                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
-            return
-        if wrong_count > 0:
+        elif wrong_count > 0:
             message += f"\n\nYou have {wrong_count} wrong question(s). Would you like to reattempt them?"
             inline.append([
                 InlineKeyboardButton("Yes, Retry", callback_data="retry_choice:yes"),
                 InlineKeyboardButton("No", callback_data="retry_choice:no")
             ])
-                    # ✅ Send results message with timeout handling
-            try:
-                reply_markup = InlineKeyboardMarkup(inline)
-                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
-            except TimedOut:
-                print("Timeout while sending leaderboard. Retrying...")
-                await asyncio.sleep(2)
-                await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+            reply_markup = InlineKeyboardMarkup(inline)
         else:
-            # ✅ Check quiz limit & handle timeout
-            if has_reached_quiz_limit(user_id) and user_id != CONFIG["ADMIN_USER_ID"]:
-                try:
-                    await context.bot.send_message(
-                        chat_id,
-                        f"❌ You have reached your quiz limit. Try after 20 minutes...."
-                    )
-                except TimedOut:
-                    print("Timeout while sending limit message. Retrying...")
-                    await asyncio.sleep(2)
-                    await context.bot.send_message(
-                        chat_id,
-                        f"❌ You have reached your quiz limit. Try after 20 minutes...."
-                    )
-                if user_id in user_data:
-                    user_data[user_id]["active_menu"] = True
+            reply_markup = None  # No inline keyboard needed
 
-                return
+        # ✅ Send message with retry on timeout
+        try:
+            await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
+        except TimedOut:
+            print("Timeout while sending leaderboard. Retrying...")
+            await asyncio.sleep(2)
+            await context.bot.send_message(chat_id, message, reply_markup=reply_markup)
 
-            # ✅ Show updated quiz directory with timeout handling
+        # ✅ Handle quiz limit case
+        if wrong_count == 0 and has_reached_quiz_limit(user_id) and user_id != CONFIG["ADMIN_USER_ID"]:
+            try:
+                await context.bot.send_message(chat_id, "❌ You have reached your quiz limit. Try after 20 minutes....")
+            except TimedOut:
+                print("Timeout while sending limit message. Retrying...")
+                await asyncio.sleep(2)
+                await context.bot.send_message(chat_id, "❌ You have reached your quiz limit. Try after 20 minutes....")
+
+            if user_id in user_data:
+                user_data[user_id]["active_menu"] = True
+            return
+
+        # ✅ Show updated quiz directory after sleep
+        if wrong_count == 0:
             try:
                 await asyncio.sleep(2)
-
                 await show_directory(chat_id, context)
             except TimedOut:
                 print("Timeout while showing directory. Retrying...")
                 await asyncio.sleep(2)
-                await show_directory(chat_id, context)  # Retry
-        
+                await show_directory(chat_id, context)
+
+            if user_id in user_data:
                 user_data[user_id]["active_menu"] = True
 
     except TimedOut:
@@ -1167,7 +1164,7 @@ async def announce(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def main():
-    TOKEN = "7886735286:AAEO7Br_jHiZkaqbrNtM7cShrDhTUh6UzEg"
+    TOKEN = "7886735286:AAHAVg6rMuxb0xDlXb7pLgb0wv05VXtiW_Q"
     app = Application.builder().token(TOKEN).build()
     app.add_handler(CommandHandler(["start", "startx"], start))
     app.add_handler(CommandHandler("cancel", quit))

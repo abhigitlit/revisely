@@ -5087,3 +5087,17 @@ task: <Task pending name='Task-1' coro=<poll_worker() running at D:\revisely\bot
 2025-04-01 08:56:57,156 - INFO - This log message goes to both user_log.txt and api_usage.log
 2025-04-01 13:29:25,694 - INFO - This log message goes to both user_log.txt and api_usage.log
 2025-04-02 09:59:05,614 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 09:55:49,262 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 09:56:45,974 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:15:58,984 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:16:15,177 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:17:07,607 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:20:00,445 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:23:30,165 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:24:43,051 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:25:20,539 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:32:18,800 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 10:34:30,260 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 11:01:14,392 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 11:01:42,684 - INFO - This log message goes to both user_log.txt and api_usage.log
+2025-04-05 11:02:10,318 - INFO - This log message goes to both user_log.txt and api_usage.log
